@@ -82,12 +82,20 @@ def run(
     raw_base: Optional[Path] = None,
     out_dir: Optional[Path] = None,
     delay: Optional[float] = None,
+    skip_existing: bool = True,
 ) -> List[Path]:
     """Fetch history for each deputy and write one raw landing file per deputy.
 
     ``deputy_ids`` defaults to every id in the roster landing files. ``delay``
     is the polite pause between deputies (defaults to the client's page delay).
-    Returns the list of written file paths.
+
+    Resilient by design for a ~900-deputy crawl against a flaky public API:
+    - ``skip_existing`` (default) skips deputies already on disk, so a re-run
+      resumes where a previous run stopped instead of starting over.
+    - a failure on one deputy (e.g. a 504 after retries) is logged and skipped,
+      never aborting the whole crawl. Failed ids are re-attempted on the next run.
+
+    Returns the list of newly written file paths.
     """
     client = client or CamaraClient()
     if deputy_ids is None:
@@ -96,16 +104,30 @@ def run(
         delay = client.page_delay
 
     written: List[Path] = []
+    skipped = 0
+    failed: List[int] = []
     total = len(deputy_ids)
     for index, deputy_id in enumerate(deputy_ids):
-        records = fetch_deputy(client, deputy_id)
-        payload = build_payload(deputy_id, records)
         path = paths.camara_historico_path(deputy_id, base=out_dir)
-        write_json_atomic(payload, path)
-        written.append(path)
-        print(f"[{index + 1}/{total}] deputy {deputy_id}: {len(records)} entries -> {path}")
+        if skip_existing and path.exists():
+            skipped += 1
+            continue
+        try:
+            records = fetch_deputy(client, deputy_id)
+        except Exception as exc:  # one bad deputy must not kill the crawl
+            failed.append(deputy_id)
+            print(f"[{index + 1}/{total}] deputy {deputy_id}: FAILED — {exc}")
+        else:
+            payload = build_payload(deputy_id, records)
+            write_json_atomic(payload, path)
+            written.append(path)
+            print(f"[{index + 1}/{total}] deputy {deputy_id}: {len(records)} entries -> {path}")
         if delay and index + 1 < total:
             time.sleep(delay)
+
+    print(f"done: {len(written)} written, {skipped} skipped, {len(failed)} failed")
+    if failed:
+        print(f"failed ids (re-run to retry): {failed}")
     return written
 
 

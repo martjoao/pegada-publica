@@ -60,3 +60,35 @@ def test_run_writes_one_file_per_deputy(tmp_path):
     assert f10["_meta"]["deputy_id"] == 10
     assert f10["_meta"]["record_count"] == 1
     assert f10["dados"][0]["siglaPartido"] == "PT"
+
+
+def test_run_skips_already_written_deputies(tmp_path):
+    # a pre-existing landing file means a resumed run must not refetch it
+    existing = paths.camara_historico_path(10, base=tmp_path)
+    write_json_atomic({"_meta": {"deputy_id": 10}, "dados": ["SENTINEL"]}, existing)
+
+    with responses.RequestsMock() as rsps:
+        rsps.add(rsps.GET, f"{BASE}/deputados/20/historico",
+                 json={"dados": [{"id": 20}], "links": []}, status=200)
+        client = CamaraClient(backoff_base=0, page_delay=0)
+        written = historico.run(client=client, deputy_ids=[10, 20],
+                                out_dir=tmp_path, delay=0, skip_existing=True)
+
+    # only 20 was fetched; 10 left untouched (no request fired for it)
+    assert written == [paths.camara_historico_path(20, base=tmp_path)]
+    assert json.loads(existing.read_text())["dados"] == ["SENTINEL"]
+
+
+@responses.activate
+def test_run_tolerates_individual_failures(tmp_path):
+    responses.add(responses.GET, f"{BASE}/deputados/10/historico",
+                  json={"erro": "boom"}, status=500)  # exhausts retries, raises internally
+    responses.add(responses.GET, f"{BASE}/deputados/20/historico",
+                  json={"dados": [{"id": 20}], "links": []}, status=200)
+
+    client = CamaraClient(backoff_base=0, page_delay=0)
+    written = historico.run(client=client, deputy_ids=[10, 20], out_dir=tmp_path, delay=0)
+
+    # the 504-style failure on 10 must not abort the crawl; 20 still written
+    assert written == [paths.camara_historico_path(20, base=tmp_path)]
+    assert not (tmp_path / "camara" / "historico" / "10.json").exists()
