@@ -9,7 +9,7 @@ returns them. Parsing/loading into the local DB is a separate later step.
 
 Run with:
 
-    python -m pegada_etl.sources.camara.deputados
+    python -m extract.camara.deputados
 """
 from __future__ import annotations
 
@@ -19,8 +19,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Sequence
 
-from pegada_etl import paths
-from pegada_etl.http_client import CamaraClient
+from common import paths
+from common.http_client import CamaraClient
 
 ENDPOINT = "/deputados"
 SOURCE = "camara-dados-abertos"

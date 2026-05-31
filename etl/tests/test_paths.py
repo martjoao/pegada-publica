@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from pegada_etl import paths
+from common import paths
 
 
 def test_camara_deputados_path_uses_legislatura_filename():

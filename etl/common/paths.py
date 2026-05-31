@@ -9,7 +9,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Optional
 
-# etl/pegada_etl/paths.py -> repo's etl/ dir is two parents up.
+# etl/common/paths.py -> the etl/ stage dir is two parents up.
 ETL_ROOT = Path(__file__).resolve().parent.parent
 DATA_RAW = ETL_ROOT / "data" / "raw"
 

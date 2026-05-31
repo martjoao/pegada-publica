@@ -32,7 +32,7 @@ Fetches the full list of deputies for the in-scope legislaturas (56ª and 57ª)
 from the Câmara dos Deputados open-data API.
 
 ```bash
-python -m pegada_etl.sources.camara.deputados
+python -m extract.camara.deputados
 ```
 
 Writes one file per legislatura:
@@ -62,14 +62,21 @@ everyone who held the seat during the term (e.g. substitutes/suplentes).
 
 ## Layout
 
+Code is organized by ETL phase. Only the **extract** phase exists so far;
+`transform/` and `load/` will be added when those steps are built.
+
 ```
-pegada_etl/
-├── paths.py              # where raw landing files go (data/raw/...)
-├── http_client.py        # CamaraClient: retry/backoff + auto-pagination
-└── sources/camara/
-    └── deputados.py       # the deputy-roster extract
+common/                   # shared infrastructure, used by every phase
+├── paths.py              #   where raw landing files go (data/raw/...)
+└── http_client.py        #   CamaraClient: retry/backoff + auto-pagination
+extract/                  # fetch from source APIs -> raw landing files
+└── camara/
+    └── deputados.py       #   the deputy-roster extract
 tests/                    # pytest, mocks HTTP via `responses` (no live calls)
 ```
+
+Run scripts and tests from inside `etl/` (it must be on the import path; the
+`python -m` form and `pytest` both handle this).
 
 ## Tests
 

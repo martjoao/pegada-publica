@@ -2,8 +2,8 @@ import json
 
 import responses
 
-from pegada_etl.http_client import CamaraClient
-from pegada_etl.sources.camara import deputados
+from common.http_client import CamaraClient
+from extract.camara import deputados
 
 BASE = "https://dadosabertos.camara.leg.br/api/v2"
 

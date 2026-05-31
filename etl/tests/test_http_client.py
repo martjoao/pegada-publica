@@ -1,7 +1,7 @@
 import pytest
 import responses
 
-from pegada_etl.http_client import CamaraClient
+from common.http_client import CamaraClient
 
 BASE = "https://dadosabertos.camara.leg.br/api/v2"
 
