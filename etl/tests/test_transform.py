@@ -1,0 +1,123 @@
+"""End-to-end transform tests: raw landing files -> canonical SQLite rows."""
+from common import paths
+from common.jsonio import write_json_atomic
+from transform import db as txdb
+from transform.camara import deputados as txdep
+
+
+def _hist_entry(dataHora, partido, nome, cond, sit, desc, leg=57):
+    return {
+        "dataHora": dataHora, "siglaPartido": partido, "nome": nome,
+        "condicaoEleitoral": cond, "situacao": sit, "descricaoStatus": desc,
+        "idLegislatura": leg,
+    }
+
+
+def _roster_row(dep_id, nome, partido, uf, leg):
+    return {"id": dep_id, "nome": nome, "siglaPartido": partido, "siglaUf": uf,
+            "urlFoto": f"http://foto/{dep_id}.jpg", "idLegislatura": leg}
+
+
+def _seed_raw(base):
+    # roster has duplicate rows per (id x party) and per (id x name variant)
+    write_json_atomic(
+        {"_meta": {"source": "camara-dados-abertos", "endpoint": "/deputados",
+                   "legislatura": 57, "fetched_at": "2026-05-31T00:00:00Z"},
+         "dados": [
+             # roster's first-seen name is the OLD one; history must override it
+             _roster_row(226708, "Dr. Allan Garcês", "PP", "MA", 57),
+             _roster_row(226708, "Allan Garcês", "PP", "MA", 57),
+             _roster_row(220714, "Adail Filho", "REPUBLICANOS", "AM", 57),
+             _roster_row(220714, "Adail Filho", "MDB", "AM", 57),
+         ]},
+        paths.camara_deputados_path(57, base=base),
+    )
+    write_json_atomic(
+        {"_meta": {"source": "camara-dados-abertos", "endpoint": "/deputados",
+                   "legislatura": 56, "fetched_at": "2026-05-31T00:00:00Z"},
+         "dados": []},
+        paths.camara_deputados_path(56, base=base),
+    )
+    # historico: Allan Garcês (suplente, name change)
+    write_json_atomic(
+        {"_meta": {"deputy_id": 226708}, "dados": [
+            _hist_entry("2023-02-01T00:00", "PP", "Dr. Allan Garcês", None, None,
+                        "Partido no início da legislatura / Nome no início da legislatura"),
+            _hist_entry("2023-09-13T16:01", "PP", "Dr. Allan Garcês", "Suplente", "Exercício",
+                        "Entrada - Posse de Suplente - Posse como Suplente"),
+            _hist_entry("2024-07-18T15:26", "PP", "Allan Garcês", "Suplente", "Exercício",
+                        "Alteração de nome parlamentar"),
+            _hist_entry("2024-12-03T10:11", "PP", "Allan Garcês", "Suplente", "Suplência",
+                        "Saída - Afastamento sem prazo determinado - Afastamento de Suplente (automático)"),
+        ]},
+        paths.camara_historico_path(226708, base=base),
+    )
+    # historico: Adail Filho (party migration REPUBLICANOS -> MDB, still in office)
+    write_json_atomic(
+        {"_meta": {"deputy_id": 220714}, "dados": [
+            _hist_entry("2023-02-01T00:00", "REPUBLICANOS", "Adail Filho", None, None,
+                        "Partido no início da legislatura / Nome no início da legislatura"),
+            _hist_entry("2023-02-01T12:05", "REPUBLICANOS", "Adail Filho", "Titular", "Exercício",
+                        "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"),
+            _hist_entry("2026-04-01T14:00", "MDB", "Adail Filho", "Titular", "Exercício",
+                        "Alteração de partido"),
+        ]},
+        paths.camara_historico_path(220714, base=base),
+    )
+
+
+def test_create_schema_creates_all_tables(tmp_path):
+    conn = txdb.connect(tmp_path / "t.db")
+    txdb.create_schema(conn)
+    tables = {r[0] for r in conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table'")}
+    assert {"deputado", "mandato", "exercicio", "party_membership",
+            "name_history", "source_meta"} <= tables
+
+
+def test_transform_dedups_and_builds_canonical_rows(tmp_path):
+    _seed_raw(tmp_path)
+    conn = txdb.connect(tmp_path / "pegada.db")
+    txdb.create_schema(conn)
+
+    txdep.transform(conn, raw_base=tmp_path)
+
+    n = lambda t: conn.execute(f"SELECT count(*) FROM {t}").fetchone()[0]
+    assert n("deputado") == 2          # 4 roster rows deduped to 2 ids
+    assert n("mandato") == 2
+    assert n("party_membership") == 3  # Garcês 1 + Adail 2
+    assert n("exercicio") == 2         # Garcês 1 + Adail 1 (open)
+    assert n("name_history") == 3      # Garcês 2 + Adail 1
+
+    # current name comes from the latest name-history entry, not the roster row order
+    nome = conn.execute(
+        "SELECT nome FROM deputado WHERE id=226708").fetchone()[0]
+    assert nome == "Allan Garcês"
+
+
+def test_transform_supports_party_at_vote_time_query(tmp_path):
+    _seed_raw(tmp_path)
+    conn = txdb.connect(tmp_path / "pegada.db")
+    txdb.create_schema(conn)
+    txdep.transform(conn, raw_base=tmp_path)
+
+    def party_at(dep_id, ts):
+        return conn.execute(
+            "SELECT sigla_partido FROM party_membership "
+            "WHERE deputy_id=? AND ?>=start_at AND (?<end_at OR end_at IS NULL)",
+            (dep_id, ts, ts),
+        ).fetchone()[0]
+
+    assert party_at(220714, "2024-01-01T00:00") == "REPUBLICANOS"
+    assert party_at(220714, "2026-05-01T00:00") == "MDB"
+
+
+def test_transform_is_idempotent(tmp_path):
+    _seed_raw(tmp_path)
+    conn = txdb.connect(tmp_path / "pegada.db")
+    txdb.create_schema(conn)
+    txdep.transform(conn, raw_base=tmp_path)
+    txdep.transform(conn, raw_base=tmp_path)  # second run must not duplicate
+
+    assert conn.execute("SELECT count(*) FROM deputado").fetchone()[0] == 2
+    assert conn.execute("SELECT count(*) FROM party_membership").fetchone()[0] == 3

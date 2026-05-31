@@ -60,18 +60,53 @@ Each file is provenance-wrapped:
 The record count exceeds the 513 seats because a legislatura's roster includes
 everyone who held the seat during the term (e.g. substitutes/suplentes).
 
+### Câmara — deputy history
+
+Fetches each deputy's full history (`/deputados/{id}/historico` — party
+affiliation, in-office/exercise status, and parliamentary-name changes). The
+deputy ids come from the roster files above, so **run the roster extract first**.
+
+```bash
+python -m extract.camara.historico
+```
+
+Writes one provenance-wrapped file per deputy under `data/raw/camara/historico/`
+(e.g. `226708.json`). The endpoint takes no parameters and returns the whole
+cross-term history in a single call.
+
+## Transform — canonical deputies (SQLite)
+
+Turns the raw landing files into the canonical, deduplicated deputy model in a
+local SQLite DB (`data/pegada.db`) — the system-of-record the later `build` stage
+reads. For now `transform` also performs `load` (writes straight to the DB).
+
+```bash
+python -m transform.camara.deputados
+```
+
+It resolves identity (one row per Câmara id, deduped across terms), and folds each
+deputy's history into dated **party**, **exercise** (in-office), and **name**
+intervals. See `docs/superpowers/specs/2026-05-31-canonical-deputy-schema-design.md`
+for the schema and `docs/decisions.md` for the decision/deferral ledger.
+
 ## Layout
 
-Code is organized by ETL phase. Only the **extract** phase exists so far;
-`transform/` and `load/` will be added when those steps are built.
+Code is organized by ETL phase. `load/` is currently folded into `transform`.
 
 ```
 common/                   # shared infrastructure, used by every phase
-├── paths.py              #   where raw landing files go (data/raw/...)
-└── http_client.py        #   CamaraClient: retry/backoff + auto-pagination
+├── paths.py              #   where landing files + the DB live
+├── http_client.py        #   CamaraClient: retry/backoff + auto-pagination
+└── jsonio.py             #   atomic JSON writes
 extract/                  # fetch from source APIs -> raw landing files
 └── camara/
-    └── deputados.py       #   the deputy-roster extract
+    ├── deputados.py       #   deputy-roster extract
+    └── historico.py       #   per-deputy history extract
+transform/                # raw landing files -> canonical SQLite rows
+├── db.py                 #   schema + connection
+├── intervals.py          #   fold history events into dated intervals (pure)
+└── camara/
+    └── deputados.py       #   the deputy transform orchestrator
 tests/                    # pytest, mocks HTTP via `responses` (no live calls)
 ```
 

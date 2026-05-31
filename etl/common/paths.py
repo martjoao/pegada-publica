@@ -11,10 +11,24 @@ from typing import Optional
 
 # etl/common/paths.py -> the etl/ stage dir is two parents up.
 ETL_ROOT = Path(__file__).resolve().parent.parent
-DATA_RAW = ETL_ROOT / "data" / "raw"
+DATA = ETL_ROOT / "data"
+DATA_RAW = DATA / "raw"
+DB_PATH = DATA / "pegada.db"
 
 
 def camara_deputados_path(legislatura: int, base: Optional[Path] = None) -> Path:
     """Return the raw landing file path for a given legislatura's deputy roster."""
     base = base if base is not None else DATA_RAW
     return base / "camara" / "deputados" / f"legislatura-{legislatura}.json"
+
+
+def camara_historico_path(deputy_id: int, base: Optional[Path] = None) -> Path:
+    """Return the raw landing file path for one deputy's full history."""
+    base = base if base is not None else DATA_RAW
+    return base / "camara" / "historico" / f"{deputy_id}.json"
+
+
+def db_path(base: Optional[Path] = None) -> Path:
+    """Return the canonical SQLite DB path (the transform/load system-of-record)."""
+    base = base if base is not None else DATA
+    return base / "pegada.db"

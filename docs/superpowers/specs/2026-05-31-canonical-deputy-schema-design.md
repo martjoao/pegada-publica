@@ -105,12 +105,12 @@ CREATE TABLE name_history (
   PRIMARY KEY (deputy_id, start_at)
 );
 
--- audit: one row per ingested raw landing file
+-- audit: one row per ingested raw landing file (fields nullable — minimal _meta tolerated)
 CREATE TABLE source_meta (
-  source       TEXT NOT NULL,         -- "camara-dados-abertos"
-  endpoint     TEXT NOT NULL,         -- "/deputados" | "/deputados/{id}/historico"
+  source       TEXT,                  -- "camara-dados-abertos"
+  endpoint     TEXT,                  -- "/deputados" | "/deputados/{id}/historico"
   legislatura  INTEGER,
-  fetched_at   TEXT NOT NULL,
+  fetched_at   TEXT,
   record_count INTEGER
 );
 ```
@@ -143,8 +143,10 @@ page, not in the URL.
      `Fim de Mandato`}; **ignore transient `"Convocado"` entries**.
    - **Name intervals:** each entry whose `nome` differs from the running value
      opens a new name interval.
-   - Close any final open interval at the legislatura end date
-     (**56ª → `2023-01-31`**, **57ª → `2027-01-31`**).
+   - A final interval with no closing entry stays **open** (`end_at = NULL`, i.e.
+     ongoing as of the fetch); past terms close on their explicit `Fim de Mandato`
+     / `Saída` entry. (Legislatura bounds, for reference: 56ª ends `2023-01-31`,
+     57ª ends `2027-01-31`.)
 3. **Upsert** all rows into SQLite (idempotent — re-running re-derives the same data).
 4. Record one `source_meta` row per ingested raw file.
 

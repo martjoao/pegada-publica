@@ -13,14 +13,13 @@ Run with:
 """
 from __future__ import annotations
 
-import json
-import os
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Sequence
 
 from common import paths
 from common.http_client import CamaraClient
+from common.jsonio import write_json_atomic
 
 ENDPOINT = "/deputados"
 SOURCE = "camara-dados-abertos"
@@ -50,16 +49,8 @@ def build_payload(
 
 
 def save_payload(payload: Dict[str, Any], path: Path) -> None:
-    """Write ``payload`` as pretty JSON, atomically (temp file + rename).
-
-    Writing to a temp file in the same directory and renaming on success means
-    a crash mid-write never leaves a half-written landing file behind.
-    """
-    path.parent.mkdir(parents=True, exist_ok=True)
-    tmp = path.with_name(path.name + ".tmp")
-    with tmp.open("w", encoding="utf-8") as fh:
-        json.dump(payload, fh, ensure_ascii=False, indent=2)
-    os.replace(tmp, path)
+    """Write ``payload`` as pretty JSON, atomically (temp file + rename)."""
+    write_json_atomic(payload, path)
 
 
 def fetch_legislatura(client: CamaraClient, legislatura: int) -> List[Dict[str, Any]]:
