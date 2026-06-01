@@ -96,8 +96,15 @@ React islands (not `.astro`) so components port if we ever go full SPA. Requires
 flaky/heavy government APIs and is **not** CI-safe, so data is produced locally on each
 source's schedule; the canonical `build/output` JSON is committed (it doubles as the
 public open-data artifact), and a GitHub Action builds Astro + deploys to GitHub Pages
-from that committed snapshot. *(Pending: un-ignore `build/output/` and add the Actions
-workflow when we wire deployment.)*
+from that committed snapshot. *(Implemented 2026-06-01.)* `build/output/` is now
+un-ignored and committed (924 deputies + 318 senators + index files, ~5 MB) as both the
+open-data artifact and the build-time input the Astro build reads via
+`site/src/lib/data.ts`. Workflow: `.github/workflows/deploy.yml` — triggers on `push` to
+`main` (plus `workflow_dispatch`), runs `npm ci` + `npm run build` on Node 20 from `site/`,
+then `upload-pages-artifact` (`site/dist`) → `deploy-pages`. For project Pages, Astro is
+configured with `site: "https://martjoao.github.io"` and `base: "/pegada-publica"`;
+because `BASE_URL` has no trailing slash in that build, sub-path links are normalized to
+add one. Requires repo **Settings → Pages → Source = "GitHub Actions"**.
 
 **016 — Second parliamentarian = Senado senators, full pipeline.** Replicate the
 deputy pipeline (extract→transform→build→site) for senators, mirroring every
