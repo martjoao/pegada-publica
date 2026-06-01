@@ -1,0 +1,106 @@
+"""Build-stage tests: pegada.db -> static senator JSON.
+
+The build's only contract is the DB schema, so the fixture DB is created with
+inline SQL (no etl import). Canonical English throughout. Covers every branch.
+"""
+import json
+import sqlite3
+
+import senadores
+
+SCHEMA = """
+CREATE TABLE senator (id INTEGER PRIMARY KEY, name TEXT, photo_url TEXT, current_status TEXT);
+CREATE TABLE senate_term (senator_id INT, legislature INT, state TEXT, condition TEXT);
+CREATE TABLE senator_party_affiliation (senator_id INT, party TEXT, start_at TEXT,
+  end_at TEXT, source_note TEXT);
+CREATE TABLE senator_office_period (senator_id INT, legislature INT, condition TEXT,
+  start_at TEXT, end_at TEXT, cause TEXT);
+CREATE TABLE senator_name_history (senator_id INT, name TEXT, start_at TEXT, end_at TEXT);
+"""
+
+
+def _fixture_db(path):
+    c = sqlite3.connect(str(path))
+    c.executescript(SCHEMA)
+    # 1: titular in office, party migration; mandate spans 57 + 58
+    c.execute("INSERT INTO senator VALUES (1,'Alan Rick','http://f/1.jpg','in_office')")
+    c.executemany("INSERT INTO senate_term VALUES (?,?,?,?)", [
+        (1, 57, 'AC', 'titular'), (1, 58, 'AC', 'titular')])
+    c.executemany("INSERT INTO senator_party_affiliation VALUES (?,?,?,?,?)", [
+        (1, 'UNIÃO', '2022-02-24', '2025-11-10', None),
+        (1, 'REPUBLICANOS', '2025-11-12', None, None)])
+    c.execute("INSERT INTO senator_office_period VALUES (1,57,'titular','2023-02-01',NULL,NULL)")
+    c.execute("INSERT INTO senator_name_history VALUES (1,'Alan Rick','1900-01-01',NULL)")
+    # 2: suplente, stepped back (substitute)
+    c.execute("INSERT INTO senator VALUES (2,'Ana Paula Lobato','http://f/2.jpg','substitute')")
+    c.executemany("INSERT INTO senate_term VALUES (?,?,?,?)", [
+        (2, 57, 'MA', 'alternate'), (2, 58, 'MA', 'alternate')])
+    c.execute("INSERT INTO senator_party_affiliation VALUES (2,'PDT','2018-01-01',NULL,NULL)")
+    c.execute("INSERT INTO senator_office_period VALUES (2,57,'alternate','2023-02-02','2024-01-31','Retorno do titular')")
+    c.execute("INSERT INTO senator_name_history VALUES (2,'Ana Paula Lobato','1900-01-01',NULL)")
+    # 3: suplente who never assumed — identity + term only, null status
+    c.execute("INSERT INTO senator VALUES (3,'Zico Suplente','http://f/3.jpg',NULL)")
+    c.execute("INSERT INTO senate_term VALUES (3,57,'RJ','alternate')")
+    c.execute("INSERT INTO senator_name_history VALUES (3,'Zico Suplente','1900-01-01',NULL)")
+    c.commit(); c.close()
+
+
+def _load(out_dir, name):
+    return json.loads((out_dir / "senadores" / name).read_text(encoding="utf-8"))
+
+
+def test_detail_titular_in_office(tmp_path):
+    db = tmp_path / "p.db"; _fixture_db(db)
+    out = tmp_path / "out"
+    senadores.run(db_path=db, out_dir=out)
+
+    d = _load(out, "1.json")
+    assert d["current_party"] == "REPUBLICANOS"
+    assert d["current_condition"] == "titular"
+    assert d["current_status"] == "in_office"
+    assert d["in_office"] is True
+    assert d["state"] == "AC"
+    assert d["legislatures"] == [57, 58]
+    assert [p["party"] for p in d["parties"]] == ["UNIÃO", "REPUBLICANOS"]
+    assert d["parties"][1]["end"] is None
+
+
+def test_detail_suplente_stepped_back(tmp_path):
+    db = tmp_path / "p.db"; _fixture_db(db)
+    out = tmp_path / "out"
+    senadores.run(db_path=db, out_dir=out)
+
+    d = _load(out, "2.json")
+    assert d["current_status"] == "substitute"
+    assert d["in_office"] is False
+    assert d["current_condition"] == "alternate"
+    assert d["current_party"] == "PDT"
+    assert d["office_periods"][0]["cause"] == "Retorno do titular"
+
+
+def test_detail_never_assumed_is_identity_only(tmp_path):
+    db = tmp_path / "p.db"; _fixture_db(db)
+    out = tmp_path / "out"
+    senadores.run(db_path=db, out_dir=out)
+
+    d = _load(out, "3.json")
+    assert d["current_status"] is None
+    assert d["current_party"] is None
+    assert d["current_condition"] == "alternate"  # known from the term, even unassumed
+    assert d["in_office"] is False
+    assert d["parties"] == [] and d["office_periods"] == []
+    assert d["state"] == "RJ"
+
+
+def test_index_sorted_and_slim(tmp_path):
+    db = tmp_path / "p.db"; _fixture_db(db)
+    out = tmp_path / "out"
+    senadores.run(db_path=db, out_dir=out)
+
+    idx = _load(out, "index.json")
+    assert [c["id"] for c in idx] == [1, 2, 3]  # name A–Z
+    assert sum(1 for c in idx if c["in_office"]) == 1  # only Alan seated
+    assert idx[0] == {"id": 1, "name": "Alan Rick", "photo_url": "http://f/1.jpg",
+                      "party": "REPUBLICANOS", "state": "AC", "status": "in_office",
+                      "condition": "titular", "in_office": True, "legislatures": [57, 58]}
+    assert idx[2]["party"] is None and idx[2]["status"] is None
