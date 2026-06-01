@@ -229,3 +229,8 @@ Things believed-true but not yet confirmed end-to-end. Resolve before relying on
   `NR_CPF_CNPJ_DOADOR`), **not** yet verified against an actual file header / LEIA-ME.
 - **`/despesas` full-extract volume** — confirmed ~480 docs/deputy/year; the larger
   "15M records" estimate from the probe was a multiplication error.
+- **Senator party-at-date sourcing.** Senator party affiliation comes from
+  `/filiacoes` (party-*registration* history), whose intervals can predate the senate
+  term; kept verbatim as the authoritative party-at-date source. **Verify** it answers
+  the party-at-vote-time query correctly once Senado votes land — i.e. that an open or
+  pre-term filiação interval resolves to the right party on a given vote date.
