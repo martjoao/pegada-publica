@@ -4,7 +4,9 @@ interface Props {
   title?: string;
 }
 const { title = "Pegada Pública" } = Astro.props;
-const base = import.meta.env.BASE_URL;
+// BASE_URL has no trailing slash in the static build (base: "/pegada-publica"),
+// so normalize to one before concatenating sub-paths.
+const base = import.meta.env.BASE_URL.replace(/\/?$/, "/");
 ---
 
 <!doctype html>

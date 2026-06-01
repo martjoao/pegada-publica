@@ -5,7 +5,8 @@ import { statusLabel, statusColor } from "../lib/labels";
 const norm = (s: string) =>
   s.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase();
 
-const BASE = import.meta.env.BASE_URL;
+// BASE_URL has no trailing slash in the static build; normalize before concat.
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, "/");
 
 /** Photo with a graceful fallback to the senator's initial. */
 function Avatar({ name, src }: { name: string; src: string | null }) {

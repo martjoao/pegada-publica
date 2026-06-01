@@ -14,7 +14,8 @@ export function getStaticPaths() {
 
 const { id } = Astro.params;
 const sen = loadSenator(id!);
-const base = import.meta.env.BASE_URL;
+// BASE_URL has no trailing slash in the static build; normalize before concat.
+const base = import.meta.env.BASE_URL.replace(/\/?$/, "/");
 const fmt = (iso: string | null) =>
   iso ? iso.slice(0, 10).split("-").reverse().join("/") : "atual";
 
