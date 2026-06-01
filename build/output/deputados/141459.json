@@ -1,0 +1,100 @@
+{
+  "id": 141459,
+  "name": "João Maia",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/141459.jpg",
+  "state": "RN",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RN"
+    },
+    {
+      "legislature": 57,
+      "state": "RN"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PR",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PR",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": "2023-11-13T16:08",
+      "legislature": 57
+    },
+    {
+      "party": "PP",
+      "start": "2023-11-13T16:08",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "JOÃO MAIA",
+      "start": "2007-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "João Maia",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

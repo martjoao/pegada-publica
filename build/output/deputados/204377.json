@@ -1,0 +1,48 @@
+{
+  "id": 204377,
+  "name": "Paula Belmonte",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204377.jpg",
+  "state": "DF",
+  "current_party": "CIDADANIA",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "DF"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PPS",
+      "start": "2019-02-01T00:00",
+      "end": "2019-04-05T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "CIDADANIA",
+      "start": "2019-04-05T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Paula Belmonte",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

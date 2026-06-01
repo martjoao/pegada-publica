@@ -1,0 +1,47 @@
+{
+  "id": 220659,
+  "name": "Dayany Bittencourt",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220659.jpg",
+  "state": "CE",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2026-02-02T22:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Dayany do Capitão",
+      "start": "2023-02-01T00:00",
+      "end": "2023-05-05T12:09"
+    },
+    {
+      "name": "Dayany Bittencourt",
+      "start": "2023-05-05T12:09",
+      "end": null
+    }
+  ]
+}

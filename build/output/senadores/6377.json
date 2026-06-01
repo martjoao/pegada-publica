@@ -1,0 +1,35 @@
+{
+  "id": 6377,
+  "name": "Dheep Rover",
+  "photo_url": null,
+  "state": "RO",
+  "current_party": null,
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "RO",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "RO",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Dheep Rover",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

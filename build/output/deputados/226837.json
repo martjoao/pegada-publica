@@ -1,0 +1,42 @@
+{
+  "id": 226837,
+  "name": "Saulo Pedroso",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/226837.jpg",
+  "state": "SP",
+  "current_party": "PSD",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2023-10-03T14:23",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Saulo Pedroso",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

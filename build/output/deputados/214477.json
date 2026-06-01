@@ -1,0 +1,59 @@
+{
+  "id": 214477,
+  "name": "RRenato Queiroz",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/214477.jpg",
+  "state": "RR",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-27T15:46",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2022-04-27T15:46",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2020-09-10T11:34",
+      "end": "2021-01-09T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2022-04-13T09:52",
+      "end": "2022-08-11T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Renato Queiroz",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-20T17:42"
+    },
+    {
+      "name": "RRenato Queiroz",
+      "start": "2022-04-20T17:42",
+      "end": null
+    }
+  ]
+}

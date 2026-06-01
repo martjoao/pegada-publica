@@ -1,0 +1,74 @@
+{
+  "id": 4770,
+  "name": "Izalci Lucas",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4770.jpg",
+  "state": "DF",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "DF",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "DF",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "2007-03-01",
+      "end": "2007-04-23"
+    },
+    {
+      "party": "DEM",
+      "start": "2007-04-24",
+      "end": "2008-04-28"
+    },
+    {
+      "party": "PSDB",
+      "start": "2008-04-29",
+      "end": "2011-01-31"
+    },
+    {
+      "party": "PL",
+      "start": "2011-02-01",
+      "end": "2012-10-15"
+    },
+    {
+      "party": "PSDB",
+      "start": "2012-10-16",
+      "end": "2024-03-26"
+    },
+    {
+      "party": "PL",
+      "start": "2024-03-27",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Izalci Lucas",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": 160621,
+  "name": "Sandro Alex",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160621.jpg",
+  "state": "PR",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PR"
+    },
+    {
+      "legislature": 57,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PPS",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PPS",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-30T20:03",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2016-03-30T20:03",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2019-02-04T17:53",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-04-04T10:47",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-04-12T19:25",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-11-21T11:10",
+      "end": "2023-11-24T13:34",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-12-03T11:18",
+      "end": "2024-12-04T09:04",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-11-13T09:28",
+      "end": "2025-11-14T16:30",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-04-06T09:42",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "SANDRO ALEX",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Sandro Alex",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

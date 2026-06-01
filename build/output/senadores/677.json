@@ -1,0 +1,76 @@
+{
+  "id": 677,
+  "name": "Roberto Rocha",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador677.jpg",
+  "state": "MA",
+  "current_party": "PTB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "MA",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "MA",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "1999-02-01",
+      "end": "2011-01-31"
+    },
+    {
+      "party": "PSB",
+      "start": "2015-02-01",
+      "end": "2017-09-28"
+    },
+    {
+      "party": "S/Partido",
+      "start": "2017-09-29",
+      "end": "2017-10-03"
+    },
+    {
+      "party": "PSDB",
+      "start": "2017-10-04",
+      "end": "2022-03-30"
+    },
+    {
+      "party": "PTB",
+      "start": "2022-03-31",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2016-09-25",
+      "legislature": 55,
+      "cause": "Licença Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2017-01-27",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "Roberto Rocha",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 4606,
+  "name": "Pinto Itamaraty",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4606.jpg",
+  "state": "MA",
+  "current_party": "PSDB",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "MA",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "MA",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2007-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2016-10-05",
+      "end": "2017-01-26",
+      "legislature": 55,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Pinto Itamaraty",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 220008,
+  "name": "Eliza Virgínia",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220008.jpg",
+  "state": "PB",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PB"
+    },
+    {
+      "legislature": 57,
+      "state": "PB"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2022-07-19T10:16",
+      "end": "2022-11-13T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-07-02T18:34",
+      "end": "2024-10-31T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Eliza Virgínia",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

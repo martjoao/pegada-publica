@@ -1,0 +1,92 @@
+{
+  "id": 1173,
+  "name": "Wellington Fagundes",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador1173.jpg",
+  "state": "MT",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    55,
+    56,
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "MT",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "MT",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "MT",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "MT",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "1999-02-01",
+      "end": "2006-12-19"
+    },
+    {
+      "party": "S/Partido",
+      "start": "2006-12-20",
+      "end": "2011-01-31"
+    },
+    {
+      "party": "PL",
+      "start": "2011-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": "2023-07-05",
+      "legislature": 57,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2023-11-03",
+      "end": "2024-06-11",
+      "legislature": 57,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2024-10-28",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Wellington Fagundes",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 5973,
+  "name": "Cid Gomes",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5973.jpg",
+  "state": "CE",
+  "current_party": "PSB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "CE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "CE",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2019-01-01",
+      "end": "2024-02-04"
+    },
+    {
+      "party": "PSB",
+      "start": "2024-02-05",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2019-12-11",
+      "legislature": 56,
+      "cause": "Licença Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2020-04-11",
+      "end": "2022-09-05",
+      "legislature": 56,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2023-01-04",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Cid Gomes",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

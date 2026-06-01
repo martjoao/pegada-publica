@@ -1,0 +1,42 @@
+{
+  "id": 214445,
+  "name": "Nilson F. Stainsack",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/214445.jpg",
+  "state": "SC",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2020-09-09T12:57",
+      "end": "2021-01-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Nilson F. Stainsack",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

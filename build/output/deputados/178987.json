@@ -1,0 +1,82 @@
+{
+  "id": 178987,
+  "name": "Orlando Silva",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178987.jpg",
+  "state": "SP",
+  "current_party": "PCdoB",
+  "current_condition": "alternate",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    },
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PCdoB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PCdoB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PCdoB",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-02-02T12:32",
+      "end": "2025-02-01T13:58",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-02-03T13:03",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "ORLANDO SILVA",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Orlando Silva",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

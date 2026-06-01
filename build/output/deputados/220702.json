@@ -1,0 +1,48 @@
+{
+  "id": 220702,
+  "name": "Geraldo Mendes",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220702.jpg",
+  "state": "PR",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2024-08-27T19:14",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-12-26T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Geraldo Mendes",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

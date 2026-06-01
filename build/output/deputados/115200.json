@@ -1,0 +1,48 @@
+{
+  "id": 115200,
+  "name": "Raniery Paulino",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/115200.jpg",
+  "state": "PB",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PB"
+    }
+  ],
+  "parties": [
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-01-04T16:46",
+      "end": "2024-05-09T16:50",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2026-05-28T17:06",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Raniery Paulino",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 221183,
+  "name": "Márcio Dória",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/221183.jpg",
+  "state": "SE",
+  "current_party": "PCdoB",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PCdoB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-01-06T11:43",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Márcio Dória",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

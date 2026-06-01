@@ -1,0 +1,71 @@
+{
+  "id": 5531,
+  "name": "Elmano Férrer",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5531.jpg",
+  "state": "PI",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "PI",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "PI",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PTB",
+      "start": "2015-02-01",
+      "end": "2017-01-30"
+    },
+    {
+      "party": "MDB",
+      "start": "2017-01-31",
+      "end": "2018-04-06"
+    },
+    {
+      "party": "PODEMOS",
+      "start": "2018-04-07",
+      "end": "2020-09-29"
+    },
+    {
+      "party": "PP",
+      "start": "2020-09-30",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2018-07-09",
+      "legislature": 55,
+      "cause": "Licença Saúde-Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2018-11-08",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "Elmano Férrer",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

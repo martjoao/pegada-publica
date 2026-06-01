@@ -1,0 +1,48 @@
+{
+  "id": 204385,
+  "name": "Valdevan Noventa",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204385.jpg",
+  "state": "SE",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2019-02-01T00:00",
+      "end": "2020-07-01T16:27",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2020-07-01T16:27",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2022-04-27T19:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Valdevan Noventa",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

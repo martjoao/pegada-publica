@@ -1,0 +1,49 @@
+{
+  "id": 5913,
+  "name": "Rafael Tenório",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5913.jpg",
+  "state": "AL",
+  "current_party": "MDB",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "AL",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "AL",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "2022-06-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2022-06-02",
+      "end": "2022-09-30",
+      "legislature": 56,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Rafael Tenório",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

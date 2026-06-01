@@ -1,0 +1,77 @@
+{
+  "id": 204449,
+  "name": "Nelson Barbudo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204449.jpg",
+  "state": "MT",
+  "current_party": "PODE",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MT"
+    },
+    {
+      "legislature": 57,
+      "state": "MT"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-16T11:11",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-16T11:11",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-10T12:00",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2026-04-10T12:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2024-05-21T14:19",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Nelson Barbudo",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

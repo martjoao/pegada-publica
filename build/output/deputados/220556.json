@@ -1,0 +1,42 @@
+{
+  "id": 220556,
+  "name": "Ana Paula Lima",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
+  "state": "SC",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Ana Paula Lima",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

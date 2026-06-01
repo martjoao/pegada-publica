@@ -1,0 +1,59 @@
+{
+  "id": 134812,
+  "name": "Edmilson Rodrigues",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/134812.jpg",
+  "state": "PA",
+  "current_party": "PSOL",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSOL",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSOL",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2021-01-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "EDMILSON RODRIGUES",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Edmilson Rodrigues",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

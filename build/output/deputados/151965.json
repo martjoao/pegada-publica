@@ -1,0 +1,128 @@
+{
+  "id": 151965,
+  "name": "Maia Filho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/151965.jpg",
+  "state": "PI",
+  "current_party": "PP",
+  "current_condition": "Efetivado",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PI"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "2007-02-01T00:00",
+      "end": "2007-04-23T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "DEM",
+      "start": "2007-04-23T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "SD",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-18T17:11",
+      "legislature": 55
+    },
+    {
+      "party": "PP**",
+      "start": "2016-03-18T17:11",
+      "end": "2018-12-11T10:29",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2018-12-11T10:29",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2008-11-10T14:32",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "alternate",
+      "start": "2015-05-12T16:51",
+      "end": "2015-07-06T10:08",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2015-07-08T09:36",
+      "end": "2016-04-13T11:23",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-04-20T15:58",
+      "end": "2016-10-18T10:52",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-10-24T18:13",
+      "end": "2017-10-19T11:35",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2017-10-30T10:03",
+      "end": "2018-04-09T15:05",
+      "legislature": 55
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2023-01-12T16:59",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "MAINHA",
+      "start": "2007-02-01T00:00",
+      "end": "2009-05-05T00:00"
+    },
+    {
+      "name": "JOSÉ MAIA FILHO",
+      "start": "2009-05-05T00:00",
+      "end": "2015-07-09T00:00"
+    },
+    {
+      "name": "MAINHA",
+      "start": "2015-07-09T00:00",
+      "end": "2016-04-06T00:00"
+    },
+    {
+      "name": "MAIA FILHO",
+      "start": "2016-04-06T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Maia Filho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 215042,
+  "name": "Ricardo da Karol",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/215042.jpg",
+  "state": "RJ",
+  "current_party": "PDT",
+  "current_condition": "Efetivado",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PATRI",
+      "start": "2019-02-01T00:00",
+      "end": "2021-01-01T17:30",
+      "legislature": 56
+    },
+    {
+      "party": "PATRIOTA",
+      "start": "2021-01-01T17:30",
+      "end": "2021-01-06T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSC",
+      "start": "2021-01-06T00:00",
+      "end": "2022-04-18T11:10",
+      "legislature": 56
+    },
+    {
+      "party": "PDT",
+      "start": "2022-04-18T11:10",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2021-01-01T17:31",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Ricardo da Karol",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

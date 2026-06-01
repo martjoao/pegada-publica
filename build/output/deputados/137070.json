@@ -1,0 +1,106 @@
+{
+  "id": 137070,
+  "name": "Vicentinho Júnior",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/137070.jpg",
+  "state": "TO",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "TO"
+    },
+    {
+      "legislature": 57,
+      "state": "TO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2015-02-01T00:00",
+      "end": "2016-02-23T16:59",
+      "legislature": 55
+    },
+    {
+      "party": "PR",
+      "start": "2016-02-23T16:59",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2022-03-23T10:30",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2022-03-23T10:30",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": "2026-03-06T19:00",
+      "legislature": 57
+    },
+    {
+      "party": "PSDB",
+      "start": "2026-03-06T19:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2024-05-22T12:07",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-10-10T14:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "VICENTINHO JÚNIOR",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Vicentinho Júnior",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

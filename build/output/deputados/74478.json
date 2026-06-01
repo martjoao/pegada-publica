@@ -1,0 +1,106 @@
+{
+  "id": 74478,
+  "name": "Luciano Bivar",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74478.jpg",
+  "state": "PE",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PE"
+    },
+    {
+      "legislature": 57,
+      "state": "PE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PSL",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-07T11:45",
+      "legislature": 57
+    },
+    {
+      "party": "MDB",
+      "start": "2026-04-07T11:45",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "condition": "alternate",
+      "start": "2017-07-17T15:10",
+      "end": "2017-10-17T17:47",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2017-10-24T10:31",
+      "end": "2018-04-10T15:36",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "LUCIANO BIVAR",
+      "start": "1999-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Luciano Bivar",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

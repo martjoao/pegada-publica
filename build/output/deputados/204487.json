@@ -1,0 +1,60 @@
+{
+  "id": 204487,
+  "name": "Capitão Wagner",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204487.jpg",
+  "state": "CE",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PROS",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-20T15:51",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-04-20T15:51",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2020-08-03T16:23",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2020-12-02T00:00",
+      "end": "2022-03-14T15:24",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-07-14T00:00",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Capitão Wagner",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

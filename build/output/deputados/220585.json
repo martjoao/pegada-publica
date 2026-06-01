@@ -1,0 +1,54 @@
+{
+  "id": 220585,
+  "name": "Mersinho Lucena",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220585.jpg",
+  "state": "PB",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PB"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-08T19:30",
+      "legislature": 57
+    },
+    {
+      "party": "PSD",
+      "start": "2026-04-08T19:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2024-07-02T15:51",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-10-31T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Mersinho Lucena",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 204454,
+  "name": "Daniel Silveira",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204454.jpg",
+  "state": "RJ",
+  "current_party": "PTB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-31T16:13",
+      "legislature": 56
+    },
+    {
+      "party": "PTB",
+      "start": "2022-03-31T16:13",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Daniel Silveira",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

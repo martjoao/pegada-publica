@@ -1,0 +1,151 @@
+{
+  "id": 1023,
+  "name": "Maria do Carmo Alves",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador1023.jpg",
+  "state": "SE",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 51,
+      "state": "SE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 52,
+      "state": "SE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 53,
+      "state": "SE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 54,
+      "state": "SE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 55,
+      "state": "SE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "SE",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "AVANTE",
+      "start": "1999-02-01",
+      "end": "2007-08-01"
+    },
+    {
+      "party": "DEM",
+      "start": "2007-08-02",
+      "end": "2022-04-11"
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-04-12",
+      "end": "2022-04-19"
+    },
+    {
+      "party": "PP",
+      "start": "2022-04-20",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1999-02-01",
+      "end": "2003-02-19",
+      "legislature": 51,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2003-09-16",
+      "end": "2004-06-29",
+      "legislature": 51,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2004-12-22",
+      "end": "2007-01-31",
+      "legislature": 51,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2007-02-01",
+      "end": "2008-03-20",
+      "legislature": 53,
+      "cause": "Licença saúde"
+    },
+    {
+      "condition": "titular",
+      "start": "2009-01-29",
+      "end": "2015-01-31",
+      "legislature": 53,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2015-11-10",
+      "legislature": 55,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2016-05-10",
+      "end": "2016-05-13",
+      "legislature": 55,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2016-08-22",
+      "end": "2016-09-30",
+      "legislature": 55,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2017-01-01",
+      "end": "2021-07-16",
+      "legislature": 55,
+      "cause": "Licença Saúde-Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2021-08-05",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "Maria do Carmo Alves",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

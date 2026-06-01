@@ -1,0 +1,48 @@
+{
+  "id": 210989,
+  "name": "Bruno Farias",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
+  "state": "MG",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "AVANTE",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-10T12:00",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2026-04-10T12:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Bruno Farias",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

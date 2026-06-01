@@ -1,0 +1,77 @@
+{
+  "id": 215043,
+  "name": "Josivaldo JP",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/215043.jpg",
+  "state": "MA",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MA"
+    },
+    {
+      "legislature": 57,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PHS",
+      "start": "2019-02-01T00:00",
+      "end": "2021-01-01T17:31",
+      "legislature": 56
+    },
+    {
+      "party": "PODE",
+      "start": "2021-01-01T17:31",
+      "end": "2022-04-06T14:47",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2022-04-06T14:47",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-29T22:10",
+      "legislature": 57
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2026-04-29T22:10",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2021-01-01T17:32",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Josivaldo JP",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

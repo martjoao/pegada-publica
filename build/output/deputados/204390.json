@@ -1,0 +1,71 @@
+{
+  "id": 204390,
+  "name": "Professor Alcides",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204390.jpg",
+  "state": "GO",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "GO"
+    },
+    {
+      "legislature": 57,
+      "state": "GO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-06T10:34",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-04-06T10:34",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-01T14:00",
+      "legislature": 57
+    },
+    {
+      "party": "PSDB",
+      "start": "2026-04-01T14:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Professor Alcides",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

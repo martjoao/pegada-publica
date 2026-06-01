@@ -1,0 +1,42 @@
+{
+  "id": 220705,
+  "name": "Deltan Dallagnol",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220705.jpg",
+  "state": "PR",
+  "current_party": "PODE",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PODE",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-06-06T16:54",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Deltan Dallagnol",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

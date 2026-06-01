@@ -1,0 +1,42 @@
+{
+  "id": 220600,
+  "name": "Lebrão",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220600.jpg",
+  "state": "RO",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-07-30T19:43",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Lebrão",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

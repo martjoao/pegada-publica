@@ -1,0 +1,42 @@
+{
+  "id": 220584,
+  "name": "Murilo Galdino",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220584.jpg",
+  "state": "PB",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PB"
+    }
+  ],
+  "parties": [
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2026-05-27T23:55",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Murilo Galdino",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

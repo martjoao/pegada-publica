@@ -1,0 +1,54 @@
+{
+  "id": 5502,
+  "name": "Plínio Valério",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5502.jpg",
+  "state": "AM",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "AM",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "AM",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "DEM",
+      "start": "2013-03-06",
+      "end": "2013-03-06"
+    },
+    {
+      "party": "PSDB",
+      "start": "2013-03-07",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Plínio Valério",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

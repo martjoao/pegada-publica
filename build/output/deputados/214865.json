@@ -1,0 +1,48 @@
+{
+  "id": 214865,
+  "name": "Joceval Rodrigues",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/214865.jpg",
+  "state": "BA",
+  "current_party": "CIDADANIA",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PPS",
+      "start": "2019-02-01T00:00",
+      "end": "2022-07-13T18:00",
+      "legislature": 56
+    },
+    {
+      "party": "CIDADANIA",
+      "start": "2022-07-13T18:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2022-07-13T18:45",
+      "end": "2022-11-11T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Joceval Rodrigues",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

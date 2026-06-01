@@ -1,0 +1,87 @@
+{
+  "id": 204494,
+  "name": "Fred Costa",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+  "state": "MG",
+  "current_party": "PRD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MG"
+    },
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PATRI",
+      "start": "2019-02-01T00:00",
+      "end": "2019-06-03T12:30",
+      "legislature": 56
+    },
+    {
+      "party": "PATRIOTA",
+      "start": "2019-06-03T12:30",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PATRIOTA",
+      "start": "2023-02-01T00:00",
+      "end": "2024-02-07T00:00",
+      "legislature": 57
+    },
+    {
+      "party": "PRD",
+      "start": "2024-02-07T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-12-12T11:37",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-04-12T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "FREDERICO BORGES DA COSTA",
+      "start": "2019-02-01T00:00",
+      "end": "2019-02-01T11:49"
+    },
+    {
+      "name": "FRED COSTA",
+      "start": "2019-02-01T11:49",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Fred Costa",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": 178866,
+  "name": "Luizianne Lins",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178866.jpg",
+  "state": "CE",
+  "current_party": "REDE",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "CE"
+    },
+    {
+      "legislature": 57,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-07T11:45",
+      "legislature": 57
+    },
+    {
+      "party": "REDE",
+      "start": "2026-04-07T11:45",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2020-12-21T16:22",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-04-21T00:00",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "LUIZIANNE LINS",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Luizianne Lins",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

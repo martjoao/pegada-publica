@@ -1,0 +1,70 @@
+{
+  "id": 204450,
+  "name": "Doutor Luizinho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
+  "state": "RJ",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-02T15:51",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-02-13T00:00",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-09-12T10:21",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Dr. Luiz Antonio Teixeira Jr.",
+      "start": "2019-02-01T00:00",
+      "end": "2022-10-05T10:47"
+    },
+    {
+      "name": "Doutor Luizinho",
+      "start": "2022-10-05T10:47",
+      "end": null
+    }
+  ]
+}

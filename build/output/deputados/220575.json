@@ -1,0 +1,42 @@
+{
+  "id": 220575,
+  "name": "Sonize Barbosa",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220575.jpg",
+  "state": "AP",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "AP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-07-30T19:43",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Sonize Barbosa",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

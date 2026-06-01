@@ -1,0 +1,48 @@
+{
+  "id": 220526,
+  "name": "Gilvan da Federal",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+  "state": "ES",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "ES"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-05-06T22:00",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-08-04T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Gilvan da Federal",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 204460,
+  "name": "Carlos Jordy",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
+  "state": "RJ",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-15T21:11",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-15T21:11",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2024-05-06T21:00",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-09-04T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Carlos Jordy",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

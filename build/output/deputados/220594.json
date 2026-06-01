@@ -1,0 +1,48 @@
+{
+  "id": 220594,
+  "name": "Coronel Assis",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220594.jpg",
+  "state": "MT",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MT"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": "2026-03-25T17:30",
+      "legislature": 57
+    },
+    {
+      "party": "PL",
+      "start": "2026-03-25T17:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Coronel Assis",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

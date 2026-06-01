@@ -1,0 +1,54 @@
+{
+  "id": 220597,
+  "name": "Thiago Flores",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220597.jpg",
+  "state": "RO",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "2023-02-01T00:00",
+      "end": "2024-04-16T20:57",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2024-04-16T20:57",
+      "end": "2026-04-10T12:00",
+      "legislature": 57
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2026-04-10T12:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Thiago Flores",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 205548,
+  "name": "David Miranda",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/205548.jpg",
+  "state": "RJ",
+  "current_party": "PDT",
+  "current_condition": "Efetivado",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSOL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-04T15:50",
+      "legislature": 56
+    },
+    {
+      "party": "PDT",
+      "start": "2022-04-04T15:50",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "David Miranda",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 204538,
+  "name": "Paulo Bengtson",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204538.jpg",
+  "state": "PA",
+  "current_party": "PTB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PTB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Paulo Bengtson",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

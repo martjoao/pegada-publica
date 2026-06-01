@@ -1,0 +1,71 @@
+{
+  "id": 204398,
+  "name": "Felipe Francischini",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204398.jpg",
+  "state": "PR",
+  "current_party": "PODE",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PR"
+    },
+    {
+      "legislature": 57,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-08T19:30",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2026-04-08T19:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Felipe Francischini",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

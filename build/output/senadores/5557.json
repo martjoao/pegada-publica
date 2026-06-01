@@ -1,0 +1,54 @@
+{
+  "id": 5557,
+  "name": "Mailza Gomes",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5557.jpg",
+  "state": "AC",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "AC",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "AC",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2015-02-01",
+      "end": "2015-09-10"
+    },
+    {
+      "party": "PP",
+      "start": "2015-09-11",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-01-03",
+      "end": "2023-01-01",
+      "legislature": 55,
+      "cause": "Renúncia"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mailza Gomes",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

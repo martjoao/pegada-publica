@@ -1,0 +1,54 @@
+{
+  "id": 4610,
+  "name": "Alexandre Silveira",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4610.jpg",
+  "state": "MG",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "MG",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "MG",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "CIDADANIA",
+      "start": "2007-02-01",
+      "end": "2011-10-25"
+    },
+    {
+      "party": "PSD",
+      "start": "2011-10-26",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2022-02-02",
+      "end": "2023-01-01",
+      "legislature": 55,
+      "cause": "Afastamento do exercício"
+    }
+  ],
+  "names": [
+    {
+      "name": "Alexandre Silveira",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

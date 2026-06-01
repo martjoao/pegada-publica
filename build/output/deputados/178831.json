@@ -1,0 +1,98 @@
+{
+  "id": 178831,
+  "name": "André Abdon",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178831.jpg",
+  "state": "AP",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "AP"
+    },
+    {
+      "legislature": 57,
+      "state": "AP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2015-02-01T00:00",
+      "end": "2016-02-24T16:19",
+      "legislature": 55
+    },
+    {
+      "party": "PP**",
+      "start": "2016-02-24T16:19",
+      "end": "2018-12-11T10:29",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2018-12-11T10:29",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2025-08-01T15:42",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "ANDRÉ ABDON",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "André Abdon",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "ANDRÉ ABDON",
+      "start": "2023-02-01T00:00",
+      "end": "2025-08-01T11:34"
+    },
+    {
+      "name": "André Abdon",
+      "start": "2025-08-01T11:34",
+      "end": null
+    }
+  ]
+}

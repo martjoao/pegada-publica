@@ -1,0 +1,137 @@
+{
+  "id": 74693,
+  "name": "Rodrigo Maia",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74693.jpg",
+  "state": "RJ",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PFL",
+      "start": "2003-02-01T00:00",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PFL",
+      "start": "2007-02-01T00:00",
+      "end": "2007-04-23T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "DEM",
+      "start": "2007-04-23T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "DEM",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "DEM",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2019-02-01T00:00",
+      "end": "2021-06-17T13:24",
+      "legislature": 56
+    },
+    {
+      "party": "S.PART.",
+      "start": "2021-06-17T13:24",
+      "end": "2022-10-26T15:47",
+      "legislature": 56
+    },
+    {
+      "party": "PSDB",
+      "start": "2022-10-26T15:47",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2021-08-31T18:32",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-10-27T11:27",
+      "end": "2021-11-30T18:26",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-10-05T15:16",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "RODRIGO MAIA",
+      "start": "1999-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Rodrigo Maia",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": 160528,
+  "name": "Danilo Cabral",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160528.jpg",
+  "state": "PE",
+  "current_party": "PSB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PSB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2011-02-14T18:34",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2012-06-22T00:00",
+      "end": "2012-07-05T14:13",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2014-04-14T14:37",
+      "end": "2015-01-01T00:00",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2015-02-04T12:19",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-04-14T18:46",
+      "end": "2016-04-20T15:50",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-05-31T10:44",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "DANILO CABRAL",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Danilo Cabral",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

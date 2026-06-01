@@ -1,0 +1,42 @@
+{
+  "id": 220619,
+  "name": "Delegado Ramagem",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220619.jpg",
+  "state": "RJ",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-12-18T17:56",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Delegado Ramagem",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 204434,
+  "name": "Dra. Vanda Milani",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204434.jpg",
+  "state": "AC",
+  "current_party": "PROS",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "AC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-13T14:29",
+      "legislature": 56
+    },
+    {
+      "party": "PROS",
+      "start": "2022-04-13T14:29",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Dra. Vanda Milani",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

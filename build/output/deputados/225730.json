@@ -1,0 +1,60 @@
+{
+  "id": 225730,
+  "name": "Enfermeira Ana Paula",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+  "state": "CE",
+  "current_party": "PODE",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2023-02-01T00:00",
+      "end": "2025-03-26T15:57",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2025-03-26T15:57",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-05-31T19:26",
+      "end": "2023-10-01T00:00",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-01-06T17:28",
+      "end": "2025-11-13T09:37",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-19T19:44",
+      "end": "2026-03-27T09:49",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Enfermeira Ana Paula",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

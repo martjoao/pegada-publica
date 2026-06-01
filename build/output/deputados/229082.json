@@ -1,0 +1,42 @@
+{
+  "id": 229082,
+  "name": "Lucyana Genésio",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/229082.jpg",
+  "state": "MA",
+  "current_party": "PDT",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-06-18T14:50",
+      "end": "2024-10-16T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Lucyana Genésio",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

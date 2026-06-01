@@ -1,0 +1,71 @@
+{
+  "id": 73806,
+  "name": "Roseana Sarney",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/73806.jpg",
+  "state": "MA",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "party": "MDB",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2024-05-06T15:05",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-09-04T00:00",
+      "end": "2025-01-31T14:54",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-02-11T16:46",
+      "end": "2025-02-12T15:28",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "ROSEANA SARNEY",
+      "start": "1991-02-01T00:00",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Roseana Sarney",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 92172,
+  "name": "Milton Coelho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/92172.jpg",
+  "state": "PE",
+  "current_party": "PSB",
+  "current_condition": "Efetivado",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2021-01-01T17:33",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Milton Coelho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

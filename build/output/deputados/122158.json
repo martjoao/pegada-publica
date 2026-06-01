@@ -1,0 +1,226 @@
+{
+  "id": 122158,
+  "name": "Pedro Paulo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/122158.jpg",
+  "state": "RJ",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMDB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PMDB",
+      "start": "2015-02-01T00:00",
+      "end": "2018-04-11T17:04",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2018-04-11T17:04",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-31T20:37",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2022-03-31T20:37",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2011-02-09T11:07",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-16T10:43",
+      "end": "2011-02-18T15:02",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-22T10:16",
+      "end": "2011-03-02T14:08",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2012-06-18T15:10",
+      "end": "2012-10-24T18:24",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2012-10-31T09:48",
+      "end": "2012-11-07T17:01",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2013-02-01T11:19",
+      "end": "2013-02-05T17:41",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2013-03-05T10:22",
+      "end": "2013-03-08T11:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2014-04-03T14:52",
+      "end": "2015-01-21T10:32",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-01-29T10:54",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2015-02-05T11:07",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-09T10:21",
+      "end": "2015-02-12T10:46",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-06-10T11:27",
+      "end": "2015-06-11T10:23",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-12-16T18:29",
+      "end": "2015-12-28T18:14",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-02-15T16:04",
+      "end": "2016-02-19T10:57",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-04-14T10:28",
+      "end": "2016-04-19T15:28",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-06-01T10:48",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2021-01-01T18:28",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-01-27T09:07",
+      "end": "2021-02-04T11:03",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-02-24T13:56",
+      "end": "2021-03-03T13:38",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-04-19T07:25",
+      "end": "2021-04-20T11:10",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-08-10T08:19",
+      "end": "2021-08-11T14:27",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-11-12T11:43",
+      "end": "2021-11-19T10:11",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-04-01T10:21",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "PEDRO PAULO",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Pedro Paulo",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

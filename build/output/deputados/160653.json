@@ -1,0 +1,101 @@
+{
+  "id": 160653,
+  "name": "Roberto de Lucena",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160653.jpg",
+  "state": "SP",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PV",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PV",
+      "start": "2015-02-01T00:00",
+      "end": "2018-03-26T14:22",
+      "legislature": 55
+    },
+    {
+      "party": "PODE",
+      "start": "2018-03-26T14:22",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PODE",
+      "start": "2019-02-01T00:00",
+      "end": "2022-03-30T17:16",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2022-03-30T17:16",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-01T14:34",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2015-02-05T00:00",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-09-30T14:17",
+      "end": "2015-10-08T18:31",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-10-19T10:57",
+      "end": "2015-10-21T18:54",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-04-05T16:26",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "ROBERTO DE LUCENA",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Roberto de Lucena",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

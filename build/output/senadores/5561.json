@@ -1,0 +1,54 @@
+{
+  "id": 5561,
+  "name": "Renilde Bulhões",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5561.jpg",
+  "state": "AL",
+  "current_party": "PROS",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "AL",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "AL",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PTB",
+      "start": "2015-02-01",
+      "end": "2019-04-02"
+    },
+    {
+      "party": "PROS",
+      "start": "2019-04-03",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-04-03",
+      "end": "2019-07-31",
+      "legislature": 55,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Renilde Bulhões",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

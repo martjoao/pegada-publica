@@ -1,0 +1,99 @@
+{
+  "id": 4531,
+  "name": "Jayme Campos",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4531.jpg",
+  "state": "MT",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    53,
+    54,
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 53,
+      "state": "MT",
+      "condition": "titular"
+    },
+    {
+      "legislature": 54,
+      "state": "MT",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "MT",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "MT",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "AVANTE",
+      "start": "2007-02-01",
+      "end": "2007-08-01"
+    },
+    {
+      "party": "DEM",
+      "start": "2007-08-02",
+      "end": "2022-04-11"
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-04-12",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2007-02-01",
+      "end": "2009-08-25",
+      "legislature": 53,
+      "cause": "Licença Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2010-01-03",
+      "end": "2013-09-13",
+      "legislature": 53,
+      "cause": "Licença Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2014-01-13",
+      "end": "2015-01-31",
+      "legislature": 53,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2022-04-06",
+      "legislature": 56,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2022-07-30",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Jayme Campos",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

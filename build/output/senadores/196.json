@@ -1,0 +1,68 @@
+{
+  "id": 196,
+  "name": "Geraldo Althoff",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador196.jpg",
+  "state": "SC",
+  "current_party": "PFL",
+  "current_condition": "alternate",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    50,
+    51,
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 50,
+      "state": "SC",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 51,
+      "state": "SC",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "SC",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "SC",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "1998-11-03",
+      "end": "2007-08-01"
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "1998-11-03",
+      "end": "2002-05-20",
+      "legislature": 50,
+      "cause": "Licença Saúde-Particular"
+    },
+    {
+      "condition": "alternate",
+      "start": "2002-09-19",
+      "end": "2003-01-31",
+      "legislature": 50,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "Geraldo Althoff",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

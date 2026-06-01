@@ -1,0 +1,54 @@
+{
+  "id": 235620,
+  "name": "Ilacir Bicalho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/235620.jpg",
+  "state": "MG",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2023-02-01T00:00",
+      "end": "2026-03-25T17:18",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2026-03-25T17:18",
+      "end": "2026-04-01T14:00",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2026-04-01T14:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2026-03-25T17:52",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Ilacir Bicalho",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

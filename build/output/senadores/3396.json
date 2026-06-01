@@ -1,0 +1,75 @@
+{
+  "id": 3396,
+  "name": "Tasso Jereissati",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3396.jpg",
+  "state": "CE",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    52,
+    53,
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 52,
+      "state": "CE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 53,
+      "state": "CE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 55,
+      "state": "CE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "CE",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2003-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2003-02-01",
+      "end": "2011-01-31",
+      "legislature": 52,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2021-10-29",
+      "legislature": 55,
+      "cause": "Licença Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2022-02-27",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "Tasso Jereissati",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

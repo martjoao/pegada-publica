@@ -1,0 +1,82 @@
+{
+  "id": 160587,
+  "name": "Fábio Trad",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160587.jpg",
+  "state": "MS",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMDB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PMDB",
+      "start": "2015-02-01T00:00",
+      "end": "2018-01-31T12:34",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2018-01-31T12:34",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "alternate",
+      "start": "2017-12-20T10:32",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "FABIO TRAD",
+      "start": "2011-02-01T00:00",
+      "end": "2013-11-20T00:00"
+    },
+    {
+      "name": "FÁBIO TRAD",
+      "start": "2013-11-20T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Fábio Trad",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

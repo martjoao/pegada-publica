@@ -1,0 +1,42 @@
+{
+  "id": 226553,
+  "name": "Eliane Braz",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/226553.jpg",
+  "state": "CE",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-08-22T18:39",
+      "end": "2023-11-14T16:54",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Eliane Braz",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

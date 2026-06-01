@@ -1,0 +1,59 @@
+{
+  "id": 178844,
+  "name": "Pedro Vilela",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178844.jpg",
+  "state": "AL",
+  "current_party": "PSDB",
+  "current_condition": "Efetivado",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "AL"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2021-01-01T17:35",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "PEDRO VILELA",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Pedro Vilela",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

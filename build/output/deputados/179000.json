@@ -1,0 +1,124 @@
+{
+  "id": 179000,
+  "name": "Marcelo Álvaro Antônio",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/179000.jpg",
+  "state": "MG",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MG"
+    },
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRP",
+      "start": "2015-02-01T00:00",
+      "end": "2015-11-25T12:25",
+      "legislature": 55
+    },
+    {
+      "party": "PMB",
+      "start": "2015-11-25T12:25",
+      "end": "2016-03-10T11:00",
+      "legislature": 55
+    },
+    {
+      "party": "PR",
+      "start": "2016-03-10T11:00",
+      "end": "2018-03-27T16:57",
+      "legislature": 55
+    },
+    {
+      "party": "PSL",
+      "start": "2018-03-27T16:57",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-16T13:41",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-16T13:41",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-01T00:00",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-06T14:56",
+      "end": "2019-02-07T16:07",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2019-07-09T12:41",
+      "end": "2019-07-16T09:19",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2019-08-06T15:06",
+      "end": "2019-08-08T14:13",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2020-12-11T09:23",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "MARCELO ÁLVARO ANTÔNIO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Marcelo Álvaro Antônio",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

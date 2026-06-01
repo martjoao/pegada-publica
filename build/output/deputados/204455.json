@@ -1,0 +1,83 @@
+{
+  "id": 204455,
+  "name": "Luiz Lima",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204455.jpg",
+  "state": "RJ",
+  "current_party": "NOVO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-08T16:14",
+      "legislature": 56
+    },
+    {
+      "party": "S.PART.",
+      "start": "2022-03-08T16:14",
+      "end": "2022-03-10T10:10",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-10T10:10",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": "2025-04-24T19:38",
+      "legislature": 57
+    },
+    {
+      "party": "NOVO",
+      "start": "2025-04-24T19:38",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Luiz Lima",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

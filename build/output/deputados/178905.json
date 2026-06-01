@@ -1,0 +1,101 @@
+{
+  "id": 178905,
+  "name": "Fabio Garcia",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178905.jpg",
+  "state": "MT",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MT"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2015-02-01T00:00",
+      "end": "2017-11-08T10:06",
+      "legislature": 55
+    },
+    {
+      "party": "S.PART.",
+      "start": "2017-11-08T10:06",
+      "end": "2018-02-06T18:03",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2018-02-06T18:03",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-07-07T18:03",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-12-01T09:22",
+      "end": "2023-12-04T12:07",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-12-05T10:08",
+      "end": "2024-12-06T09:48",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-09-17T20:12",
+      "end": "2025-09-18T13:59",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-11-13T10:45",
+      "end": "2025-11-14T15:54",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-04-06T11:36",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "FABIO GARCIA",
+      "start": "2015-02-01T00:00",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Fabio Garcia",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

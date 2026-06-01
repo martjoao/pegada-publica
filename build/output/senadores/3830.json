@@ -1,0 +1,83 @@
+{
+  "id": 3830,
+  "name": "Davi Alcolumbre",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3830.jpg",
+  "state": "AP",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    55,
+    56,
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "AP",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "AP",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "AP",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "AP",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2003-02-01",
+      "end": "2005-02-14"
+    },
+    {
+      "party": "AVANTE",
+      "start": "2005-02-15",
+      "end": "2007-04-23"
+    },
+    {
+      "party": "DEM",
+      "start": "2007-04-24",
+      "end": "2022-04-11"
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-04-12",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Davi Alcolumbre",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

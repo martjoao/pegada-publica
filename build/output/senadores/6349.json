@@ -1,0 +1,41 @@
+{
+  "id": 6349,
+  "name": "Hildinha Menezes",
+  "photo_url": null,
+  "state": "BA",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "BA",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "BA",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2022-10-02",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Hildinha Menezes",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

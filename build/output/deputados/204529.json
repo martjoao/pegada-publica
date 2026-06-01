@@ -1,0 +1,48 @@
+{
+  "id": 204529,
+  "name": "Policial Katia Sastre",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204529.jpg",
+  "state": "SP",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Policial Katia Sastre",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

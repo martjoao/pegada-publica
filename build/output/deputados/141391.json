@@ -1,0 +1,148 @@
+{
+  "id": 141391,
+  "name": "Arnaldo Jardim",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
+  "state": "SP",
+  "current_party": "CIDADANIA",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    },
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PPS",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PPS",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PPS",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PPS",
+      "start": "2019-02-01T00:00",
+      "end": "2019-04-05T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "CIDADANIA",
+      "start": "2019-04-05T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "CIDADANIA",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-08T16:44",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-01-31T11:55",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2015-02-03T15:22",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-07-07T09:26",
+      "end": "2015-07-14T11:41",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-10-19T10:10",
+      "end": "2015-10-21T12:51",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-04-14T11:14",
+      "end": "2016-04-19T15:35",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-10-19T09:19",
+      "end": "2016-10-21T15:15",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-10-19T11:49",
+      "end": "2017-10-21T00:00",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2018-04-06T10:47",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "ARNALDO JARDIM",
+      "start": "2007-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Arnaldo Jardim",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

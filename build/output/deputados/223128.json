@@ -1,0 +1,54 @@
+{
+  "id": 223128,
+  "name": "Rodrigo Estacho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/223128.jpg",
+  "state": "PR",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-02-15T11:18",
+      "end": "2023-11-21T14:53",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-11-24T12:49",
+      "end": "2024-12-03T11:48",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-14T16:28",
+      "end": "2026-04-06T09:41",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Rodrigo Estacho",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

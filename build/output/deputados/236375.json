@@ -1,0 +1,48 @@
+{
+  "id": 236375,
+  "name": "Marcos Braz",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/236375.jpg",
+  "state": "RJ",
+  "current_party": "PSDB",
+  "current_condition": "alternate",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": "2026-05-28T15:00",
+      "legislature": 57
+    },
+    {
+      "party": "PSDB",
+      "start": "2026-05-28T15:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2026-05-28T17:19",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Marcos Braz",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

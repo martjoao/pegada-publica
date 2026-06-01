@@ -1,0 +1,134 @@
+{
+  "id": 141518,
+  "name": "Paulinho da Força",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/141518.jpg",
+  "state": "SP",
+  "current_party": "SOLIDARIEDADE",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    },
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PDT",
+      "start": "2011-02-01T00:00",
+      "end": "2013-10-01T11:49",
+      "legislature": 54
+    },
+    {
+      "party": "SDD",
+      "start": "2013-10-01T11:49",
+      "end": "2014-04-24T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "SD",
+      "start": "2014-04-24T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "SD",
+      "start": "2015-02-01T00:00",
+      "end": "2018-12-17T15:27",
+      "legislature": 55
+    },
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2018-12-17T15:27",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2023-11-30T12:46",
+      "end": "2024-03-29T00:00",
+      "legislature": 57
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2024-07-28T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "PAULINHO DA FORÇA",
+      "start": "2007-02-01T00:00",
+      "end": "2007-05-09T00:00"
+    },
+    {
+      "name": "PAULO PEREIRA DA SILVA",
+      "start": "2007-05-09T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Paulo Pereira da Silva",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-17T12:36"
+    },
+    {
+      "name": "Paulinho da Força",
+      "start": "2022-02-17T12:36",
+      "end": null
+    }
+  ]
+}

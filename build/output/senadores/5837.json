@@ -1,0 +1,41 @@
+{
+  "id": 5837,
+  "name": "Davidson Magalhães",
+  "photo_url": null,
+  "state": "BA",
+  "current_party": "PCdoB",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "BA",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "BA",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PCdoB",
+      "start": "2015-02-04",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Davidson Magalhães",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

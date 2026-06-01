@@ -1,0 +1,42 @@
+{
+  "id": 220565,
+  "name": "Delegada Adriana Accorsi",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220565.jpg",
+  "state": "GO",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "GO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Delegada Adriana Accorsi",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

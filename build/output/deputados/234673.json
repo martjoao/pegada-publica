@@ -1,0 +1,54 @@
+{
+  "id": 234673,
+  "name": "Vanderlan Alves",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
+  "state": "CE",
+  "current_party": "SOLIDARIEDADE",
+  "current_condition": "alternate",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": "2026-02-10T19:20",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2026-02-10T19:20",
+      "end": "2026-03-25T17:30",
+      "legislature": 57
+    },
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2026-03-25T17:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-12-02T17:16",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Vanderlan Alves",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

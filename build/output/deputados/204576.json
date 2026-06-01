@@ -1,0 +1,66 @@
+{
+  "id": 204576,
+  "name": "João Roma",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204576.jpg",
+  "state": "BA",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-16T16:25",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2019-08-16T16:25",
+      "end": "2022-04-04T16:24",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-04-04T16:24",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2021-02-24T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-11-16T10:33",
+      "end": "2021-11-18T19:02",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-03-31T13:21",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "João Roma",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

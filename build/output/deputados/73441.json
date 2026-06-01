@@ -1,0 +1,136 @@
+{
+  "id": 73441,
+  "name": "Celso Russomanno",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
+  "state": "SP",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    },
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "party": "PPB",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PPB",
+      "start": "2003-02-01T00:00",
+      "end": "2003-06-02T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PP**",
+      "start": "2003-06-02T00:00",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PP**",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PRB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-16T16:25",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2019-08-16T16:25",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "CELSO RUSSOMANNO",
+      "start": "1995-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Celso Russomanno",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

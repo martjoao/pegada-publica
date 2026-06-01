@@ -1,0 +1,77 @@
+{
+  "id": 122466,
+  "name": "Ronaldo Martins",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/122466.jpg",
+  "state": "CE",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-16T16:25",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2019-08-16T16:25",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2019-10-09T19:19",
+      "end": "2020-02-08T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2020-08-12T17:32",
+      "end": "2020-12-13T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2022-08-03T16:00",
+      "end": "2022-12-02T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "RONALDO MARTINS",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Ronaldo Martins",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

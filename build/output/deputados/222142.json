@@ -1,0 +1,54 @@
+{
+  "id": 222142,
+  "name": "Coronel Telhada",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/222142.jpg",
+  "state": "SP",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-02-08T14:05",
+      "end": "2023-04-27T12:53",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-04-28T16:54",
+      "end": "2023-08-03T16:46",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-08-04T15:31",
+      "end": "2024-03-22T12:25",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Coronel Telhada",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 227660,
+  "name": "Nitinho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/227660.jpg",
+  "state": "SE",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-02-06T17:04",
+      "end": "2024-11-28T10:54",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-12-16T17:03",
+      "end": "2024-12-30T12:13",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-01-08T19:42",
+      "end": "2025-07-21T12:21",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Nitinho",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

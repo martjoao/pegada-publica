@@ -16,9 +16,11 @@ data/
 *.7z
 *.parquet
 
-# Build/site generated output
-/build/output/
+# Site public-data mirror (regenerated on demand)
 /site/public/data/
+
+# NOTE: /build/output/ is intentionally committed — it is the public open-data
+# artifact and the build-time input the CI Astro build reads (see decision 015).
 
 # ─── Python ────────────────────────────────────────────────────────────
 __pycache__/

@@ -1,0 +1,65 @@
+{
+  "id": 218086,
+  "name": "Ely Santos",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/218086.jpg",
+  "state": "SP",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    },
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2021-11-09T10:02",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2021-11-09T10:02",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2021-11-09T11:23",
+      "end": "2022-03-10T20:40",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-07-05T18:18",
+      "end": "2026-03-31T16:31",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Ely Santos",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

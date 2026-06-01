@@ -1,0 +1,49 @@
+{
+  "id": 6009,
+  "name": "Astronauta Marcos Pontes",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6009.jpg",
+  "state": "SP",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "SP",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "SP",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2022-03-27",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Astronauta Marcos Pontes",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

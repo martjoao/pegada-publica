@@ -1,0 +1,76 @@
+{
+  "id": 204419,
+  "name": "Glaustin da Fokus",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204419.jpg",
+  "state": "GO",
+  "current_party": "PODE",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "GO"
+    },
+    {
+      "legislature": 57,
+      "state": "GO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSC",
+      "start": "2023-02-01T00:00",
+      "end": "2023-08-22T00:00",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2023-08-22T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-08-01T11:42",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-12-03T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Glaustin Fokus",
+      "start": "2019-02-01T00:00",
+      "end": "2020-08-19T15:39"
+    },
+    {
+      "name": "Glaustin da Fokus",
+      "start": "2020-08-19T15:39",
+      "end": null
+    }
+  ]
+}

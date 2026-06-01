@@ -1,0 +1,125 @@
+{
+  "id": 74550,
+  "name": "João Leão",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74550.jpg",
+  "state": "BA",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "party": "PSDB",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PL*",
+      "start": "2003-02-01T00:00",
+      "end": "2005-09-28T10:57",
+      "legislature": 52
+    },
+    {
+      "party": "PP**",
+      "start": "2005-09-28T10:57",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PP**",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PP**",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1995-02-01T00:00",
+      "end": "1999-01-31T23:59",
+      "legislature": 50
+    },
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-01-31T23:59",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2009-08-20T11:20",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2010-03-31T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2011-03-16T11:36",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2012-03-15T11:43",
+      "end": "2014-12-31T09:28",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2026-04-08T15:03",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "JOÃO LEÃO",
+      "start": "1995-02-01T00:00",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "João Leão",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

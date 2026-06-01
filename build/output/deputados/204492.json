@@ -1,0 +1,59 @@
+{
+  "id": 204492,
+  "name": "Paulo Guedes",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204492.jpg",
+  "state": "MG",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MG"
+    },
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Paulo Guedes",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

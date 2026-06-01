@@ -1,0 +1,106 @@
+{
+  "id": 160673,
+  "name": "Giovani Cherini",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160673.jpg",
+  "state": "RS",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RS"
+    },
+    {
+      "legislature": 57,
+      "state": "RS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PDT",
+      "start": "2015-02-01T00:00",
+      "end": "2016-06-28T19:25",
+      "legislature": 55
+    },
+    {
+      "party": "S.PART.",
+      "start": "2016-06-28T19:25",
+      "end": "2016-07-12T16:02",
+      "legislature": 55
+    },
+    {
+      "party": "PR",
+      "start": "2016-07-12T16:02",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "GIOVANI CHERINI",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Giovani Cherini",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

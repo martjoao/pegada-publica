@@ -1,0 +1,41 @@
+{
+  "id": 6346,
+  "name": "Adélia Maria",
+  "photo_url": null,
+  "state": "AL",
+  "current_party": "PV",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "AL",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "AL",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PV",
+      "start": "2022-10-02",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Adélia Maria",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

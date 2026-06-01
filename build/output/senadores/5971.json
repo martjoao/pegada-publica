@@ -1,0 +1,49 @@
+{
+  "id": 5971,
+  "name": "Prisco Bezerra",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5971.jpg",
+  "state": "CE",
+  "current_party": "PDT",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "CE",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "CE",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2019-12-11",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-12-11",
+      "end": "2020-04-10",
+      "legislature": 56,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Prisco Bezerra",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

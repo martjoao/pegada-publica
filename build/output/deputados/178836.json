@@ -1,0 +1,77 @@
+{
+  "id": 178836,
+  "name": "Alan Rick",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178836.jpg",
+  "state": "AC",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "AC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2015-02-01T00:00",
+      "end": "2017-08-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2017-08-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2022-07-14T10:42",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-11-12T00:00",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "ALAN RICK",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Alan Rick",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

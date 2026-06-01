@@ -1,0 +1,65 @@
+{
+  "id": 178948,
+  "name": "Beto Rosado",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178948.jpg",
+  "state": "RN",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RN"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP**",
+      "start": "2015-02-01T00:00",
+      "end": "2018-12-11T10:29",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2018-12-11T10:29",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "BETO ROSADO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Beto Rosado",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

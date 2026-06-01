@@ -1,0 +1,89 @@
+{
+  "id": 168175,
+  "name": "Simplício Araújo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/168175.jpg",
+  "state": "MA",
+  "current_party": "SOLIDARIEDADE",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PPS",
+      "start": "2011-02-01T00:00",
+      "end": "2013-10-02T16:55",
+      "legislature": 54
+    },
+    {
+      "party": "SDD",
+      "start": "2013-10-02T16:55",
+      "end": "2014-04-24T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "SD",
+      "start": "2014-04-24T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2011-12-19T17:36",
+      "end": "2012-04-19T00:00",
+      "legislature": 54
+    },
+    {
+      "condition": "alternate",
+      "start": "2012-12-28T09:52",
+      "end": "2015-01-02T00:00",
+      "legislature": 54
+    },
+    {
+      "condition": "alternate",
+      "start": "2019-02-26T14:44",
+      "end": "2019-03-15T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-02-01T11:20",
+      "end": "2021-02-02T10:19",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-01-03T16:02",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "SIMPLÍCIO ARAÚJO",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Simplício Araújo",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

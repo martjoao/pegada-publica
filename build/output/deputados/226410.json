@@ -1,0 +1,42 @@
+{
+  "id": 226410,
+  "name": "Márcio Correa",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/226410.jpg",
+  "state": "GO",
+  "current_party": "MDB",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "GO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-08-08T14:03",
+      "end": "2023-12-06T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Márcio Correa",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

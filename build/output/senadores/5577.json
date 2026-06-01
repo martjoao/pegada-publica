@@ -1,0 +1,41 @@
+{
+  "id": 5577,
+  "name": "Fernando Façanha",
+  "photo_url": null,
+  "state": "CE",
+  "current_party": "PSDB",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "CE",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "CE",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Fernando Façanha",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

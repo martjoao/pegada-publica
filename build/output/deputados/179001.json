@@ -1,0 +1,130 @@
+{
+  "id": 179001,
+  "name": "Márcio Biolchi",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/179001.jpg",
+  "state": "RS",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RS"
+    },
+    {
+      "legislature": 57,
+      "state": "RS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMDB",
+      "start": "2015-02-01T00:00",
+      "end": "2018-05-21T11:16",
+      "legislature": 55
+    },
+    {
+      "party": "MDB",
+      "start": "2018-05-21T11:16",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "MDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "MDB",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2015-02-12T14:02",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-23T10:28",
+      "end": "2015-02-24T16:46",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-12-30T10:39",
+      "end": "2016-01-12T14:20",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-01-25T10:29",
+      "end": "2016-02-01T11:56",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-09-21T16:59",
+      "end": "2016-09-30T10:49",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-01-16T10:17",
+      "end": "2017-01-30T15:04",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-09-06T15:38",
+      "end": "2017-09-12T10:40",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2018-01-02T15:38",
+      "end": "2018-01-23T18:17",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2018-04-06T12:05",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "MÁRCIO BIOLCHI",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Márcio Biolchi",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

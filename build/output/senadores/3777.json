@@ -1,0 +1,78 @@
+{
+  "id": 3777,
+  "name": "Eduardo Gomes",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3777.jpg",
+  "state": "TO",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "TO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "TO",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2003-02-01",
+      "end": "2013-10-04"
+    },
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2013-10-05",
+      "end": "2019-01-29"
+    },
+    {
+      "party": "MDB",
+      "start": "2019-01-30",
+      "end": "2022-03-31"
+    },
+    {
+      "party": "PL",
+      "start": "2022-04-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2019-07-12",
+      "legislature": 56,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2019-08-15",
+      "end": "2022-07-18",
+      "legislature": 56,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2022-11-11",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Eduardo Gomes",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

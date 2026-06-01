@@ -1,0 +1,41 @@
+{
+  "id": 5986,
+  "name": "Rodolfo Nogueira",
+  "photo_url": null,
+  "state": "MS",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "MS",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "MS",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Rodolfo Nogueira",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

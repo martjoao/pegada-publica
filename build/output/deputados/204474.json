@@ -1,0 +1,77 @@
+{
+  "id": 204474,
+  "name": "Juarez Costa",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204474.jpg",
+  "state": "MT",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MT"
+    },
+    {
+      "legislature": 57,
+      "state": "MT"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "MDB",
+      "start": "2023-02-01T00:00",
+      "end": "2026-03-25T17:30",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2026-03-25T17:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-05-30T16:07",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-09-29T00:00",
+      "end": "2024-05-27T14:05",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-09-27T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Juarez Costa",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

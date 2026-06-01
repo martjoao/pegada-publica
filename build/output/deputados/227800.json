@@ -1,0 +1,54 @@
+{
+  "id": 227800,
+  "name": "Duarte Gonçalves Jr",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/227800.jpg",
+  "state": "MG",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2023-02-01T00:00",
+      "end": "2024-02-22T15:22",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2024-02-22T15:22",
+      "end": "2024-03-12T19:29",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2024-03-12T19:29",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-02-27T17:42",
+      "end": "2024-06-22T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Duarte Gonçalves Jr",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": 195866,
+  "name": "Vaidon Oliveira",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/195866.jpg",
+  "state": "CE",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDC",
+      "start": "2015-02-01T00:00",
+      "end": "2017-01-30T17:02",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2017-01-30T17:02",
+      "end": "2017-09-04T20:11",
+      "legislature": 55
+    },
+    {
+      "party": "PROS",
+      "start": "2017-09-04T20:11",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PROS",
+      "start": "2019-02-01T00:00",
+      "end": "2022-05-03T17:45",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-05-03T17:45",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2017-01-02T17:09",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2020-07-01T20:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2020-10-30T00:00",
+      "end": "2022-06-02T16:05",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-10-01T00:00",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "VAIDON OLIVEIRA",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Vaidon Oliveira",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

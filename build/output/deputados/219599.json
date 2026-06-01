@@ -1,0 +1,42 @@
+{
+  "id": 219599,
+  "name": "Sargento Alexandre",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/219599.jpg",
+  "state": "SP",
+  "current_party": "PODE",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PODE",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2022-06-09T11:51",
+      "end": "2022-10-08T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Sargento Alexandre",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

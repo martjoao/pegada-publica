@@ -1,0 +1,71 @@
+{
+  "id": 204533,
+  "name": "Idilvan Alencar",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
+  "state": "CE",
+  "current_party": "PSB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "CE"
+    },
+    {
+      "legislature": 57,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PDT",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-10T12:00",
+      "legislature": 57
+    },
+    {
+      "party": "PSB",
+      "start": "2026-04-10T12:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-01-03T17:12",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-03-27T09:49",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Idilvan Alencar",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

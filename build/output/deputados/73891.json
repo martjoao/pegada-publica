@@ -1,0 +1,125 @@
+{
+  "id": 73891,
+  "name": "Darcísio Perondi",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/73891.jpg",
+  "state": "RS",
+  "current_party": "MDB",
+  "current_condition": "alternate",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMDB",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "party": "PMDB",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PMDB",
+      "start": "2003-02-01T00:00",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PMDB",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PMDB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PMDB",
+      "start": "2015-02-01T00:00",
+      "end": "2018-05-21T11:16",
+      "legislature": 55
+    },
+    {
+      "party": "MDB",
+      "start": "2018-05-21T11:16",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "MDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2019-02-05T14:47",
+      "end": "2020-02-17T12:02",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "DARCÍSIO PERONDI",
+      "start": "1995-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Darcísio Perondi",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

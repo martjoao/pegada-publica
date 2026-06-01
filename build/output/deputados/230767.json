@@ -1,0 +1,42 @@
+{
+  "id": 230767,
+  "name": "Rodrigo da Zaeli",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/230767.jpg",
+  "state": "MT",
+  "current_party": "PL",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MT"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2025-01-01T13:34",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Rodrigo da Zaeli",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

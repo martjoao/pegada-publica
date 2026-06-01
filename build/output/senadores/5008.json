@@ -1,0 +1,68 @@
+{
+  "id": 5008,
+  "name": "Humberto Costa",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5008.jpg",
+  "state": "PE",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    54,
+    55,
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 54,
+      "state": "PE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 55,
+      "state": "PE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "PE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "PE",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2011-01-27",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01",
+      "end": "2019-01-31",
+      "legislature": 54,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Humberto Costa",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

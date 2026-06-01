@@ -1,0 +1,83 @@
+{
+  "id": 178863,
+  "name": "Uldurico Junior",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178863.jpg",
+  "state": "BA",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PTC",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-14T12:06",
+      "legislature": 55
+    },
+    {
+      "party": "PV",
+      "start": "2016-03-14T12:06",
+      "end": "2018-04-11T16:35",
+      "legislature": 55
+    },
+    {
+      "party": "PPL",
+      "start": "2018-04-11T16:35",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PPL",
+      "start": "2019-02-01T00:00",
+      "end": "2019-04-15T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PROS",
+      "start": "2019-04-15T00:00",
+      "end": "2022-04-05T19:52",
+      "legislature": 56
+    },
+    {
+      "party": "MDB",
+      "start": "2022-04-05T19:52",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "ULDURICO JUNIOR",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Uldurico Junior",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

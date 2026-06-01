@@ -1,0 +1,41 @@
+{
+  "id": 5581,
+  "name": "Fadi Faraj",
+  "photo_url": null,
+  "state": "DF",
+  "current_party": "SOLIDARIEDADE",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "DF",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "DF",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Fadi Faraj",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

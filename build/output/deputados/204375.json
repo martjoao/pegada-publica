@@ -1,0 +1,48 @@
+{
+  "id": 204375,
+  "name": "Leda Sadala",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204375.jpg",
+  "state": "AP",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "AP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "AVANTE",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-18T15:28",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2022-04-18T15:28",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Leda Sadala",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

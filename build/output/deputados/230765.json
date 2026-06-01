@@ -1,0 +1,42 @@
+{
+  "id": 230765,
+  "name": "Enfermeira Rejane",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/230765.jpg",
+  "state": "RJ",
+  "current_party": "PCdoB",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PCdoB",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2025-01-01T13:36",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Enfermeira Rejane",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 178888,
+  "name": "Victor Mendes",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178888.jpg",
+  "state": "MA",
+  "current_party": "MDB",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PV",
+      "start": "2015-02-01T00:00",
+      "end": "2015-11-18T19:20",
+      "legislature": 55
+    },
+    {
+      "party": "PMB",
+      "start": "2015-11-18T19:20",
+      "end": "2016-03-01T15:52",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2016-03-01T15:52",
+      "end": "2018-04-10T11:06",
+      "legislature": 55
+    },
+    {
+      "party": "PMDB",
+      "start": "2018-04-10T11:06",
+      "end": "2018-05-21T11:16",
+      "legislature": 55
+    },
+    {
+      "party": "MDB",
+      "start": "2018-05-21T11:16",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "MDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2022-03-30T19:46",
+      "end": "2022-07-30T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "VICTOR MENDES",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Victor Mendes",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

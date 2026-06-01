@@ -1,0 +1,81 @@
+{
+  "id": 132504,
+  "name": "Enio Verri",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/132504.jpg",
+  "state": "PR",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PR"
+    },
+    {
+      "legislature": 57,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-03-14T11:09",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "ENIO JOSE VERRI",
+      "start": "2015-02-01T00:00",
+      "end": "2015-02-02T00:00"
+    },
+    {
+      "name": "ENIO VERRI",
+      "start": "2015-02-02T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Enio Verri",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 5386,
+  "name": "Professora Dorinha Seabra",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5386.jpg",
+  "state": "TO",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "TO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "TO",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "DEM",
+      "start": "2011-02-01",
+      "end": "2022-02-23"
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Professora Dorinha Seabra",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

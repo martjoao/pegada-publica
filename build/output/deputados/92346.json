@@ -1,0 +1,100 @@
+{
+  "id": 92346,
+  "name": "Eduardo Bolsonaro",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/92346.jpg",
+  "state": "SP",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    },
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2015-02-01T00:00",
+      "end": "2018-03-27T19:59",
+      "legislature": 55
+    },
+    {
+      "party": "PSL",
+      "start": "2018-03-27T19:59",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-22T14:59",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-22T14:59",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-03-20T18:30",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-07-20T00:00",
+      "end": "2025-12-18T17:56",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "EDUARDO BOLSONARO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Eduardo Bolsonaro",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

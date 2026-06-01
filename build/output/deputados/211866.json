@@ -1,0 +1,70 @@
+{
+  "id": 211866,
+  "name": "Fabiano Tolentino",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/211866.jpg",
+  "state": "MG",
+  "current_party": "PODE",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PPS",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-04T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "CIDADANIA",
+      "start": "2019-05-04T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSC",
+      "start": "2023-02-01T00:00",
+      "end": "2025-02-26T17:36",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2025-02-26T17:36",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-08-29T14:21",
+      "end": "2020-03-25T09:30",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "FABIANO GALLETTI TOLENTINO",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-29T14:47"
+    },
+    {
+      "name": "FABIANO TOLENTINO",
+      "start": "2019-08-29T14:47",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Fabiano Tolentino",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

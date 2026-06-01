@@ -1,0 +1,65 @@
+{
+  "id": 178953,
+  "name": "Expedito Netto",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178953.jpg",
+  "state": "RO",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "SD",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-15T19:25",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2016-03-15T19:25",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "EXPEDITO NETTO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Expedito Netto",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

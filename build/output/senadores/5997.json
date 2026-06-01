@@ -1,0 +1,49 @@
+{
+  "id": 5997,
+  "name": "Nailde Panta",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5997.jpg",
+  "state": "PB",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "PB",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "PB",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2019-01-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2021-01-06",
+      "end": "2021-01-21",
+      "legislature": 56,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Nailde Panta",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

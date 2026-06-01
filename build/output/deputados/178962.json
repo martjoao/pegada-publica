@@ -1,0 +1,112 @@
+{
+  "id": 178962,
+  "name": "Carlos Gomes",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+  "state": "RS",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RS"
+    },
+    {
+      "legislature": 57,
+      "state": "RS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-16T16:25",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2019-08-16T16:25",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-11-08T12:06",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-11-21T10:09",
+      "end": "2023-11-27T11:17",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-11-30T09:04",
+      "end": "2023-12-07T10:58",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-12-03T09:37",
+      "end": "2024-12-10T17:01",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-11-11T10:36",
+      "end": "2025-11-17T17:21",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-02-05T17:38",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "CARLOS GOMES",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Carlos Gomes",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

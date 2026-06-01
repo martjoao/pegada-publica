@@ -1,0 +1,54 @@
+{
+  "id": 4979,
+  "name": "Bene Camacho",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4979.jpg",
+  "state": "MA",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "MA",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "MA",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PTB",
+      "start": "2009-10-15",
+      "end": "2023-11-09"
+    },
+    {
+      "party": "PSD",
+      "start": "2024-07-16",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-07-16",
+      "end": "2024-10-17",
+      "legislature": 56,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Bene Camacho",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

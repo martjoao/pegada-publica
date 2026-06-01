@@ -1,0 +1,105 @@
+{
+  "id": 141411,
+  "name": "Dagoberto Nogueira",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/141411.jpg",
+  "state": "MS",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MS"
+    },
+    {
+      "legislature": 57,
+      "state": "MS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PDT",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PDT",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-06T15:30",
+      "legislature": 56
+    },
+    {
+      "party": "PSDB",
+      "start": "2022-04-06T15:30",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSDB",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-10T12:00",
+      "legislature": 57
+    },
+    {
+      "party": "PP",
+      "start": "2026-04-10T12:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "DAGOBERTO",
+      "start": "2007-02-01T00:00",
+      "end": "2017-02-21T00:00"
+    },
+    {
+      "name": "DAGOBERTO NOGUEIRA",
+      "start": "2017-02-21T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Dagoberto Nogueira",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 234840,
+  "name": "Cristiano Furlan",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/234840.jpg",
+  "state": "AP",
+  "current_party": "REDE",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "AP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "REDE",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-12-18T14:29",
+      "end": "2026-03-04T11:26",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Cristiano Furlan",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

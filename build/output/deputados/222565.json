@@ -1,0 +1,42 @@
+{
+  "id": 222565,
+  "name": "Soldado Noelio",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/222565.jpg",
+  "state": "CE",
+  "current_party": "UNIÃO",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2026-02-11T17:09",
+      "end": "2026-04-03T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Soldado Noelio",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

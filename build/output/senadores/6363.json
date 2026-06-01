@@ -1,0 +1,49 @@
+{
+  "id": 6363,
+  "name": "Rosana Martinelli",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6363.jpg",
+  "state": "MT",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "MT",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "MT",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2024-06-12",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-06-12",
+      "end": "2024-10-27",
+      "legislature": 57,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Rosana Martinelli",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

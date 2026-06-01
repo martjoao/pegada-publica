@@ -1,0 +1,49 @@
+{
+  "id": 6372,
+  "name": "Bruno Bonetti",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6372.jpg",
+  "state": "RJ",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "RJ",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "RJ",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2025-12-16",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-12-16",
+      "end": "2026-04-09",
+      "legislature": 57,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Bruno Bonetti",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

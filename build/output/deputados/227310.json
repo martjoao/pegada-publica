@@ -1,0 +1,42 @@
+{
+  "id": 227310,
+  "name": "Silvio Antonio",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/227310.jpg",
+  "state": "MA",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-12-05T16:36",
+      "end": "2024-04-06T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Silvio Antonio",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

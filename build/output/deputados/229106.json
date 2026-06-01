@@ -1,0 +1,42 @@
+{
+  "id": 229106,
+  "name": "Carla Ayres",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/229106.jpg",
+  "state": "SC",
+  "current_party": "PT",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-06-26T14:27",
+      "end": "2024-10-17T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Carla Ayres",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

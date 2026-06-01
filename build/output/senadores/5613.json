@@ -1,0 +1,41 @@
+{
+  "id": 5613,
+  "name": "João Batista Lemos",
+  "photo_url": null,
+  "state": "RJ",
+  "current_party": "PCB",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "RJ",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "RJ",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PCB",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "João Batista Lemos",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": 154919,
+  "name": "Eleuses Paiva",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/154919.jpg",
+  "state": "SP",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "2007-02-01T00:00",
+      "end": "2007-04-23T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "DEM",
+      "start": "2007-04-23T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "DEM",
+      "start": "2011-02-01T00:00",
+      "end": "2011-10-26T12:08",
+      "legislature": 54
+    },
+    {
+      "party": "PSD",
+      "start": "2011-10-26T12:08",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2009-04-22T16:20",
+      "end": "2010-03-31T15:10",
+      "legislature": 53
+    },
+    {
+      "condition": "alternate",
+      "start": "2011-01-05T09:35",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "alternate",
+      "start": "2011-02-04T10:59",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "alternate",
+      "start": "2022-04-26T13:57",
+      "end": "2022-08-17T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "ELEUSES PAIVA",
+      "start": "2007-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Eleuses Paiva",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

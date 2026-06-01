@@ -1,0 +1,87 @@
+{
+  "id": 825,
+  "name": "Paulo Paim",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador825.jpg",
+  "state": "RS",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    52,
+    53,
+    54,
+    55,
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 52,
+      "state": "RS",
+      "condition": "titular"
+    },
+    {
+      "legislature": 53,
+      "state": "RS",
+      "condition": "titular"
+    },
+    {
+      "legislature": 54,
+      "state": "RS",
+      "condition": "titular"
+    },
+    {
+      "legislature": 55,
+      "state": "RS",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "RS",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "RS",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "1999-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2003-02-01",
+      "end": "2011-01-31",
+      "legislature": 52,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01",
+      "end": "2019-01-31",
+      "legislature": 54,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Paulo Paim",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

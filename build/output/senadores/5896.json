@@ -1,0 +1,35 @@
+{
+  "id": 5896,
+  "name": "Benjamin Beze Junior",
+  "photo_url": null,
+  "state": "GO",
+  "current_party": null,
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "GO",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "GO",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Benjamin Beze Junior",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 204571,
+  "name": "Alex Santana",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204571.jpg",
+  "state": "BA",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    },
+    {
+      "legislature": 57,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2019-02-01T00:00",
+      "end": "2022-03-23T17:15",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2022-03-23T17:15",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2026-04-08T14:30",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Alex Santana",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

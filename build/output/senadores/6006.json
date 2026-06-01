@@ -1,0 +1,49 @@
+{
+  "id": 6006,
+  "name": "Ogari Pacheco",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6006.jpg",
+  "state": "TO",
+  "current_party": "UNIÃO",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "TO",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "TO",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2022-07-18",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2022-07-18",
+      "end": "2022-11-11",
+      "legislature": 56,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Ogari Pacheco",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

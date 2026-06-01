@@ -1,0 +1,53 @@
+{
+  "id": 233598,
+  "name": "Samuel Santos",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/233598.jpg",
+  "state": "GO",
+  "current_party": "PODE",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "GO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2023-02-01T00:00",
+      "end": "2025-08-01T14:42",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2025-08-01T14:42",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-08-05T18:21",
+      "end": "2025-12-03T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Samuel dos Santos",
+      "start": "2023-02-01T00:00",
+      "end": "2025-08-05T18:22"
+    },
+    {
+      "name": "Samuel Santos",
+      "start": "2025-08-05T18:22",
+      "end": null
+    }
+  ]
+}

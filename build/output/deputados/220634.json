@@ -1,0 +1,54 @@
+{
+  "id": 220634,
+  "name": "Marcelo Lima",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220634.jpg",
+  "state": "SP",
+  "current_party": "PSB",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2023-02-01T00:00",
+      "end": "2023-03-07T00:00",
+      "legislature": 57
+    },
+    {
+      "party": "S.PART.",
+      "start": "2023-03-07T00:00",
+      "end": "2023-05-17T17:39",
+      "legislature": 57
+    },
+    {
+      "party": "PSB",
+      "start": "2023-05-17T17:39",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-11-30T12:26",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Marcelo Lima",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

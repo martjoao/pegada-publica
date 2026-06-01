@@ -1,0 +1,96 @@
+{
+  "id": 90,
+  "name": "José Serra",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador90.jpg",
+  "state": "SP",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    50,
+    51,
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 50,
+      "state": "SP",
+      "condition": "titular"
+    },
+    {
+      "legislature": 51,
+      "state": "SP",
+      "condition": "titular"
+    },
+    {
+      "legislature": 55,
+      "state": "SP",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "SP",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "1995-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1995-02-01",
+      "end": "1995-02-03",
+      "legislature": 50,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "1996-06-03",
+      "end": "1998-03-31",
+      "legislature": 50,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2002-02-22",
+      "end": "2003-01-31",
+      "legislature": 50,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2016-05-13",
+      "legislature": 55,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2017-02-23",
+      "end": "2021-08-10",
+      "legislature": 55,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2022-01-31",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "José Serra",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

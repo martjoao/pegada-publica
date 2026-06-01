@@ -1,0 +1,95 @@
+{
+  "id": 160667,
+  "name": "Guilherme Mussi",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160667.jpg",
+  "state": "SP",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PV",
+      "start": "2011-02-01T00:00",
+      "end": "2011-10-26T18:11",
+      "legislature": 54
+    },
+    {
+      "party": "PSD",
+      "start": "2011-10-26T18:11",
+      "end": "2013-08-06T17:27",
+      "legislature": 54
+    },
+    {
+      "party": "PP**",
+      "start": "2013-08-06T17:27",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PP**",
+      "start": "2015-02-01T00:00",
+      "end": "2018-12-11T10:29",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2018-12-11T10:29",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2019-08-13T15:17",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2019-12-13T00:00",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "GUILHERME MUSSI",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Guilherme Mussi",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

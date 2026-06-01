@@ -1,0 +1,119 @@
+{
+  "id": 178924,
+  "name": "Capitão Fábio Abreu",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178924.jpg",
+  "state": "PI",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PI"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PTB",
+      "start": "2015-02-01T00:00",
+      "end": "2018-04-04T17:07",
+      "legislature": 55
+    },
+    {
+      "party": "PR",
+      "start": "2018-04-04T17:07",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2022-03-22T15:07",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2022-03-22T15:07",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2015-03-10T11:19",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-07-06T10:08",
+      "end": "2015-07-07T11:17",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-04-15T09:16",
+      "end": "2016-04-19T10:19",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-10-18T10:52",
+      "end": "2016-10-21T10:34",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-10-19T13:14",
+      "end": "2017-10-27T09:39",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2018-04-09T15:11",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2019-03-28T11:09",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2019-10-16T13:51",
+      "end": "2019-10-22T18:36",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2020-06-12T10:17",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "CAPITÃO FÁBIO ABREU",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Capitão Fábio Abreu",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

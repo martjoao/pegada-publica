@@ -1,0 +1,53 @@
+{
+  "id": 204475,
+  "name": "OTTACI NASCIMENTO",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204475.jpg",
+  "state": "RR",
+  "current_party": "SOLIDARIEDADE",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2020-09-09T16:55",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-01-09T00:00",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Otaci Nascimento",
+      "start": "2019-02-01T00:00",
+      "end": "2020-02-18T12:22"
+    },
+    {
+      "name": "OTTACI NASCIMENTO",
+      "start": "2020-02-18T12:22",
+      "end": null
+    }
+  ]
+}

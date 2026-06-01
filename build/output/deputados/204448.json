@@ -1,0 +1,106 @@
+{
+  "id": 204448,
+  "name": "Luiz Antonio Corrêa",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204448.jpg",
+  "state": "RJ",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "DC",
+      "start": "2019-02-01T00:00",
+      "end": "2019-03-18T15:42",
+      "legislature": 56
+    },
+    {
+      "party": "S.PART.",
+      "start": "2019-03-18T15:42",
+      "end": "2019-08-21T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-08-21T17:05",
+      "end": "2022-03-30T14:53",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2022-03-30T14:53",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-02-15T10:58",
+      "end": "2023-09-12T10:21",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-08-22T12:00",
+      "end": "2025-11-07T16:54",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-19T19:16",
+      "end": "2025-12-01T12:19",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-12-03T19:07",
+      "end": "2026-02-04T10:55",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2026-02-23T21:25",
+      "end": "2026-03-02T10:45",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Luiz Antônio Corrêa",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Luiz Antonio Corrêa",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

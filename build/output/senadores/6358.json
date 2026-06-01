@@ -1,0 +1,66 @@
+{
+  "id": 6358,
+  "name": "Ana Paula Lobato",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6358.jpg",
+  "state": "MA",
+  "current_party": "PSB",
+  "current_condition": "alternate",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "MA",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "MA",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2023-02-02",
+      "end": "2024-04-23"
+    },
+    {
+      "party": "PDT",
+      "start": "2024-04-24",
+      "end": "2026-03-03"
+    },
+    {
+      "party": "PSB",
+      "start": "2026-03-04",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-02-02",
+      "end": "2024-01-31",
+      "legislature": 57,
+      "cause": "Retorno do titular"
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-02-21",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Ana Paula Lobato",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

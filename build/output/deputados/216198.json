@@ -1,0 +1,48 @@
+{
+  "id": 216198,
+  "name": "Norma Pereira",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/216198.jpg",
+  "state": "SC",
+  "current_party": "PSDB",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2021-03-31T18:02",
+      "end": "2021-05-11T00:01",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-01-02T19:01",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Norma Pereira",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

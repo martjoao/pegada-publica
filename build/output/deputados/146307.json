@@ -1,0 +1,71 @@
+{
+  "id": 146307,
+  "name": "Neri Geller",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/146307.jpg",
+  "state": "MT",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MT"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PP**",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2007-04-02T00:00",
+      "end": "2007-08-01T00:00",
+      "legislature": 53
+    },
+    {
+      "condition": "alternate",
+      "start": "2011-02-02T18:15",
+      "end": "2011-10-26T14:30",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "NERI GELLER",
+      "start": "2007-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Neri Geller",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

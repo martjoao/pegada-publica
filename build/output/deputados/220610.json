@@ -1,0 +1,48 @@
+{
+  "id": 220610,
+  "name": "Dr. Fernando Máximo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220610.jpg",
+  "state": "RO",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-01T14:00",
+      "legislature": 57
+    },
+    {
+      "party": "PL",
+      "start": "2026-04-01T14:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Dr. Fernando Máximo",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

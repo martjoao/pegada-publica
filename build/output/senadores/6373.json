@@ -1,0 +1,35 @@
+{
+  "id": 6373,
+  "name": "Andrea Fontes",
+  "photo_url": null,
+  "state": "RJ",
+  "current_party": null,
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "RJ",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "RJ",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Andrea Fontes",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

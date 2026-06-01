@@ -1,0 +1,83 @@
+{
+  "id": 178959,
+  "name": "Hiran Gonçalves",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178959.jpg",
+  "state": "RR",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMN",
+      "start": "2015-02-01T00:00",
+      "end": "2015-11-26T12:08",
+      "legislature": 55
+    },
+    {
+      "party": "PMB",
+      "start": "2015-11-26T12:08",
+      "end": "2016-03-09T10:32",
+      "legislature": 55
+    },
+    {
+      "party": "S.PART.",
+      "start": "2016-03-09T10:32",
+      "end": "2016-03-18T11:13",
+      "legislature": 55
+    },
+    {
+      "party": "PP**",
+      "start": "2016-03-18T11:13",
+      "end": "2018-12-11T10:29",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2018-12-11T10:29",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "HIRAN GONÇALVES",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Hiran Gonçalves",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 206231,
+  "name": "Ted Conti",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/206231.jpg",
+  "state": "ES",
+  "current_party": "PSB",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "ES"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-02-05T18:28",
+      "end": "2022-03-30T09:40",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Ted Conti",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 5070,
+  "name": "Wilder Morais",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5070.jpg",
+  "state": "GO",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "GO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "GO",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "DEM",
+      "start": "2011-02-03",
+      "end": "2015-09-14"
+    },
+    {
+      "party": "PP",
+      "start": "2015-09-15",
+      "end": "2018-04-04"
+    },
+    {
+      "party": "DEM",
+      "start": "2018-04-05",
+      "end": "2019-08-16"
+    },
+    {
+      "party": "PROS",
+      "start": "2019-08-17",
+      "end": "2020-09-13"
+    },
+    {
+      "party": "PSC",
+      "start": "2020-09-14",
+      "end": "2022-03-27"
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-28",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Wilder Morais",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

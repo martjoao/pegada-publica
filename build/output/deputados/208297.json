@@ -1,0 +1,54 @@
+{
+  "id": 208297,
+  "name": "Katia Dias",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/208297.jpg",
+  "state": "MG",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2023-02-01T00:00",
+      "end": "2025-02-26T18:11",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2025-02-26T18:11",
+      "end": "2025-03-11T17:15",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2025-03-11T17:15",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-02-27T12:53",
+      "end": "2025-06-28T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Katia Dias",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

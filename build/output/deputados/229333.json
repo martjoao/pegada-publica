@@ -1,0 +1,42 @@
+{
+  "id": 229333,
+  "name": "Gláucia Santiago",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/229333.jpg",
+  "state": "MG",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-07-09T14:21",
+      "end": "2024-11-08T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Gláucia Santiago",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

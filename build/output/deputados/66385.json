@@ -1,0 +1,48 @@
+{
+  "id": 66385,
+  "name": "Julio Arcoverde",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/66385.jpg",
+  "state": "PI",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PI"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-11-04T09:56",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-02-04T19:03",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Julio Arcoverde",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": 178887,
+  "name": "Rubens Pereira Júnior",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178887.jpg",
+  "state": "MA",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MA"
+    },
+    {
+      "legislature": 57,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PCdoB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PCdoB",
+      "start": "2019-02-01T00:00",
+      "end": "2022-03-31T14:34",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2022-03-31T14:34",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2019-02-25T12:42",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2020-06-03T10:39",
+      "end": "2020-06-05T13:18",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2020-10-04T00:00",
+      "end": "2021-01-11T19:32",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-01-29T14:06",
+      "end": "2021-02-02T12:09",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-08-03T09:16",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "RUBENS PEREIRA JÚNIOR",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Rubens Pereira Júnior",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

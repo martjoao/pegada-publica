@@ -1,0 +1,60 @@
+{
+  "id": 89536,
+  "name": "Prof. Paulo Fernando",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/89536.jpg",
+  "state": "DF",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "DF"
+    }
+  ],
+  "parties": [
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-03-07T15:23",
+      "end": "2023-04-18T11:41",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-05-09T18:41",
+      "end": "2023-07-13T17:05",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-08-02T17:18",
+      "end": "2023-10-02T10:39",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-10-24T19:37",
+      "end": "2024-01-04T09:30",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Prof. Paulo Fernando",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 204505,
+  "name": "VAVÁ MARTINS",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204505.jpg",
+  "state": "PA",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-16T16:25",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2019-08-16T16:25",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "WAGNER BACH MARTINS",
+      "start": "2019-02-01T00:00",
+      "end": "2019-02-06T09:53"
+    },
+    {
+      "name": "VAVÁ MARTINS",
+      "start": "2019-02-06T09:53",
+      "end": null
+    }
+  ]
+}

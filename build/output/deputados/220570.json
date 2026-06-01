@@ -1,0 +1,47 @@
+{
+  "id": 220570,
+  "name": "Dr. Ismael Alexandrino",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220570.jpg",
+  "state": "GO",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "GO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Ismael Alexandrino",
+      "start": "2023-02-01T00:00",
+      "end": "2025-01-22T11:44"
+    },
+    {
+      "name": "Dr. Ismael Alexandrino",
+      "start": "2025-01-22T11:44",
+      "end": null
+    }
+  ]
+}

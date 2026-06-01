@@ -1,0 +1,59 @@
+{
+  "id": 204418,
+  "name": "LUIZÃO GOULART",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204418.jpg",
+  "state": "PR",
+  "current_party": "SOLIDARIEDADE",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-16T16:25",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2019-08-16T16:25",
+      "end": "2022-03-24T14:51",
+      "legislature": 56
+    },
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2022-03-24T14:51",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "PROFESSOR LUIZÃO GOULART",
+      "start": "2019-02-01T00:00",
+      "end": "2019-04-02T18:36"
+    },
+    {
+      "name": "LUIZÃO GOULART",
+      "start": "2019-04-02T18:36",
+      "end": null
+    }
+  ]
+}

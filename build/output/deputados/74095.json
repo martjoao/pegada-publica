@@ -1,0 +1,131 @@
+{
+  "id": 74095,
+  "name": "Pauderney Avelino",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74095.jpg",
+  "state": "AM",
+  "current_party": "UNIÃO",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "AM"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDC",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "party": "PPR",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "party": "PFL",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PFL",
+      "start": "2003-02-01T00:00",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "DEM",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "DEM",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "condition": "titular",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2013-01-04T11:02",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2013-12-18T12:25",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-01-22T15:00",
+      "end": "2024-10-31T12:53",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-19T19:21",
+      "end": "2026-03-04T12:31",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "PAUDERNEY AVELINO",
+      "start": "1991-02-01T00:00",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Pauderney Avelino",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 5571,
+  "name": "Marquinho",
+  "photo_url": null,
+  "state": "AP",
+  "current_party": "DEM",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "AP",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "AP",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "DEM",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Marquinho",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

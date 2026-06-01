@@ -1,0 +1,76 @@
+{
+  "id": 4642,
+  "name": "Efraim Filho",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4642.jpg",
+  "state": "PB",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "PB",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "PB",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "2007-02-01",
+      "end": "2007-04-23"
+    },
+    {
+      "party": "S/Partido",
+      "start": "2007-04-24",
+      "end": "2007-08-02"
+    },
+    {
+      "party": "DEM",
+      "start": "2007-08-03",
+      "end": "2022-02-23"
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23",
+      "end": "2026-03-29"
+    },
+    {
+      "party": "PL",
+      "start": "2026-03-30",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": "2024-06-19",
+      "legislature": 57,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2024-10-18",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Efraim Filho",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

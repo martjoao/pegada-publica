@@ -1,0 +1,54 @@
+{
+  "id": 115746,
+  "name": "Gelson Azevedo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/115746.jpg",
+  "state": "RJ",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PHS",
+      "start": "2019-02-01T00:00",
+      "end": "2019-02-25T16:33",
+      "legislature": 56
+    },
+    {
+      "party": "PR",
+      "start": "2019-02-25T16:33",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Gelson Azevedo",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

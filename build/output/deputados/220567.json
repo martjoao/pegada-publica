@@ -1,0 +1,54 @@
+{
+  "id": 220567,
+  "name": "Jeferson Rodrigues",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220567.jpg",
+  "state": "GO",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "GO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": "2026-03-25T17:30",
+      "legislature": 57
+    },
+    {
+      "party": "PSDB",
+      "start": "2026-03-25T17:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-12-12T14:26",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-04-11T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Jeferson Rodrigues",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

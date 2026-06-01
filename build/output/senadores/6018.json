@@ -1,0 +1,41 @@
+{
+  "id": 6018,
+  "name": "Reginete Bispo",
+  "photo_url": null,
+  "state": "RS",
+  "current_party": "PT",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "RS",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "RS",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2023-02-03",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Reginete Bispo",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

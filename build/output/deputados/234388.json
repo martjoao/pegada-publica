@@ -1,0 +1,48 @@
+{
+  "id": 234388,
+  "name": "Fabiano Cazeca",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/234388.jpg",
+  "state": "MG",
+  "current_party": "PRD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PATRIOTA",
+      "start": "2023-02-01T00:00",
+      "end": "2025-10-30T17:32",
+      "legislature": 57
+    },
+    {
+      "party": "PRD",
+      "start": "2025-10-30T17:32",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-10-30T18:06",
+      "end": "2026-02-28T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Fabiano Cazeca",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 5615,
+  "name": "Gilberto Piselo",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5615.jpg",
+  "state": "RO",
+  "current_party": "PDT",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "RO",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "RO",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2016-09-08",
+      "end": "2016-09-14",
+      "legislature": 55,
+      "cause": "Licença Saúde-Particular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Gilberto Piselo",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

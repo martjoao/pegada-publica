@@ -1,0 +1,83 @@
+{
+  "id": 204425,
+  "name": "Silvio Costa Filho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
+  "state": "PE",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PE"
+    },
+    {
+      "legislature": 57,
+      "state": "PE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-16T16:25",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2019-08-16T16:25",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-09-13T18:06",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-02-01T13:05",
+      "end": "2025-02-03T16:40",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-10-08T18:38",
+      "end": "2025-10-09T13:45",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-03-31T15:52",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Silvio Costa Filho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

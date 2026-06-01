@@ -1,0 +1,101 @@
+{
+  "id": 141428,
+  "name": "Fábio Faria",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/141428.jpg",
+  "state": "RN",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RN"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMN",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PMN",
+      "start": "2011-02-01T00:00",
+      "end": "2011-10-26T12:05",
+      "legislature": 54
+    },
+    {
+      "party": "PSD",
+      "start": "2011-10-26T12:05",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PSD",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-13T17:06",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2022-04-13T17:06",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2020-06-17T14:11",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-12-22T10:09",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "FÁBIO FARIA",
+      "start": "2007-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Fábio Faria",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 204531,
+  "name": "Guilherme Derrite",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204531.jpg",
+  "state": "SP",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    },
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2022-03-29T14:19",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-29T14:19",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": "2025-11-10T20:18",
+      "legislature": 57
+    },
+    {
+      "party": "PP",
+      "start": "2025-11-10T20:18",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-01T15:43",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-02-02T10:53",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-03-12T09:50",
+      "end": "2024-03-21T17:42",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-11-06T09:53",
+      "end": "2025-11-24T16:46",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-12-02T10:13",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "GUILHERME DERRITE",
+      "start": "2019-02-01T00:00",
+      "end": "2022-03-30T13:02"
+    },
+    {
+      "name": "Capitão Derrite",
+      "start": "2022-03-30T13:02",
+      "end": "2023-01-30T15:18"
+    },
+    {
+      "name": "Guilherme Derrite",
+      "start": "2023-01-30T15:18",
+      "end": null
+    }
+  ]
+}

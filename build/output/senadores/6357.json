@@ -1,0 +1,41 @@
+{
+  "id": 6357,
+  "name": "Hélio Araújo",
+  "photo_url": null,
+  "state": "GO",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "GO",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "GO",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2022-10-02",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Hélio Araújo",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

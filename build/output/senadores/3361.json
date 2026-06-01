@@ -1,0 +1,75 @@
+{
+  "id": 3361,
+  "name": "José Maranhão",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3361.jpg",
+  "state": "PB",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    52,
+    53,
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 52,
+      "state": "PB",
+      "condition": "titular"
+    },
+    {
+      "legislature": 53,
+      "state": "PB",
+      "condition": "titular"
+    },
+    {
+      "legislature": 55,
+      "state": "PB",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "PB",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "2003-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2003-02-01",
+      "end": "2006-07-31",
+      "legislature": 52,
+      "cause": "Licença Saúde-Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2006-12-01",
+      "end": "2009-02-17",
+      "legislature": 52,
+      "cause": "Renúncia"
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2021-01-06",
+      "legislature": 55,
+      "cause": "Licença saúde"
+    }
+  ],
+  "names": [
+    {
+      "name": "José Maranhão",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": 178925,
+  "name": "Rejane Dias",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178925.jpg",
+  "state": "PI",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PI"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2015-03-23T14:20",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-07-06T10:10",
+      "end": "2015-07-07T11:20",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-04-13T11:23",
+      "end": "2016-04-19T10:23",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-10-18T10:52",
+      "end": "2016-10-21T10:34",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-10-19T11:35",
+      "end": "2017-10-23T16:53",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-10-26T14:52",
+      "end": "2017-10-27T10:05",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2018-04-09T15:05",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-12T11:56",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "REJANE DIAS",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Rejane Dias",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

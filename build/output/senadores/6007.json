@@ -1,0 +1,35 @@
+{
+  "id": 6007,
+  "name": "Ivani Boscolo",
+  "photo_url": null,
+  "state": "SP",
+  "current_party": null,
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "SP",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "SP",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Ivani Boscolo",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

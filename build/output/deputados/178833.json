@@ -1,0 +1,95 @@
+{
+  "id": 178833,
+  "name": "Alexandre Serfiotis",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178833.jpg",
+  "state": "RJ",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-21T20:25",
+      "legislature": 55
+    },
+    {
+      "party": "PMDB",
+      "start": "2016-03-21T20:25",
+      "end": "2018-04-06T15:06",
+      "legislature": 55
+    },
+    {
+      "party": "S.PART.",
+      "start": "2018-04-06T15:06",
+      "end": "2018-04-10T18:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2018-04-10T18:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2015-02-09T19:03",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-12T09:11",
+      "end": "2015-12-15T15:13",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-12-22T15:22",
+      "end": "2016-02-17T09:41",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-02-19T14:28",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2021-01-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "ALEXANDRE SERFIOTIS",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Alexandre Serfiotis",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

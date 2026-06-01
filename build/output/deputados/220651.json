@@ -1,0 +1,48 @@
+{
+  "id": 220651,
+  "name": "Simone Marquetto",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+  "state": "SP",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-08T19:30",
+      "legislature": 57
+    },
+    {
+      "party": "PP",
+      "start": "2026-04-08T19:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Simone Marquetto",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

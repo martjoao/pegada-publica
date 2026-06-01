@@ -1,0 +1,56 @@
+{
+  "id": 6305,
+  "name": "José Lacerda",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6305.jpg",
+  "state": "MT",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "MT",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "MT",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2025-10-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-10-01",
+      "end": "2025-11-12",
+      "legislature": 56,
+      "cause": "Retorno do titular"
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-15",
+      "end": "2026-01-29",
+      "legislature": 56,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "José Lacerda",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

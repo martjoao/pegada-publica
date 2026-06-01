@@ -1,0 +1,42 @@
+{
+  "id": 234788,
+  "name": "Heloísa Helena",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/234788.jpg",
+  "state": "RJ",
+  "current_party": "REDE",
+  "current_condition": "alternate",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "REDE",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-12-16T15:29",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Heloísa Helena",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

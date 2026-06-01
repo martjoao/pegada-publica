@@ -1,0 +1,35 @@
+{
+  "id": 5981,
+  "name": "Major Ildomario",
+  "photo_url": null,
+  "state": "SE",
+  "current_party": null,
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "SE",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "SE",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Major Ildomario",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

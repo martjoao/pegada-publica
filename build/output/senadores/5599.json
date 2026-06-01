@@ -1,0 +1,41 @@
+{
+  "id": 5599,
+  "name": "Pastor Ibanes Taveira",
+  "photo_url": null,
+  "state": "PA",
+  "current_party": "PDT",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "PA",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "PA",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Pastor Ibanes Taveira",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

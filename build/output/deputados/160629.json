@@ -1,0 +1,71 @@
+{
+  "id": 160629,
+  "name": "Romero Rodrigues",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160629.jpg",
+  "state": "PB",
+  "current_party": "PODE",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PB"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PSC",
+      "start": "2023-02-01T00:00",
+      "end": "2023-08-22T00:00",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2023-08-22T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2012-07-02T15:54",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2012-10-31T00:00",
+      "end": "2013-01-01T00:00",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "ROMERO RODRIGUES",
+      "start": "2011-02-01T00:00",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Romero Rodrigues",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

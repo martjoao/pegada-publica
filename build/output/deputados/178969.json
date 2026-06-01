@@ -1,0 +1,70 @@
+{
+  "id": 178969,
+  "name": "Fábio Mitidieri",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178969.jpg",
+  "state": "SE",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2022-07-04T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-11-03T00:00",
+      "end": "2023-01-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "FÁBIO CRUZ MITIDIERI",
+      "start": "2015-02-01T00:00",
+      "end": "2015-02-03T00:00"
+    },
+    {
+      "name": "FÁBIO MITIDIERI",
+      "start": "2015-02-03T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Fábio Mitidieri",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

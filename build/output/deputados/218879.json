@@ -1,0 +1,48 @@
+{
+  "id": 218879,
+  "name": "Nelho Bezerra",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/218879.jpg",
+  "state": "CE",
+  "current_party": "UNIÃO",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PROS",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-13T16:09",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-04-13T16:09",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2022-03-16T14:01",
+      "end": "2022-07-14T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Nelho Bezerra",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

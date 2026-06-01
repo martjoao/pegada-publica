@@ -1,0 +1,54 @@
+{
+  "id": 204564,
+  "name": "Igor Kannário",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204564.jpg",
+  "state": "BA",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PHS",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-27T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "DEM",
+      "start": "2019-08-27T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Igor Kannário",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

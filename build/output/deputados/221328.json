@@ -1,0 +1,60 @@
+{
+  "id": 221328,
+  "name": "Adilson Barroso",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+  "state": "SP",
+  "current_party": "PL",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-02-02T11:17",
+      "end": "2024-03-12T09:50",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-03-21T17:48",
+      "end": "2025-11-06T09:53",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-24T17:01",
+      "end": "2025-12-02T10:13",
+      "legislature": 57
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2025-12-14T18:39",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Adilson Barroso",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

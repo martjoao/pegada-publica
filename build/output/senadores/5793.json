@@ -1,0 +1,64 @@
+{
+  "id": 5793,
+  "name": "Dr. Hiran",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5793.jpg",
+  "state": "RR",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "RR",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "RR",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMN",
+      "start": "2015-02-01",
+      "end": "2015-11-25"
+    },
+    {
+      "party": "PMB",
+      "start": "2015-11-26",
+      "end": "2016-03-08"
+    },
+    {
+      "party": "S/Partido",
+      "start": "2016-03-09",
+      "end": "2016-03-17"
+    },
+    {
+      "party": "PP",
+      "start": "2016-03-18",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Dr. Hiran",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

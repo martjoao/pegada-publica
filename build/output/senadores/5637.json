@@ -1,0 +1,56 @@
+{
+  "id": 5637,
+  "name": "Donizeti Nogueira",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5637.jpg",
+  "state": "TO",
+  "current_party": "PT",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "TO",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "TO",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2015-02-03",
+      "end": "2016-05-11",
+      "legislature": 55,
+      "cause": "Retorno do titular"
+    },
+    {
+      "condition": "alternate",
+      "start": "2018-10-29",
+      "end": "2018-10-29",
+      "legislature": 55,
+      "cause": "Licença Particular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Donizeti Nogueira",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

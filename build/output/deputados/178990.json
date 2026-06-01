@@ -1,0 +1,83 @@
+{
+  "id": 178990,
+  "name": "Samuel Moreira",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178990.jpg",
+  "state": "SP",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2016-04-06T09:17",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-04-14T11:36",
+      "end": "2016-04-19T12:13",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-10-19T11:13",
+      "end": "2016-10-21T14:47",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-10-19T11:56",
+      "end": "2017-10-21T00:00",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2018-04-06T10:47",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "SAMUEL MOREIRA",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Samuel Moreira",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

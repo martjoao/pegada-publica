@@ -1,0 +1,77 @@
+{
+  "id": 205476,
+  "name": "Charles Fernandes",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/205476.jpg",
+  "state": "BA",
+  "current_party": "PSD",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    },
+    {
+      "legislature": 57,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-02-08T14:03",
+      "end": "2023-11-17T10:25",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-12-06T17:20",
+      "end": "2024-11-29T10:48",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-12-10T12:44",
+      "end": "2025-11-11T10:22",
+      "legislature": 57
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2025-12-23T15:01",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Charles Fernandes",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

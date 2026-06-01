@@ -1,0 +1,42 @@
+{
+  "id": 229069,
+  "name": "Capitão Samuel",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/229069.jpg",
+  "state": "SE",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-06-18T14:13",
+      "end": "2024-10-13T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Capitão Samuel",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

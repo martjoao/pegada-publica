@@ -1,0 +1,48 @@
+{
+  "id": 76874,
+  "name": "Marcelo Freixo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/76874.jpg",
+  "state": "RJ",
+  "current_party": "PSB",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSOL",
+      "start": "2019-02-01T00:00",
+      "end": "2021-06-29T18:01",
+      "legislature": 56
+    },
+    {
+      "party": "PSB",
+      "start": "2021-06-29T18:01",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-17T10:16",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Marcelo Freixo",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 214694,
+  "name": "Jorge Goetten",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
+  "state": "SC",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SC"
+    },
+    {
+      "legislature": 57,
+      "state": "SC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": "2024-06-21T14:44",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2024-06-21T14:44",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2020-10-06T15:05",
+      "end": "2021-01-30T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-04-25T11:19",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-08-24T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Jorge Goetten",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

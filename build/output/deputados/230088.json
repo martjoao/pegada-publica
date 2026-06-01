@@ -1,0 +1,42 @@
+{
+  "id": 230088,
+  "name": "Dra. Mayra Pinheiro",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/230088.jpg",
+  "state": "CE",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-09-16T14:00",
+      "end": "2025-01-18T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Dra. Mayra Pinheiro",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

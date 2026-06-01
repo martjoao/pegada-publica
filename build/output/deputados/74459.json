@@ -1,0 +1,155 @@
+{
+  "id": 74459,
+  "name": "Átila Lira",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74459.jpg",
+  "state": "PI",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PI"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "1987-02-01T00:00",
+      "end": "1991-02-01T00:00",
+      "legislature": 48
+    },
+    {
+      "party": "PFL",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "party": "PFL",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PSDB",
+      "start": "2003-02-01T00:00",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PSDB",
+      "start": "2007-02-01T00:00",
+      "end": "2007-02-28T10:39",
+      "legislature": 53
+    },
+    {
+      "party": "PSB",
+      "start": "2007-02-28T10:39",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PSB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PSB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSB",
+      "start": "2019-02-01T00:00",
+      "end": "2019-11-20T13:52",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2019-11-20T13:52",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1987-02-01T00:00",
+      "end": "1991-02-01T00:00",
+      "legislature": 48
+    },
+    {
+      "condition": "titular",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-01T00:00",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-01-27T14:34",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2011-02-03T15:03",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2014-04-03T15:50",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "ÁTILA LIRA",
+      "start": "1987-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Átila Lira",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

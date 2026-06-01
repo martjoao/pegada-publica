@@ -1,0 +1,42 @@
+{
+  "id": 225846,
+  "name": "Itamar Paim",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/225846.jpg",
+  "state": "PR",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2026-05-05T14:25",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Itamar Paim",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": 204433,
+  "name": "Marcelo Calero",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204433.jpg",
+  "state": "RJ",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PPS",
+      "start": "2019-02-01T00:00",
+      "end": "2019-04-05T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "CIDADANIA",
+      "start": "2019-04-05T00:00",
+      "end": "2022-03-01T18:59",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2022-03-01T18:59",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2021-01-01T19:35",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-01-29T07:44",
+      "end": "2021-02-03T09:22",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-02-19T09:48",
+      "end": "2021-02-20T12:14",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-02-25T08:59",
+      "end": "2021-03-03T10:08",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-03-25T15:11",
+      "end": "2021-03-29T07:54",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-07-07T09:26",
+      "end": "2021-07-19T10:08",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-08-10T10:03",
+      "end": "2021-08-16T10:28",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-10-19T08:40",
+      "end": "2021-10-22T13:38",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-11-16T07:53",
+      "end": "2021-11-19T08:10",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-02-23T09:00",
+      "end": "2022-03-02T16:50",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-04-01T07:34",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-05-09T14:17",
+      "end": "2023-05-10T15:25",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-09-25T16:04",
+      "end": "2023-09-29T14:55",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-12-05T16:07",
+      "end": "2023-12-06T16:55",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-04-01T18:10",
+      "end": "2024-05-03T10:50",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-12-30T12:38",
+      "end": "2025-01-22T10:08",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-02-03T17:24",
+      "end": "2025-02-07T12:17",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Marcelo Calero",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

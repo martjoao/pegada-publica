@@ -1,0 +1,59 @@
+{
+  "id": 5976,
+  "name": "Eduardo Girão",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5976.jpg",
+  "state": "CE",
+  "current_party": "NOVO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "CE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "CE",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PROS",
+      "start": "2019-01-01",
+      "end": "2019-02-01"
+    },
+    {
+      "party": "PODEMOS",
+      "start": "2019-02-02",
+      "end": "2023-02-06"
+    },
+    {
+      "party": "NOVO",
+      "start": "2023-02-07",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Eduardo Girão",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

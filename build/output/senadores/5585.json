@@ -1,0 +1,54 @@
+{
+  "id": 5585,
+  "name": "Luiz Carlos do Carmo",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5585.jpg",
+  "state": "GO",
+  "current_party": "PSC",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "GO",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "GO",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "2015-02-01",
+      "end": "2022-03-28"
+    },
+    {
+      "party": "PSC",
+      "start": "2022-03-29",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-01-02",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "Luiz Carlos do Carmo",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 178994,
+  "name": "Dulce Miranda",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178994.jpg",
+  "state": "TO",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "TO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMDB",
+      "start": "2015-02-01T00:00",
+      "end": "2018-05-21T11:16",
+      "legislature": 55
+    },
+    {
+      "party": "MDB",
+      "start": "2018-05-21T11:16",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "MDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2018-08-01T14:27",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2018-11-30T00:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "DULCE MIRANDA",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Dulce Miranda",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

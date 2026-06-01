@@ -1,0 +1,118 @@
+{
+  "id": 160600,
+  "name": "Arthur Oliveira Maia",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+  "state": "BA",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    },
+    {
+      "legislature": 57,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMDB",
+      "start": "2011-02-01T00:00",
+      "end": "2013-10-04T11:23",
+      "legislature": 54
+    },
+    {
+      "party": "SDD",
+      "start": "2013-10-04T11:23",
+      "end": "2014-04-24T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "SD",
+      "start": "2014-04-24T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "SD",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-17T16:39",
+      "legislature": 55
+    },
+    {
+      "party": "PPS",
+      "start": "2016-03-17T16:39",
+      "end": "2018-04-10T19:14",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2018-04-10T19:14",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "ARTHUR OLIVEIRA MAIA",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Arthur Oliveira Maia",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

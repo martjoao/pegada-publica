@@ -1,0 +1,60 @@
+{
+  "id": 90842,
+  "name": "Santini",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/90842.jpg",
+  "state": "RS",
+  "current_party": "PTB",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PTB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-02-12T15:04",
+      "end": "2019-10-21T17:30",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2019-10-25T18:36",
+      "end": "2020-01-07T12:37",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2020-02-03T16:05",
+      "end": "2021-01-26T11:24",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-02-05T17:46",
+      "end": "2021-02-26T09:36",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Santini",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

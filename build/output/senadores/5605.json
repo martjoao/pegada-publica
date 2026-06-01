@@ -1,0 +1,41 @@
+{
+  "id": 5605,
+  "name": "Eliane Rodrigues",
+  "photo_url": null,
+  "state": "PE",
+  "current_party": "PSB",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "PE",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "PE",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Eliane Rodrigues",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

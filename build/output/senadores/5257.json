@@ -1,0 +1,41 @@
+{
+  "id": 5257,
+  "name": "Renzo Braz",
+  "photo_url": null,
+  "state": "MG",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "MG",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "MG",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2011-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Renzo Braz",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

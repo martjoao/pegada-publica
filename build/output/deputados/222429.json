@@ -1,0 +1,60 @@
+{
+  "id": 222429,
+  "name": "Luis Carlos Gomes",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/222429.jpg",
+  "state": "RJ",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-02-08T15:56",
+      "end": "2023-11-21T13:00",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-11-28T14:31",
+      "end": "2024-12-03T11:13",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-12-06T17:54",
+      "end": "2025-11-04T11:10",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-07T19:55",
+      "end": "2026-03-25T14:44",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Luis Carlos Gomes",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

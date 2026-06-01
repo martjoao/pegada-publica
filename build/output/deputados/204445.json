@@ -1,0 +1,54 @@
+{
+  "id": 204445,
+  "name": "Fernando Mineiro",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204445.jpg",
+  "state": "RN",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RN"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": "2023-02-01T23:59",
+      "legislature": 57
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T23:59",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Fernando Mineiro",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

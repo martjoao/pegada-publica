@@ -1,0 +1,167 @@
+{
+  "id": 74319,
+  "name": "Paes Landim",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74319.jpg",
+  "state": "PI",
+  "current_party": "UNIÃO",
+  "current_condition": "Efetivado",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PI"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "1987-02-01T00:00",
+      "end": "1991-02-01T00:00",
+      "legislature": 48
+    },
+    {
+      "party": "PFL",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "party": "PFL",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "party": "PFL",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PFL",
+      "start": "2003-02-01T00:00",
+      "end": "2004-02-14T11:16",
+      "legislature": 52
+    },
+    {
+      "party": "PTB",
+      "start": "2004-02-14T11:16",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PTB",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PTB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PTB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PTB",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-25T11:40",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-04-25T11:40",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1987-02-01T00:00",
+      "end": "1991-02-01T00:00",
+      "legislature": 48
+    },
+    {
+      "condition": "titular",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "condition": "titular",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2019-06-11T16:50",
+      "end": "2019-10-16T13:51",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2022-04-04T17:07",
+      "end": "2022-08-03T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2023-01-04T09:17",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "PAES LANDIM",
+      "start": "1987-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Paes Landim",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

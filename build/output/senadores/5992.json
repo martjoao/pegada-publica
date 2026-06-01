@@ -1,0 +1,35 @@
+{
+  "id": 5992,
+  "name": "Danilo Martins de Oliveira",
+  "photo_url": null,
+  "state": "MG",
+  "current_party": null,
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "MG",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "MG",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Danilo Martins de Oliveira",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

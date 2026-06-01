@@ -1,0 +1,99 @@
+{
+  "id": 160517,
+  "name": "Paulo Folletto",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160517.jpg",
+  "state": "ES",
+  "current_party": "PSB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "ES"
+    },
+    {
+      "legislature": 57,
+      "state": "ES"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PSB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSB",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2019-02-05T17:52",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-03-30T09:40",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "PAULO FOLETTO",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Paulo Foletto",
+      "start": "2019-02-01T00:00",
+      "end": "2023-12-14T16:00"
+    },
+    {
+      "name": "Paulo Folletto",
+      "start": "2023-12-14T16:00",
+      "end": null
+    }
+  ]
+}

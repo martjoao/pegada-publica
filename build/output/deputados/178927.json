@@ -1,0 +1,94 @@
+{
+  "id": 178927,
+  "name": "Aliel Machado",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
+  "state": "PR",
+  "current_party": "PV",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PR"
+    },
+    {
+      "legislature": 57,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PCdoB",
+      "start": "2015-02-01T00:00",
+      "end": "2015-09-30T16:08",
+      "legislature": 55
+    },
+    {
+      "party": "REDE",
+      "start": "2015-09-30T16:08",
+      "end": "2018-03-06T17:03",
+      "legislature": 55
+    },
+    {
+      "party": "PSB",
+      "start": "2018-03-06T17:03",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSB",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-06T13:11",
+      "legislature": 56
+    },
+    {
+      "party": "PV",
+      "start": "2022-04-06T13:11",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PV",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "ALIEL MACHADO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Aliel Machado",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

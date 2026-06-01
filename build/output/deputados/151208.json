@@ -1,0 +1,107 @@
+{
+  "id": 151208,
+  "name": "Laercio Oliveira",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/151208.jpg",
+  "state": "SE",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PR",
+      "start": "2011-02-01T00:00",
+      "end": "2013-10-02T11:12",
+      "legislature": 54
+    },
+    {
+      "party": "SDD",
+      "start": "2013-10-02T11:12",
+      "end": "2014-04-24T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "SD",
+      "start": "2014-04-24T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "SD",
+      "start": "2015-02-01T00:00",
+      "end": "2018-04-10T20:31",
+      "legislature": 55
+    },
+    {
+      "party": "PP**",
+      "start": "2018-04-10T20:31",
+      "end": "2018-12-11T10:29",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2018-12-11T10:29",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2008-08-12T12:12",
+      "end": "2008-11-08T00:00",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "LAERCIO OLIVEIRA",
+      "start": "2007-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Laercio Oliveira",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 74858,
+  "name": "Lindbergh Farias",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg",
+  "state": "RJ",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PCdoB",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "party": "PT",
+      "start": "2003-02-01T00:00",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1995-02-01T00:00",
+      "end": "1999-01-31T23:59",
+      "legislature": 50
+    },
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2004-12-21T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "LINDBERG FARIAS",
+      "start": "1995-02-01T00:00",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Lindbergh Farias",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

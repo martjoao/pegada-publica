@@ -1,0 +1,65 @@
+{
+  "id": 75431,
+  "name": "Maurício Dziedricki",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/75431.jpg",
+  "state": "RS",
+  "current_party": "PODE",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PTB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PTB",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-04T13:28",
+      "legislature": 56
+    },
+    {
+      "party": "PODE",
+      "start": "2022-04-04T13:28",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2011-02-08T14:39",
+      "end": "2011-02-15T11:43",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "MAURÍCIO DZIEDRICKI",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Maurício Dziedricki",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 220642,
+  "name": "Delegado Bruno Lima",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
+  "state": "SP",
+  "current_party": "PODE",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-07T11:45",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2026-04-07T11:45",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-02-07T18:21",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-04-27T12:53",
+      "end": "2023-04-28T16:44",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-08-03T16:46",
+      "end": "2023-08-04T15:30",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-03-22T12:25",
+      "end": "2024-03-25T16:50",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-08-01T15:50",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Delegado Bruno Lima",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

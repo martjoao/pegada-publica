@@ -1,0 +1,48 @@
+{
+  "id": 204366,
+  "name": "Rodrigo Coelho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204366.jpg",
+  "state": "SC",
+  "current_party": "PODE",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2019-02-01T00:00",
+      "end": "2021-11-09T16:53",
+      "legislature": 56
+    },
+    {
+      "party": "PODE",
+      "start": "2021-11-09T16:53",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Rodrigo Coelho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

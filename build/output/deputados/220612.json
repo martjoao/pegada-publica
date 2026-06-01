@@ -1,0 +1,48 @@
+{
+  "id": 220612,
+  "name": "Bebeto",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg",
+  "state": "RJ",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PTB",
+      "start": "2023-02-01T00:00",
+      "end": "2023-02-01T13:22",
+      "legislature": 57
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T13:22",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Bebeto",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

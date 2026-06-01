@@ -1,0 +1,172 @@
+{
+  "id": 74856,
+  "name": "Laura Carneiro",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
+  "state": "RJ",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP***",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "party": "PFL",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PFL",
+      "start": "2003-02-01T00:00",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PTB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PTB",
+      "start": "2015-02-01T00:00",
+      "end": "2015-10-27T18:01",
+      "legislature": 55
+    },
+    {
+      "party": "PMDB",
+      "start": "2015-10-27T18:01",
+      "end": "2018-03-03T15:59",
+      "legislature": 55
+    },
+    {
+      "party": "S.PART.",
+      "start": "2018-03-03T15:59",
+      "end": "2018-03-09T17:02",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2018-03-09T17:02",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "alternate",
+      "start": "2015-10-27T18:00",
+      "end": "2016-04-14T10:27",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-04-28T15:49",
+      "end": "2016-07-12T09:51",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-07-20T11:06",
+      "end": "2016-09-12T09:28",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-09-14T11:58",
+      "end": "2016-11-29T18:17",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2017-01-01T15:16",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-06-23T17:33",
+      "end": "2021-06-24T10:06",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-08-12T16:45",
+      "end": "2021-08-13T15:05",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "LAURA CARNEIRO",
+      "start": "1995-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Laura Carneiro",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": 74141,
+  "name": "Josias Gomes",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74141.jpg",
+  "state": "BA",
+  "current_party": "PT",
+  "current_condition": "alternate",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    },
+    {
+      "legislature": 57,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2003-02-01T00:00",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PT",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PT",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-01T00:00",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2015-02-03T18:43",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2015-07-07T10:01",
+      "end": "2015-07-09T14:37",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-02-01T12:11",
+      "end": "2016-02-03T09:26",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-08-01T17:52",
+      "end": "2017-08-23T12:11",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2018-04-11T10:45",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2019-03-13T14:36",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2019-10-22T15:19",
+      "end": "2019-10-29T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-01-29T14:21",
+      "end": "2021-02-03T16:16",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-04-01T10:20",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-02-07T15:03",
+      "end": "2023-11-22T10:20",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-11-24T16:45",
+      "end": "2023-11-30T12:08",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-12-07T16:36",
+      "end": "2024-11-29T09:56",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-12-10T19:17",
+      "end": "2025-07-16T12:28",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-07-17T16:36",
+      "end": "2025-11-12T10:47",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-18T17:14",
+      "end": "2026-01-02T14:36",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "JOSIAS GOMES",
+      "start": "2003-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Josias Gomes",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

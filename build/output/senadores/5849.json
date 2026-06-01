@@ -1,0 +1,77 @@
+{
+  "id": 5849,
+  "name": "José Amauri",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5849.jpg",
+  "state": "PI",
+  "current_party": "PODEMOS",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    54,
+    55,
+    56,
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 54,
+      "state": "PI",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 55,
+      "state": "PI",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "PI",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "PI",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "PI",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRTB",
+      "start": "2011-02-03",
+      "end": "2015-01-31"
+    },
+    {
+      "party": "PROS",
+      "start": "2015-02-01",
+      "end": "2018-04-07"
+    },
+    {
+      "party": "PODEMOS",
+      "start": "2018-04-08",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2018-07-10",
+      "end": "2018-11-07",
+      "legislature": 55,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "José Amauri",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

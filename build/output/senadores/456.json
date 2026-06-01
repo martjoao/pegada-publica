@@ -1,0 +1,54 @@
+{
+  "id": 456,
+  "name": "Ronaldo Caiado",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador456.jpg",
+  "state": "GO",
+  "current_party": "DEM",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "GO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "GO",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "1999-02-01",
+      "end": "2007-04-23"
+    },
+    {
+      "party": "DEM",
+      "start": "2007-04-24",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2019-01-01",
+      "legislature": 55,
+      "cause": "Renúncia"
+    }
+  ],
+  "names": [
+    {
+      "name": "Ronaldo Caiado",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

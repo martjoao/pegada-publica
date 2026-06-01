@@ -1,0 +1,48 @@
+{
+  "id": 220625,
+  "name": "Delegada Ione",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
+  "state": "MG",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "AVANTE",
+      "start": "2023-02-01T00:00",
+      "end": "2026-05-15T10:00",
+      "legislature": 57
+    },
+    {
+      "party": "PL",
+      "start": "2026-05-15T10:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Delegada Ione",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

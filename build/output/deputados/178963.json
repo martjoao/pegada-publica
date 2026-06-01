@@ -1,0 +1,112 @@
+{
+  "id": 178963,
+  "name": "Covatti Filho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178963.jpg",
+  "state": "RS",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RS"
+    },
+    {
+      "legislature": 57,
+      "state": "RS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP**",
+      "start": "2015-02-01T00:00",
+      "end": "2018-12-11T10:29",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2018-12-11T10:29",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2019-02-12T14:21",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2019-10-21T17:30",
+      "end": "2019-10-25T18:26",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2020-01-07T12:37",
+      "end": "2020-02-03T15:56",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-01-26T11:24",
+      "end": "2021-02-05T14:47",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-02-26T09:36",
+      "end": "2021-03-02T17:04",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2021-03-30T10:05",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2026-04-07T15:43",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "COVATTI FILHO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Covatti Filho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

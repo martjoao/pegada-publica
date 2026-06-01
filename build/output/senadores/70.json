@@ -1,0 +1,120 @@
+{
+  "id": 70,
+  "name": "Renan Calheiros",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador70.jpg",
+  "state": "AL",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 50,
+      "state": "AL",
+      "condition": "titular"
+    },
+    {
+      "legislature": 51,
+      "state": "AL",
+      "condition": "titular"
+    },
+    {
+      "legislature": 52,
+      "state": "AL",
+      "condition": "titular"
+    },
+    {
+      "legislature": 53,
+      "state": "AL",
+      "condition": "titular"
+    },
+    {
+      "legislature": 54,
+      "state": "AL",
+      "condition": "titular"
+    },
+    {
+      "legislature": 55,
+      "state": "AL",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "AL",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "AL",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "1995-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1995-02-01",
+      "end": "1998-04-06",
+      "legislature": 50,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "1999-07-19",
+      "end": "2003-01-31",
+      "legislature": 50,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2003-02-01",
+      "end": "2011-01-31",
+      "legislature": 52,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01",
+      "end": "2019-01-31",
+      "legislature": 54,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2022-06-02",
+      "legislature": 56,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2022-10-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Renan Calheiros",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

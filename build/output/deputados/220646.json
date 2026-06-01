@@ -1,0 +1,60 @@
+{
+  "id": 220646,
+  "name": "Felipe Becari",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220646.jpg",
+  "state": "SP",
+  "current_party": "PODE",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": "2026-03-25T17:30",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2026-03-25T17:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-12-20T10:45",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-12-02T15:44",
+      "end": "2024-12-04T15:18",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-01-02T11:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Felipe Becari",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

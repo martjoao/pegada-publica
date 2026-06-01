@@ -1,0 +1,112 @@
+{
+  "id": 188097,
+  "name": "Merlong Solano",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/188097.jpg",
+  "state": "PI",
+  "current_party": "PT",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PI"
+    },
+    {
+      "legislature": 57,
+      "state": "PI"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2015-03-25T14:02",
+      "end": "2015-05-12T16:17",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2015-07-07T13:30",
+      "end": "2015-07-08T09:28",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-04-19T10:41",
+      "end": "2016-04-20T15:49",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-10-21T10:55",
+      "end": "2016-10-24T18:07",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2017-10-27T10:23",
+      "end": "2017-10-30T09:52",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2019-03-28T11:51",
+      "end": "2019-06-11T15:10",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2019-10-22T18:45",
+      "end": "2019-11-05T17:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2020-07-08T09:49",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "MERLONG SOLANO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Merlong Solano",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

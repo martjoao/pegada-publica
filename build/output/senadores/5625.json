@@ -1,0 +1,41 @@
+{
+  "id": 5625,
+  "name": "Adilson Silva dos Santos",
+  "photo_url": null,
+  "state": "RS",
+  "current_party": "PEN",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "RS",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "RS",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PEN",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Adilson Silva dos Santos",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

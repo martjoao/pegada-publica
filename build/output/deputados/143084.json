@@ -1,0 +1,65 @@
+{
+  "id": 143084,
+  "name": "Tiago Dimas",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/143084.jpg",
+  "state": "TO",
+  "current_party": "PODE",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "TO"
+    },
+    {
+      "legislature": 57,
+      "state": "TO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-04T14:29",
+      "legislature": 56
+    },
+    {
+      "party": "PODE",
+      "start": "2022-04-04T14:29",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PODE",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2025-07-31T19:16",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Tiago Dimas",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

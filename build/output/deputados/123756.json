@@ -1,0 +1,94 @@
+{
+  "id": 123756,
+  "name": "Antônia Lúcia",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
+  "state": "AC",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "AC"
+    },
+    {
+      "legislature": 57,
+      "state": "AC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2022-07-14T10:52",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-07-14T10:52",
+      "end": "2022-07-19T16:04",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2022-07-19T16:04",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-10T12:00",
+      "legislature": 57
+    },
+    {
+      "party": "MDB",
+      "start": "2026-04-10T12:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "alternate",
+      "start": "2022-07-14T11:58",
+      "end": "2022-11-12T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "ANTÔNIA LÚCIA",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Antônia Lúcia",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

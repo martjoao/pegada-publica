@@ -1,0 +1,112 @@
+{
+  "id": 178943,
+  "name": "Marcos Soares",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178943.jpg",
+  "state": "RJ",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PR",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-18T17:11",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2016-03-18T17:11",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-08T19:30",
+      "legislature": 57
+    },
+    {
+      "party": "PSDB",
+      "start": "2026-04-08T19:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-01-02T11:32",
+      "end": "2021-01-27T09:07",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-04-20T13:48",
+      "end": "2021-11-18T17:10",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-11-19T11:25",
+      "end": "2022-10-05T15:16",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-01-01T22:41",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "MARCOS SOARES",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Marcos Soares",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

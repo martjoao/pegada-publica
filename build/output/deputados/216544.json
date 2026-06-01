@@ -1,0 +1,48 @@
+{
+  "id": 216544,
+  "name": "Paulo Vicente Caleffi",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/216544.jpg",
+  "state": "RS",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2021-05-04T18:12",
+      "end": "2021-11-10T09:27",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-11-22T16:28",
+      "end": "2022-03-31T15:50",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Paulo Vicente Caleffi",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

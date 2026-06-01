@@ -1,0 +1,64 @@
+{
+  "id": 4811,
+  "name": "Laércio Oliveira",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4811.jpg",
+  "state": "SE",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "SE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "SE",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2008-08-12",
+      "end": "2011-01-31"
+    },
+    {
+      "party": "PL",
+      "start": "2011-02-01",
+      "end": "2013-10-01"
+    },
+    {
+      "party": "SOLIDARIEDADE",
+      "start": "2013-10-02",
+      "end": "2018-04-09"
+    },
+    {
+      "party": "PP",
+      "start": "2018-04-10",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Laércio Oliveira",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

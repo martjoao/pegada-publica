@@ -1,0 +1,71 @@
+{
+  "id": 133968,
+  "name": "Paulo Ramos",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/133968.jpg",
+  "state": "RJ",
+  "current_party": "PDT",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMDB",
+      "start": "1987-02-01T00:00",
+      "end": "1991-02-01T00:00",
+      "legislature": 48
+    },
+    {
+      "party": "PDT",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "party": "PDT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1987-02-01T00:00",
+      "end": "1991-02-01T00:00",
+      "legislature": 48
+    },
+    {
+      "condition": "Efetivado",
+      "start": "1991-04-04T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "PAULO RAMOS",
+      "start": "1987-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Paulo Ramos",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

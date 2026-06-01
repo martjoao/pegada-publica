@@ -1,0 +1,54 @@
+{
+  "id": 5559,
+  "name": "Bispo José",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5559.jpg",
+  "state": "AC",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "AC",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "AC",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2015-02-01",
+      "end": "2023-01-01"
+    },
+    {
+      "party": "PL",
+      "start": "2023-01-02",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-01-02",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "Bispo José",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

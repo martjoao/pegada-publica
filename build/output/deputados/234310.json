@@ -1,0 +1,42 @@
+{
+  "id": 234310,
+  "name": "Ricardo Galvão",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/234310.jpg",
+  "state": "SP",
+  "current_party": "REDE",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "REDE",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-10-29T21:33",
+      "end": "2026-03-31T17:11",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Ricardo Galvão",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

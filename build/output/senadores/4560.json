@@ -1,0 +1,80 @@
+{
+  "id": 4560,
+  "name": "Sérgio Petecão",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4560.jpg",
+  "state": "AC",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    54,
+    55,
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 54,
+      "state": "AC",
+      "condition": "titular"
+    },
+    {
+      "legislature": 55,
+      "state": "AC",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "AC",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "AC",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMN",
+      "start": "2007-02-01",
+      "end": "2011-10-31"
+    },
+    {
+      "party": "PSD",
+      "start": "2011-11-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01",
+      "end": "2019-01-31",
+      "legislature": 54,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2022-07-06",
+      "legislature": 56,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2022-11-04",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Sérgio Petecão",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

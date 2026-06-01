@@ -1,0 +1,48 @@
+{
+  "id": 227991,
+  "name": "Dr Flávio",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg",
+  "state": "RJ",
+  "current_party": "PL",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-05-07T14:08",
+      "end": "2024-09-04T00:00",
+      "legislature": 57
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2025-12-29T14:21",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Dr Flávio",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

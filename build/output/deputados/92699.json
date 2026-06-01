@@ -1,0 +1,106 @@
+{
+  "id": 92699,
+  "name": "Fernando Monteiro",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/92699.jpg",
+  "state": "PE",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PE"
+    },
+    {
+      "legislature": 57,
+      "state": "PE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP**",
+      "start": "2015-02-01T00:00",
+      "end": "2018-12-11T10:29",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2018-12-11T10:29",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": "2025-03-26T16:00",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2025-03-26T16:00",
+      "end": "2025-12-01T19:00",
+      "legislature": 57
+    },
+    {
+      "party": "PSD",
+      "start": "2025-12-01T19:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2015-02-04T16:12",
+      "end": "2016-04-15T15:00",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-04-20T16:02",
+      "end": "2018-04-06T15:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2019-01-01T11:51",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "FERNANDO MONTEIRO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Fernando Monteiro",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

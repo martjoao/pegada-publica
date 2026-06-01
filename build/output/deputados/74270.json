@@ -1,0 +1,106 @@
+{
+  "id": 74270,
+  "name": "Gilberto Nascimento",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
+  "state": "SP",
+  "current_party": "PODE",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    },
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2003-02-01T00:00",
+      "end": "2003-08-25T10:19",
+      "legislature": 52
+    },
+    {
+      "party": "PMDB",
+      "start": "2003-08-25T10:19",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PSC",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSC",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSC",
+      "start": "2023-02-01T00:00",
+      "end": "2023-05-24T21:30",
+      "legislature": 57
+    },
+    {
+      "party": "PSD",
+      "start": "2023-05-24T21:30",
+      "end": "2026-04-29T22:10",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2026-04-29T22:10",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "GILBERTO NASCIMENTO",
+      "start": "2003-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Gilberto Nascimento",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

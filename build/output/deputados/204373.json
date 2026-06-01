@@ -1,0 +1,54 @@
+{
+  "id": 204373,
+  "name": "Hélio Costa",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204373.jpg",
+  "state": "SC",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-16T16:25",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2019-08-16T16:25",
+      "end": "2022-03-30T17:56",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2022-03-30T17:56",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Hélio Costa",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

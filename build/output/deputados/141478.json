@@ -1,0 +1,99 @@
+{
+  "id": 141478,
+  "name": "Laerte Bessa",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/141478.jpg",
+  "state": "DF",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "DF"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMDB",
+      "start": "2007-02-01T00:00",
+      "end": "2009-09-29T16:33",
+      "legislature": 53
+    },
+    {
+      "party": "S.PART.",
+      "start": "2009-09-29T16:33",
+      "end": "2009-10-08T11:04",
+      "legislature": 53
+    },
+    {
+      "party": "PSC",
+      "start": "2009-10-08T11:04",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PR",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2021-03-31T21:46",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2021-03-31T21:46",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-04-07T17:48",
+      "end": "2022-03-31T11:55",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "LAERTE BESSA",
+      "start": "2007-02-01T00:00",
+      "end": "2015-02-01T00:00"
+    },
+    {
+      "name": "LAERTE RODRIGUES DE BESSA",
+      "start": "2015-02-01T00:00",
+      "end": "2015-02-26T00:00"
+    },
+    {
+      "name": "LAERTE BESSA",
+      "start": "2015-02-26T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Laerte Bessa",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

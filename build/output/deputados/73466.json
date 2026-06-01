@@ -1,0 +1,101 @@
+{
+  "id": 73466,
+  "name": "Rubens Bueno",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/73466.jpg",
+  "state": "PR",
+  "current_party": "CIDADANIA",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "party": "PTB",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PPS",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PPS",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PPS",
+      "start": "2019-02-01T00:00",
+      "end": "2019-04-05T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "CIDADANIA",
+      "start": "2019-04-05T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "RUBENS BUENO",
+      "start": "1991-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Rubens Bueno",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 178839,
+  "name": "Jéssica Sales",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178839.jpg",
+  "state": "AC",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "AC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMDB",
+      "start": "2015-02-01T00:00",
+      "end": "2018-05-21T11:16",
+      "legislature": 55
+    },
+    {
+      "party": "MDB",
+      "start": "2018-05-21T11:16",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "MDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "JÉSSICA SALES",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Jéssica Sales",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

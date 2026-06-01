@@ -1,0 +1,103 @@
+{
+  "id": 345,
+  "name": "Flávio Arns",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador345.jpg",
+  "state": "PR",
+  "current_party": "PSB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    52,
+    53,
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 52,
+      "state": "PR",
+      "condition": "titular"
+    },
+    {
+      "legislature": 53,
+      "state": "PR",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "PR",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "PR",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "1999-02-01",
+      "end": "2001-10-05"
+    },
+    {
+      "party": "S/Partido",
+      "start": "2001-10-06",
+      "end": "2003-01-31"
+    },
+    {
+      "party": "PT",
+      "start": "2003-02-01",
+      "end": "2009-09-10"
+    },
+    {
+      "party": "S/Partido",
+      "start": "2009-09-11",
+      "end": "2009-10-07"
+    },
+    {
+      "party": "PSDB",
+      "start": "2009-10-08",
+      "end": "2018-12-31"
+    },
+    {
+      "party": "REDE",
+      "start": "2019-01-01",
+      "end": "2020-08-29"
+    },
+    {
+      "party": "PODEMOS",
+      "start": "2020-08-31",
+      "end": "2023-01-30"
+    },
+    {
+      "party": "PSB",
+      "start": "2023-01-31",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2003-02-01",
+      "end": "2010-12-31",
+      "legislature": 52,
+      "cause": "Renúncia"
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Flávio Arns",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

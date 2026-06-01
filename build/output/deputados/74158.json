@@ -1,0 +1,136 @@
+{
+  "id": 74158,
+  "name": "Mário Heringer",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74158.jpg",
+  "state": "MG",
+  "current_party": "PDT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MG"
+    },
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2003-02-01T00:00",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PDT",
+      "start": "2007-02-01T00:00",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PDT",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PDT",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PDT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PDT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "titular",
+      "start": "2007-02-01T00:00",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "alternate",
+      "start": "2013-02-07T14:35",
+      "end": "2013-10-15T10:31",
+      "legislature": 54
+    },
+    {
+      "condition": "alternate",
+      "start": "2013-10-22T11:38",
+      "end": "2013-11-26T10:28",
+      "legislature": 54
+    },
+    {
+      "condition": "alternate",
+      "start": "2013-12-06T14:40",
+      "end": "2014-04-04T14:49",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2017-04-11T00:00",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-08-19T00:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2024-04-08T11:28",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-08-07T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "MÁRIO HERINGER",
+      "start": "2003-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Mário Heringer",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 213856,
+  "name": "Deuzinho Filho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/213856.jpg",
+  "state": "CE",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PROS",
+      "start": "2019-02-01T00:00",
+      "end": "2020-07-02T12:13",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2020-07-02T12:13",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2020-07-02T11:56",
+      "end": "2020-10-30T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Deuzinho Filho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

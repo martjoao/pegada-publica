@@ -1,0 +1,99 @@
+{
+  "id": 178871,
+  "name": "Evair Vieira de Melo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
+  "state": "ES",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "ES"
+    },
+    {
+      "legislature": 57,
+      "state": "ES"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PV",
+      "start": "2015-02-01T00:00",
+      "end": "2018-04-10T14:47",
+      "legislature": 55
+    },
+    {
+      "party": "PP**",
+      "start": "2018-04-10T14:47",
+      "end": "2018-12-11T10:29",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2018-12-11T10:29",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-29T22:10",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2026-04-29T22:10",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "EVAIR DE MELO",
+      "start": "2015-02-01T00:00",
+      "end": "2016-06-23T00:00"
+    },
+    {
+      "name": "EVAIR VIEIRA DE MELO",
+      "start": "2016-06-23T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Evair Vieira de Melo",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

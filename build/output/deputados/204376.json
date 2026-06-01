@@ -1,0 +1,77 @@
+{
+  "id": 204376,
+  "name": "Coronel Armando",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204376.jpg",
+  "state": "SC",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SC"
+    },
+    {
+      "legislature": 57,
+      "state": "SC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-22T18:34",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-22T18:34",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": "2025-06-30T11:50",
+      "legislature": 57
+    },
+    {
+      "party": "PP",
+      "start": "2025-06-30T11:50",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-02T16:49",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-04-25T11:50",
+      "end": "2025-08-24T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Coronel Armando",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": 160508,
+  "name": "Afonso Florence",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
+  "state": "BA",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    },
+    {
+      "legislature": 57,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PT",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2011-02-02T12:48",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2012-03-14T16:09",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-03T11:52",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-01-05T17:31",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-02-07T13:52",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-11-22T10:20",
+      "end": "2023-11-24T16:37",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-11-30T12:08",
+      "end": "2023-12-07T16:35",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-11-29T09:56",
+      "end": "2024-12-10T17:41",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-07-16T12:28",
+      "end": "2025-07-17T16:22",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-11-12T10:47",
+      "end": "2025-11-18T16:57",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-04-01T10:18",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "AFONSO FLORENCE",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Afonso Florence",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

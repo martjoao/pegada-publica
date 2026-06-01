@@ -1,0 +1,78 @@
+{
+  "id": 2331,
+  "name": "Rose de Freitas",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador2331.jpg",
+  "state": "ES",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "ES",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "ES",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2001-03-08",
+      "end": "2003-10-13"
+    },
+    {
+      "party": "MDB",
+      "start": "2003-10-14",
+      "end": "2018-04-06"
+    },
+    {
+      "party": "PODEMOS",
+      "start": "2018-04-07",
+      "end": "2021-01-11"
+    },
+    {
+      "party": "MDB",
+      "start": "2021-01-12",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2019-11-19",
+      "legislature": 55,
+      "cause": "Licença saúde"
+    },
+    {
+      "condition": "titular",
+      "start": "2020-03-26",
+      "end": "2022-07-06",
+      "legislature": 55,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2022-11-04",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "Rose de Freitas",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

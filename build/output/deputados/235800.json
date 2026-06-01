@@ -1,0 +1,42 @@
+{
+  "id": 235800,
+  "name": "Jorge Araújo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/235800.jpg",
+  "state": "BA",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2026-04-08T16:11",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Jorge Araújo",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

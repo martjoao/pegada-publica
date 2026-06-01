@@ -1,0 +1,54 @@
+{
+  "id": 5929,
+  "name": "Juíza Selma",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5929.jpg",
+  "state": "MT",
+  "current_party": "PODEMOS",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "MT",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "MT",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-01-01",
+      "end": "2019-09-16"
+    },
+    {
+      "party": "PODEMOS",
+      "start": "2019-09-17",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2020-04-15",
+      "legislature": 56,
+      "cause": "Cassação de registro/diploma pela Justiça Eleitoral"
+    }
+  ],
+  "names": [
+    {
+      "name": "Juíza Selma",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

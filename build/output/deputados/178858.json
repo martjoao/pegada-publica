@@ -1,0 +1,93 @@
+{
+  "id": 178858,
+  "name": "Mário Negromonte Jr.",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178858.jpg",
+  "state": "BA",
+  "current_party": "PSB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    },
+    {
+      "legislature": 57,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP**",
+      "start": "2015-02-01T00:00",
+      "end": "2018-12-11T10:29",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2018-12-11T10:29",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PP",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-08T19:30",
+      "legislature": 57
+    },
+    {
+      "party": "PSB",
+      "start": "2026-04-08T19:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "MARIO NEGROMONTE JUNIOR",
+      "start": "2015-02-01T00:00",
+      "end": "2015-02-24T00:00"
+    },
+    {
+      "name": "MÁRIO NEGROMONTE JR.",
+      "start": "2015-02-24T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Mário Negromonte Jr.",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

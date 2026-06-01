@@ -1,0 +1,54 @@
+{
+  "id": 230762,
+  "name": "Pastor Claudio Mariano",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/230762.jpg",
+  "state": "PA",
+  "current_party": "UNIÃO",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-01-01T13:32",
+      "end": "2025-02-01T08:43",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-10-09T16:37",
+      "end": "2025-11-13T09:55",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-17T20:30",
+      "end": "2025-12-19T14:51",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Pastor Claudio Mariano",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

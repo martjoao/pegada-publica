@@ -1,0 +1,35 @@
+{
+  "id": 6360,
+  "name": "Alex Diniz",
+  "photo_url": null,
+  "state": "MG",
+  "current_party": null,
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "MG",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "MG",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Alex Diniz",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

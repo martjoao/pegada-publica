@@ -1,0 +1,124 @@
+{
+  "id": 160642,
+  "name": "Pastor Eurico",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160642.jpg",
+  "state": "PE",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PE"
+    },
+    {
+      "legislature": 57,
+      "state": "PE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PSB",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-16T14:23",
+      "legislature": 55
+    },
+    {
+      "party": "PHS",
+      "start": "2016-03-16T14:23",
+      "end": "2018-04-05T12:46",
+      "legislature": 55
+    },
+    {
+      "party": "PEN",
+      "start": "2018-04-05T12:46",
+      "end": "2018-05-23T10:00",
+      "legislature": 55
+    },
+    {
+      "party": "PATRI",
+      "start": "2018-05-23T10:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PATRI",
+      "start": "2019-02-01T00:00",
+      "end": "2019-06-03T12:30",
+      "legislature": 56
+    },
+    {
+      "party": "PATRIOTA",
+      "start": "2019-06-03T12:30",
+      "end": "2022-03-30T16:56",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-30T16:56",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-10T12:00",
+      "legislature": 57
+    },
+    {
+      "party": "PSDB",
+      "start": "2026-04-10T12:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "PASTOR EURICO",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Pastor Eurico",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

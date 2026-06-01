@@ -1,0 +1,42 @@
+{
+  "id": 204435,
+  "name": "Jesus Sérgio",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204435.jpg",
+  "state": "AC",
+  "current_party": "PDT",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "AC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Jesus Sérgio",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

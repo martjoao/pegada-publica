@@ -1,0 +1,101 @@
+{
+  "id": 178921,
+  "name": "Sebastião Oliveira",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178921.jpg",
+  "state": "PE",
+  "current_party": "AVANTE",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PR",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2020-10-06T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "AVANTE",
+      "start": "2020-10-06T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2015-02-04T12:17",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-04-15T15:00",
+      "end": "2016-04-20T15:44",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2016-07-13T09:40",
+      "end": "2016-07-25T14:03",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-08-02T10:03",
+      "end": "2017-08-04T11:31",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2017-10-25T10:26",
+      "end": "2017-10-30T16:42",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2018-04-06T15:10",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "SEBASTIÃO OLIVEIRA",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Sebastião Oliveira",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

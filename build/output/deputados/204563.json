@@ -1,0 +1,83 @@
+{
+  "id": 204563,
+  "name": "Josimar Maranhãozinho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204563.jpg",
+  "state": "MA",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MA"
+    },
+    {
+      "legislature": 57,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2020-02-11T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2020-06-11T00:00",
+      "end": "2022-04-17T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2022-08-18T00:00",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-12-02T00:00",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-04-05T00:00",
+      "end": "2026-02-08T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Josimar Maranhãozinho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

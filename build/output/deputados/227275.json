@@ -1,0 +1,54 @@
+{
+  "id": 227275,
+  "name": "Mariana Carvalho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/227275.jpg",
+  "state": "MA",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2023-02-01T00:00",
+      "end": "2023-11-30T10:51",
+      "legislature": 57
+    },
+    {
+      "party": "PODE",
+      "start": "2023-11-30T10:51",
+      "end": "2023-12-01T14:38",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-12-01T14:38",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-11-30T11:33",
+      "end": "2024-03-30T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Mariana Carvalho",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

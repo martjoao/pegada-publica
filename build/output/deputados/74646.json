@@ -1,0 +1,112 @@
+{
+  "id": 74646,
+  "name": "Aécio Neves",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+  "state": "MG",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MG"
+    },
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMDB",
+      "start": "1987-02-01T00:00",
+      "end": "1991-02-01T00:00",
+      "legislature": 48
+    },
+    {
+      "party": "PSDB",
+      "start": "1991-02-01T00:00",
+      "end": "1995-02-01T00:00",
+      "legislature": 49
+    },
+    {
+      "party": "PSDB",
+      "start": "1995-02-01T00:00",
+      "end": "1999-02-01T00:00",
+      "legislature": 50
+    },
+    {
+      "party": "PSDB",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PSDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSDB",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "1987-02-01T00:00",
+      "end": "1991-01-31T23:59",
+      "legislature": 48
+    },
+    {
+      "condition": "titular",
+      "start": "1991-02-01T00:00",
+      "end": "1995-01-31T23:59",
+      "legislature": 49
+    },
+    {
+      "condition": "titular",
+      "start": "1995-02-01T00:00",
+      "end": "1999-01-31T23:59",
+      "legislature": 50
+    },
+    {
+      "condition": "titular",
+      "start": "1999-02-01T00:00",
+      "end": "2003-01-31T23:59",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "AÉCIO NEVES",
+      "start": "1987-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Aécio Neves",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

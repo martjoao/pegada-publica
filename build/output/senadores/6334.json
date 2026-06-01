@@ -1,0 +1,41 @@
+{
+  "id": 6334,
+  "name": "Cheila Moreira",
+  "photo_url": null,
+  "state": "AM",
+  "current_party": "PT",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "AM",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "AM",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2022-10-02",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Cheila Moreira",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

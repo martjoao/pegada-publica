@@ -1,0 +1,42 @@
+{
+  "id": 235776,
+  "name": "Sérgio Turra",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/235776.jpg",
+  "state": "RS",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2026-04-07T16:24",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Sérgio Turra",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

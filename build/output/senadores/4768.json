@@ -1,0 +1,61 @@
+{
+  "id": 4768,
+  "name": "Silvio Costa",
+  "photo_url": null,
+  "state": "PE",
+  "current_party": "AVANTE",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "PE",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "PE",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMN",
+      "start": "2007-02-13",
+      "end": "2009-11-03"
+    },
+    {
+      "party": "PTB",
+      "start": "2009-11-04",
+      "end": "2013-10-07"
+    },
+    {
+      "party": "PSC",
+      "start": "2013-10-08",
+      "end": "2015-12-07"
+    },
+    {
+      "party": "PTdoB",
+      "start": "2015-12-08",
+      "end": "2017-09-24"
+    },
+    {
+      "party": "AVANTE",
+      "start": "2017-09-25",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Silvio Costa",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

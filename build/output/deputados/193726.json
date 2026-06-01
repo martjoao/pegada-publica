@@ -1,0 +1,71 @@
+{
+  "id": 193726,
+  "name": "PAULO EDUARDO MARTINS",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/193726.jpg",
+  "state": "PR",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-29T15:32",
+      "legislature": 55
+    },
+    {
+      "party": "PSDB",
+      "start": "2016-03-29T15:32",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSC",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-01T15:01",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-04-01T15:01",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2016-03-17T16:46",
+      "end": "2016-10-19T14:58",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "PAULO MARTINS",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "PAULO EDUARDO MARTINS",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

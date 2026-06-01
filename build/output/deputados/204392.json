@@ -1,0 +1,42 @@
+{
+  "id": 204392,
+  "name": "Francisco Jr.",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204392.jpg",
+  "state": "GO",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "GO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Francisco Jr.",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

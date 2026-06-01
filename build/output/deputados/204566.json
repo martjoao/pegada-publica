@@ -1,0 +1,77 @@
+{
+  "id": 204566,
+  "name": "Marreca Filho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg",
+  "state": "MA",
+  "current_party": "PRD",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MA"
+    },
+    {
+      "legislature": 57,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PATRI",
+      "start": "2019-02-01T00:00",
+      "end": "2019-06-03T12:30",
+      "legislature": 56
+    },
+    {
+      "party": "PATRIOTA",
+      "start": "2019-06-03T12:30",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PATRIOTA",
+      "start": "2023-02-01T00:00",
+      "end": "2024-02-07T00:00",
+      "legislature": 57
+    },
+    {
+      "party": "PRD",
+      "start": "2024-02-07T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-12-19T14:44",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-04-19T00:00",
+      "end": "2026-02-05T15:18",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Marreca Filho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

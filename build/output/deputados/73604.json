@@ -1,0 +1,82 @@
+{
+  "id": 73604,
+  "name": "Rui Falcão",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/73604.jpg",
+  "state": "SP",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    },
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "1999-02-01T00:00",
+      "end": "2003-02-01T00:00",
+      "legislature": 51
+    },
+    {
+      "party": "PT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2000-12-28T00:00",
+      "end": "2003-01-31T23:59",
+      "legislature": 51
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2024-07-03T16:49",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-11-02T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "RUI FALCÃO",
+      "start": "1999-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Rui Falcão",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

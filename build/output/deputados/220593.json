@@ -1,0 +1,42 @@
+{
+  "id": 220593,
+  "name": "Abilio Brunini",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
+  "state": "MT",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MT"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-01-01T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Abilio Brunini",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

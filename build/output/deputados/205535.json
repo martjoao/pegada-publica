@@ -1,0 +1,66 @@
+{
+  "id": 205535,
+  "name": "Patricia Ferraz",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/205535.jpg",
+  "state": "AP",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "AP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2020-03-04T12:06",
+      "legislature": 56
+    },
+    {
+      "party": "PODE",
+      "start": "2020-03-04T12:06",
+      "end": "2022-12-21T13:52",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-12-21T13:52",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-12-05T15:40",
+      "end": "2020-06-22T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2022-09-21T18:16",
+      "end": "2023-01-19T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Patricia Ferraz",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

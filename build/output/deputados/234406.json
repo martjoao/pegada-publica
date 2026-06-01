@@ -1,0 +1,42 @@
+{
+  "id": 234406,
+  "name": "Elmano Férrer",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/234406.jpg",
+  "state": "PI",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "PI"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2025-11-04T19:46",
+      "end": "2026-02-04T19:03",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Elmano Férrer",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

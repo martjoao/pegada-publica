@@ -1,0 +1,54 @@
+{
+  "id": 6331,
+  "name": "Sergio Moro",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6331.jpg",
+  "state": "PR",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "PR",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "PR",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2022-10-02",
+      "end": "2026-03-23"
+    },
+    {
+      "party": "PL",
+      "start": "2026-03-24",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Sergio Moro",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

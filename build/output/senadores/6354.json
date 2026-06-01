@@ -1,0 +1,41 @@
+{
+  "id": 6354,
+  "name": "Marcinha Macedo",
+  "photo_url": null,
+  "state": "ES",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "ES",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "ES",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2022-10-02",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Marcinha Macedo",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

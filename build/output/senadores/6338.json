@@ -1,0 +1,49 @@
+{
+  "id": 6338,
+  "name": "Teresa Leitão",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6338.jpg",
+  "state": "PE",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "PE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "PE",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2022-10-02",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Teresa Leitão",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

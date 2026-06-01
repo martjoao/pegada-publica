@@ -1,0 +1,94 @@
+{
+  "id": 178947,
+  "name": "Sóstenes Cavalcante",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
+  "state": "RJ",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-22T17:08",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2016-03-22T17:08",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-18T10:20",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-18T10:20",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "SÓSTENES CAVALCANTE",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Sóstenes Cavalcante",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

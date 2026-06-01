@@ -1,0 +1,42 @@
+{
+  "id": 219568,
+  "name": "Tiago Andrino",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/219568.jpg",
+  "state": "TO",
+  "current_party": "PSB",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "TO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2022-06-07T16:09",
+      "end": "2022-10-06T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Tiago Andrino",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": 204570,
+  "name": "Pastor Gil",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204570.jpg",
+  "state": "MA",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MA"
+    },
+    {
+      "legislature": 57,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PMN",
+      "start": "2019-02-01T00:00",
+      "end": "2019-07-08T16:04",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-07-08T16:04",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-12-05T17:46",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-04-06T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "PASTOR GILDENEMYR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-09-18T17:50"
+    },
+    {
+      "name": "GILDENEMYR",
+      "start": "2019-09-18T17:50",
+      "end": "2020-08-19T16:06"
+    },
+    {
+      "name": "Pastor Gil",
+      "start": "2020-08-19T16:06",
+      "end": null
+    }
+  ]
+}

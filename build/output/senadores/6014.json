@@ -1,0 +1,35 @@
+{
+  "id": 6014,
+  "name": "Luciana Leão Muniz",
+  "photo_url": null,
+  "state": "BA",
+  "current_party": null,
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "BA",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "BA",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Luciana Leão Muniz",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

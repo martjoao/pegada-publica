@@ -1,0 +1,82 @@
+{
+  "id": 4981,
+  "name": "Acir Gurgacz",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4981.jpg",
+  "state": "RO",
+  "current_party": "PDT",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    53,
+    54,
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 53,
+      "state": "RO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 54,
+      "state": "RO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 55,
+      "state": "RO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "RO",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2009-11-05",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2009-11-05",
+      "end": "2012-06-28",
+      "legislature": 53,
+      "cause": "Licença Saúde-Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2012-10-30",
+      "end": "2015-01-31",
+      "legislature": 53,
+      "cause": "Término do mandato"
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2016-09-08",
+      "legislature": 55,
+      "cause": "Licença Saúde-Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2017-01-14",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "Acir Gurgacz",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

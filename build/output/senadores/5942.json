@@ -1,0 +1,69 @@
+{
+  "id": 5942,
+  "name": "Marcos do Val",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5942.jpg",
+  "state": "ES",
+  "current_party": "AVANTE",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "ES",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "ES",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "CIDADANIA",
+      "start": "2019-01-01",
+      "end": "2019-08-01"
+    },
+    {
+      "party": "PODEMOS",
+      "start": "2019-08-13",
+      "end": "2023-09-20"
+    },
+    {
+      "party": "PSDB",
+      "start": "2023-09-21",
+      "end": "2023-09-21"
+    },
+    {
+      "party": "PODEMOS",
+      "start": "2023-09-22",
+      "end": "2026-03-30"
+    },
+    {
+      "party": "AVANTE",
+      "start": "2026-03-31",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Marcos do Val",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

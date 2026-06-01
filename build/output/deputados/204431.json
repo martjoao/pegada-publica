@@ -1,0 +1,71 @@
+{
+  "id": 204431,
+  "name": "Marcos Aurélio Sampaio",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204431.jpg",
+  "state": "PI",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PI"
+    },
+    {
+      "legislature": 57,
+      "state": "PI"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-06T14:21",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2022-04-06T14:21",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-08T19:30",
+      "legislature": 57
+    },
+    {
+      "party": "MDB",
+      "start": "2026-04-08T19:30",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Marcos Aurélio Sampaio",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

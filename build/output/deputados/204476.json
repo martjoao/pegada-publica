@@ -1,0 +1,83 @@
+{
+  "id": 204476,
+  "name": "Chiquinho Brazão",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204476.jpg",
+  "state": "RJ",
+  "current_party": "S.PART.",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "AVANTE",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-11T14:41",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-04-11T14:41",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": "2024-03-27T09:28",
+      "legislature": 57
+    },
+    {
+      "party": "S.PART.",
+      "start": "2024-03-27T09:28",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-10-03T19:32",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-11-21T11:48",
+      "end": "2023-11-23T13:29",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-02-01T10:26",
+      "end": "2025-04-24T18:41",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Chiquinho Brazão",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

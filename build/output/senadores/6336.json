@@ -1,0 +1,70 @@
+{
+  "id": 6336,
+  "name": "Camilo Santana",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6336.jpg",
+  "state": "CE",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "CE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "CE",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2022-10-02",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": "2023-02-02",
+      "legislature": 57,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2023-12-12",
+      "end": "2023-12-13",
+      "legislature": 57,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2025-02-01",
+      "end": "2025-02-03",
+      "legislature": 57,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2026-04-02",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Camilo Santana",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 4558,
+  "name": "Gladson Cameli",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4558.jpg",
+  "state": "AC",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "AC",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "AC",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2007-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2019-01-01",
+      "legislature": 55,
+      "cause": "Renúncia"
+    }
+  ],
+  "names": [
+    {
+      "name": "Gladson Cameli",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

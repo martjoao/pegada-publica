@@ -1,0 +1,54 @@
+{
+  "id": 742,
+  "name": "Marcelo Castro",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador742.jpg",
+  "state": "PI",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "PI",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "PI",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "1999-02-01",
+      "end": "2018-05-20"
+    },
+    {
+      "party": "MDB",
+      "start": "2018-05-21",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Marcelo Castro",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

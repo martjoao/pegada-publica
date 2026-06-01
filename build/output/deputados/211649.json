@@ -1,0 +1,48 @@
+{
+  "id": 211649,
+  "name": "Ricardo Pericar",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/211649.jpg",
+  "state": "RJ",
+  "current_party": "UNIÃO",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-08-07T17:33",
+      "end": "2019-10-24T15:02",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Ricardo Pericar",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

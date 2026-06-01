@@ -1,0 +1,47 @@
+{
+  "id": 230768,
+  "name": "Zé Adriano",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/230768.jpg",
+  "state": "AC",
+  "current_party": "PP",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "AC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2025-01-01T13:36",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "",
+      "start": "2023-02-01T00:00",
+      "end": "2024-12-31T13:44"
+    },
+    {
+      "name": "Zé Adriano",
+      "start": "2024-12-31T13:44",
+      "end": null
+    }
+  ]
+}

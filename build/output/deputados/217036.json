@@ -1,0 +1,48 @@
+{
+  "id": 217036,
+  "name": "Henrique do Paraíso",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/217036.jpg",
+  "state": "SP",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2021-06-18T18:33",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2021-06-18T18:33",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2021-06-23T18:08",
+      "end": "2021-10-17T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Henrique do Paraíso",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

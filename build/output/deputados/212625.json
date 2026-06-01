@@ -1,0 +1,77 @@
+{
+  "id": 212625,
+  "name": "Dr. Gonçalo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/212625.jpg",
+  "state": "MA",
+  "current_party": "PODE",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MA"
+    },
+    {
+      "legislature": 57,
+      "state": "MA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "AVANTE",
+      "start": "2019-02-01T00:00",
+      "end": "2019-12-16T21:35",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2019-12-16T21:35",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PODE",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-12-04T14:21",
+      "end": "2020-04-02T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-01-11T20:23",
+      "end": "2021-01-29T14:06",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-02-02T14:35",
+      "end": "2021-08-03T09:16",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-07-02T14:45",
+      "end": "2024-10-30T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Dr. Gonçalo",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

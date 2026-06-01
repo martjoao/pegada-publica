@@ -1,0 +1,71 @@
+{
+  "id": 5998,
+  "name": "Daniella Ribeiro",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5998.jpg",
+  "state": "PB",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "PB",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "PB",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2019-01-01",
+      "end": "2022-04-27"
+    },
+    {
+      "party": "PSD",
+      "start": "2022-04-28",
+      "end": "2025-04-02"
+    },
+    {
+      "party": "S/Partido",
+      "start": "2025-04-03",
+      "end": "2025-04-22"
+    },
+    {
+      "party": "PP",
+      "start": "2025-04-23",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2020-09-23",
+      "legislature": 56,
+      "cause": "Licença Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2021-01-22",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Daniella Ribeiro",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

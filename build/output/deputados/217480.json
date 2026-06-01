@@ -1,0 +1,83 @@
+{
+  "id": 217480,
+  "name": "Jones Moura",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/217480.jpg",
+  "state": "RJ",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    },
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "Efetivado",
+      "start": "2021-09-15T20:03",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-05-24T18:42",
+      "end": "2023-07-04T11:18",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-07-13T11:31",
+      "end": "2023-08-16T09:36",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-09-29T14:59",
+      "end": "2023-10-02T09:14",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-10-06T12:47",
+      "end": "2023-11-16T09:21",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-12-06T18:25",
+      "end": "2024-01-30T09:52",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Jones Moura",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

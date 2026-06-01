@@ -1,0 +1,96 @@
+{
+  "id": 225386,
+  "name": "Renan Ferreirinha",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/225386.jpg",
+  "state": "RJ",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-05-23T14:02",
+      "end": "2023-05-24T17:58",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-08-16T09:36",
+      "end": "2023-08-18T16:54",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-05-27T12:11",
+      "end": "2024-06-27T10:15",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-07-16T14:57",
+      "end": "2024-08-15T09:15",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-10-08T12:35",
+      "end": "2024-10-25T10:10",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-11-04T13:03",
+      "end": "2024-12-03T14:21",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-12-06T13:10",
+      "end": "2024-12-23T10:45",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-03-07T16:14",
+      "end": "2025-03-12T14:02",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-25T08:57",
+      "end": "2025-11-26T15:45",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2026-02-05T10:38",
+      "end": "2026-02-06T17:15",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Renan Ferreirinha",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 220616,
+  "name": "Luciano Vieira",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
+  "state": "RJ",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": "2024-03-27T14:44",
+      "legislature": 57
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2024-03-27T14:44",
+      "end": "2025-12-15T12:53",
+      "legislature": 57
+    },
+    {
+      "party": "PSDB",
+      "start": "2025-12-15T12:53",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2026-05-28T16:53",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Luciano Vieira",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

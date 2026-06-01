@@ -1,0 +1,64 @@
+{
+  "id": 5783,
+  "name": "Zenaide Maia",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5783.jpg",
+  "state": "RN",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "RN",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "RN",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2015-02-01",
+      "end": "2018-04-01"
+    },
+    {
+      "party": "PHS",
+      "start": "2018-04-02",
+      "end": "2019-01-31"
+    },
+    {
+      "party": "PROS",
+      "start": "2019-02-01",
+      "end": "2022-12-19"
+    },
+    {
+      "party": "PSD",
+      "start": "2022-12-20",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Zenaide Maia",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

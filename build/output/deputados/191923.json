@@ -1,0 +1,105 @@
+{
+  "id": 191923,
+  "name": "Flávio Nogueira",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/191923.jpg",
+  "state": "PI",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PI"
+    },
+    {
+      "legislature": 57,
+      "state": "PI"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PDT",
+      "start": "2019-02-01T00:00",
+      "end": "2022-03-22T14:57",
+      "legislature": 56
+    },
+    {
+      "party": "S.PART.",
+      "start": "2022-03-22T14:57",
+      "end": "2022-03-31T13:16",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2022-03-31T13:16",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2015-10-06T10:37",
+      "end": "2016-02-17T12:04",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-02-18T19:02",
+      "end": "2016-04-14T10:38",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-04-19T13:23",
+      "end": "2016-04-28T10:07",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "FLAVIO NOGUEIRA",
+      "start": "2015-02-01T00:00",
+      "end": "2019-09-11T17:49"
+    },
+    {
+      "name": "FLÁVIO NOGUEIRA",
+      "start": "2019-09-11T17:49",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Flávio Nogueira",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

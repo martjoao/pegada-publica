@@ -1,0 +1,106 @@
+{
+  "id": 178832,
+  "name": "Leandre",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178832.jpg",
+  "state": "PR",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PR"
+    },
+    {
+      "legislature": 57,
+      "state": "PR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PV",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PV",
+      "start": "2019-02-01T00:00",
+      "end": "2022-03-18T15:52",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2022-03-18T15:52",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2023-02-15T11:08",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2023-11-21T14:53",
+      "end": "2023-11-24T12:44",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2024-12-03T11:48",
+      "end": "2024-12-04T09:01",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-11-13T09:58",
+      "end": "2025-11-14T16:22",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-04-06T09:41",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "LEANDRE",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Leandre",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

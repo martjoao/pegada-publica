@@ -1,0 +1,81 @@
+{
+  "id": 204416,
+  "name": "Sanderson",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
+  "state": "RS",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RS"
+    },
+    {
+      "legislature": 57,
+      "state": "RS"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-11T17:19",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-11T17:19",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "UBIRATAN SANDERSON",
+      "start": "2019-02-01T00:00",
+      "end": "2019-03-22T14:43"
+    },
+    {
+      "name": "SANDERSON",
+      "start": "2019-03-22T14:43",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Sanderson",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

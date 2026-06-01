@@ -1,0 +1,65 @@
+{
+  "id": 146788,
+  "name": "Marcelo Aro",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/146788.jpg",
+  "state": "MG",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PHS",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PHS",
+      "start": "2019-02-01T00:00",
+      "end": "2019-04-08T16:55",
+      "legislature": 56
+    },
+    {
+      "party": "PP",
+      "start": "2019-04-08T16:55",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "MARCELO ARO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Marcelo Aro",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 213274,
+  "name": "Ricardo Silva",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/213274.jpg",
+  "state": "SP",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    },
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-06T10:35",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2022-04-06T10:35",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2020-02-17T17:04",
+      "end": "2020-04-16T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2020-05-20T17:34",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2024-12-18T10:36",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Ricardo Silva",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

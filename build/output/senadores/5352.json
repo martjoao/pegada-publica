@@ -1,0 +1,49 @@
+{
+  "id": 5352,
+  "name": "Rogério Carvalho",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5352.jpg",
+  "state": "SE",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "SE",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "SE",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2011-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Rogério Carvalho",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

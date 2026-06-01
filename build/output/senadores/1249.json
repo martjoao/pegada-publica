@@ -1,0 +1,133 @@
+{
+  "id": 1249,
+  "name": "Kátia Abreu",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador1249.jpg",
+  "state": "TO",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    53,
+    54,
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 53,
+      "state": "TO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 54,
+      "state": "TO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 55,
+      "state": "TO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 56,
+      "state": "TO",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "2000-04-04",
+      "end": "2007-08-01"
+    },
+    {
+      "party": "DEM",
+      "start": "2007-08-02",
+      "end": "2011-10-18"
+    },
+    {
+      "party": "PSD",
+      "start": "2011-10-19",
+      "end": "2013-10-07"
+    },
+    {
+      "party": "MDB",
+      "start": "2013-10-08",
+      "end": "2017-12-05"
+    },
+    {
+      "party": "S/Partido",
+      "start": "2017-12-08",
+      "end": "2018-03-21"
+    },
+    {
+      "party": "PDT",
+      "start": "2018-03-22",
+      "end": "2020-03-10"
+    },
+    {
+      "party": "PP",
+      "start": "2020-03-26",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2007-02-01",
+      "end": "2008-07-01",
+      "legislature": 53,
+      "cause": "Licença Saúde-Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2008-10-29",
+      "end": "2012-10-02",
+      "legislature": 53,
+      "cause": "Licença Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2013-01-31",
+      "end": "2015-01-01",
+      "legislature": 53,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01",
+      "end": "2015-02-02",
+      "legislature": 55,
+      "cause": "Afastamento do exercício"
+    },
+    {
+      "condition": "titular",
+      "start": "2016-05-12",
+      "end": "2018-10-28",
+      "legislature": 55,
+      "cause": "Licença Particular"
+    },
+    {
+      "condition": "titular",
+      "start": "2019-01-31",
+      "end": "2022-08-02",
+      "legislature": 55,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2022-12-01",
+      "end": "2023-01-31",
+      "legislature": 55,
+      "cause": "Término do mandato"
+    }
+  ],
+  "names": [
+    {
+      "name": "Kátia Abreu",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

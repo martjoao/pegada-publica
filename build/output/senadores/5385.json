@@ -1,0 +1,54 @@
+{
+  "id": 5385,
+  "name": "Irajá",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5385.jpg",
+  "state": "TO",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "TO",
+      "condition": "titular"
+    },
+    {
+      "legislature": 57,
+      "state": "TO",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "DEM",
+      "start": "2011-02-01",
+      "end": "2011-10-25"
+    },
+    {
+      "party": "PSD",
+      "start": "2011-10-26",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01",
+      "end": "2023-01-31",
+      "legislature": 56,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Irajá",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

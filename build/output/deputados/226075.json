@@ -1,0 +1,42 @@
+{
+  "id": 226075,
+  "name": "Priscila Costa",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/226075.jpg",
+  "state": "CE",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2023-06-30T10:22",
+      "end": "2023-10-27T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Priscila Costa",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

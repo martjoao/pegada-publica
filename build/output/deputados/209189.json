@@ -1,0 +1,65 @@
+{
+  "id": 209189,
+  "name": "Joseildo Ramos",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/209189.jpg",
+  "state": "BA",
+  "current_party": "PT",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    },
+    {
+      "legislature": 57,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PT",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2019-03-13T14:59",
+      "end": "2019-10-22T15:19",
+      "legislature": 56
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2021-09-17T16:43",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Joseildo Ramos",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 229432,
+  "name": "Luiz Fernando Vampiro",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/229432.jpg",
+  "state": "SC",
+  "current_party": "MDB",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SC"
+    }
+  ],
+  "parties": [
+    {
+      "party": "MDB",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-07-16T13:59",
+      "end": "2024-11-10T00:00",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-03-14T14:42",
+      "end": "2025-11-12T09:14",
+      "legislature": 57
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-11-18T09:35",
+      "end": "2026-02-03T09:28",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Luiz Fernando Vampiro",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

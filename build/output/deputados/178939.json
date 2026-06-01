@@ -1,0 +1,89 @@
+{
+  "id": 178939,
+  "name": "Clarissa Garotinho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178939.jpg",
+  "state": "RJ",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PR",
+      "start": "2015-02-01T00:00",
+      "end": "2016-12-08T18:10",
+      "legislature": 55
+    },
+    {
+      "party": "S.PART.",
+      "start": "2016-12-08T18:10",
+      "end": "2016-12-08T18:12",
+      "legislature": 55
+    },
+    {
+      "party": "PRB",
+      "start": "2016-12-08T18:12",
+      "end": "2018-04-05T16:44",
+      "legislature": 55
+    },
+    {
+      "party": "PROS",
+      "start": "2018-04-05T16:44",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PROS",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-07T10:16",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-04-07T10:16",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2017-01-01T00:00",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2018-04-06T09:25",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "CLARISSA GAROTINHO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Clarissa Garotinho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

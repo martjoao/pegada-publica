@@ -1,0 +1,77 @@
+{
+  "id": 178984,
+  "name": "Miguel Haddad",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178984.jpg",
+  "state": "SP",
+  "current_party": "PSDB",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSDB",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2019-08-20T14:03",
+      "end": "2019-12-13T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2019-12-13T19:00",
+      "end": "2020-04-16T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2021-11-11T16:32",
+      "end": "2022-03-13T00:00",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2023-01-01T15:47",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "MIGUEL HADDAD",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Miguel Haddad",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

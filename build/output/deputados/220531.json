@@ -1,0 +1,42 @@
+{
+  "id": 220531,
+  "name": "Gilvan Maximo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220531.jpg",
+  "state": "DF",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "DF"
+    }
+  ],
+  "parties": [
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-07-30T19:43",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Gilvan Maximo",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

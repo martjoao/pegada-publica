@@ -1,0 +1,49 @@
+{
+  "id": 5991,
+  "name": "Castellar Neto",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5991.jpg",
+  "state": "MG",
+  "current_party": "PP",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "MG",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "MG",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2024-07-17",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2024-07-17",
+      "end": "2024-11-15",
+      "legislature": 56,
+      "cause": "Retorno do titular"
+    }
+  ],
+  "names": [
+    {
+      "name": "Castellar Neto",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

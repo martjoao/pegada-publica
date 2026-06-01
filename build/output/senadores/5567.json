@@ -1,0 +1,41 @@
+{
+  "id": 5567,
+  "name": "Luis Mitoso",
+  "photo_url": null,
+  "state": "AM",
+  "current_party": "PSD",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "AM",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "AM",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Luis Mitoso",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

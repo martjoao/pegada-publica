@@ -1,0 +1,123 @@
+{
+  "id": 150418,
+  "name": "Márcio Marinho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
+  "state": "BA",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "BA"
+    },
+    {
+      "legislature": 57,
+      "state": "BA"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PR",
+      "start": "2007-02-01T00:00",
+      "end": "2009-10-07T13:49",
+      "legislature": 53
+    },
+    {
+      "party": "PRB",
+      "start": "2009-10-07T13:49",
+      "end": "2011-02-01T00:00",
+      "legislature": 53
+    },
+    {
+      "party": "PRB",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PRB",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PRB",
+      "start": "2019-02-01T00:00",
+      "end": "2019-08-16T16:25",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2019-08-16T16:25",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2008-06-11T14:42",
+      "end": "2008-10-10T00:00",
+      "legislature": 53
+    },
+    {
+      "condition": "alternate",
+      "start": "2008-12-16T15:47",
+      "end": "2011-01-31T23:59",
+      "legislature": 53
+    },
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "MARCIO MARINHO",
+      "start": "2007-02-01T00:00",
+      "end": "2008-06-17T00:00"
+    },
+    {
+      "name": "MÁRCIO MARINHO",
+      "start": "2008-06-17T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Márcio Marinho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 157130,
+  "name": "Túlio Gadêlha",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/157130.jpg",
+  "state": "PE",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PE"
+    },
+    {
+      "legislature": 57,
+      "state": "PE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PDT",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-05T15:20",
+      "legislature": 56
+    },
+    {
+      "party": "REDE",
+      "start": "2022-04-05T15:20",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "REDE",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-07T11:45",
+      "legislature": 57
+    },
+    {
+      "party": "PSD",
+      "start": "2026-04-07T11:45",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Túlio Gadêlha",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

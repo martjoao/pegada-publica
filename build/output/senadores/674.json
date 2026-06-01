@@ -1,0 +1,51 @@
+{
+  "id": 674,
+  "name": "Pedro Fernandes",
+  "photo_url": null,
+  "state": "MA",
+  "current_party": "PTB",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "MA",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "MA",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSD",
+      "start": "1999-02-01",
+      "end": "2003-01-31"
+    },
+    {
+      "party": "PFL",
+      "start": "2003-02-01",
+      "end": "2007-01-31"
+    },
+    {
+      "party": "PTB",
+      "start": "2007-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Pedro Fernandes",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

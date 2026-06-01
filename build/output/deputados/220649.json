@@ -1,0 +1,48 @@
+{
+  "id": 220649,
+  "name": "Delegado da Cunha",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220649.jpg",
+  "state": "SP",
+  "current_party": "UNIÃO",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": "2026-04-29T22:10",
+      "legislature": 57
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2026-04-29T22:10",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Delegado da Cunha",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

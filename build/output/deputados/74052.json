@@ -1,0 +1,94 @@
+{
+  "id": 74052,
+  "name": "Bosco Costa",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/74052.jpg",
+  "state": "SE",
+  "current_party": "PL",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "SE"
+    },
+    {
+      "legislature": 57,
+      "state": "SE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2003-02-01T00:00",
+      "end": "2007-02-01T00:00",
+      "legislature": 52
+    },
+    {
+      "party": "PROS",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PR",
+      "start": "2019-02-01T00:00",
+      "end": "2019-05-22T17:05",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2019-05-22T17:05",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2003-02-01T00:00",
+      "end": "2007-01-31T00:00",
+      "legislature": 52
+    },
+    {
+      "condition": "alternate",
+      "start": "2016-07-12T15:02",
+      "end": "2016-11-10T00:00",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "alternate",
+      "start": "2024-07-08T17:12",
+      "end": "2024-11-04T00:00",
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "BOSCO COSTA",
+      "start": "2003-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Bosco Costa",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

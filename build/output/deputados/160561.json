@@ -1,0 +1,95 @@
+{
+  "id": 160561,
+  "name": "Missionário José Olimpio",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160561.jpg",
+  "state": "SP",
+  "current_party": "PL",
+  "current_condition": "Efetivado",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "SP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP**",
+      "start": "2011-02-01T00:00",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PP**",
+      "start": "2015-02-01T00:00",
+      "end": "2016-03-18T13:54",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2016-03-18T13:54",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "DEM",
+      "start": "2019-02-01T00:00",
+      "end": "2022-04-20T16:04",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-04-20T16:04",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "alternate",
+      "start": "2025-03-21T16:23",
+      "end": "2025-10-03T00:00",
+      "legislature": 57
+    },
+    {
+      "condition": "Efetivado",
+      "start": "2025-12-18T18:40",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "MISSIONÁRIO JOSÉ OLIMPIO",
+      "start": "2011-02-01T00:00",
+      "end": "2023-02-01T00:00"
+    },
+    {
+      "name": "Missionário José Olimpio",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

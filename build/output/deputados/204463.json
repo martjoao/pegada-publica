@@ -1,0 +1,48 @@
+{
+  "id": 204463,
+  "name": "Wladimir Garotinho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204463.jpg",
+  "state": "RJ",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "vacated",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PRP",
+      "start": "2019-02-01T00:00",
+      "end": "2019-03-01T15:51",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2019-03-01T15:51",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2021-01-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "Wladimir Garotinho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

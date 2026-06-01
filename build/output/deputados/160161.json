@@ -1,0 +1,72 @@
+{
+  "id": 160161,
+  "name": "Marcelo Queiroz",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/160161.jpg",
+  "state": "RJ",
+  "current_party": "PSDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "RJ"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PP",
+      "start": "2023-02-01T00:00",
+      "end": "2025-08-08T19:00",
+      "legislature": 57
+    },
+    {
+      "party": "PSDB",
+      "start": "2025-08-08T19:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-08-22T11:59",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-11-07T16:54",
+      "end": "2025-11-19T18:14",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2025-12-01T12:19",
+      "end": "2025-12-03T16:39",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-02-04T10:55",
+      "end": "2026-02-23T18:40",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-03-02T10:45",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Marcelo Queiroz",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

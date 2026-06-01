@@ -1,0 +1,41 @@
+{
+  "id": 375,
+  "name": "Valdir Ganzer",
+  "photo_url": null,
+  "state": "PA",
+  "current_party": "PT",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "PA",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "PA",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PT",
+      "start": "1999-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Valdir Ganzer",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

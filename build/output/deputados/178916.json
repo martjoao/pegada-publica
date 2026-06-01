@@ -1,0 +1,71 @@
+{
+  "id": 178916,
+  "name": "Daniel Coelho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/178916.jpg",
+  "state": "PE",
+  "current_party": "CIDADANIA",
+  "current_condition": "titular",
+  "current_status": "on_leave",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "PE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSDB",
+      "start": "2015-02-01T00:00",
+      "end": "2018-04-03T16:14",
+      "legislature": 55
+    },
+    {
+      "party": "PPS",
+      "start": "2018-04-03T16:14",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PPS",
+      "start": "2019-02-01T00:00",
+      "end": "2019-04-05T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "CIDADANIA",
+      "start": "2019-04-05T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-02T00:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "DANIEL COELHO",
+      "start": "2015-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Daniel Coelho",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

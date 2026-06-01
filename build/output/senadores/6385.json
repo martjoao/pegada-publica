@@ -1,0 +1,35 @@
+{
+  "id": 6385,
+  "name": "Professor Alberto",
+  "photo_url": null,
+  "state": "SP",
+  "current_party": null,
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "SP",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "SP",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Professor Alberto",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 4694,
+  "name": "Rogerio Marinho",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4694.jpg",
+  "state": "RN",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "RN",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "RN",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2007-02-01",
+      "end": "2009-05-13"
+    },
+    {
+      "party": "PSDB",
+      "start": "2009-05-14",
+      "end": "2011-01-31"
+    },
+    {
+      "party": "S/Partido",
+      "start": "2011-02-01",
+      "end": "2011-02-07"
+    },
+    {
+      "party": "PSDB",
+      "start": "2011-02-08",
+      "end": "2021-11-29"
+    },
+    {
+      "party": "PL",
+      "start": "2021-11-30",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": "2024-06-19",
+      "legislature": 57,
+      "cause": "Licença com convocação de suplente (sup 120 dias)"
+    },
+    {
+      "condition": "titular",
+      "start": "2024-10-18",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Rogerio Marinho",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

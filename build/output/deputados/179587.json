@@ -1,0 +1,64 @@
+{
+  "id": 179587,
+  "name": "Major Vitor Hugo",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/179587.jpg",
+  "state": "GO",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "GO"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2022-03-30T16:58",
+      "legislature": 56
+    },
+    {
+      "party": "PL",
+      "start": "2022-03-30T16:58",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "MAJOR VITOR HUGO",
+      "start": "2019-02-01T00:00",
+      "end": "2019-09-30T18:24"
+    },
+    {
+      "name": "VITOR HUGO",
+      "start": "2019-09-30T18:24",
+      "end": "2022-08-30T15:14"
+    },
+    {
+      "name": "Major Vitor Hugo",
+      "start": "2022-08-30T15:14",
+      "end": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 220630,
+  "name": "Pedro Aihara",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220630.jpg",
+  "state": "MG",
+  "current_party": "PP",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 57,
+      "state": "MG"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PATRIOTA",
+      "start": "2023-02-01T00:00",
+      "end": "2024-02-07T00:00",
+      "legislature": 57
+    },
+    {
+      "party": "PRD",
+      "start": "2024-02-07T00:00",
+      "end": "2026-04-10T12:00",
+      "legislature": 57
+    },
+    {
+      "party": "PP",
+      "start": "2026-04-10T12:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": "2025-10-30T15:55",
+      "legislature": 57
+    },
+    {
+      "condition": "titular",
+      "start": "2026-02-28T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Pedro Aihara",
+      "start": "2023-02-01T00:00",
+      "end": null
+    }
+  ]
+}

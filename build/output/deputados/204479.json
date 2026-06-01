@@ -1,0 +1,71 @@
+{
+  "id": 204479,
+  "name": "Nicoletti",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/204479.jpg",
+  "state": "RR",
+  "current_party": "PL",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "RR"
+    },
+    {
+      "legislature": 57,
+      "state": "RR"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSL",
+      "start": "2019-02-01T00:00",
+      "end": "2022-02-23T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-23T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2023-02-01T00:00",
+      "end": "2026-03-06T12:16",
+      "legislature": 57
+    },
+    {
+      "party": "PL",
+      "start": "2026-03-06T12:16",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "Nicoletti",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

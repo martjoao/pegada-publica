@@ -1,0 +1,64 @@
+{
+  "id": 5672,
+  "name": "Alan Rick",
+  "photo_url": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5672.jpg",
+  "state": "AC",
+  "current_party": "REPUBLICANOS",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "AC",
+      "condition": "titular"
+    },
+    {
+      "legislature": 58,
+      "state": "AC",
+      "condition": "titular"
+    }
+  ],
+  "parties": [
+    {
+      "party": "REPUBLICANOS",
+      "start": "2015-02-01",
+      "end": "2017-07-31"
+    },
+    {
+      "party": "DEM",
+      "start": "2017-08-01",
+      "end": "2022-02-23"
+    },
+    {
+      "party": "UNIÃO",
+      "start": "2022-02-24",
+      "end": "2025-11-10"
+    },
+    {
+      "party": "REPUBLICANOS",
+      "start": "2025-11-12",
+      "end": null
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2023-02-01",
+      "end": null,
+      "legislature": 57,
+      "cause": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Alan Rick",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

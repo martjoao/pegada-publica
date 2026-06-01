@@ -1,0 +1,118 @@
+{
+  "id": 143632,
+  "name": "Domingos Neto",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
+  "state": "CE",
+  "current_party": "PSD",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [
+    56,
+    57
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "CE"
+    },
+    {
+      "legislature": 57,
+      "state": "CE"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSB",
+      "start": "2011-02-01T00:00",
+      "end": "2013-10-08T18:03",
+      "legislature": 54
+    },
+    {
+      "party": "PROS",
+      "start": "2013-10-08T18:03",
+      "end": "2015-02-01T00:00",
+      "legislature": 54
+    },
+    {
+      "party": "PROS",
+      "start": "2015-02-01T00:00",
+      "end": "2015-11-18T19:10",
+      "legislature": 55
+    },
+    {
+      "party": "PMB",
+      "start": "2015-11-18T19:10",
+      "end": "2016-03-02T16:09",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2016-03-02T16:09",
+      "end": "2019-02-01T00:00",
+      "legislature": 55
+    },
+    {
+      "party": "PSD",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    },
+    {
+      "party": "PSD",
+      "start": "2023-02-01T00:00",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "titular",
+      "start": "2011-02-01T00:00",
+      "end": "2013-02-07T09:00",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2014-02-18T15:45",
+      "end": "2015-01-31T23:59",
+      "legislature": 54
+    },
+    {
+      "condition": "titular",
+      "start": "2015-02-01T10:00",
+      "end": "2019-01-31T23:59",
+      "legislature": 55
+    },
+    {
+      "condition": "titular",
+      "start": "2019-02-01T11:45",
+      "end": "2020-08-12T16:43",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2020-12-13T00:00",
+      "end": "2023-01-31T23:59",
+      "legislature": 56
+    },
+    {
+      "condition": "titular",
+      "start": "2023-02-01T12:05",
+      "end": null,
+      "legislature": 57
+    }
+  ],
+  "names": [
+    {
+      "name": "DOMINGOS NETO",
+      "start": "2011-02-01T00:00",
+      "end": "2019-02-01T00:00"
+    },
+    {
+      "name": "Domingos Neto",
+      "start": "2019-02-01T00:00",
+      "end": null
+    }
+  ]
+}

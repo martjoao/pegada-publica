@@ -1,0 +1,47 @@
+{
+  "id": 217330,
+  "name": "Pedro Dalua",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/217330.jpg",
+  "state": "AP",
+  "current_party": "PSC",
+  "current_condition": "alternate",
+  "current_status": "substitute",
+  "in_office": false,
+  "legislatures": [
+    56
+  ],
+  "mandates": [
+    {
+      "legislature": 56,
+      "state": "AP"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PSC",
+      "start": "2019-02-01T00:00",
+      "end": "2023-02-01T00:00",
+      "legislature": 56
+    }
+  ],
+  "office_periods": [
+    {
+      "condition": "alternate",
+      "start": "2021-07-28T14:31",
+      "end": "2022-04-04T09:00",
+      "legislature": 56
+    }
+  ],
+  "names": [
+    {
+      "name": "DaLua do Rota",
+      "start": "2019-02-01T00:00",
+      "end": "2021-09-10T08:53"
+    },
+    {
+      "name": "Pedro Dalua",
+      "start": "2021-09-10T08:53",
+      "end": null
+    }
+  ]
+}

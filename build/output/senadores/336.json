@@ -1,0 +1,46 @@
+{
+  "id": 336,
+  "name": "Paulo Gouvêa",
+  "photo_url": null,
+  "state": "SC",
+  "current_party": "DEM",
+  "current_condition": "alternate",
+  "current_status": "term_ended",
+  "in_office": false,
+  "legislatures": [
+    55,
+    56
+  ],
+  "terms": [
+    {
+      "legislature": 55,
+      "state": "SC",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 56,
+      "state": "SC",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "PFL",
+      "start": "1999-02-01",
+      "end": "2007-08-01"
+    },
+    {
+      "party": "DEM",
+      "start": "2015-02-01",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Paulo Gouvêa",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

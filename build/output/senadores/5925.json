@@ -1,0 +1,35 @@
+{
+  "id": 5925,
+  "name": "Pastor Gaia",
+  "photo_url": null,
+  "state": "AP",
+  "current_party": null,
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    56,
+    57
+  ],
+  "terms": [
+    {
+      "legislature": 56,
+      "state": "AP",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 57,
+      "state": "AP",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Pastor Gaia",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}

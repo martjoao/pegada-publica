@@ -1,0 +1,41 @@
+{
+  "id": 6347,
+  "name": "Breno",
+  "photo_url": null,
+  "state": "AP",
+  "current_party": "UNIÃO",
+  "current_condition": "alternate",
+  "current_status": null,
+  "in_office": false,
+  "legislatures": [
+    57,
+    58
+  ],
+  "terms": [
+    {
+      "legislature": 57,
+      "state": "AP",
+      "condition": "alternate"
+    },
+    {
+      "legislature": 58,
+      "state": "AP",
+      "condition": "alternate"
+    }
+  ],
+  "parties": [
+    {
+      "party": "UNIÃO",
+      "start": "2022-10-02",
+      "end": null
+    }
+  ],
+  "office_periods": [],
+  "names": [
+    {
+      "name": "Breno",
+      "start": "1900-01-01",
+      "end": null
+    }
+  ]
+}
