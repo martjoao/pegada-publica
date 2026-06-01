@@ -1,0 +1,117 @@
+---
+import Base from "../../layouts/Base.astro";
+import { loadIndex, loadDeputy } from "../../lib/data";
+import { statusLabel, statusColor, conditionLabel } from "../../lib/labels";
+
+export function getStaticPaths() {
+  return loadIndex().map((c) => ({ params: { id: String(c.id) } }));
+}
+
+const { id } = Astro.params;
+const dep = loadDeputy(id!);
+const base = import.meta.env.BASE_URL;
+const fmt = (iso: string | null) =>
+  iso ? iso.slice(0, 10).split("-").reverse().join("/") : "atual";
+---
+
+<Base title={`${dep.name} — Pegada Pública`}>
+  <a href={base} class="text-sm text-[#1f3a5f] hover:underline">‹ Deputados</a>
+
+  <div class="mt-3 flex items-center gap-4 border-b-2 border-[#1f3a5f] pb-4">
+    {
+      dep.photo_url && (
+        <img
+          src={dep.photo_url}
+          alt={dep.name}
+          width="84"
+          height="108"
+          class="rounded bg-slate-200 object-cover"
+        />
+      )
+    }
+    <div>
+      <h1 class="text-2xl font-bold">{dep.name}</h1>
+      <div class="mt-1 flex flex-wrap items-center gap-2 text-sm text-slate-600">
+        {
+          dep.current_party && (
+            <span class="rounded-full bg-[#1f3a5f] px-2 py-0.5 text-xs text-white">
+              {dep.current_party}
+            </span>
+          )
+        }
+        <span>{dep.state}</span>
+        <span class={`rounded-full px-2 py-0.5 text-xs text-white ${statusColor(dep.current_status)}`}>
+          {statusLabel(dep.current_status)}
+        </span>
+        {
+          dep.current_condition && (
+            <span class="text-slate-500">· {conditionLabel(dep.current_condition)}</span>
+          )
+        }
+      </div>
+    </div>
+  </div>
+
+  <section class="mt-5">
+    <h2 class="text-xs font-semibold uppercase tracking-wide text-slate-500">
+      Histórico partidário
+    </h2>
+    <ul class="mt-2 space-y-1">
+      {
+        dep.parties.map((p) => (
+          <li class="text-sm">
+            <span class="font-medium">{p.party}</span>
+            <span class="text-slate-500">
+              {" "}— {fmt(p.start)} → {fmt(p.end)} · {p.legislature}ª
+            </span>
+          </li>
+        ))
+      }
+      {dep.parties.length === 0 && <li class="text-sm text-slate-400">Sem dados.</li>}
+    </ul>
+    <p class="mt-2 text-xs text-slate-400">
+      Votos são atribuídos ao partido vigente na data de cada votação.
+    </p>
+  </section>
+
+  <section class="mt-5">
+    <h2 class="text-xs font-semibold uppercase tracking-wide text-slate-500">
+      Mandato e exercício
+    </h2>
+    <ul class="mt-2 space-y-1">
+      {
+        dep.office_periods.map((o) => (
+          <li class="text-sm">
+            <span class="font-medium">{conditionLabel(o.condition)}</span>
+            <span class="text-slate-500">
+              {" "}— {fmt(o.start)} → {fmt(o.end)} · {o.legislature}ª
+            </span>
+          </li>
+        ))
+      }
+      {
+        dep.office_periods.length === 0 && (
+          <li class="text-sm text-slate-400">Sem períodos registrados.</li>
+        )
+      }
+    </ul>
+  </section>
+
+  {
+    dep.names.length > 1 && (
+      <section class="mt-5">
+        <h2 class="text-xs font-semibold uppercase tracking-wide text-slate-500">
+          Nomes parlamentares
+        </h2>
+        <ul class="mt-2 space-y-1">
+          {dep.names.map((n) => (
+            <li class="text-sm">
+              <span class="font-medium">{n.name}</span>
+              <span class="text-slate-500"> — desde {fmt(n.start)}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+</Base>

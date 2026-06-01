@@ -1,0 +1,16 @@
+---
+import Base from "../layouts/Base.astro";
+import DeputyDirectory from "../components/DeputyDirectory.tsx";
+import { loadIndex } from "../lib/data";
+
+const deputies = loadIndex();
+const inOffice = deputies.filter((d) => d.in_office).length;
+---
+
+<Base title="Deputados — Pegada Pública">
+  <h1 class="text-2xl font-bold">Deputados Federais</h1>
+  <p class="mb-5 text-sm text-slate-500">
+    {inOffice} em exercício · 57ª Legislatura (2023–)
+  </p>
+  <DeputyDirectory deputies={deputies} client:load />
+</Base>

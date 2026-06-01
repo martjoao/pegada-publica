@@ -83,6 +83,22 @@ accurate — `in_office` / `substitute` / `on_leave` / `suspended` / `vacated` /
 `term_ended` — replacing the old condition-inferred guess (e.g. Glauber Braga is now
 `suspended`, not mislabeled `licenciado`).
 
+**014 — Frontend stack = Astro + React islands + Tailwind (SSG).** `/site` pre-renders
+one static HTML page per bounded entity (deputies now) from the `build/output` JSON,
+with React islands for interactivity (directory search + "Em exercício" toggle) and a
+PT display layer (`src/lib/labels.ts`) mapping canonical EN codes → Portuguese. **Rule:**
+pre-render bounded/named entities; push heavy/unbounded data (expenses, donations,
+donors) into fetched JSON / aggregates / bulk downloads — never a page each (also LGPD).
+React islands (not `.astro`) so components port if we ever go full SPA. Requires Node
+20+ (system Node 10 is too old; nvm + Node 20 installed locally).
+
+**015 — Deploy = produce data locally, build site in CI (Option A).** The ETL hits
+flaky/heavy government APIs and is **not** CI-safe, so data is produced locally on each
+source's schedule; the canonical `build/output` JSON is committed (it doubles as the
+public open-data artifact), and a GitHub Action builds Astro + deploys to GitHub Pages
+from that committed snapshot. *(Pending: un-ignore `build/output/` and add the Actions
+workflow when we wire deployment.)*
+
 ---
 
 ## Deferrals
