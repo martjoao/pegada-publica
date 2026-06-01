@@ -66,6 +66,14 @@ deputies) → transform → `pegada.db`. 14 transient 504 failures recovered on 
 validating the exercise-interval logic. Counts: deputado 924, mandato 1255, exercicio
 2339, party_membership 3009, name_history 1360.
 
+**012 — Exercise intervals key on `situacao`, not `descricaoStatus`.** A loss of
+mandate is filed as `situacao "Vacância"` with a `"Diverso - … Perda de Mandato"`
+description (no `"Saída -"` prefix), so the old text-prefix close-rule left two 56ª
+deputies (Valdevan Noventa, Manuel Marcos) showing as currently in exercise. Fixed to
+close on any non-`Exercício`/`Convocado` state. Result is now **exact**: 57th-term
+seats = **512 in exercise + 1 suspended (Glauber Braga) = 513**; DB matches the raw
+`situacao` field with zero mismatches.
+
 ---
 
 ## Deferrals

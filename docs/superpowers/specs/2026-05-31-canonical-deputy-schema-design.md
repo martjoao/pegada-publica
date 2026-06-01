@@ -136,11 +136,15 @@ page, not in the URL.
    - **Party intervals:** each `"…início da legislatura"` or `"Alteração de partido"`
      entry opens an interval at that `siglaPartido`; close it at the next
      party-changing entry (or term end, or NULL if open).
-   - **Exercise intervals:** each `situacao == "Exercício"` entry (descricaoStatus
-     `"Entrada - …"`) opens an interval tagged with its `condicaoEleitoral`; close it
-     at the next entry that takes the deputy out of exercise — a `"Saída - …"` entry,
-     i.e. `situacao` ∈ {`Licença` (titular leave), `Suplência` (suplente step-down),
-     `Fim de Mandato`}; **ignore transient `"Convocado"` entries**.
+   - **Exercise intervals:** driven by `situacao`. A `situacao == "Exercício"` entry
+     opens an interval (tagged with its `condicaoEleitoral`); it closes on the next
+     entry whose `situacao` is any *other* terminal state — `Licença` (titular leave),
+     `Suplência` (suplente step-down), `Fim de Mandato`, `Vacância` (loss of mandate),
+     `Suspenso`, … A legislatura change while in exercise also splits it. **Ignore
+     `Convocado` (transient call-up) and `None` (term-start/metadata) rows.** Key on
+     `situacao`, **not** the `descricaoStatus` text: some exits are filed as
+     `"Diverso - … Perda de Mandato"`, which no `"Saída -"` prefix would catch (this
+     bug once left two 56ª deputies showing as currently in exercise).
    - **Name intervals:** each entry whose `nome` differs from the running value
      opens a new name interval.
    - A final interval with no closing entry stays **open** (`end_at = NULL`, i.e.

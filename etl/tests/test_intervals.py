@@ -129,6 +129,28 @@ def test_exercise_intervals_titular_leave_and_open_tail():
     ]
 
 
+# Real bug (Valdevan Noventa 204385 / Manuel Marcos 204469): a mid-term loss of
+# mandate is recorded as situacao "Vacância" with a "Diverso - … Perda de Mandato"
+# descricaoStatus — NOT "Saída -". The exercise interval must still close, otherwise
+# a deputy who left in the 56ª shows as currently in exercise.
+VACANCIA = [
+    _entry("2019-02-01T11:45", "PSC", "Fulano", "Titular", "Exercício",
+           "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória", leg=56),
+    _entry("2020-07-01T16:27", "PL", "Fulano", "Titular", "Exercício",
+           "Alteração de partido", leg=56),
+    _entry("2020-11-05T00:00", "PL", "Fulano", "Não Eleito", "Vacância",
+           "Diverso - Decisão da Mesa - Perda de Mandato por Recontagem de Votos", leg=56),
+]
+
+
+def test_exercise_interval_closes_on_vacancia():
+    got = intervals.exercise_intervals(VACANCIA)
+    assert got == [
+        {"legislatura": 56, "condicao": "Titular",
+         "start_at": "2019-02-01T11:45", "end_at": "2020-11-05T00:00"},
+    ]
+
+
 def test_builders_sort_unordered_input():
     shuffled = list(reversed(ADAIL))
     got = intervals.party_intervals(shuffled)

@@ -75,30 +75,53 @@ def name_intervals(entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     return result
 
 
-def exercise_intervals(entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Build in-office (exercise) intervals from Entrada/Saída events.
+# Entries whose ``situacao`` is neither in-office nor a real exit — skip them.
+_EXERCISE_IGNORE = {None, "Convocado"}
 
-    An interval opens on a ``"Entrada - …"`` event (tagged with that entry's
-    ``condicaoEleitoral``) and closes on the next ``"Saída - …"`` event. Transient
-    ``"Convocado"`` call-up entries and in-office events (party/name changes) are
-    ignored. A final unmatched Entrada stays open (``end_at = None``).
+
+def exercise_intervals(entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Build in-office (exercise) intervals, driven by ``situacao``.
+
+    ``situacao == "Exercício"`` means the deputy holds the seat. An interval opens
+    on the first such entry (tagged with its ``condicaoEleitoral``) and closes on the
+    next entry whose ``situacao`` is any *other* terminal state — ``Licença`` (titular
+    leave), ``Suplência`` (suplente step-down), ``Fim de Mandato``, ``Vacância`` (loss
+    of mandate), etc. Transient ``Convocado`` call-ups and ``None`` (term-start /
+    metadata) rows are ignored, as are in-office party/name changes (still
+    ``Exercício``). A legislatura change while in exercise also splits the interval.
+    A final, still-open interval stays open (``end_at = None``).
+
+    Keying on ``situacao`` rather than the ``descricaoStatus`` text matters: some
+    exits (e.g. loss of mandate) are filed as ``"Diverso - … Perda de Mandato"``,
+    which no ``"Saída -"`` prefix would catch.
     """
     result: List[Dict[str, Any]] = []
     open_interval: Optional[Dict[str, Any]] = None
     for entry in _sorted(entries):
-        desc = entry.get("descricaoStatus") or ""
-        if desc.startswith("Entrada -"):
-            if open_interval is not None:  # defensive: close a dangling interval
+        sit = entry.get("situacao")
+        if sit == "Exercício":
+            if open_interval is None:
+                open_interval = {
+                    "legislatura": entry["idLegislatura"],
+                    "condicao": entry["condicaoEleitoral"],
+                    "start_at": entry["dataHora"],
+                    "end_at": None,
+                }
+            elif entry["idLegislatura"] != open_interval["legislatura"]:
+                # term changed without an explicit terminal entry — split.
                 open_interval["end_at"] = entry["dataHora"]
                 result.append(open_interval)
-            open_interval = {
-                "legislatura": entry["idLegislatura"],
-                "condicao": entry["condicaoEleitoral"],
-                "start_at": entry["dataHora"],
-                "end_at": None,
-            }
-        elif desc.startswith("Saída -") and open_interval is not None:
-            open_interval["end_at"] = entry["dataHora"]
+                open_interval = {
+                    "legislatura": entry["idLegislatura"],
+                    "condicao": entry["condicaoEleitoral"],
+                    "start_at": entry["dataHora"],
+                    "end_at": None,
+                }
+            # else: still in exercise (party/name change) — same interval.
+        elif sit in _EXERCISE_IGNORE:
+            continue  # transient call-up / term-start / metadata rows
+        elif open_interval is not None:
+            open_interval["end_at"] = entry["dataHora"]  # any real exit closes it
             result.append(open_interval)
             open_interval = None
     if open_interval is not None:
