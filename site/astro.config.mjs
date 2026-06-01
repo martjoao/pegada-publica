@@ -4,8 +4,11 @@ import react from "@astrojs/react";
 import tailwindcss from "@tailwindcss/vite";
 
 // Static site (GitHub Pages). Pages consume the JSON produced by /build.
-// For project Pages (user.github.io/pegada-publica) set `base: "/pegada-publica"`.
+// Project Pages live at user.github.io/pegada-publica, so `site` is the GitHub
+// Pages origin and `base` is the repo path. Internal links go through BASE_URL.
 export default defineConfig({
+  site: "https://martjoao.github.io",
+  base: "/pegada-publica",
   integrations: [react()],
   vite: { plugins: [tailwindcss()] },
 });
