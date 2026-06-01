@@ -1,68 +1,70 @@
 # Decisions & Deferrals
 
 A running ledger of consequential project decisions, deferred work (with what it
-would take to undefer), and open items. Newest entries first within each section.
+would take to undefer), and open items. **Decisions are numbered chronologically
+(`001` = oldest)** so numeric/alphabetical order matches the order they were made;
+append new ones with the next number. Deferrals and open items are living lists.
 Detailed designs live under `docs/superpowers/specs/`.
 
 ---
 
 ## Decisions
 
-Each decision: what was decided, why, and when. Mark **superseded** rather than
-deleting, so the history stays readable.
+Each decision: what was decided, why, and (implicitly) when, by its index. Mark
+**superseded** rather than deleting, so the history stays readable.
 
-### 2026-05-31
+**001 — First extract = Câmara deputy roster.** `/deputados` for legislaturas 56 &
+57, written as provenance-wrapped raw JSON landing files; data is gitignored, only
+code committed.
+→ spec: `docs/superpowers/specs/2026-05-31-camara-deputados-extract-design.md`
 
-- **Build stage (deputies) = per-deputy detail JSON + slim directory index**,
-  generated from `pegada.db` by a top-level `/build` stage that reads the DB via SQL
-  (schema = the contract; no `etl` imports). Directory default = latest legislatura +
-  `em_exercício` toggle (≈513) with `em exercício` / `suplente` / `licenciado` status
-  badges; ordering Nome A–Z (objective).
-  → spec: `docs/superpowers/specs/2026-05-31-build-stage-deputies-design.md`
+**002 — ETL organized by phase.** `common/`, `extract/`, `transform/` (load folded
+into transform for now), using PEP 420 namespace packages (no `__init__.py`). pip +
+requirements.txt.
 
-- **Deputy page structure approved** (visual companion): header, party-migration
-  timeline, mandate/exercise, then future placeholder sections. URL `/deputado/{id}`.
+**003 — Canonical deputy schema = Approach A (normalized, pre-computed intervals).**
+Tables: `deputado`, `mandato`, `exercicio`, `party_membership`, `name_history`,
+`source_meta`. Two orthogonal dated timelines (party affiliation vs. in-office
+exercise), each derived by folding the `/historico` event stream into intervals.
+*Why:* the party-at-vote-time constraint becomes a single interval lookup; interval
+logic belongs in transform, not in every consumer.
+→ spec: `docs/superpowers/specs/2026-05-31-canonical-deputy-schema-design.md`
 
-- **Milestone — canonical pipeline ran end-to-end on live data.** Extract (924
-  deputies) → transform → `pegada.db`. 14 transient 504 failures were recovered on
-  retry (full coverage). Sanity check passed: "currently in exercise" = **514 ≈ 513**
-  seats, validating the exercise-interval logic. Counts: deputado 924, mandato 1255,
-  exercicio 2339, party_membership 3009, name_history 1360.
+**004 — Model dated party membership now** (not per-term party sets). *Why:*
+`/historico` is cheap (one param-less call per id), so there's no reason to ship a
+lossy set-based version and rework it later.
 
-- **Canonical deputy schema = Approach A (normalized, pre-computed intervals).**
-  Tables: `deputado`, `mandato`, `exercicio`, `party_membership`, `name_history`,
-  `source_meta`. Two orthogonal dated timelines (party affiliation vs. in-office
-  exercise), each derived by folding the `/historico` event stream into intervals.
-  *Why:* the party-at-vote-time constraint becomes a single interval lookup; interval
-  logic belongs in transform, not in every consumer.
-  → spec: `docs/superpowers/specs/2026-05-31-canonical-deputy-schema-design.md`
+**005 — Include parliamentary name history now.** *Why:* same source (`/historico`),
+trivial extra interval table, and a real test case exists (Allan Garcês). Serves
+historical accuracy and search-by-former-name.
 
-- **Model dated party membership now** (not per-term party sets). *Why:* `/historico`
-  is cheap (one param-less call per id), so there's no reason to ship a lossy
-  set-based version and rework it later.
+**006 — Page URL key = Câmara `id`** (`/deputado/{id}`), not a name slug. *Why:*
+stable and unique by construction; immune to name changes; no slug-generation logic.
 
-- **Include parliamentary name history now.** *Why:* same source (`/historico`),
-  trivial extra interval table, and a real test case exists (Allan Garcês). Serves
-  historical accuracy and search-by-former-name.
+**007 — Storage: SQLite as the system-of-record; `transform` writes straight to it**
+(merging `transform`+`load` for now). *Why:* stdlib, transactional upserts suit
+incremental ETL; the deputy roster is small and relational.
 
-- **Page URL key = Câmara `id`** (`/deputado/{id}`), not a name slug. *Why:* stable
-  and unique by construction; immune to name changes; no slug-generation logic.
+**008 — DuckDB deferred as a read/analytics layer**, to be introduced for the heavy
+CPF×QSA cross-reference joins. *Why:* DuckDB reads CSV/Parquet natively and can
+`ATTACH` a SQLite file, so choosing SQLite now is not a lock-in. Avoid maintaining
+two writable stores — SQLite stores, DuckDB only reads.
 
-- **Storage: SQLite as the system-of-record; `transform` writes straight to it**
-  (merging `transform`+`load` for now). *Why:* stdlib, transactional upserts suit
-  incremental ETL; the deputy roster is small and relational.
+**009 — Deputy page structure approved** (visual companion): header, party-migration
+timeline, mandate/exercise, then future placeholder sections. URL `/deputado/{id}`.
 
-- **DuckDB deferred as a read/analytics layer**, to be introduced for the heavy
-  CPF×QSA cross-reference joins. *Why:* DuckDB reads CSV/Parquet natively and can
-  `ATTACH` a SQLite file, so choosing SQLite now is not a lock-in. Avoid maintaining
-  two writable stores — SQLite stores, DuckDB only reads.
+**010 — Build stage (deputies) = per-deputy detail JSON + slim directory index**,
+generated from `pegada.db` by a top-level `/build` stage that reads the DB via SQL
+(schema = the contract; no `etl` imports). Directory default = latest legislatura +
+`em_exercício` toggle (≈513) with `em exercício` / `suplente` / `licenciado` status
+badges; ordering Nome A–Z (objective).
+→ spec: `docs/superpowers/specs/2026-05-31-build-stage-deputies-design.md`
 
-- **First extract = Câmara deputy roster** (`/deputados`, legislaturas 56 & 57),
-  provenance-wrapped raw JSON landing files; data is gitignored, only code committed.
-  → spec: `docs/superpowers/specs/2026-05-31-camara-deputados-extract-design.md`
-
-- **ETL organized by phase** (`common/`, `extract/`; `transform/`/`load/` added when
-  built) using PEP 420 namespace packages (no `__init__.py`). pip + requirements.txt.
+**011 — Milestone: canonical pipeline ran end-to-end on live data.** Extract (924
+deputies) → transform → `pegada.db`. 14 transient 504 failures recovered on retry
+(full coverage). Sanity check passed: "currently in exercise" = **514 ≈ 513** seats,
+validating the exercise-interval logic. Counts: deputado 924, mandato 1255, exercicio
+2339, party_membership 3009, name_history 1360.
 
 ---
 
@@ -93,6 +95,11 @@ undefer**.
   party member history; mergers/renames).
   *Why deferred:* its own modeling problem. *To undefer:* its own brainstorm; the
   `uriPartido` in the roster carries a stable party id to anchor it.
+
+- **Future deputy-page sections & site wiring.** Attendance, CEAP expenses, votes,
+  bills, amendments, inferred corporate influence — added to `{id}.json` as their data
+  sources land. Plus the `/site` frontend + deploy wiring (where `build/output/` is
+  served from), and the party/proposition build outputs (own specs).
 
 - **Other Câmara endpoints:** expenses (`/deputados/{id}/despesas`), committees
   (`/orgaos`), attendance (`/eventos`), speeches (`/discursos`), bills
