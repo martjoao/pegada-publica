@@ -30,8 +30,19 @@ function Avatar({ name, src }: { name: string; src: string | null }) {
   );
 }
 
-/** Live party-distribution bar chart over the currently filtered set. */
-function PartyChart({ deputies }: { deputies: Card[] }) {
+/**
+ * Live party-distribution chart over the given set. Click a party to toggle it
+ * as the active filter; the chart still lists every party so it stays a picker.
+ */
+function PartyChart({
+  deputies,
+  selected,
+  onSelect,
+}: {
+  deputies: Card[];
+  selected: string;
+  onSelect: (party: string) => void;
+}) {
   const rows = useMemo(() => {
     const counts = new Map<string, number>();
     for (const d of deputies) {
@@ -47,21 +58,39 @@ function PartyChart({ deputies }: { deputies: Card[] }) {
       <h2 className="mb-2 text-xs font-semibold uppercase tracking-wide text-slate-500">
         Deputados por partido
       </h2>
-      <ul className="max-h-72 space-y-1 overflow-y-auto pr-1">
-        {rows.map(([party, n]) => (
-          <li key={party} className="flex items-center gap-2 text-xs">
-            <span className="w-20 shrink-0 truncate text-right text-slate-600">
-              {party}
-            </span>
-            <span className="flex-1">
-              <span
-                className="block h-3 rounded bg-[#1f3a5f]"
-                style={{ width: `${Math.max((n / max) * 100, 1)}%` }}
-              />
-            </span>
-            <span className="w-7 text-right tabular-nums text-slate-500">{n}</span>
-          </li>
-        ))}
+      <ul className="max-h-72 space-y-0.5 overflow-y-auto pr-1">
+        {rows.map(([party, n]) => {
+          const isSelected = party === selected;
+          const clickable = party !== "—";
+          return (
+            <li key={party}>
+              <button
+                type="button"
+                disabled={!clickable}
+                onClick={() => onSelect(party)}
+                title={clickable ? `Filtrar por ${party}` : undefined}
+                className={`flex w-full items-center gap-2 rounded px-1 py-0.5 text-xs ${
+                  isSelected
+                    ? "bg-slate-100 ring-1 ring-[#1f3a5f]"
+                    : clickable
+                      ? "hover:bg-slate-50"
+                      : "cursor-default"
+                }`}
+              >
+                <span className="w-20 shrink-0 truncate text-right text-slate-600">
+                  {party}
+                </span>
+                <span className="flex-1">
+                  <span
+                    className={`block h-3 rounded ${isSelected ? "bg-[#0f2747]" : "bg-[#1f3a5f]"}`}
+                    style={{ width: `${Math.max((n / max) * 100, 1)}%` }}
+                  />
+                </span>
+                <span className="w-7 text-right tabular-nums text-slate-500">{n}</span>
+              </button>
+            </li>
+          );
+        })}
         {rows.length === 0 && (
           <li className="text-xs text-slate-400">Nenhum deputado.</li>
         )}
@@ -88,13 +117,15 @@ export default function DeputyDirectory({ deputies }: { deputies: Card[] }) {
   );
 
   const nq = norm(q.trim());
-  const filtered = deputies.filter(
-    (d) =>
-      (!onlyInOffice || d.in_office) &&
-      (!party || d.party === party) &&
-      (!uf || d.state === uf) &&
-      (!nq || norm(d.name).includes(nq)),
-  );
+  // chartBase = everything except the party filter, so the chart stays a full picker.
+  const passesBase = (d: Card) =>
+    (!onlyInOffice || d.in_office) &&
+    (!uf || d.state === uf) &&
+    (!nq || norm(d.name).includes(nq));
+  const chartBase = deputies.filter(passesBase);
+  const filtered = chartBase.filter((d) => !party || d.party === party);
+
+  const toggleParty = (p: string) => setParty((prev) => (prev === p ? "" : p));
 
   return (
     <div>
@@ -133,12 +164,20 @@ export default function DeputyDirectory({ deputies }: { deputies: Card[] }) {
             <option key={u} value={u}>{u}</option>
           ))}
         </select>
+        {party && (
+          <button
+            onClick={() => setParty("")}
+            className="rounded-full bg-slate-200 px-2 py-1 text-xs text-slate-700 hover:bg-slate-300"
+          >
+            {party} ✕
+          </button>
+        )}
         <span className="ml-auto text-slate-500">{filtered.length} deputados</span>
       </div>
 
       <div className="grid gap-4 lg:grid-cols-[18rem_1fr]">
         <aside className="lg:sticky lg:top-4 lg:self-start">
-          <PartyChart deputies={filtered} />
+          <PartyChart deputies={chartBase} selected={party} onSelect={toggleParty} />
         </aside>
 
         <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2">
