@@ -35,6 +35,7 @@ export interface NameInterval {
 export interface Card {
   id: number;
   name: string;
+  photo_url: string | null;
   party: string | null;
   state: string | null;
   status: Status;

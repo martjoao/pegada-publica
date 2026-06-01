@@ -95,6 +95,7 @@ def build_deputy(
     card = {
         "id": dep["id"],
         "name": dep["name"],
+        "photo_url": dep["photo_url"],
         "party": current_party,
         "state": state,
         "status": current_status,

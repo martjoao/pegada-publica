@@ -116,7 +116,7 @@ def test_index_sorted_and_slim(tmp_path):
     idx = _load(out, "index.json")
     assert [c["id"] for c in idx] == [1, 2, 3, 4]  # name A–Z
     assert sum(1 for c in idx if c["in_office"]) == 1  # only Adail seated
-    assert idx[0] == {"id": 1, "name": "Adail Filho", "party": "MDB", "state": "AM",
-                      "status": "in_office", "condition": "titular",
-                      "in_office": True, "legislatures": [57]}
+    assert idx[0] == {"id": 1, "name": "Adail Filho", "photo_url": "http://f/1.jpg",
+                      "party": "MDB", "state": "AM", "status": "in_office",
+                      "condition": "titular", "in_office": True, "legislatures": [57]}
     assert idx[3]["party"] is None and idx[3]["status"] is None  # no-history deputy
