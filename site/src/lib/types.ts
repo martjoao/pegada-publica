@@ -60,3 +60,37 @@ export interface Deputy {
   office_periods: OfficeInterval[];
   names: NameInterval[];
 }
+
+/** A senator office period also carries the raw afastamento cause that closed it. */
+export interface SenatorOfficeInterval {
+  condition: string;
+  start: string;
+  end: string | null;
+  legislature: number | null;
+  cause: string | null;
+}
+
+/** A senator party affiliation (dated, from /filiacoes — not per-legislature). */
+export interface SenatorPartyInterval {
+  party: string;
+  start: string;
+  end: string | null;
+}
+
+/** Full per-senator detail from senadores/{id}.json. Mirrors Deputy; the 8-year
+ *  mandate spans two legislatures, so `terms` carries one entry per legislature. */
+export interface Senator {
+  id: number;
+  name: string;
+  photo_url: string | null;
+  state: string | null;
+  current_party: string | null;
+  current_condition: Condition;
+  current_status: Status;
+  in_office: boolean;
+  legislatures: number[];
+  terms: { legislature: number; state: string; condition: string }[];
+  parties: SenatorPartyInterval[];
+  office_periods: SenatorOfficeInterval[];
+  names: NameInterval[];
+}

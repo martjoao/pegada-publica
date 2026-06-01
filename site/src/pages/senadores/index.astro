@@ -1,0 +1,16 @@
+---
+import Base from "../../layouts/Base.astro";
+import SenatorDirectory from "../../components/SenatorDirectory.tsx";
+import { loadSenatorIndex } from "../../lib/data";
+
+const senators = loadSenatorIndex();
+const inOffice = senators.filter((s) => s.in_office).length;
+---
+
+<Base title="Senadores — Pegada Pública">
+  <h1 class="text-2xl font-bold">Senadores</h1>
+  <p class="mb-5 text-sm text-slate-500">
+    {inOffice} em exercício · 57ª Legislatura (2023–)
+  </p>
+  <SenatorDirectory senators={senators} client:load />
+</Base>
