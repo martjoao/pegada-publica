@@ -19,6 +19,7 @@ Entry fields used: ``dataHora`` (ISO timestamp, sort key), ``siglaPartido``,
 """
 from __future__ import annotations
 
+from datetime import datetime, timezone
 from typing import Any, Callable, Dict, List, Optional
 
 # Raw PT -> canonical EN value mappings (see docs/glossario.md).
@@ -33,6 +34,15 @@ STATUS_BY_SITUACAO = {
 }
 # situações that are neither in-office nor a settled terminal state.
 _TRANSIENT_SITUACAO = {None, "Convocado"}
+
+
+def _today_iso() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M")
+
+
+def _legislature_end(legislature: int) -> str:
+    """Term end (= next term's start, Feb 1). 4-year terms; term 57 → 2027-02-01."""
+    return f"{4 * legislature + 1799}-02-01T00:00"
 
 
 def _sorted(entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -56,23 +66,35 @@ def _runs(
     return runs
 
 
-def party_affiliations(entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+def party_affiliations(
+    entries: List[Dict[str, Any]], *, today: Optional[str] = None
+) -> List[Dict[str, Any]]:
     """Build per-legislature party-affiliation intervals.
 
     A boundary occurs whenever the (legislature, party) pair changes, so a party
-    held continuously across two terms yields one interval per term.
+    held continuously across two terms yields one interval per term. Each interval
+    is **capped at its legislature's end** so a gap (terms the deputy did not serve)
+    is never absorbed into a single long interval — e.g. serving terms 51 then 56
+    yields a 51 interval ending in 2003, not stretching to 2019.
     """
+    today = today or _today_iso()
     runs = _runs(entries, key=lambda e: (e["idLegislatura"], e["siglaPartido"]))
     result: List[Dict[str, Any]] = []
     for index, run in enumerate(runs):
         head = run[0]
+        term_end = _legislature_end(head["idLegislatura"])
         next_start = runs[index + 1][0]["dataHora"] if index + 1 < len(runs) else None
+        if next_start is None:
+            # Ongoing term → open; a past term not continued → ends at term end.
+            end = None if term_end > today else term_end
+        else:
+            end = min(next_start, term_end)  # cap so legislature gaps aren't absorbed
         result.append(
             {
                 "legislature": head["idLegislatura"],
                 "party": head["siglaPartido"],
                 "start": head["dataHora"],
-                "end": next_start,
+                "end": end,
                 "source_note": head.get("descricaoStatus"),
             }
         )
@@ -92,7 +114,9 @@ def name_history(entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     return result
 
 
-def office_periods(entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+def office_periods(
+    entries: List[Dict[str, Any]], *, today: Optional[str] = None
+) -> List[Dict[str, Any]]:
     """Build in-office intervals, driven by ``situacao``.
 
     ``situacao == "Exercício"`` means the deputy holds the seat. An interval opens
@@ -107,6 +131,7 @@ def office_periods(entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     (e.g. loss of mandate) are filed as ``"Diverso - … Perda de Mandato"``, which no
     ``"Saída -"`` prefix would catch.
     """
+    today = today or _today_iso()
     result: List[Dict[str, Any]] = []
     open_interval: Optional[Dict[str, Any]] = None
 
@@ -137,6 +162,15 @@ def office_periods(entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
             open_interval = None
     if open_interval is not None:
         result.append(open_interval)
+    # Cap each interval at its legislature's end so an unclosed legacy term (or a
+    # gap to a later term) is never stretched across years it wasn't served.
+    for iv in result:
+        term_end = _legislature_end(iv["legislature"])
+        if iv["end"] is None:
+            if term_end <= today:
+                iv["end"] = term_end
+        elif iv["end"] > term_end:
+            iv["end"] = term_end
     return result
 
 

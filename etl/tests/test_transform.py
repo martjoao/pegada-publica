@@ -112,9 +112,9 @@ def test_transform_supports_party_at_vote_time_query(tmp_path):
     assert party_at(220714, "2026-05-01T00:00") == "MDB"
 
 
-def test_transform_scopes_intervals_to_in_scope_legislatures(tmp_path):
-    # A veteran whose historico reaches back before the 56ª must not bring
-    # pre-scope intervals into the canonical DB.
+def test_transform_keeps_older_legislatures_capped_at_term_end(tmp_path):
+    # A veteran's older terms are kept, but a gap (terms not served) must NOT be
+    # absorbed: the leg-49 affiliation ends at the 49ª term end, not at 2023.
     write_json_atomic(
         {"_meta": {}, "dados": [_roster_row(99, "Veterano", "PSDB", "MG", 57)]},
         paths.camara_deputados_path(57, base=tmp_path))
@@ -135,9 +135,13 @@ def test_transform_scopes_intervals_to_in_scope_legislatures(tmp_path):
     txdb.create_schema(conn)
     txdep.transform(conn, raw_base=tmp_path)
 
-    legs = [r[0] for r in conn.execute(
-        "SELECT DISTINCT legislature FROM party_affiliation")]
-    assert legs == [57]  # the leg-49 (pre-scope) affiliation is excluded
+    rows = [tuple(r) for r in conn.execute(
+        "SELECT party, start_at, end_at, legislature FROM party_affiliation "
+        "WHERE deputy_id=99 ORDER BY start_at")]
+    assert rows == [
+        ("PMDB", "1991-02-01T00:00", "1995-02-01T00:00", 49),  # capped at 49ª end
+        ("PSDB", "2023-02-01T00:00", None, 57),
+    ]
 
 
 def test_transform_is_idempotent(tmp_path):

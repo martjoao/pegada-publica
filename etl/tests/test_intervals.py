@@ -179,6 +179,24 @@ def test_current_status_none_without_settled_state():
     assert intervals.current_status([]) is None
 
 
+def test_party_affiliations_cap_at_legislature_end_across_gap():
+    # Served leg 51 then leg 56 (a gap in between) — the 51 affiliation must end at
+    # the 51ª term end (2003), NOT stretch to 2019 (the next term served).
+    gap = [
+        _entry("1999-02-01T00:00", "PSDB", "X", None, None,
+               "Partido no início da legislatura", leg=51),
+        _entry("2019-02-01T00:00", "PSDB", "X", None, None,
+               "Partido no início da legislatura", leg=56),
+    ]
+    got = intervals.party_affiliations(gap, today="2026-06-01T00:00")
+    assert got == [
+        {"legislature": 51, "party": "PSDB", "start": "1999-02-01T00:00",
+         "end": "2003-02-01T00:00", "source_note": "Partido no início da legislatura"},
+        {"legislature": 56, "party": "PSDB", "start": "2019-02-01T00:00",
+         "end": "2023-02-01T00:00", "source_note": "Partido no início da legislatura"},
+    ]
+
+
 def test_builders_sort_unordered_input():
     got = intervals.party_affiliations(list(reversed(ADAIL)))
     assert [i["party"] for i in got] == ["REPUBLICANOS", "MDB"]

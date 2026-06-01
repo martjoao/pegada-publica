@@ -34,18 +34,18 @@ const partySegments = dep.parties.map((p) => {
   return { ...p, left, width: pct(toMs(p.end)) - left };
 });
 
-// Legislature spans (start of one term to the start of the next), clipped to the bar.
-const LEG_BOUNDS: Record<number, [string, string]> = {
-  56: ["2019-02-01", "2023-02-01"],
-  57: ["2023-02-01", "2027-02-01"],
-};
-const legBands = dep.legislatures
-  .filter((l) => LEG_BOUNDS[l])
-  .map((l) => {
-    const left = Math.max(pct(toMs(LEG_BOUNDS[l][0])), 0);
-    const right = Math.min(pct(toMs(LEG_BOUNDS[l][1])), 100);
-    return { legislature: l, left, width: Math.max(right - left, 0) };
-  });
+// Legislature term bounds (4-year terms, Feb 1 start). Bands cover every term the
+// deputy actually served (from the party data), so gaps stay visibly empty.
+const legStart = (l: number) => `${4 * l + 1795}-02-01T00:00`;
+const legEnd = (l: number) => `${4 * l + 1799}-02-01T00:00`;
+const servedLegislatures = [...new Set(dep.parties.map((p) => p.legislature))].sort(
+  (a, b) => a - b,
+);
+const legBands = servedLegislatures.map((l) => {
+  const left = Math.max(pct(toMs(legStart(l))), 0);
+  const right = Math.min(pct(toMs(legEnd(l))), 100);
+  return { legislature: l, left, width: Math.max(right - left, 0) };
+});
 const boundaries = legBands.map((b) => b.left).filter((x) => x > 0.5 && x < 99.5);
 ---
 
