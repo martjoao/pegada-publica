@@ -73,6 +73,23 @@ def test_senate_terms_spans_two_legislatures():
     ]
 
 
+def test_senate_terms_dedups_same_legislature_preferring_titular():
+    # A senator holding two mandates covering leg 56 (one titular, one suplente)
+    # must collapse to a single titular row for that legislature.
+    mandatos = [
+        {"UfParlamentar": "CE", "DescricaoParticipacao": "1º Suplente",
+         "PrimeiraLegislaturaDoMandato": {"NumeroLegislatura": "55"},
+         "SegundaLegislaturaDoMandato": {"NumeroLegislatura": "56"}},
+        {"UfParlamentar": "CE", "DescricaoParticipacao": "Titular",
+         "PrimeiraLegislaturaDoMandato": {"NumeroLegislatura": "56"},
+         "SegundaLegislaturaDoMandato": {"NumeroLegislatura": "57"}},
+    ]
+    terms = si.senate_terms(mandatos)
+    assert [t["legislature"] for t in terms] == [55, 56, 57]
+    assert {t["legislature"]: t["condition"] for t in terms} == {
+        55: "alternate", 56: "titular", 57: "titular"}
+
+
 def test_senate_terms_suplente_condition_maps_to_alternate():
     mandato = {
         "UfParlamentar": "BA",

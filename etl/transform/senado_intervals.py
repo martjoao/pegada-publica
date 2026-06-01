@@ -59,18 +59,23 @@ def _exercicios(mandato: Dict[str, Any]) -> List[Dict[str, Any]]:
 
 
 def senate_terms(mandatos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """One canonical term row per legislature each mandate covers (UF + condition)."""
-    result: List[Dict[str, Any]] = []
+    """One canonical term row per legislature, sorted ascending by legislature.
+
+    A senator can hold more than one mandate in the same legislature (e.g. elected
+    titular on one ticket while also a suplente on another), which would collide on
+    the ``(senator_id, legislature)`` key. We collapse to one row per legislature,
+    preferring ``titular`` over ``alternate`` (the stronger capacity held that term).
+    """
+    by_leg: Dict[int, Dict[str, Any]] = {}
     for mandato in mandatos:
         condition = _condition(mandato)
         state = mandato.get("UfParlamentar")
         for leg in _legislatures(mandato):
-            result.append({
-                "legislature": int(leg["NumeroLegislatura"]),
-                "state": state,
-                "condition": condition,
-            })
-    return result
+            num = int(leg["NumeroLegislatura"])
+            existing = by_leg.get(num)
+            if existing is None or (existing["condition"] != "titular" and condition == "titular"):
+                by_leg[num] = {"legislature": num, "state": state, "condition": condition}
+    return [by_leg[k] for k in sorted(by_leg)]
 
 
 def office_periods(

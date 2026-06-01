@@ -136,11 +136,17 @@ a mandate with no exercicio → `null`). `suspended`/`vacated` have no clean sig
 these endpoints and are not produced for senators (the shared enum still carries them).
 
 **021 — Milestone: senator pipeline ran end-to-end on live data.** Extract
-(legislaturas 56 & 57 rosters → `__SENATOR_COUNT__` unique senators; per-senator
-`/mandatos` + `/filiacoes` crawl) → transform → `pegada.db` → `build/senadores.py`.
-Counts and the "≈81 currently in exercise" sanity check are recorded in the final
-report; the build emits one `senadores/{id}.json` per senator plus a slim
-`index.json`. *(Counts placeholder — replaced with live numbers after the run.)*
+(legislaturas 56 & 57 rosters = 245 each → **318** unique senators; per-senator
+`/mandatos` + `/filiacoes` crawl = 636 files, 0 failures) → transform → `pegada.db` →
+`build/senadores.py`. **Sanity check passed:** "currently in exercise" = **81 = 81**
+seats (exact), validating the derived-status logic. Counts: senator 318, senate_term
+733, senator_office_period 327, senator_party_affiliation 469, senator_name_history
+318. Status breakdown: in_office 81, substitute 34, on_leave 13, term_ended 73, null
+117 (suplentes who never assumed). Build emitted 318 `senadores/{id}.json` + a slim
+`index.json` (81 in office). Deputy tables untouched (deputy=924). A real-data fix
+was needed: a senator can hold two mandates in the same legislature (titular on one
+ticket, suplente on another), so `senate_term` is deduped per legislature preferring
+`titular` (5 senators affected).
 
 ---
 
