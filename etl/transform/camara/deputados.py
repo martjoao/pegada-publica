@@ -90,7 +90,12 @@ def transform(
             continue
         payload = _read_json(hist_path)
         source_metas.append(payload.get("_meta", {}))
-        entries = payload.get("dados", []) or []
+        # Scope to the project's in-scope legislatures — historico reaches back
+        # to a deputy's first term (decades, for veterans), which is out of scope.
+        entries = [
+            e for e in (payload.get("dados", []) or [])
+            if e.get("idLegislatura") in legislatures
+        ]
 
         names = intervals.name_history(entries)
         if names:

@@ -112,6 +112,34 @@ def test_transform_supports_party_at_vote_time_query(tmp_path):
     assert party_at(220714, "2026-05-01T00:00") == "MDB"
 
 
+def test_transform_scopes_intervals_to_in_scope_legislatures(tmp_path):
+    # A veteran whose historico reaches back before the 56ª must not bring
+    # pre-scope intervals into the canonical DB.
+    write_json_atomic(
+        {"_meta": {}, "dados": [_roster_row(99, "Veterano", "PSDB", "MG", 57)]},
+        paths.camara_deputados_path(57, base=tmp_path))
+    write_json_atomic({"_meta": {}, "dados": []},
+                      paths.camara_deputados_path(56, base=tmp_path))
+    write_json_atomic(
+        {"_meta": {"deputy_id": 99}, "dados": [
+            _hist_entry("1991-02-01T00:00", "PMDB", "Veterano", None, None,
+                        "Partido no início da legislatura", leg=49),
+            _hist_entry("2023-02-01T00:00", "PSDB", "Veterano", None, None,
+                        "Partido no início da legislatura", leg=57),
+            _hist_entry("2023-02-01T12:05", "PSDB", "Veterano", "Titular", "Exercício",
+                        "Entrada - Posse de Eleito Titular", leg=57),
+        ]},
+        paths.camara_historico_path(99, base=tmp_path))
+
+    conn = txdb.connect(tmp_path / "p.db")
+    txdb.create_schema(conn)
+    txdep.transform(conn, raw_base=tmp_path)
+
+    legs = [r[0] for r in conn.execute(
+        "SELECT DISTINCT legislature FROM party_affiliation")]
+    assert legs == [57]  # the leg-49 (pre-scope) affiliation is excluded
+
+
 def test_transform_is_idempotent(tmp_path):
     _seed_raw(tmp_path)
     conn = txdb.connect(tmp_path / "pegada.db")
