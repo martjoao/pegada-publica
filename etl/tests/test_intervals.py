@@ -1,5 +1,6 @@
 """Interval-builder tests, using the real historico transitions captured during
-design (Allan Garcês 226708, Adail Filho 220714, a titular ministerial leave)."""
+design (Allan Garcês 226708, Adail Filho 220714, a titular ministerial leave, a
+mid-term loss of mandate). Inputs are raw PT API entries; outputs are canonical EN."""
 from transform import intervals
 
 
@@ -15,7 +16,7 @@ def _entry(dataHora, partido, nome, cond, sit, desc, leg=57):
     }
 
 
-# --- Allan Garcês (suplente): real subset of his 57ª history ---------------
+# --- Allan Garcês (alternate): real subset of his 57ª history -------------
 # Real direction (confirmed live): "Dr. Allan Garcês" until 2024-07-18, then "Allan Garcês".
 GARCES = [
     _entry("2023-02-01T00:00", "PP", "Dr. Allan Garcês", None, None,
@@ -35,34 +36,38 @@ GARCES = [
 ]
 
 
-def test_exercise_intervals_suplente_ignores_convocado_and_name_change():
-    got = intervals.exercise_intervals(GARCES)
+def test_office_periods_alternate_ignores_convocado_and_name_change():
+    got = intervals.office_periods(GARCES)
     assert got == [
-        {"legislatura": 57, "condicao": "Suplente",
-         "start_at": "2023-09-13T16:01", "end_at": "2024-12-03T10:11"},
-        {"legislatura": 57, "condicao": "Suplente",
-         "start_at": "2024-12-06T17:43", "end_at": "2025-02-01T08:38"},
+        {"legislature": 57, "condition": "alternate",
+         "start": "2023-09-13T16:01", "end": "2024-12-03T10:11"},
+        {"legislature": 57, "condition": "alternate",
+         "start": "2024-12-06T17:43", "end": "2025-02-01T08:38"},
     ]
 
 
-def test_name_intervals_tracks_parliamentary_name_change():
-    got = intervals.name_intervals(GARCES)
+def test_name_history_tracks_parliamentary_name_change():
+    got = intervals.name_history(GARCES)
     assert got == [
-        {"nome": "Dr. Allan Garcês", "start_at": "2023-02-01T00:00", "end_at": "2024-07-18T15:26"},
-        {"nome": "Allan Garcês", "start_at": "2024-07-18T15:26", "end_at": None},
+        {"name": "Dr. Allan Garcês", "start": "2023-02-01T00:00", "end": "2024-07-18T15:26"},
+        {"name": "Allan Garcês", "start": "2024-07-18T15:26", "end": None},
     ]
 
 
-def test_party_intervals_single_party_whole_term():
-    got = intervals.party_intervals(GARCES)
+def test_party_affiliations_single_party_whole_term():
+    got = intervals.party_affiliations(GARCES)
     assert got == [
-        {"legislatura": 57, "sigla_partido": "PP",
-         "start_at": "2023-02-01T00:00", "end_at": None,
-         "descricao_origem": "Partido no início da legislatura / Nome no início da legislatura"},
+        {"legislature": 57, "party": "PP",
+         "start": "2023-02-01T00:00", "end": None,
+         "source_note": "Partido no início da legislatura / Nome no início da legislatura"},
     ]
 
 
-# --- Adail Filho (party migration REPUBLICANOS -> MDB) ---------------------
+def test_current_status_alternate_stepped_down():
+    assert intervals.current_status(GARCES) == "substitute"
+
+
+# --- Adail Filho (party migration REPUBLICANOS -> MDB, currently in office) ---
 ADAIL = [
     _entry("2023-02-01T00:00", "REPUBLICANOS", "Adail Filho", None, None,
            "Partido no início da legislatura / Nome no início da legislatura"),
@@ -73,16 +78,27 @@ ADAIL = [
 ]
 
 
-def test_party_intervals_captures_dated_migration():
-    got = intervals.party_intervals(ADAIL)
+def test_party_affiliations_captures_dated_migration():
+    got = intervals.party_affiliations(ADAIL)
     assert got == [
-        {"legislatura": 57, "sigla_partido": "REPUBLICANOS",
-         "start_at": "2023-02-01T00:00", "end_at": "2026-04-01T14:00",
-         "descricao_origem": "Partido no início da legislatura / Nome no início da legislatura"},
-        {"legislatura": 57, "sigla_partido": "MDB",
-         "start_at": "2026-04-01T14:00", "end_at": None,
-         "descricao_origem": "Alteração de partido"},
+        {"legislature": 57, "party": "REPUBLICANOS",
+         "start": "2023-02-01T00:00", "end": "2026-04-01T14:00",
+         "source_note": "Partido no início da legislatura / Nome no início da legislatura"},
+        {"legislature": 57, "party": "MDB",
+         "start": "2026-04-01T14:00", "end": None,
+         "source_note": "Alteração de partido"},
     ]
+
+
+def test_office_periods_titular_currently_open():
+    assert intervals.office_periods(ADAIL) == [
+        {"legislature": 57, "condition": "titular",
+         "start": "2023-02-01T12:05", "end": None},
+    ]
+
+
+def test_current_status_in_office():
+    assert intervals.current_status(ADAIL) == "in_office"
 
 
 # --- Cross-term: same party in 56 and 57 -> two per-term intervals ----------
@@ -96,15 +112,11 @@ CROSS_TERM = [
 ]
 
 
-def test_party_intervals_split_at_legislatura_boundary():
-    got = intervals.party_intervals(CROSS_TERM)
-    assert got == [
-        {"legislatura": 56, "sigla_partido": "PSDB",
-         "start_at": "2019-02-01T00:00", "end_at": "2023-02-01T00:00",
-         "descricao_origem": "Partido no início da legislatura / Nome no início da legislatura"},
-        {"legislatura": 57, "sigla_partido": "PSDB",
-         "start_at": "2023-02-01T00:00", "end_at": None,
-         "descricao_origem": "Partido no início da legislatura / Nome no início da legislatura"},
+def test_party_affiliations_split_at_legislature_boundary():
+    got = intervals.party_affiliations(CROSS_TERM)
+    assert [(p["legislature"], p["party"], p["end"]) for p in got] == [
+        (56, "PSDB", "2023-02-01T00:00"),
+        (57, "PSDB", None),
     ]
 
 
@@ -119,20 +131,18 @@ TITULAR_LEAVE = [
 ]
 
 
-def test_exercise_intervals_titular_leave_and_open_tail():
-    got = intervals.exercise_intervals(TITULAR_LEAVE)
+def test_office_periods_titular_leave_and_open_tail():
+    got = intervals.office_periods(TITULAR_LEAVE)
     assert got == [
-        {"legislatura": 57, "condicao": "Titular",
-         "start_at": "2023-02-01T12:05", "end_at": "2023-09-13T14:53"},
-        {"legislatura": 57, "condicao": "Titular",
-         "start_at": "2024-12-03T10:11", "end_at": None},
+        {"legislature": 57, "condition": "titular",
+         "start": "2023-02-01T12:05", "end": "2023-09-13T14:53"},
+        {"legislature": 57, "condition": "titular",
+         "start": "2024-12-03T10:11", "end": None},
     ]
 
 
-# Real bug (Valdevan Noventa 204385 / Manuel Marcos 204469): a mid-term loss of
-# mandate is recorded as situacao "Vacância" with a "Diverso - … Perda de Mandato"
-# descricaoStatus — NOT "Saída -". The exercise interval must still close, otherwise
-# a deputy who left in the 56ª shows as currently in exercise.
+# --- Mid-term loss of mandate: situacao "Vacância" with "Diverso - … Perda de
+# Mandato" (NOT "Saída -"). The interval must still close. -------------------
 VACANCIA = [
     _entry("2019-02-01T11:45", "PSC", "Fulano", "Titular", "Exercício",
            "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória", leg=56),
@@ -143,15 +153,32 @@ VACANCIA = [
 ]
 
 
-def test_exercise_interval_closes_on_vacancia():
-    got = intervals.exercise_intervals(VACANCIA)
+def test_office_period_closes_on_vacancia():
+    got = intervals.office_periods(VACANCIA)
     assert got == [
-        {"legislatura": 56, "condicao": "Titular",
-         "start_at": "2019-02-01T11:45", "end_at": "2020-11-05T00:00"},
+        {"legislature": 56, "condition": "titular",
+         "start": "2019-02-01T11:45", "end": "2020-11-05T00:00"},
     ]
 
 
+def test_current_status_vacated():
+    assert intervals.current_status(VACANCIA) == "vacated"
+
+
+def test_current_status_suspended():
+    suspended = [
+        _entry("2023-02-01T12:05", "PSOL", "Fulano", "Titular", "Exercício",
+               "Entrada - Posse de Eleito Titular"),
+        _entry("2025-05-01T00:00", "PSOL", "Fulano", "Titular", "Suspenso",
+               "Diverso - Suspensão do exercício do mandato"),
+    ]
+    assert intervals.current_status(suspended) == "suspended"
+
+
+def test_current_status_none_without_settled_state():
+    assert intervals.current_status([]) is None
+
+
 def test_builders_sort_unordered_input():
-    shuffled = list(reversed(ADAIL))
-    got = intervals.party_intervals(shuffled)
-    assert [i["sigla_partido"] for i in got] == ["REPUBLICANOS", "MDB"]
+    got = intervals.party_affiliations(list(reversed(ADAIL)))
+    assert [i["party"] for i in got] == ["REPUBLICANOS", "MDB"]

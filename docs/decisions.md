@@ -74,6 +74,15 @@ close on any non-`Exercício`/`Convocado` state. Result is now **exact**: 57th-t
 seats = **512 in exercise + 1 suspended (Glauber Braga) = 513**; DB matches the raw
 `situacao` field with zero mismatches.
 
+**013 — Canonical nomenclature = English; Portuguese only in the site display
+layer.** Transform normalizes the raw PT API vocabulary to English identifiers (DB
+tables/columns, build JSON keys, enumerated values); raw/extract stays PT verbatim.
+Translation decisions are documented in `docs/glossario.md` (pointer in CLAUDE.md).
+Folded in: `deputy.current_status` (from the latest settled situacao) so statuses are
+accurate — `in_office` / `substitute` / `on_leave` / `suspended` / `vacated` /
+`term_ended` — replacing the old condition-inferred guess (e.g. Glauber Braga is now
+`suspended`, not mislabeled `licenciado`).
+
 ---
 
 ## Deferrals

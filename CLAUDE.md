@@ -12,6 +12,10 @@ Open-source Brazilian congressional transparency portal. Aggregates public gover
 
 **No backend API exists.** There is no runtime server. Every user interaction is a fetch() to a static JSON file.
 
+## Naming
+
+Raw government APIs are Portuguese, and the **extract** stage saves their payloads verbatim (PT). From **transform** onward, everything is normalized to **canonical English identifiers** (DB tables/columns, build JSON keys, enumerated values); Portuguese reappears only in the **site's display layer**. The canonical terms and their PT source/display mappings are defined in [`docs/glossario.md`](docs/glossario.md) — consult and update it whenever a term needs translating.
+
 ## Core Entities
 
 - **Parliamentarian** — deputies and senators (both houses)

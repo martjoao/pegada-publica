@@ -59,64 +59,69 @@ Key confirmed facts about `/historico`:
 Datetimes are stored as ISO-8601 **TEXT** (SQLite has no datetime type; ISO-8601
 sorts correctly lexicographically). `end_at IS NULL` denotes an open/current interval.
 
+Identifiers are canonical **English** (see `docs/glossario.md`); PT→EN translation
+happens at the transform DB-write boundary.
+
 ```sql
 -- identity: one row per unique Câmara deputy id (stable across terms & name changes)
-CREATE TABLE deputado (
-  id        INTEGER PRIMARY KEY,      -- Câmara id; also the page URL key (/deputado/{id})
-  nome      TEXT NOT NULL,            -- current/latest parliamentary name (for display)
-  foto_url  TEXT
+CREATE TABLE deputy (
+  id             INTEGER PRIMARY KEY,  -- Câmara id; also the page URL key (/deputado/{id})
+  name           TEXT NOT NULL,        -- current/latest parliamentary name
+  photo_url      TEXT,
+  current_status TEXT                  -- in_office|substitute|on_leave|suspended|vacated|term_ended|NULL
 );
 
 -- terms served + state represented that term
-CREATE TABLE mandato (
-  deputy_id    INTEGER NOT NULL REFERENCES deputado(id),
-  legislatura  INTEGER NOT NULL,      -- 56 | 57
-  uf           TEXT NOT NULL,         -- e.g. "MA"
-  PRIMARY KEY (deputy_id, legislatura)
+CREATE TABLE mandate (
+  deputy_id    INTEGER NOT NULL REFERENCES deputy(id),
+  legislature  INTEGER NOT NULL,       -- 56 | 57
+  state        TEXT NOT NULL,          -- e.g. "MA"
+  PRIMARY KEY (deputy_id, legislature)
 );
 
--- dated IN-OFFICE intervals — covers titulares AND serving suplentes
-CREATE TABLE exercicio (
-  deputy_id    INTEGER NOT NULL REFERENCES deputado(id),
-  legislatura  INTEGER NOT NULL,
-  condicao     TEXT NOT NULL,         -- "Titular" | "Suplente"
-  start_at     TEXT NOT NULL,         -- ISO 8601
-  end_at       TEXT,                  -- NULL = currently in office
+-- dated IN-OFFICE intervals — covers titulares AND serving alternates
+CREATE TABLE office_period (
+  deputy_id    INTEGER NOT NULL REFERENCES deputy(id),
+  legislature  INTEGER NOT NULL,
+  condition    TEXT NOT NULL,          -- titular | alternate
+  start_at     TEXT NOT NULL,          -- ISO 8601
+  end_at       TEXT,                   -- NULL = currently in office
   PRIMARY KEY (deputy_id, start_at)
 );
 
--- dated PARTY affiliation timeline — independent of exercicio
-CREATE TABLE party_membership (
-  deputy_id        INTEGER NOT NULL REFERENCES deputado(id),
-  sigla_partido    TEXT NOT NULL,     -- e.g. "PP"
-  start_at         TEXT NOT NULL,     -- ISO 8601
-  end_at           TEXT,              -- NULL = current
-  legislatura      INTEGER NOT NULL,
-  descricao_origem TEXT,              -- the source descricaoStatus breadcrumb
+-- dated PARTY affiliation timeline — independent of office_period
+CREATE TABLE party_affiliation (
+  deputy_id    INTEGER NOT NULL REFERENCES deputy(id),
+  party        TEXT NOT NULL,          -- e.g. "PP"
+  start_at     TEXT NOT NULL,          -- ISO 8601
+  end_at       TEXT,                   -- NULL = current
+  legislature  INTEGER NOT NULL,
+  source_note  TEXT,                   -- the source descricaoStatus breadcrumb
   PRIMARY KEY (deputy_id, start_at)
 );
 
 -- dated PARLIAMENTARY-NAME timeline
 CREATE TABLE name_history (
-  deputy_id INTEGER NOT NULL REFERENCES deputado(id),
-  nome      TEXT NOT NULL,
-  start_at  TEXT NOT NULL,            -- ISO 8601
-  end_at    TEXT,                     -- NULL = current
+  deputy_id INTEGER NOT NULL REFERENCES deputy(id),
+  name      TEXT NOT NULL,
+  start_at  TEXT NOT NULL,             -- ISO 8601
+  end_at    TEXT,                      -- NULL = current
   PRIMARY KEY (deputy_id, start_at)
 );
 
 -- audit: one row per ingested raw landing file (fields nullable — minimal _meta tolerated)
-CREATE TABLE source_meta (
+CREATE TABLE source (
   source       TEXT,                  -- "camara-dados-abertos"
   endpoint     TEXT,                  -- "/deputados" | "/deputados/{id}/historico"
-  legislatura  INTEGER,
+  legislature  INTEGER,
   fetched_at   TEXT,
   record_count INTEGER
 );
 ```
 
-`exercicio` and `party_membership` are kept **orthogonal** because they move
-independently — a titular on leave keeps their party affiliation.
+`office_period` and `party_affiliation` are kept **orthogonal** because they move
+independently — a titular on leave keeps their party affiliation. `deputy.current_status`
+is the deputy's current state, derived from their latest settled `situação`.
 
 ### URL key
 
@@ -152,17 +157,24 @@ page, not in the URL.
      / `Saída` entry. (Legislatura bounds, for reference: 56ª ends `2023-01-31`,
      57ª ends `2027-01-31`.)
 3. **Upsert** all rows into SQLite (idempotent — re-running re-derives the same data).
-4. Record one `source_meta` row per ingested raw file.
+4. Record one `source` row per ingested raw file, and set `deputy.current_status`
+   from each deputy's latest settled `situação`.
+
+> **Naming:** canonical identifiers are English (see `docs/glossario.md`). Where the
+> prose below still references the original design-session names (`deputado`,
+> `mandato`, `exercicio`, `party_membership`, `sigla_partido`, `condicao`), read them
+> as `deputy`, `mandate`, `office_period`, `party_affiliation`, `party`, `condition`.
+> Raw PT API field names/values (`condicaoEleitoral`, `situacao`, `Titular`…) stay PT.
 
 ## Key queries enabled
 
 ```sql
 -- party at vote time (the core constraint)
-SELECT sigla_partido FROM party_membership
+SELECT party FROM party_affiliation
 WHERE deputy_id = :id AND :vote_ts >= start_at AND (:vote_ts < end_at OR end_at IS NULL);
 
 -- was this deputy actually in office at time T?
-SELECT condicao FROM exercicio
+SELECT condition FROM office_period
 WHERE deputy_id = :id AND :ts >= start_at AND (:ts < end_at OR end_at IS NULL);
 ```
 

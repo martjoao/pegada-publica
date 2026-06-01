@@ -4,13 +4,16 @@ Reads ``etl/data/pegada.db`` (the schema is the only contract — no ``etl``
 imports) and emits, under ``build/output/deputados/``:
 
 - ``{id}.json`` — full per-deputy detail (identity + current-state fields +
-  party / exercise / name timelines) that drives the deputy page;
+  party / office / name timelines) that drives the deputy page;
 - ``index.json`` — a slim, name-sorted array of cards for the directory page and
   in-browser search.
 
+Identifiers/values are canonical English (see ``docs/glossario.md``); the site's
+display layer maps them to Portuguese.
+
 Run with:
 
-    python build/deputados.py        # or  python -m deputados  from inside build/
+    python build/deputados.py
 """
 from __future__ import annotations
 
@@ -31,83 +34,73 @@ def _connect(db_path: Path) -> sqlite3.Connection:
     return conn
 
 
-def _sort_key(nome: str) -> str:
+def _sort_key(name: str) -> str:
     """Accent-insensitive, case-insensitive key so ordering is a sensible A–Z."""
-    stripped = unicodedata.normalize("NFKD", nome).encode("ascii", "ignore").decode()
+    stripped = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
     return stripped.casefold()
 
 
-def _current_party(partidos: List[Dict[str, Any]]) -> Optional[str]:
-    """The open affiliation if any, else the most recent one."""
-    for p in reversed(partidos):  # partidos are ordered by start_at
-        if p["fim"] is None:
-            return p["sigla"]
-    return partidos[-1]["sigla"] if partidos else None
-
-
-def _current_status(exercicios: List[Dict[str, Any]]) -> Tuple[bool, Optional[str], Optional[str]]:
-    """Return (em_exercicio, condicao_atual, status_atual) from exercise intervals."""
-    open_intervals = [e for e in exercicios if e["fim"] is None]
-    if open_intervals:
-        return True, open_intervals[-1]["condicao"], "em_exercicio"
-    if not exercicios:
-        return False, None, None
-    last_condicao = exercicios[-1]["condicao"]  # ordered by start_at
-    status = {"Titular": "licenciado", "Suplente": "suplente"}.get(last_condicao)
-    return False, None, status
+def _current(intervals: List[Dict[str, Any]], field: str) -> Optional[Any]:
+    """The value of ``field`` on the open interval if any, else the most recent."""
+    for iv in reversed(intervals):  # intervals are ordered by start
+        if iv["end"] is None:
+            return iv[field]
+    return intervals[-1][field] if intervals else None
 
 
 def build_deputy(
     dep: sqlite3.Row,
-    mandatos: List[sqlite3.Row],
-    partidos: List[sqlite3.Row],
-    exercicios: List[sqlite3.Row],
-    nomes: List[sqlite3.Row],
+    mandates: List[sqlite3.Row],
+    parties: List[sqlite3.Row],
+    office_periods: List[sqlite3.Row],
+    names: List[sqlite3.Row],
 ) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """Assemble one deputy's (detail dict, index-card dict) from their rows."""
-    partidos_out = [
-        {"sigla": p["sigla_partido"], "inicio": p["start_at"], "fim": p["end_at"],
-         "legislatura": p["legislatura"]}
-        for p in partidos
+    parties_out = [
+        {"party": p["party"], "start": p["start_at"], "end": p["end_at"],
+         "legislature": p["legislature"]}
+        for p in parties
     ]
-    exercicio_out = [
-        {"condicao": e["condicao"], "inicio": e["start_at"], "fim": e["end_at"],
-         "legislatura": e["legislatura"]}
-        for e in exercicios
+    office_out = [
+        {"condition": o["condition"], "start": o["start_at"], "end": o["end_at"],
+         "legislature": o["legislature"]}
+        for o in office_periods
     ]
-    nomes_out = [
-        {"nome": n["nome"], "inicio": n["start_at"], "fim": n["end_at"]} for n in nomes
+    names_out = [
+        {"name": n["name"], "start": n["start_at"], "end": n["end_at"]} for n in names
     ]
 
-    em_exercicio, condicao_atual, status_atual = _current_status(exercicio_out)
-    partido_atual = _current_party(partidos_out)
-    legislaturas = [m["legislatura"] for m in mandatos]  # ordered asc
-    uf = mandatos[-1]["uf"] if mandatos else None
+    current_status = dep["current_status"]
+    in_office = current_status == "in_office"
+    current_party = _current(parties_out, "party")
+    current_condition = _current(office_out, "condition")
+    legislatures = [m["legislature"] for m in mandates]  # ordered asc
+    state = mandates[-1]["state"] if mandates else None
 
     detail = {
         "id": dep["id"],
-        "nome": dep["nome"],
-        "foto_url": dep["foto_url"],
-        "uf": uf,
-        "partido_atual": partido_atual,
-        "condicao_atual": condicao_atual,
-        "status_atual": status_atual,
-        "em_exercicio": em_exercicio,
-        "legislaturas": legislaturas,
-        "mandatos": [{"legislatura": m["legislatura"], "uf": m["uf"]} for m in mandatos],
-        "partidos": partidos_out,
-        "exercicio": exercicio_out,
-        "nomes": nomes_out,
+        "name": dep["name"],
+        "photo_url": dep["photo_url"],
+        "state": state,
+        "current_party": current_party,
+        "current_condition": current_condition,
+        "current_status": current_status,
+        "in_office": in_office,
+        "legislatures": legislatures,
+        "mandates": [{"legislature": m["legislature"], "state": m["state"]} for m in mandates],
+        "parties": parties_out,
+        "office_periods": office_out,
+        "names": names_out,
     }
     card = {
         "id": dep["id"],
-        "nome": dep["nome"],
-        "partido": partido_atual,
-        "uf": uf,
-        "status": status_atual,
-        "condicao": condicao_atual,
-        "em_exercicio": em_exercicio,
-        "legislaturas": legislaturas,
+        "name": dep["name"],
+        "party": current_party,
+        "state": state,
+        "status": current_status,
+        "condition": current_condition,
+        "in_office": in_office,
+        "legislatures": legislatures,
     }
     return detail, card
 
@@ -123,34 +116,35 @@ def run(db_path: Path = DEFAULT_DB, out_dir: Path = DEFAULT_OUT) -> Dict[str, in
     dep_dir = Path(out_dir) / "deputados"
     cards: List[Dict[str, Any]] = []
     try:
-        for dep in conn.execute("SELECT id, nome, foto_url FROM deputado").fetchall():
+        for dep in conn.execute(
+                "SELECT id, name, photo_url, current_status FROM deputy").fetchall():
             dep_id = dep["id"]
-            mandatos = conn.execute(
-                "SELECT legislatura, uf FROM mandato WHERE deputy_id=? ORDER BY legislatura",
+            mandates = conn.execute(
+                "SELECT legislature, state FROM mandate WHERE deputy_id=? ORDER BY legislature",
                 (dep_id,)).fetchall()
-            partidos = conn.execute(
-                "SELECT sigla_partido, start_at, end_at, legislatura FROM party_membership "
+            parties = conn.execute(
+                "SELECT party, start_at, end_at, legislature FROM party_affiliation "
                 "WHERE deputy_id=? ORDER BY start_at", (dep_id,)).fetchall()
-            exercicios = conn.execute(
-                "SELECT condicao, start_at, end_at, legislatura FROM exercicio "
+            office_periods = conn.execute(
+                "SELECT condition, start_at, end_at, legislature FROM office_period "
                 "WHERE deputy_id=? ORDER BY start_at", (dep_id,)).fetchall()
-            nomes = conn.execute(
-                "SELECT nome, start_at, end_at FROM name_history "
+            names = conn.execute(
+                "SELECT name, start_at, end_at FROM name_history "
                 "WHERE deputy_id=? ORDER BY start_at", (dep_id,)).fetchall()
 
-            detail, card = build_deputy(dep, mandatos, partidos, exercicios, nomes)
+            detail, card = build_deputy(dep, mandates, parties, office_periods, names)
             _write_json(detail, dep_dir / f"{dep_id}.json")
             cards.append(card)
     finally:
         conn.close()
 
-    cards.sort(key=lambda c: _sort_key(c["nome"]))
+    cards.sort(key=lambda c: _sort_key(c["name"]))
     _write_json(cards, dep_dir / "index.json")
 
     counts = {
-        "deputados": len(cards),
-        "em_exercicio": sum(1 for c in cards if c["em_exercicio"]),
-        "sem_historico": sum(1 for c in cards if c["status"] is None),
+        "deputies": len(cards),
+        "in_office": sum(1 for c in cards if c["in_office"]),
+        "no_status": sum(1 for c in cards if c["status"] is None),
     }
     print("build complete:", ", ".join(f"{k}={v}" for k, v in counts.items()))
     print(f"-> {dep_dir}")

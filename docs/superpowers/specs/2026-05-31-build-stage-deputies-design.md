@@ -43,27 +43,29 @@ output into the eventual `/site` deploy is deferred.
 
 ### `deputados/{id}.json` — full detail (drives the deputy page)
 
+Keys/values are canonical English (`docs/glossario.md`); the site maps them to PT.
+
 ```json
 {
   "id": 220714,
-  "nome": "Adail Filho",
-  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
-  "uf": "AM",
-  "partido_atual": "MDB",
-  "condicao_atual": "Titular",
-  "status_atual": "em_exercicio",
-  "em_exercicio": true,
-  "legislaturas": [56, 57],
-  "mandatos": [{ "legislatura": 57, "uf": "AM" }],
-  "partidos": [
-    { "sigla": "REPUBLICANOS", "inicio": "2023-02-01T00:00", "fim": "2026-04-01T14:00", "legislatura": 57 },
-    { "sigla": "MDB",          "inicio": "2026-04-01T14:00", "fim": null,               "legislatura": 57 }
+  "name": "Adail Filho",
+  "photo_url": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
+  "state": "AM",
+  "current_party": "MDB",
+  "current_condition": "titular",
+  "current_status": "in_office",
+  "in_office": true,
+  "legislatures": [56, 57],
+  "mandates": [{ "legislature": 57, "state": "AM" }],
+  "parties": [
+    { "party": "REPUBLICANOS", "start": "2023-02-01T00:00", "end": "2026-04-01T14:00", "legislature": 57 },
+    { "party": "MDB",          "start": "2026-04-01T14:00", "end": null,               "legislature": 57 }
   ],
-  "exercicio": [
-    { "condicao": "Titular", "inicio": "2023-02-01T12:05", "fim": null, "legislatura": 57 }
+  "office_periods": [
+    { "condition": "titular", "start": "2023-02-01T12:05", "end": null, "legislature": 57 }
   ],
-  "nomes": [
-    { "nome": "Adail Filho", "inicio": "2023-02-01T00:00", "fim": null }
+  "names": [
+    { "name": "Adail Filho", "start": "2023-02-01T00:00", "end": null }
   ]
 }
 ```
@@ -72,25 +74,25 @@ output into the eventual `/site` deploy is deferred.
 
 ```json
 [
-  { "id": 220714, "nome": "Adail Filho", "partido": "MDB", "uf": "AM",
-    "status": "em_exercicio", "condicao": "Titular", "em_exercicio": true,
-    "legislaturas": [56, 57] }
+  { "id": 220714, "name": "Adail Filho", "party": "MDB", "state": "AM",
+    "status": "in_office", "condition": "titular", "in_office": true,
+    "legislatures": [56, 57] }
 ]
 ```
 
-Sorted by `nome` (objective ordering, per the no-editorial-bias rule). Small enough
+Sorted by `name` (objective ordering, per the no-editorial-bias rule). Small enough
 to load once; the frontend filters client-side.
 
 ## Derived "current" fields — the rules
 
 | Field | Rule |
 |---|---|
-| `em_exercicio` | `true` iff the deputy has an `exercicio` row with `end_at IS NULL`. |
-| `condicao_atual` | `condicao` of that open interval; `null` if none open. |
-| `status_atual` | `em_exercicio` if seated now; else by the deputy's condition — **`licenciado`** if Titular, **`suplente`** if Suplente; `null` if no exercise data (the un-fetched deputies). |
-| `partido_atual` | `sigla_partido` of the `party_membership` with `end_at IS NULL`; else the latest by `start_at`; `null` if none. |
-| `uf` | from the latest `mandato` (current term). |
-| `legislaturas` | distinct `mandato.legislatura`, ascending. |
+| `current_status` | Read straight from `deputy.current_status` (transform set it from the latest settled `situação`): `in_office` / `substitute` / `on_leave` / `suspended` / `vacated` / `term_ended` / `null`. |
+| `in_office` | `current_status == "in_office"`. |
+| `current_condition` | `condition` of the open `office_period`; else the latest one's; `null` if none. |
+| `current_party` | `party` of the `party_affiliation` with `end_at IS NULL`; else the latest by `start_at`; `null` if none. |
+| `state` | from the latest `mandate` (current term). |
+| `legislatures` | distinct `mandate.legislature`, ascending. |
 
 These map directly to the directory's **"Em exercício" toggle** (default-on, latest
 legislatura → ≈513) and the card status badges (`em exercício` / `suplente` /

@@ -5,8 +5,9 @@ For now the ``transform`` step writes straight into this DB (it doubles as the
 engine for the heavy CPF×QSA cross-reference — it can ``ATTACH`` this SQLite file,
 so this is not a lock-in.
 
-Datetimes are stored as ISO-8601 TEXT (SQLite has no datetime type; ISO-8601
-sorts correctly lexicographically). ``end_at IS NULL`` means an open interval.
+Identifiers are canonical English (see ``docs/glossario.md``). Datetimes are stored
+as ISO-8601 TEXT (SQLite has no datetime type; ISO-8601 sorts correctly
+lexicographically). ``end_at IS NULL`` means an open interval.
 """
 from __future__ import annotations
 
@@ -15,57 +16,58 @@ from pathlib import Path
 
 SCHEMA = """
 DROP TABLE IF EXISTS name_history;
-DROP TABLE IF EXISTS party_membership;
-DROP TABLE IF EXISTS exercicio;
-DROP TABLE IF EXISTS mandato;
-DROP TABLE IF EXISTS source_meta;
-DROP TABLE IF EXISTS deputado;
+DROP TABLE IF EXISTS party_affiliation;
+DROP TABLE IF EXISTS office_period;
+DROP TABLE IF EXISTS mandate;
+DROP TABLE IF EXISTS source;
+DROP TABLE IF EXISTS deputy;
 
-CREATE TABLE deputado (
-  id        INTEGER PRIMARY KEY,            -- Câmara id; also the page URL key
-  nome      TEXT NOT NULL,                  -- current/latest parliamentary name
-  foto_url  TEXT
+CREATE TABLE deputy (
+  id             INTEGER PRIMARY KEY,   -- Câmara id; also the page URL key
+  name           TEXT NOT NULL,         -- current/latest parliamentary name
+  photo_url      TEXT,
+  current_status TEXT                   -- in_office|substitute|on_leave|suspended|vacated|term_ended|NULL
 );
 
-CREATE TABLE mandato (
-  deputy_id    INTEGER NOT NULL REFERENCES deputado(id),
-  legislatura  INTEGER NOT NULL,
-  uf           TEXT NOT NULL,
-  PRIMARY KEY (deputy_id, legislatura)
+CREATE TABLE mandate (
+  deputy_id    INTEGER NOT NULL REFERENCES deputy(id),
+  legislature  INTEGER NOT NULL,
+  state        TEXT NOT NULL,
+  PRIMARY KEY (deputy_id, legislature)
 );
 
-CREATE TABLE exercicio (
-  deputy_id    INTEGER NOT NULL REFERENCES deputado(id),
-  legislatura  INTEGER NOT NULL,
-  condicao     TEXT NOT NULL,               -- "Titular" | "Suplente"
+CREATE TABLE office_period (
+  deputy_id    INTEGER NOT NULL REFERENCES deputy(id),
+  legislature  INTEGER NOT NULL,
+  condition    TEXT NOT NULL,           -- titular | alternate
   start_at     TEXT NOT NULL,
   end_at       TEXT,
   PRIMARY KEY (deputy_id, start_at)
 );
 
-CREATE TABLE party_membership (
-  deputy_id        INTEGER NOT NULL REFERENCES deputado(id),
-  sigla_partido    TEXT NOT NULL,
-  start_at         TEXT NOT NULL,
-  end_at           TEXT,
-  legislatura      INTEGER NOT NULL,
-  descricao_origem TEXT,
+CREATE TABLE party_affiliation (
+  deputy_id    INTEGER NOT NULL REFERENCES deputy(id),
+  party        TEXT NOT NULL,
+  start_at     TEXT NOT NULL,
+  end_at       TEXT,
+  legislature  INTEGER NOT NULL,
+  source_note  TEXT,
   PRIMARY KEY (deputy_id, start_at)
 );
 
 CREATE TABLE name_history (
-  deputy_id INTEGER NOT NULL REFERENCES deputado(id),
-  nome      TEXT NOT NULL,
+  deputy_id INTEGER NOT NULL REFERENCES deputy(id),
+  name      TEXT NOT NULL,
   start_at  TEXT NOT NULL,
   end_at    TEXT,
   PRIMARY KEY (deputy_id, start_at)
 );
 
--- audit: one row per ingested raw landing file
-CREATE TABLE source_meta (
+-- audit: one row per ingested raw landing file (fields nullable — minimal _meta tolerated)
+CREATE TABLE source (
   source       TEXT,
   endpoint     TEXT,
-  legislatura  INTEGER,
+  legislature  INTEGER,
   fetched_at   TEXT,
   record_count INTEGER
 );

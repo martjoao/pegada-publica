@@ -3,8 +3,11 @@
 Reads the roster (`extract.camara.deputados`) and per-deputy history
 (`extract.camara.historico`) landing files, resolves identity (one row per
 Câmara id, deduplicated across the duplicate roster rows and across terms),
-folds each deputy's history into dated party / exercise / name intervals, and
-writes the six canonical tables.
+folds each deputy's history into dated party_affiliation / office_period /
+name_history intervals plus a current_status, and writes the canonical tables.
+
+Identifiers are canonical English (see ``docs/glossario.md``); the PT->EN
+translation happens here, at the DB-write boundary.
 
 Run with:
 
@@ -21,15 +24,15 @@ from common import paths
 from transform import db as txdb
 from transform import intervals
 
-LEGISLATURAS = (56, 57)
+LEGISLATURES = (56, 57)
 
 _TABLES_CHILD_FIRST = (
     "name_history",
-    "party_membership",
-    "exercicio",
-    "mandato",
-    "source_meta",
-    "deputado",
+    "party_affiliation",
+    "office_period",
+    "mandate",
+    "source",
+    "deputy",
 )
 
 
@@ -39,45 +42,49 @@ def _read_json(path: Path) -> Dict[str, Any]:
 
 def load_roster(
     raw_base: Optional[Path] = None,
-    legislaturas: Sequence[int] = LEGISLATURAS,
+    legislatures: Sequence[int] = LEGISLATURES,
 ) -> Tuple[Dict[int, Dict[str, Any]], Dict[Tuple[int, int], str], List[Dict[str, Any]]]:
-    """Return (deputados-by-id, mandato-by-(id,leg)-uf, roster source metas).
+    """Return (deputies-by-id, mandate-by-(id,legislature)->state, roster source metas).
 
     Collapses the duplicate roster rows (one per party / name variant) by id.
     """
-    deputados: Dict[int, Dict[str, Any]] = {}
-    mandatos: Dict[Tuple[int, int], str] = {}
+    deputies: Dict[int, Dict[str, Any]] = {}
+    mandates: Dict[Tuple[int, int], str] = {}
     metas: List[Dict[str, Any]] = []
-    for legislatura in legislaturas:
-        path = paths.camara_deputados_path(legislatura, base=raw_base)
+    for legislature in legislatures:
+        path = paths.camara_deputados_path(legislature, base=raw_base)
         if not path.exists():
             continue
         payload = _read_json(path)
         metas.append(payload.get("_meta", {}))
         for row in payload.get("dados", []) or []:
             dep_id = row["id"]
-            deputados.setdefault(dep_id, {"nome": row.get("nome"), "foto_url": row.get("urlFoto")})
-            mandatos[(dep_id, row["idLegislatura"])] = row.get("siglaUf")
-    return deputados, mandatos, metas
+            deputies.setdefault(
+                dep_id,
+                {"name": row.get("nome"), "photo_url": row.get("urlFoto"),
+                 "current_status": None},
+            )
+            mandates[(dep_id, row["idLegislatura"])] = row.get("siglaUf")
+    return deputies, mandates, metas
 
 
 def transform(
     conn: sqlite3.Connection,
     raw_base: Optional[Path] = None,
-    legislaturas: Sequence[int] = LEGISLATURAS,
+    legislatures: Sequence[int] = LEGISLATURES,
 ) -> Dict[str, int]:
     """Full rebuild of the canonical tables from the raw landing files."""
     for table in _TABLES_CHILD_FIRST:
         conn.execute(f"DELETE FROM {table}")
 
-    deputados, mandatos, roster_metas = load_roster(raw_base, legislaturas)
+    deputies, mandates, roster_metas = load_roster(raw_base, legislatures)
 
-    exercicio_rows: List[tuple] = []
+    office_rows: List[tuple] = []
     party_rows: List[tuple] = []
     name_rows: List[tuple] = []
     source_metas: List[Dict[str, Any]] = list(roster_metas)
 
-    for dep_id in deputados:
+    for dep_id in deputies:
         hist_path = paths.camara_historico_path(dep_id, base=raw_base)
         if not hist_path.exists():
             continue
@@ -85,46 +92,48 @@ def transform(
         source_metas.append(payload.get("_meta", {}))
         entries = payload.get("dados", []) or []
 
-        names = intervals.name_intervals(entries)
+        names = intervals.name_history(entries)
         if names:
-            deputados[dep_id]["nome"] = names[-1]["nome"]  # latest is current
+            deputies[dep_id]["name"] = names[-1]["name"]  # latest is current
+        deputies[dep_id]["current_status"] = intervals.current_status(entries)
 
-        for iv in intervals.exercise_intervals(entries):
-            exercicio_rows.append(
-                (dep_id, iv["legislatura"], iv["condicao"], iv["start_at"], iv["end_at"]))
-        for iv in intervals.party_intervals(entries):
+        for iv in intervals.office_periods(entries):
+            office_rows.append(
+                (dep_id, iv["legislature"], iv["condition"], iv["start"], iv["end"]))
+        for iv in intervals.party_affiliations(entries):
             party_rows.append(
-                (dep_id, iv["sigla_partido"], iv["start_at"], iv["end_at"],
-                 iv["legislatura"], iv["descricao_origem"]))
+                (dep_id, iv["party"], iv["start"], iv["end"], iv["legislature"],
+                 iv["source_note"]))
         for iv in names:
-            name_rows.append((dep_id, iv["nome"], iv["start_at"], iv["end_at"]))
+            name_rows.append((dep_id, iv["name"], iv["start"], iv["end"]))
 
     # parents before children (foreign keys are enforced)
     conn.executemany(
-        "INSERT INTO deputado (id, nome, foto_url) VALUES (?, ?, ?)",
-        [(dep_id, d["nome"], d["foto_url"]) for dep_id, d in deputados.items()],
+        "INSERT INTO deputy (id, name, photo_url, current_status) VALUES (?, ?, ?, ?)",
+        [(dep_id, d["name"], d["photo_url"], d["current_status"])
+         for dep_id, d in deputies.items()],
     )
     conn.executemany(
-        "INSERT INTO mandato (deputy_id, legislatura, uf) VALUES (?, ?, ?)",
-        [(dep_id, leg, uf) for (dep_id, leg), uf in mandatos.items()],
+        "INSERT INTO mandate (deputy_id, legislature, state) VALUES (?, ?, ?)",
+        [(dep_id, leg, state) for (dep_id, leg), state in mandates.items()],
     )
     conn.executemany(
-        "INSERT INTO exercicio (deputy_id, legislatura, condicao, start_at, end_at) "
+        "INSERT INTO office_period (deputy_id, legislature, condition, start_at, end_at) "
         "VALUES (?, ?, ?, ?, ?)",
-        exercicio_rows,
+        office_rows,
     )
     conn.executemany(
-        "INSERT INTO party_membership "
-        "(deputy_id, sigla_partido, start_at, end_at, legislatura, descricao_origem) "
+        "INSERT INTO party_affiliation "
+        "(deputy_id, party, start_at, end_at, legislature, source_note) "
         "VALUES (?, ?, ?, ?, ?, ?)",
         party_rows,
     )
     conn.executemany(
-        "INSERT INTO name_history (deputy_id, nome, start_at, end_at) VALUES (?, ?, ?, ?)",
+        "INSERT INTO name_history (deputy_id, name, start_at, end_at) VALUES (?, ?, ?, ?)",
         name_rows,
     )
     conn.executemany(
-        "INSERT INTO source_meta (source, endpoint, legislatura, fetched_at, record_count) "
+        "INSERT INTO source (source, endpoint, legislature, fetched_at, record_count) "
         "VALUES (?, ?, ?, ?, ?)",
         [(m.get("source"), m.get("endpoint"), m.get("legislatura"),
           m.get("fetched_at"), m.get("record_count")) for m in source_metas],
@@ -132,10 +141,10 @@ def transform(
     conn.commit()
 
     return {
-        "deputado": len(deputados),
-        "mandato": len(mandatos),
-        "exercicio": len(exercicio_rows),
-        "party_membership": len(party_rows),
+        "deputy": len(deputies),
+        "mandate": len(mandates),
+        "office_period": len(office_rows),
+        "party_affiliation": len(party_rows),
         "name_history": len(name_rows),
     }
 
