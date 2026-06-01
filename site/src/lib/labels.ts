@@ -33,3 +33,12 @@ export const conditionLabel = (c: string | null): string =>
 
 export const statusColor = (s: string | null): string =>
   s ? STATUS_COLOR[s] ?? "bg-slate-500" : "bg-slate-400";
+
+/** Deterministic, stable colour per party acronym (same party = same colour
+ *  everywhere). Returns an HSL string readable with white text. */
+export function partyColor(party: string | null): string {
+  if (!party) return "hsl(215 16% 65%)";
+  let h = 0;
+  for (let i = 0; i < party.length; i++) h = (h * 31 + party.charCodeAt(i)) % 360;
+  return `hsl(${h} 45% 38%)`;
+}
