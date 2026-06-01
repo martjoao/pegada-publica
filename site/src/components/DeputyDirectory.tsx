@@ -77,7 +77,7 @@ function PartyChart({
                       : "cursor-default"
                 }`}
               >
-                <span className="w-20 shrink-0 truncate text-right text-slate-600">
+                <span className="w-32 shrink-0 whitespace-nowrap text-right text-slate-600">
                   {party}
                 </span>
                 <span className="flex-1">
@@ -175,7 +175,7 @@ export default function DeputyDirectory({ deputies }: { deputies: Card[] }) {
         <span className="ml-auto text-slate-500">{filtered.length} deputados</span>
       </div>
 
-      <div className="grid gap-4 lg:grid-cols-[18rem_1fr]">
+      <div className="grid gap-4 lg:grid-cols-[22rem_1fr]">
         <aside className="lg:sticky lg:top-4 lg:self-start">
           <PartyChart deputies={chartBase} selected={party} onSelect={toggleParty} />
         </aside>
