@@ -13,6 +13,22 @@ deleting, so the history stays readable.
 
 ### 2026-05-31
 
+- **Build stage (deputies) = per-deputy detail JSON + slim directory index**,
+  generated from `pegada.db` by a top-level `/build` stage that reads the DB via SQL
+  (schema = the contract; no `etl` imports). Directory default = latest legislatura +
+  `em_exercício` toggle (≈513) with `em exercício` / `suplente` / `licenciado` status
+  badges; ordering Nome A–Z (objective).
+  → spec: `docs/superpowers/specs/2026-05-31-build-stage-deputies-design.md`
+
+- **Deputy page structure approved** (visual companion): header, party-migration
+  timeline, mandate/exercise, then future placeholder sections. URL `/deputado/{id}`.
+
+- **Milestone — canonical pipeline ran end-to-end on live data.** Extract (924
+  deputies) → transform → `pegada.db`. 14 transient 504 failures were recovered on
+  retry (full coverage). Sanity check passed: "currently in exercise" = **514 ≈ 513**
+  seats, validating the exercise-interval logic. Counts: deputado 924, mandato 1255,
+  exercicio 2339, party_membership 3009, name_history 1360.
+
 - **Canonical deputy schema = Approach A (normalized, pre-computed intervals).**
   Tables: `deputado`, `mandato`, `exercicio`, `party_membership`, `name_history`,
   `source_meta`. Two orthogonal dated timelines (party affiliation vs. in-office
