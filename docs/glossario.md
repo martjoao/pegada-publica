@@ -20,13 +20,20 @@ Goal: one unambiguous word per concept, so nothing is misinformed downstream.
 | `party_affiliation` | filiação partidária | A dated interval of affiliation to a party. |
 | `name_history` | histórico de nome parlamentar | Dated intervals of the parliamentary name. |
 | `source` | procedência (`_meta`) | Provenance of one ingested raw landing file. |
+| `senator` | senador | A senator (Senado Federal member). |
+| `senate_term` | mandato (senador) | A senator's mandate within a given legislature; the Senado 8-year mandate spans two legislatures, so one row per covered legislature (carries UF + condition). |
+| `senator_office_period` | exercício (senador) | A dated interval a senator actually held the seat, from a `Mandato.Exercicio` row. |
+| `senator_party_affiliation` | filiação partidária (senador) | A dated party affiliation, from `/filiacoes` (`DataFiliacao`/`DataDesfiliacao`). |
+| `senator_name_history` | histórico de nome parlamentar (senador) | Dated parliamentary-name intervals (rarely changes; usually one open interval). |
 
 ## Columns
 
 | Canonical (EN) | PT / source field | Meaning |
 |---|---|---|
-| `id` | id | Câmara deputy id; also the page URL key. |
+| `id` | id / CodigoParlamentar | Câmara deputy id, or Senado `CodigoParlamentar`; also the page URL key. |
 | `deputy_id` | — | Foreign key to `deputy.id`. |
+| `senator_id` | CodigoParlamentar | Foreign key to `senator.id`. |
+| `cause` | DescricaoCausaAfastamento | Why a senator's office period ended (raw PT kept; e.g. "Retorno do titular"). |
 | `name` | nome | Parliamentary name (current on `deputy`, dated in `name_history`). |
 | `photo_url` | urlFoto | Official photo URL. |
 | `state` | UF / siglaUf | Federative unit (state) the deputy represents. |
@@ -46,7 +53,7 @@ Source field: `condicaoEleitoral`.
 | Canonical (EN) | Source PT | Site display (PT) | Meaning |
 |---|---|---|---|
 | `titular` | Titular | Titular | Directly-elected seat holder. |
-| `alternate` | Suplente | Suplente | Substitute who fills in for a titular. |
+| `alternate` | Suplente / `Nº Suplente` | Suplente | Substitute who fills in for a titular. (Senado `DescricaoParticipacao` is `1º Suplente` / `2º Suplente`; both map to `alternate`.) |
 
 ## `current_status` values (the deputy's current state)
 
@@ -64,6 +71,13 @@ and metadata rows).
 | `null` | — | — | No settled status (e.g. never took office). |
 
 `in_office` (boolean, in JSON) ≡ `current_status == "in_office"`.
+
+**Senators** share this enum, but it is *derived* (no single Senado field):
+`in_office` = present in `/senador/lista/atual`; `on_leave` / `substitute` inferred
+from the latest exercicio's `DescricaoCausaAfastamento` (leave-type cause → `on_leave`;
+`RET` "Retorno do titular" for a suplente → `substitute`); `term_ended` = mandate
+covers only past legislatures; `null` = a mandate with no exercicio (never assumed).
+`suspended` / `vacated` are not currently produced for senators (no clean signal).
 
 ## Notes
 

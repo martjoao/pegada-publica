@@ -99,12 +99,80 @@ public open-data artifact), and a GitHub Action builds Astro + deploys to GitHub
 from that committed snapshot. *(Pending: un-ignore `build/output/` and add the Actions
 workflow when we wire deployment.)*
 
+**016 — Second parliamentarian = Senado senators, full pipeline.** Replicate the
+deputy pipeline (extract→transform→build→site) for senators, mirroring every
+convention. The Senado API was probed live before designing.
+→ spec: `docs/superpowers/specs/2026-06-01-senado-senators-pipeline-design.md`
+
+**017 — Senado API format = JSON via `Accept: application/json`.** The Senado API
+returns XML by default but every endpoint we need honors the JSON Accept header
+(verified live: 200 + `application/json`), so we stay JSON, no XML parsing. *Caveat:*
+its JSON is a 1:1 XML transcription, so single-child nodes come back as a **dict, not
+a list** — handled by an `as_list` coercion helper (`common/senado_json.py`).
+
+**018 — Senado HTTP client = separate `SenadoClient`** (not a generalization of
+`CamaraClient`). *Why:* the Senado returns whole payloads (no `links`/`next`
+pagination) under a different base URL and envelope shape; a clean separate `get()`
+is simpler than overloading the Câmara client and risks nothing for deputies.
+
+**019 — Senator schema = parallel tables in the same `pegada.db`** (`senator`,
+`senate_term`, `senator_office_period`, `senator_party_affiliation`,
+`senator_name_history`); the shared `source` audit table is reused. *Why:* the
+lowest-risk path mandated — the working deputy pipeline (and every deputy test) stays
+untouched. Differences from deputies that the data forced: (a) **8-year mandates span
+two legislatures** (`Primeira`/`SegundaLegislaturaDoMandato`), so one `senate_term`
+row per covered legislature; (b) **`condition` lives on `senate_term`** (the Senado
+gives Titular/Nº-Suplente at mandate granularity, and a suplente may have zero office
+periods); (c) **office periods and party affiliations are read directly** from
+`/mandatos` `Exercicio` rows and `/filiacoes` (dated intervals), not folded from an
+event stream like Câmara `/historico` — so the Senado interval builders are maps, not
+folds. `id` = `CodigoParlamentar` (stable; the page URL key, mirroring 006).
+
+**020 — Senator `current_status` derived (no single Senado field).** `in_office` =
+present in `/senador/lista/atual`; otherwise inferred from the latest exercicio's
+`DescricaoCausaAfastamento` (leave-type → `on_leave`; titular-return `RET` for a
+suplente → `substitute`) and mandate coverage (only past legislatures → `term_ended`;
+a mandate with no exercicio → `null`). `suspended`/`vacated` have no clean signal in
+these endpoints and are not produced for senators (the shared enum still carries them).
+
+**021 — Milestone: senator pipeline ran end-to-end on live data.** Extract
+(legislaturas 56 & 57 rosters → `__SENATOR_COUNT__` unique senators; per-senator
+`/mandatos` + `/filiacoes` crawl) → transform → `pegada.db` → `build/senadores.py`.
+Counts and the "≈81 currently in exercise" sanity check are recorded in the final
+report; the build emits one `senadores/{id}.json` per senator plus a slim
+`index.json`. *(Counts placeholder — replaced with live numbers after the run.)*
+
 ---
 
 ## Deferrals
 
 Work intentionally not done yet. Each: what, why deferred, and **what it takes to
 undefer**.
+
+- **Unified `parliamentarian` model (deputies + senators in one entity set).**
+  CLAUDE.md's core entity is "Parliamentarian — both houses", but the canonical
+  schema is currently two parallel families (`deputy*` + `senator*`).
+  *Why deferred:* unifying now risks the working deputy pipeline and every deputy
+  test for no immediate gain; the two houses have genuinely different source shapes
+  (Câmara event-stream `/historico` vs. Senado dated `/mandatos`+`/filiacoes`,
+  4-year vs. 8-year terms, mandate-level vs. office-level condition).
+  *To undefer:* introduce a `parliamentarian(id, house, …)` table with house-keyed
+  ids and refactor both transforms to write a shared interval set; keep the
+  house-specific extract/transform front-ends, converging only at the canonical
+  boundary. Do it behind a green test suite for both houses.
+
+- **Senator titular ↔ suplente substitution link.**
+  *Why deferred:* same rationale as the deputy substitution-link deferral — it's a
+  narrative feature, not data-integrity (`senator_office_period` already captures who
+  held the seat when). *To undefer:* the Senado *does* carry the link structurally in
+  `Mandato.Suplentes` / `Mandato.Titular` (CodigoParlamentar each way), so a
+  `senate_substitution` table is a straight read — no TSE inference needed (unlike
+  deputies). Add it when the relationship is surfaced on the page.
+
+- **Senator `suspended` / `vacated` status.** The `/mandatos`+`/filiacoes`+`atual`
+  endpoints expose no clean signal for these. *To undefer:* characterize the
+  Senado afastamento-cause vocabulary (or an `afastamentos` endpoint) for
+  suspension/loss-of-mandate causes and map them onto the canonical enum.
 
 - **Substitution link (titular ↔ suplente).**
   *Why deferred:* `/historico` has no structured link (only an unreliable free-text
