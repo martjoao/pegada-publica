@@ -12,6 +12,36 @@ Open-source Brazilian congressional transparency portal. Aggregates public gover
 
 **No backend API exists.** There is no runtime server. Every user interaction is a fetch() to a static JSON file.
 
+## Status
+
+- **Live:** https://martjoao.github.io/pegada-publica/ (public repo, GitHub Pages via
+  Actions, Astro `base: /pegada-publica`). Every push to `main` rebuilds and redeploys.
+- **Built:** deputy + senator pipelines end-to-end (parallel `deputy*` / `senator*`
+  tables in one `etl/data/pegada.db`; a unified `parliamentarian` model is deferred).
+- Consequential decisions & deferrals are logged in [`docs/decisions.md`](docs/decisions.md)
+  (numbered ledger, 001 = oldest); EN↔PT term mappings in [`docs/glossario.md`](docs/glossario.md).
+
+## Development
+
+**Pipeline run order** (all local): extract → transform → build → site. The deputy
+transform creates *all* canonical tables (incl. senator), so run it before the senator
+transform on a fresh DB.
+
+**Python (ETL + build)** — venv at `etl/.venv`, no global install:
+- ETL tests:   `cd etl && .venv/bin/python -m pytest -q`
+- Build tests: `cd build && PYTHONPATH=../etl ../etl/.venv/bin/python -m pytest -q`
+- Build JSON:  `etl/.venv/bin/python build/deputados.py` / `build/senadores.py`
+
+**Site** — requires Node 20 via nvm (system Node is too old):
+`export NVM_DIR="$HOME/.nvm" && . "$NVM_DIR/nvm.sh" && nvm use 20 && cd site && npm run build`
+The site reads `build/output/*.json` from the filesystem at build time.
+
+**Data refresh → deploy:** run ETL locally → rebuild `build/output` → **commit
+`build/output`** (it's tracked, not ignored — it doubles as the open-data artifact) →
+push to `main`; the GitHub Action builds and deploys to Pages automatically.
+
+TDD is the standard (red→green→refactor); raw PT inputs, canonical-EN assertions.
+
 ## Naming
 
 Raw government APIs are Portuguese, and the **extract** stage saves their payloads verbatim (PT). From **transform** onward, everything is normalized to **canonical English identifiers** (DB tables/columns, build JSON keys, enumerated values); Portuguese reappears only in the **site's display layer**. The canonical terms and their PT source/display mappings are defined in [`docs/glossario.md`](docs/glossario.md) — consult and update it whenever a term needs translating.
