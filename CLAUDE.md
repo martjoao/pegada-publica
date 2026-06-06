@@ -24,7 +24,9 @@ Open-source Brazilian congressional transparency portal. Aggregates public gover
   924 deputies and 318 senators (decision 024). Raw files in `etl/data/raw/camara/bio/`
   and `etl/data/raw/senado/bio/` (gitignored). Deputy bio fields available: `nomeCivil`,
   `cpf`, `dataNascimento`, `escolaridade`, `redeSocial`, `urlWebsite`, `ultimoStatus`.
-  Transform/build wiring not yet built.
+  **Transform done (decision 025):** nullable bio columns added to `deputy` and `senator`
+  tables; `load_bio()` integrated into both transform scripts. Build wiring not yet done
+  (`cpf` must be excluded from build JSON per LGPD).
 - Consequential decisions & deferrals are logged in [`docs/decisions.md`](docs/decisions.md)
   (numbered ledger, 001 = oldest); EN↔PT term mappings in [`docs/glossario.md`](docs/glossario.md).
 

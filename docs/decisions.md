@@ -182,6 +182,17 @@ against live data (DEPUTADO FEDERAL, SENADOR, PRESIDENTE). Raw ZIPs saved to
 level; transform/build wiring is a follow-on spec.
 → spec: `docs/superpowers/specs/2026-06-06-bio-extract-design.md`
 
+**025 — Milestone: bio transform integrated into deputy and senator pipelines.** Nullable
+bio columns added to `deputy` (cpf, civil_name, date_of_birth, date_of_death, sex,
+birth_state, birth_city, education, social_media, website) and `senator` (civil_name,
+date_of_birth, birth_state, birth_city, sex, email). `load_bio()` added to
+`transform/camara/deputados.py` and `transform/senado/senadores.py` following the
+`load_roster()` pattern; bio fields written in the same INSERT pass. Missing bio files
+degrade gracefully (NULL columns). `senator.cpf` deferred — Senado API does not expose
+CPFs; will be populated by the TSE transform spec. `deputy.cpf` is LGPD-protected
+(internal use only, never exported to build JSON). 45 new tests; 186 total passing.
+→ spec: `docs/superpowers/specs/2026-06-06-bio-transform-design.md`
+
 ---
 
 ## Deferrals
@@ -228,8 +239,8 @@ undefer**.
 
 - **Deputy and senator bio/detail fields** (cpf, nomeCivil, dataNascimento, escolaridade,
   redes sociais, `ultimoStatus` for deputies; `DetalheParlamentar` for senators).
-  *Extract done (decision 024).* *To fully undefer:* add transform step to enrich
-  `deputy`/`senator` tables with nullable bio columns, and expose fields in build JSON.
+  *Extract done (decision 024). Transform done (decision 025).* *To fully undefer:*
+  expose bio fields in build JSON (build spec + site wiring).
 
 - **Party as a first-class entity** (normalize `sigla_partido` → a stable party id;
   party member history; mergers/renames).

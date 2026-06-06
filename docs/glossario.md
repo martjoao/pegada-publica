@@ -46,6 +46,24 @@ Goal: one unambiguous word per concept, so nothing is misinformed downstream.
 | `current_status` | (derived) | The deputy's current state — see **status** values. |
 | `source_note` | descricaoStatus | Breadcrumb to the originating history event. |
 
+## Bio columns (`deputy` and `senator`)
+
+Populated by `transform/camara/deputados.py` and `transform/senado/senadores.py` from the bio landing files.
+
+| Canonical (EN) | Deputy source (PT) | Senator source (PT) | Meaning |
+|---|---|---|---|
+| `cpf` | `cpf` | — (not in Senado API) | Tax ID; internal only — LGPD-protected; never exported to build JSON. |
+| `civil_name` | `nomeCivil` | `NomeCompletoParlamentar` | Full legal name (different from parliamentary name). |
+| `date_of_birth` | `dataNascimento` | `DadosBasicosParlamentar.DataNascimento` | ISO-8601 date. |
+| `date_of_death` | `dataFalecimento` | — | ISO-8601 date; NULL if alive. Deputy only. |
+| `sex` | `sexo` (already `'M'`/`'F'`) | `SexoParlamentar` (normalized `'Masculino'`→`'M'`, `'Feminino'`→`'F'`) | `'M'` or `'F'`. |
+| `birth_state` | `ufNascimento` | `UfNaturalidade` | UF sigla. |
+| `birth_city` | `municipioNascimento` | `Naturalidade` | City name. |
+| `education` | `escolaridade` | — | Education level string. Deputy only. |
+| `social_media` | `redeSocial` (list serialized as JSON string) | — | JSON array of URLs. Deputy only. |
+| `website` | `urlWebsite` | — | Personal website URL. Deputy only. |
+| `email` | — | `EmailParlamentar` | Official senate email. Senator only. |
+
 ## `condition` values (how the seat is held)
 
 Source field: `condicaoEleitoral`.
