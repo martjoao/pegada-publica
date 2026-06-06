@@ -10,7 +10,9 @@ expenses, ...), so per-source modules only need to know endpoints and params.
 """
 from __future__ import annotations
 
+import os
 import time
+from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 import requests
@@ -154,6 +156,84 @@ class SenadoClient:
             if attempt < self.max_retries:
                 if self.backoff_base:
                     time.sleep(self.backoff_base * (2 ** attempt))
+
+        assert last_exc is not None
+        raise last_exc
+
+
+class TseDownloader:
+    """Streaming downloader for large TSE bulk files (ZIPs, CSV archives).
+
+    Unlike ``CamaraClient``/``SenadoClient`` which are designed for paginated
+    JSON API calls, this streams binary content to a temp file and renames
+    atomically.  Retry behaviour mirrors the existing clients.
+    """
+
+    def __init__(
+        self,
+        session: Optional[requests.Session] = None,
+        max_retries: int = 3,
+        backoff_base: float = 0.5,
+        chunk_size: int = 65536,
+        timeout: float = 120.0,
+        user_agent: str = DEFAULT_USER_AGENT,
+    ) -> None:
+        self.max_retries = max_retries
+        self.backoff_base = backoff_base
+        self.chunk_size = chunk_size
+        self.timeout = timeout
+        self.session = session or requests.Session()
+        self.session.headers.update({"User-Agent": user_agent})
+
+    def download(self, url: str, dest_path: Path) -> None:
+        """Stream ``url`` to ``dest_path`` via a temp file (atomic rename on success).
+
+        Retries on 5xx, timeouts, and connection errors with exponential backoff.
+        Raises immediately on 4xx (not retryable).
+        Raises ``ValueError`` on Content-Length mismatch; removes the temp file.
+        """
+        dest_path = Path(dest_path)
+        dest_path.parent.mkdir(parents=True, exist_ok=True)
+        tmp_path = dest_path.with_name(dest_path.name + ".tmp")
+
+        last_exc: Optional[Exception] = None
+        for attempt in range(self.max_retries + 1):
+            try:
+                response = self.session.get(url, stream=True, timeout=self.timeout)
+                if response.status_code >= 500:
+                    response.raise_for_status()
+                response.raise_for_status()
+
+                content_length = response.headers.get("Content-Length")
+                expected = int(content_length) if content_length else None
+
+                written = 0
+                with open(tmp_path, "wb") as fh:
+                    for chunk in response.iter_content(chunk_size=self.chunk_size):
+                        fh.write(chunk)
+                        written += len(chunk)
+
+                if expected is not None and written != expected:
+                    tmp_path.unlink(missing_ok=True)
+                    raise ValueError(
+                        f"Content-length mismatch downloading {url}: "
+                        f"expected {expected}, got {written}"
+                    )
+
+                os.replace(tmp_path, dest_path)
+                return
+
+            except (requests.ConnectionError, requests.Timeout) as exc:
+                last_exc = exc
+            except requests.HTTPError as exc:
+                status = exc.response.status_code if exc.response is not None else None
+                if status is not None and status < 500:
+                    raise
+                last_exc = exc
+
+            tmp_path.unlink(missing_ok=True)
+            if attempt < self.max_retries and self.backoff_base:
+                time.sleep(self.backoff_base * (2 ** attempt))
 
         assert last_exc is not None
         raise last_exc
