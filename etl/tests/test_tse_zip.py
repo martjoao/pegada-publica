@@ -155,6 +155,13 @@ def test_manifest_raises_if_ds_cargo_column_missing(tmp_path):
         build_manifest(p, "http://example.com/bad.zip")
 
 
+def test_manifest_raises_on_corrupt_zip(tmp_path):
+    p = tmp_path / "corrupt.zip"
+    p.write_bytes(b"this is not a zip file")
+    with pytest.raises(zipfile.BadZipFile, match="Corrupt or invalid ZIP"):
+        build_manifest(p, "http://example.com/corrupt.zip")
+
+
 def test_manifest_strips_bom_from_first_column(tmp_path):
     """Some TSE files open with a UTF-8 BOM despite being latin-1."""
     buf = io.BytesIO()

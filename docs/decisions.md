@@ -155,6 +155,11 @@ was needed: a senator can hold two mandates in the same legislature (titular on 
 ticket, suplente on another), so `senate_term` is deduped per legislature preferring
 `titular` (5 senators affected).
 
+**022 — TSE donations column names resolved by manifest.** The open item about
+column names being inferred from regulation docs is closed: `common/tse_zip.py`'s
+`build_manifest` reads actual CSV headers from each ZIP on first run and records them
+in the manifest, so column names are captured from the real files rather than assumed.
+
 ---
 
 ## Deferrals
@@ -232,8 +237,6 @@ Things believed-true but not yet confirmed end-to-end. Resolve before relying on
 
 - **`/frentes`, `/profissoes`, `/ocupacoes`** — returned empty under a naive query;
   exact required params not yet confirmed.
-- **TSE donations column names** — inferred from regulation/docs (e.g.
-  `NR_CPF_CNPJ_DOADOR`), **not** yet verified against an actual file header / LEIA-ME.
 - **`/despesas` full-extract volume** — confirmed ~480 docs/deputy/year; the larger
   "15M records" estimate from the probe was a multiplication error.
 - **Senator party-at-date sourcing.** Senator party affiliation comes from

@@ -91,3 +91,11 @@ def test_run_returns_written_paths(tmp_path):
 
 def test_elections_constant():
     assert ELECTIONS == (2018, 2022)
+
+
+def test_run_manifest_contains_correct_source(tmp_path):
+    run(downloader=FakeDownloader(_make_zip()), elections=(2022,), out_dir=tmp_path)
+    manifest = json.loads(
+        paths.tse_candidatos_manifest_path(2022, base=tmp_path).read_text()
+    )
+    assert manifest["_meta"]["source"] == "tse-dados-abertos"
