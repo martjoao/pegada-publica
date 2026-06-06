@@ -88,6 +88,43 @@ def _filiacoes_for(sid: int, raw_base: Optional[Path]) -> List[Dict[str, Any]]:
     return as_list(node)
 
 
+def load_bio(
+    codigos: Sequence[int],
+    raw_base: Optional[Path] = None,
+) -> Dict[int, Dict[str, Any]]:
+    """Read raw senator bio landing files and return canonical bio fields.
+
+    Returns a dict keyed by senator codigo. Codigos with no bio file are absent
+    from the result. All field access uses .get() chains — never raises on
+    unexpected structure.
+    """
+    _SEX_MAP = {"Masculino": "M", "Feminino": "F"}
+    result: Dict[int, Dict[str, Any]] = {}
+    for codigo in codigos:
+        path = paths.senado_bio_path(codigo, base=raw_base)
+        if not path.exists():
+            continue
+        payload = _read_json(path)
+        parlamentar = (
+            payload
+            .get("dados", {})
+            .get("DetalheParlamentar", {})
+            .get("Parlamentar", {})
+        )
+        ident = parlamentar.get("IdentificacaoParlamentar", {})
+        basico = parlamentar.get("DadosBasicosParlamentar", {})
+        sex_raw = ident.get("SexoParlamentar")
+        result[codigo] = {
+            "civil_name": ident.get("NomeCompletoParlamentar"),
+            "sex": _SEX_MAP.get(sex_raw) if sex_raw else None,
+            "email": ident.get("EmailParlamentar"),
+            "date_of_birth": basico.get("DataNascimento"),
+            "birth_city": basico.get("Naturalidade"),
+            "birth_state": basico.get("UfNaturalidade"),
+        }
+    return result
+
+
 def transform(
     conn: sqlite3.Connection,
     raw_base: Optional[Path] = None,
@@ -99,6 +136,7 @@ def transform(
         conn.execute(f"DELETE FROM {table}")
 
     senators, roster_metas = load_roster(raw_base, legislatures)
+    bios = load_bio(list(senators.keys()), raw_base)
 
     term_rows: List[tuple] = []
     office_rows: List[tuple] = []
@@ -124,8 +162,25 @@ def transform(
         name_rows.append((sid, sen["name"], "1900-01-01", None))
 
     conn.executemany(
-        "INSERT INTO senator (id, name, photo_url, current_status) VALUES (?, ?, ?, ?)",
-        [(sid, s["name"], s["photo_url"], s["current_status"]) for sid, s in senators.items()],
+        "INSERT INTO senator "
+        "(id, name, photo_url, current_status, "
+        "civil_name, date_of_birth, birth_state, birth_city, sex, email) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        [
+            (
+                sid,
+                s["name"],
+                s["photo_url"],
+                s["current_status"],
+                bios.get(sid, {}).get("civil_name"),
+                bios.get(sid, {}).get("date_of_birth"),
+                bios.get(sid, {}).get("birth_state"),
+                bios.get(sid, {}).get("birth_city"),
+                bios.get(sid, {}).get("sex"),
+                bios.get(sid, {}).get("email"),
+            )
+            for sid, s in senators.items()
+        ],
     )
     conn.executemany(
         "INSERT INTO senate_term (senator_id, legislature, state, condition) "
