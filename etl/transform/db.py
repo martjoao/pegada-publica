@@ -31,7 +31,17 @@ CREATE TABLE deputy (
   id             INTEGER PRIMARY KEY,   -- Câmara id; also the page URL key
   name           TEXT NOT NULL,         -- current/latest parliamentary name
   photo_url      TEXT,
-  current_status TEXT                   -- in_office|substitute|on_leave|suspended|vacated|term_ended|NULL
+  current_status TEXT,                  -- in_office|substitute|on_leave|suspended|vacated|term_ended|NULL
+  cpf            TEXT,                  -- nullable; internal only (LGPD-protected)
+  civil_name     TEXT,                  -- nullable
+  date_of_birth  TEXT,                  -- nullable; ISO-8601 date
+  date_of_death  TEXT,                  -- nullable; ISO-8601 date
+  sex            TEXT,                  -- nullable; 'M' or 'F'
+  birth_state    TEXT,                  -- nullable
+  birth_city     TEXT,                  -- nullable
+  education      TEXT,                  -- nullable
+  social_media   TEXT,                  -- nullable; JSON string
+  website        TEXT                   -- nullable
 );
 
 CREATE TABLE mandate (
@@ -74,7 +84,13 @@ CREATE TABLE senator (
   id             INTEGER PRIMARY KEY,   -- CodigoParlamentar; also the page URL key
   name           TEXT NOT NULL,         -- current/latest parliamentary name
   photo_url      TEXT,
-  current_status TEXT                   -- in_office|substitute|on_leave|...|NULL
+  current_status TEXT,                  -- in_office|substitute|on_leave|...|NULL
+  civil_name     TEXT,                  -- nullable
+  date_of_birth  TEXT,                  -- nullable; ISO-8601 date
+  birth_state    TEXT,                  -- nullable
+  birth_city     TEXT,                  -- nullable
+  sex            TEXT,                  -- nullable; 'M' or 'F'
+  email          TEXT                   -- nullable
 );
 
 -- One row per legislature a mandate covers (the 8-year mandate spans two terms).
