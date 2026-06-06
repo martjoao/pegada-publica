@@ -166,4 +166,4 @@ def load_candidates(
                         canonicalize_election_result(row["DS_SIT_TOT_TURNO"]),
                     ),
                 )
-    conn.commit()
+        conn.commit()
