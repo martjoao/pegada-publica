@@ -76,5 +76,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Ciro Nogueira Lima Filho",
+  "date_of_birth": "1968-11-21",
+  "birth_state": "PI",
+  "birth_city": "Teresina",
+  "sex": "M",
+  "email": "sen.cironogueira@senado.leg.br"
 }

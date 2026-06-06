@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Castellar Modesto Guimarães Neto",
+  "date_of_birth": "1982-10-04",
+  "birth_state": "MG",
+  "birth_city": "Coronel Fabriciano",
+  "sex": "M",
+  "email": "sen.castellarneto@senado.leg.br"
 }

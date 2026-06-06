@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Adilson Gomes Silva",
+  "date_of_birth": "1944-10-16",
+  "birth_state": "AL",
+  "birth_city": "Maceió",
+  "sex": "M",
+  "email": null
 }

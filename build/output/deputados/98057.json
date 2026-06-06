@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LAFAYETTE LUIZ DOORGAL DE ANDRADA",
+  "date_of_birth": "1966-10-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Doutorado Incompleto",
+  "social_media": [
+    "https://twitter.com/lafayetteandrad",
+    "https://www.facebook.com/lafayettedeandrada",
+    "https://www.instagram.com/lafayetteandrada",
+    "https://youtube.com/channel/UC5f8X2JAnafqV7bPLmDeZGw"
+  ],
+  "website": null
 }

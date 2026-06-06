@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HELIO FERNANDO BARBOSA LOPES",
+  "date_of_birth": "1969-03-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Queimados",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/depheliolopes",
+    "https://www.facebook.com/depheliolopes",
+    "https://www.instagram.com/depheliolopes"
+  ],
+  "website": null
 }

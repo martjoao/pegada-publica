@@ -79,5 +79,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "NEUCIMAR FERREIRA FRAGA",
+  "date_of_birth": "1966-06-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Itanhém",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://www.facebook.com/neucimar.fraga",
+    "https://www.instagram.com/neucimarfraga55"
+  ],
+  "website": null
 }

@@ -133,5 +133,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RODRIGO FELINTO IBARRA EPITÁCIO MAIA",
+  "date_of_birth": "1970-06-12",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": null,
+  "birth_city": "Santiago",
+  "education": "Superior Incompleto",
+  "social_media": [],
+  "website": null
 }

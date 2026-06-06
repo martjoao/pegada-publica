@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Celso Dal Lago Rodrigues",
+  "date_of_birth": "1942-02-15",
+  "birth_state": "SP",
+  "birth_city": "Lutécia",
+  "sex": "M",
+  "email": null
 }

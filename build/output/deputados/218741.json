@@ -44,5 +44,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PATRICK TEIXEIRA DORNELES PIRES",
+  "date_of_birth": "1997-03-30",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Porto Alegre",
+  "education": "Superior Incompleto",
+  "social_media": [],
+  "website": null
 }

@@ -73,5 +73,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ ARMANDO SCHROEDER REIS",
+  "date_of_birth": "1957-06-23",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Resende",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/cel_armando",
+    "https://www.facebook.com/coronel.armando",
+    "https://www.instagram.com/dep.coronel.armando",
+    "https://youtube.com/DeputadoCoronelArmando"
+  ],
+  "website": null
 }

@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CHRISTINE NOGUEIRA DOS REIS TONIETTO",
+  "date_of_birth": "1991-05-14",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/ToniettoChris",
+    "https://www.facebook.com/ChrisTonietto",
+    "https://www.instagram.com/christonietto",
+    "https://youtube.com/channel/UCqqG6AaU2hm2vLhMir4Jdlw"
+  ],
+  "website": null
 }

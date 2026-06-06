@@ -102,5 +102,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RODRIGO BATISTA DE CASTRO",
+  "date_of_birth": "1971-07-15",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Viçosa",
+  "education": "Mestrado",
+  "social_media": [
+    "http://twitter.com/#!/RodrigoCastro45",
+    "http://www.facebook.com/pages/deputado-federal-Rodrigo-de-Castro/124002814371381",
+    "http://www.youtube.com/rodrigocastro45"
+  ],
+  "website": null
 }

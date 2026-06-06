@@ -109,5 +109,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ AUGUSTO NALIN",
+  "date_of_birth": "1956-05-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Cachoeiro de Itapemirim",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

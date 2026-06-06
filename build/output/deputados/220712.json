@@ -49,5 +49,14 @@
       "start": "2025-10-06T15:09",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FAUSTO VIEIRA DOS SANTOS JUNIOR",
+  "date_of_birth": "1992-12-20",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AM",
+  "birth_city": "Manaus",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

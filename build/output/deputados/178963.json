@@ -108,5 +108,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIS ANTONIO FRANCISCATTO COVATTI",
+  "date_of_birth": "1987-07-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Frederico Westphalen",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/covattifilho",
+    "https://www.facebook.com/covatti.filho",
+    "https://www.instagram.com/covattifilho"
+  ],
+  "website": null
 }

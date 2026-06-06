@@ -73,5 +73,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JORGE GOETTEN DE LIMA",
+  "date_of_birth": "1962-04-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Mirim Doce",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/jorgegoetten",
+    "https://www.facebook.com/Jorgegoettenminister",
+    "https://www.instagram.com/jorgegoetten"
+  ],
+  "website": null
 }

@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Atilio Francisco da Silva",
+  "date_of_birth": "1951-08-02",
+  "birth_state": "SP",
+  "birth_city": "São Caetano do Sul",
+  "sex": "M",
+  "email": null
 }

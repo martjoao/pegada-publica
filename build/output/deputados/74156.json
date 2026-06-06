@@ -108,5 +108,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ LEONARDO COSTA MONTEIRO",
+  "date_of_birth": "1951-10-09",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Governador Valadares",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Paulo José de Brito Silva Albuquerque",
+  "date_of_birth": "1974-04-21",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "Sen.PauloAlbuquerque@senado.leg.br"
 }

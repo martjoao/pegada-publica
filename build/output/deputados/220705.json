@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DELTAN MARTINAZZO DALLAGNOL",
+  "date_of_birth": "1980-01-15",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Pato Branco",
+  "education": "Mestrado",
+  "social_media": [],
+  "website": null
 }

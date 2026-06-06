@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Mara Cristina Gabrilli",
+  "date_of_birth": "1967-09-28",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "sex": "F",
+  "email": "sen.maragabrilli@senado.leg.br"
 }

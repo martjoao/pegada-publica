@@ -96,5 +96,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MILTON VIEIRA PINTO",
+  "date_of_birth": "1962-09-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Iepê",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://twitter.com/depmiltonvieira",
+    "https://www.facebook.com/miltonvieiraoficial",
+    "https://www.instagram.com/miltonvieiraoficial",
+    "https://www.youtube.com/user/depmiltonvieira/"
+  ],
+  "website": null
 }

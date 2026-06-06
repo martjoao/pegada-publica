@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LENIR CANDIDA DE ASSIS",
+  "date_of_birth": "1969-09-18",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PR",
+  "birth_city": "Londrina",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/LenirOficial",
+    "https://www.facebook.com/lenirdassis",
+    "https://www.instagram.com/lenirdeassis"
+  ],
+  "website": null
 }

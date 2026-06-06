@@ -61,5 +61,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOAO HENRIQUE HOLANDA  CALDAS",
+  "date_of_birth": "1987-07-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AL",
+  "birth_city": "Maceió",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/JHC_40",
+    "https://www.facebook.com/jhc",
+    "https://www.instagram.com/jhc4040"
+  ],
+  "website": null
 }

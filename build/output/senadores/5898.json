@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Eliane e Silva Nogueira Lima",
+  "date_of_birth": "1949-07-03",
+  "birth_state": "PI",
+  "birth_city": "Teresina",
+  "sex": "F",
+  "email": "sen.elianenogueira@senado.leg.br"
 }

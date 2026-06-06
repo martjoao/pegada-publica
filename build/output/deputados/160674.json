@@ -96,5 +96,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HUGO MOTTA WANDERLEY DA NÓBREGA",
+  "date_of_birth": "1989-09-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PB",
+  "birth_city": "João Pessoa",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

@@ -72,5 +72,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "NILTO IGNACIO TATTO",
+  "date_of_birth": "1963-07-31",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Frederico Westphalen",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/niltotatto",
+    "https://www.facebook.com/niltotattosp",
+    "https://www.instagram.com/niltotatto"
+  ],
+  "website": null
 }

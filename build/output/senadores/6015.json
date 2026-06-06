@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Ireneu Orth",
+  "date_of_birth": "1950-07-22",
+  "birth_state": "RS",
+  "birth_city": "Tapera",
+  "sex": "M",
+  "email": "sen.ireneuorth@senado.leg.br"
 }

@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Orlando Moura Gaia",
+  "date_of_birth": "1954-07-04",
+  "birth_state": "PA",
+  "birth_city": "Chaves",
+  "sex": "M",
+  "email": null
 }

@@ -44,5 +44,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JONILDO JOSÉ DE ASSIS",
+  "date_of_birth": "1976-04-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MT",
+  "birth_city": "Cuiabá",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/coronelassismt",
+    "https://www.facebook.com/coronelassismt",
+    "https://www.instagram.com/coronelassis",
+    "https://youtube.com/coronelassis308"
+  ],
+  "website": null
 }

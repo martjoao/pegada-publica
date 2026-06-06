@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Joel Malucelli",
+  "date_of_birth": "1945-08-09",
+  "birth_state": "PR",
+  "birth_city": "Curitiba",
+  "sex": "M",
+  "email": null
 }

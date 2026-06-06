@@ -60,5 +60,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Laércio José de Oliveira",
+  "date_of_birth": "1959-04-15",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "sex": "M",
+  "email": "sen.laerciooliveira@senado.leg.br"
 }

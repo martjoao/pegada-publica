@@ -61,5 +61,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ CARLOS GOMES DOS SANTOS JUNIOR",
+  "date_of_birth": "1979-08-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AP",
+  "birth_city": "Amapá",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

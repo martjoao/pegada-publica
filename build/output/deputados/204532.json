@@ -38,5 +38,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "VINICIUS LAZZER POIT",
+  "date_of_birth": "1986-01-31",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Bernardo do Campo",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/viniciuspoit",
+    "https://www.facebook.com/viniciuspoit",
+    "https://www.instagram.com/viniciuspoit",
+    "https://youtube.com/viniciuspoit"
+  ],
+  "website": null
 }

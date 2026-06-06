@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALBERTO BARROS CAVALCANTE NETO",
+  "date_of_birth": "1982-05-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/capalbertoneto",
+    "https://www.facebook.com/capitaoalbertoneto",
+    "https://www.instagram.com/capitaoalbertoneto"
+  ],
+  "website": null
 }

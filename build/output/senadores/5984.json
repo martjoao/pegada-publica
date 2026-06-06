@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Terezinha Bazé de Lima",
+  "date_of_birth": "1952-07-20",
+  "birth_state": "MS",
+  "birth_city": "Três Lagoas",
+  "sex": "F",
+  "email": null
 }

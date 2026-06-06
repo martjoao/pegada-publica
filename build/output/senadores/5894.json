@@ -60,5 +60,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Flávio Nantes Bolsonaro",
+  "date_of_birth": "1981-04-30",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "sex": "M",
+  "email": "sen.flaviobolsonaro@senado.leg.br"
 }

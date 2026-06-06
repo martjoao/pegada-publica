@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Andre Felipe de Oliveira da Silva",
+  "date_of_birth": "1968-06-04",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "sex": "M",
+  "email": null
 }

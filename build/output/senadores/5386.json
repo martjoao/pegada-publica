@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Maria Auxiliadora Seabra Rezende",
+  "date_of_birth": "1964-10-01",
+  "birth_state": "GO",
+  "birth_city": "Goiânia",
+  "sex": "F",
+  "email": "sen.professoradorinhaseabra@senado.leg.br"
 }

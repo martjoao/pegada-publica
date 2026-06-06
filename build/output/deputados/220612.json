@@ -44,5 +44,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Carlos Roberto Rodrigues",
+  "date_of_birth": "1963-07-31",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Muriaé",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://www.facebook.com/bebetodaveggi",
+    "https://www.instagram.com/bebetorj"
+  ],
+  "website": null
 }

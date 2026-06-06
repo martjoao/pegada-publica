@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "IGOR TARCIANO TIMO",
+  "date_of_birth": "1982-04-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Virgem da Lapa",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://twitter.com/oficialigortimo",
+    "https://www.facebook.com/oficialigortimo",
+    "https://www.instagram.com/oficialigortimo"
+  ],
+  "website": null
 }

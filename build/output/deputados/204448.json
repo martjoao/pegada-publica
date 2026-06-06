@@ -102,5 +102,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ ANTONIO C. C. CORRÊA DA SILVA",
+  "date_of_birth": "1940-12-27",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

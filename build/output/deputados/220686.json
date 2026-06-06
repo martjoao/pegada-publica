@@ -49,5 +49,18 @@
       "start": "2023-06-28T11:01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HILDELIS SILVA DUARTE JUNIOR",
+  "date_of_birth": "1986-09-15",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Doutorado Incompleto",
+  "social_media": [
+    "https://twitter.com/DuarteJr_",
+    "https://www.facebook.com/ProfessorDuarteJr",
+    "https://www.instagram.com/duartejr70"
+  ],
+  "website": null
 }

@@ -56,5 +56,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "BEATRIZ ROSALIA RIBEIRO CAVASSA DE OLIVEIRA",
+  "date_of_birth": "1969-01-14",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MS",
+  "birth_city": "Corumbá",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

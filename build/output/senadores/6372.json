@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Bruno Bierrenbach Bonetti",
+  "date_of_birth": "1972-08-26",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.brunobonetti@senado.leg.br"
 }

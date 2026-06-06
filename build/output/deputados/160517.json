@@ -95,5 +95,18 @@
       "start": "2023-12-14T16:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO ROBERTO FOLLETTO",
+  "date_of_birth": "1956-04-30",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Colatina",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/deputadofoletto",
+    "https://www.facebook.com/foletto.paulo",
+    "https://www.instagram.com/paulo.folletto"
+  ],
+  "website": null
 }

@@ -71,5 +71,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Tasso Ribeiro Jereissati",
+  "date_of_birth": "1948-12-15",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "sex": "M",
+  "email": "sen.tassojereissati@senado.leg.br"
 }

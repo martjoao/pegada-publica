@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Maria Alice Melo de Araújo",
+  "date_of_birth": "1957-04-28",
+  "birth_state": "AC",
+  "birth_city": "Rio Branco",
+  "sex": "F",
+  "email": null
 }

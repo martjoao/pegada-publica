@@ -77,6 +77,9 @@ def build_deputy(
     legislatures = [m["legislature"] for m in mandates]  # ordered asc
     state = mandates[-1]["state"] if mandates else None
 
+    social_raw = dep["social_media"]
+    social_media = json.loads(social_raw) if social_raw else []
+
     detail = {
         "id": dep["id"],
         "name": dep["name"],
@@ -91,6 +94,15 @@ def build_deputy(
         "parties": parties_out,
         "office_periods": office_out,
         "names": names_out,
+        "civil_name": dep["civil_name"],
+        "date_of_birth": dep["date_of_birth"],
+        "date_of_death": dep["date_of_death"],
+        "sex": dep["sex"],
+        "birth_state": dep["birth_state"],
+        "birth_city": dep["birth_city"],
+        "education": dep["education"],
+        "social_media": social_media,
+        "website": dep["website"],
     }
     card = {
         "id": dep["id"],
@@ -118,7 +130,10 @@ def run(db_path: Path = DEFAULT_DB, out_dir: Path = DEFAULT_OUT) -> Dict[str, in
     cards: List[Dict[str, Any]] = []
     try:
         for dep in conn.execute(
-                "SELECT id, name, photo_url, current_status FROM deputy").fetchall():
+                "SELECT id, name, photo_url, current_status, "
+                "civil_name, date_of_birth, date_of_death, sex, "
+                "birth_state, birth_city, education, social_media, website "
+                "FROM deputy").fetchall():
             dep_id = dep["id"]
             mandates = conn.execute(
                 "SELECT legislature, state FROM mandate WHERE deputy_id=? ORDER BY legislature",

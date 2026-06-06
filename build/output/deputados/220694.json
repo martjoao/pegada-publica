@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RICARDO MAIA CHAVES DE SOUZA",
+  "date_of_birth": "1975-08-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Ribeira do Pombal",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://twitter.com/ricardomaiadep",
+    "https://www.facebook.com/RicardoMaia.DaBahia",
+    "https://www.instagram.com/ricardomaia.dabahia",
+    "https://youtube.com/ricardomaiadabahia5610"
+  ],
+  "website": null
 }

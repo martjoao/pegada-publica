@@ -44,5 +44,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FERNANDO JOSE DE SOUZA MARANGONI",
+  "date_of_birth": "1980-01-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/marangoni_fer",
+    "https://www.facebook.com/marangoni.oficial",
+    "https://www.instagram.com/marangoni.oficial",
+    "https://www.youtube.com/@fernandomarangoni99/"
+  ],
+  "website": null
 }

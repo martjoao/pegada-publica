@@ -90,5 +90,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FELIPE AUGUSTO LYRA CARRERAS",
+  "date_of_birth": "1975-04-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Superior Incompleto",
+  "social_media": [],
+  "website": null
 }

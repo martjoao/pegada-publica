@@ -61,5 +61,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MÁRCIO COSTA MACÊDO",
+  "date_of_birth": "1970-09-18",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Esplanada",
+  "education": "Mestrado",
+  "social_media": [],
+  "website": null
 }

@@ -115,5 +115,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SEVERINO DE SOUZA SILVA",
+  "date_of_birth": "1952-03-14",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Igarassu",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

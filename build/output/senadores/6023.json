@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Pedro Arthur Ferreira Rodrigues",
+  "date_of_birth": "1979-03-30",
+  "birth_state": "BA",
+  "birth_city": "Paulo Afonso",
+  "sex": "M",
+  "email": null
 }

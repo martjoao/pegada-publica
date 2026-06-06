@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Maria das Vitórias Soares de Medeiros",
+  "date_of_birth": "1943-02-04",
+  "birth_state": "RN",
+  "birth_city": "Carnaúba dos Dantas",
+  "sex": "F",
+  "email": "sen.mariadasvitorias@senado.leg.br"
 }

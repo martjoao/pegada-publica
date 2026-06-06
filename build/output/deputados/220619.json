@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALEXANDRE RAMAGEM RODRIGUES",
+  "date_of_birth": "1972-05-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": null,
+  "social_media": [],
+  "website": null
 }

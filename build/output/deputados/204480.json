@@ -55,5 +55,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
+  "date_of_birth": "1958-01-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/RogerioCorreia_",
+    "https://www.facebook.com/deputadorogeriocorreia",
+    "https://www.instagram.com/rogeriocorreia_",
+    "https://youtube.com/channel/UC6AVYYHC-GswIhS2xlYUb5g"
+  ],
+  "website": null
 }

@@ -73,5 +73,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jose Amauri P. de Araújo",
+  "date_of_birth": "1960-11-17",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.joseamauri@senado.leg.br"
 }

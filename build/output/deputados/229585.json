@@ -44,5 +44,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ELISANGELA DOS SANTOS ARAUJO",
+  "date_of_birth": "1973-08-29",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "BA",
+  "birth_city": "Valente",
+  "education": "Ensino Fundamental",
+  "social_media": [],
+  "website": null
 }

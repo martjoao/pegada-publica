@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ROBERTO DUARTE JUNIOR",
+  "date_of_birth": "1975-04-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Porto Alegre",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/rdnarede",
+    "https://www.facebook.com/robertoduartenarede",
+    "https://www.instagram.com/rdnarede"
+  ],
+  "website": null
 }

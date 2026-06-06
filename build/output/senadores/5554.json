@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Adalberto Souza Galvão",
+  "date_of_birth": "1962-06-09",
+  "birth_state": "BA",
+  "birth_city": "Uruçuca",
+  "sex": "M",
+  "email": null
 }

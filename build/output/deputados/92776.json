@@ -114,5 +114,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "STEFANO AGUIAR DOS SANTOS",
+  "date_of_birth": "1976-03-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/depstefano",
+    "https://www.facebook.com/PastorStefanoAguiar",
+    "https://www.instagram.com/depstefano"
+  ],
+  "website": null
 }

@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Roosevelt Vita",
+  "date_of_birth": "1945-06-24",
+  "birth_state": "PB",
+  "birth_city": "Coremas",
+  "sex": "M",
+  "email": null
 }

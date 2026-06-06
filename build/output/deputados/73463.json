@@ -121,5 +121,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "OSMAR JOSÉ SERRAGLIO",
+  "date_of_birth": "1948-05-23",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Erechim",
+  "education": "Mestrado",
+  "social_media": [],
+  "website": null
 }

@@ -79,5 +79,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SILVIO SERAFIM COSTA FILHO",
+  "date_of_birth": "1982-03-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/Silvio_CFilho",
+    "https://www.facebook.com/silvio.costafilhoi",
+    "https://www.instagram.com/silviocostafilho",
+    "https://youtube.com/SilvioCostaFilhooficial"
+  ],
+  "website": null
 }

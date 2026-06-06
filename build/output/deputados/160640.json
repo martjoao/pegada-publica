@@ -108,5 +108,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EROS FERREIRA BIONDINI",
+  "date_of_birth": "1971-05-20",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "http://twitter.com/erosbiondini",
+    "http://www.youtube.com/erosbiondini",
+    "https://www.facebook.com/erosbiondini",
+    "https://www.instagram.com/ErosBiondini"
+  ],
+  "website": null
 }

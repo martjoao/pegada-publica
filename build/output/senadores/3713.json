@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Maria de Fátima Bezerra",
+  "date_of_birth": "1955-05-19",
+  "birth_state": "PB",
+  "birth_city": "Nova Palmeira",
+  "sex": "F",
+  "email": "fatima.bezerra@senadora.leg.br"
 }

@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GILBERTO GOMES DA SILVA",
+  "date_of_birth": "1981-04-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PB",
+  "birth_city": "Santa Rita",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/cabogilberto",
+    "https://www.facebook.com/CaboGilbertoSilva",
+    "https://www.instagram.com/CaboGilbertoSilva",
+    "https://youtube.com/cabogilberto"
+  ],
+  "website": null
 }

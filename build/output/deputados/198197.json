@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GREYCE DE QUEIROZ ELIAS",
+  "date_of_birth": "1981-12-15",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MG",
+  "birth_city": "Patrocínio",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/greyceelias",
+    "https://www.facebook.com/greyce.elias",
+    "https://www.instagram.com/greyceelias",
+    "https://youtube.com/channel/UCcSZxLiSfO1dFmAryUnxPHg"
+  ],
+  "website": null
 }

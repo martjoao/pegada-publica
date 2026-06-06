@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CÉLIA NUNES CORREA",
+  "date_of_birth": "1989-05-10",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Doutorado",
+  "social_media": [],
+  "website": null
 }

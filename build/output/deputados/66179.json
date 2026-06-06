@@ -67,5 +67,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "NORMA AYUB ALVES",
+  "date_of_birth": "1959-09-07",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "ES",
+  "birth_city": "Vitória",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

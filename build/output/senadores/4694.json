@@ -72,5 +72,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Rogério Simonetti Marinho",
+  "date_of_birth": "1963-11-26",
+  "birth_state": "RN",
+  "birth_city": "Natal",
+  "sex": "M",
+  "email": "sen.rogeriomarinho@senado.leg.br"
 }

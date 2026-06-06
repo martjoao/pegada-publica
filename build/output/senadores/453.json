@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Pedro Pinheiro Chaves",
+  "date_of_birth": "1958-08-28",
+  "birth_state": "GO",
+  "birth_city": "São Domingos",
+  "sex": "M",
+  "email": "sen.pedrochaves@senado.leg.br"
 }

@@ -38,5 +38,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "NILSON FRANCISCO STAINSACK",
+  "date_of_birth": "1963-08-27",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Presidente Getúlio",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/nilsonfranciscostainsack",
+    "https://www.facebook.com/nilsonfranciscostainsack",
+    "https://www.instagram.com/nilsonfranciscostainsack",
+    "https://youtube.com/qJb14pEOkPh5OyFM_cGNbw"
+  ],
+  "website": null
 }

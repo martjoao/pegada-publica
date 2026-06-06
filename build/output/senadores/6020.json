@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Carlos Milton Morais",
+  "date_of_birth": "1964-03-22",
+  "birth_state": "MS",
+  "birth_city": "Coxim",
+  "sex": "M",
+  "email": null
 }

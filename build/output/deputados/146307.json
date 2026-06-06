@@ -67,5 +67,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "NERI GELLER",
+  "date_of_birth": "1968-11-07",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Selbach",
+  "education": "Secundário",
+  "social_media": [],
+  "website": null
 }

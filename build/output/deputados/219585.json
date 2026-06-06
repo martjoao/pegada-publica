@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCO AURELIO RIBEIRO",
+  "date_of_birth": "1966-01-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Dracena",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://twitter.com/marco_brasil",
+    "https://www.facebook.com/marcobrasillocutor",
+    "https://www.instagram.com/marcobrasil"
+  ],
+  "website": null
 }

@@ -114,5 +114,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO ROBERTO SEVERO PIMENTA",
+  "date_of_birth": "1965-03-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Santa Maria",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

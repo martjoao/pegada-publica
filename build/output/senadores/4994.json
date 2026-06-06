@@ -71,5 +71,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Carlos Eduardo de Souza Braga",
+  "date_of_birth": "1960-12-06",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "sex": "M",
+  "email": "sen.eduardobraga@senado.leg.br"
 }

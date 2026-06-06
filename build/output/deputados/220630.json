@@ -56,5 +56,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PEDRO DOSHIKAZU PIANCHAO AIHARA",
+  "date_of_birth": "1993-02-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/https:",
+    "https://www.facebook.com/pedroaiharaoficial",
+    "https://www.instagram.com/pedroaihara"
+  ],
+  "website": null
 }

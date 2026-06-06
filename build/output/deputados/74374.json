@@ -144,5 +144,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GERALDO RESENDE PEREIRA",
+  "date_of_birth": "1955-04-20",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Córrego Danta",
+  "education": "Superior",
+  "social_media": [
+    "http://twitter.com/dep_geraldo",
+    "https://www.facebook.com/geraldoresendems",
+    "https://www.instagram.com/geraldoresendems",
+    "https://youtube.com/channel/UCbnj5-ROiu04qLttEG6HNmQ"
+  ],
+  "website": null
 }

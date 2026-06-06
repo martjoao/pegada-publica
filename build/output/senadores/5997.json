@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Nailde Fernandes Panta da Silva",
+  "date_of_birth": "1955-11-28",
+  "birth_state": "PB",
+  "birth_city": "João Pessoa",
+  "sex": "F",
+  "email": null
 }

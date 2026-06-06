@@ -61,5 +61,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ CARLOS MOTTA",
+  "date_of_birth": "1959-04-24",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Ribeirão Preto",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/deputadomotta",
+    "https://www.facebook.com/mottadoscomerciarios",
+    "https://www.instagram.com/deputadomotta",
+    "https://www.youtube.com/@DeputadoMotta"
+  ],
+  "website": null
 }

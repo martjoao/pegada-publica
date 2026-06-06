@@ -60,5 +60,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Fabio Paulino Garcia",
+  "date_of_birth": "1977-06-29",
+  "birth_state": "DF",
+  "birth_city": "Brasília",
+  "sex": "M",
+  "email": "sen.fabiogarcia@senado.leg.br"
 }

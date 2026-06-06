@@ -67,5 +67,16 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RICARDO AUGUSTO MACHADO DA SILVA",
+  "date_of_birth": "1985-09-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Ribeirão Preto",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/ricardosilvarp"
+  ],
+  "website": null
 }

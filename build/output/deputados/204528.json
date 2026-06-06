@@ -55,5 +55,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ADRIANA MIGUEL VENTURA",
+  "date_of_birth": "1969-03-06",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/adriventurasp",
+    "https://www.facebook.com/adriventurasp",
+    "https://www.instagram.com/adriventurasp",
+    "https://youtube.com/adrianaventura"
+  ],
+  "website": null
 }

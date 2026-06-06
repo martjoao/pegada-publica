@@ -57,5 +57,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Vanderlan Vieira Cardoso",
+  "date_of_birth": "1962-11-15",
+  "birth_state": "GO",
+  "birth_city": "Iporá",
+  "sex": "M",
+  "email": "sen.vanderlancardoso@senado.leg.br"
 }

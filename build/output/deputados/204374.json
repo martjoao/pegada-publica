@@ -73,5 +73,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "BEATRIZ KICIS TORRENTS DE SORDI",
+  "date_of_birth": "1961-09-19",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RJ",
+  "birth_city": "Resende",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/biakicis",
+    "https://www.facebook.com/biakicis",
+    "https://www.instagram.com/biakicis",
+    "https://youtube.com/biakicis"
+  ],
+  "website": null
 }

@@ -103,5 +103,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "WOLNEY QUEIROZ MACIEL",
+  "date_of_birth": "1972-12-12",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Caruaru",
+  "education": "Superior Incompleto",
+  "social_media": [],
+  "website": null
 }

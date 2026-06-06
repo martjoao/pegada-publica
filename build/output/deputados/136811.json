@@ -126,5 +126,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ ALFONSO EBERT HAMM",
+  "date_of_birth": "1962-04-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Hulha Negra",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/depafonsohamm",
+    "https://www.instagram.com/afonsohamm"
+  ],
+  "website": null
 }

@@ -38,5 +38,16 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GILSON DANIEL BATISTA",
+  "date_of_birth": "1978-07-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Duque de Caxias",
+  "education": "Mestrado",
+  "social_media": [
+    "https://www.instagram.com/gilsondaniel1919"
+  ],
+  "website": null
 }

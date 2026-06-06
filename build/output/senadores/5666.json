@@ -65,5 +65,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Sergio Olimpio Gomes",
+  "date_of_birth": "1962-03-20",
+  "birth_state": "SP",
+  "birth_city": "Presidente Venceslau",
+  "sex": "M",
+  "email": "sen.majorolimpio@senado.leg.br"
 }

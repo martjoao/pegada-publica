@@ -44,5 +44,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CARLOS TITO MARQUES CORDEIRO",
+  "date_of_birth": "1976-11-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Santa Maria da Vitória",
+  "education": "Mestrado",
+  "social_media": [],
+  "website": null
 }

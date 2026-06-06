@@ -44,5 +44,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RODRIGO COELHO",
+  "date_of_birth": "1980-06-29",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Joinville",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/coelho_rodrigo",
+    "https://www.facebook.com/rodrigocoelhooficial",
+    "https://www.instagram.com/coelho_rodrigo",
+    "https://youtube.com/rodrigocoelhojlle"
+  ],
+  "website": null
 }

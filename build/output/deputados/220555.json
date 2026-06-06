@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DAIANA SILVA DOS SANTOS",
+  "date_of_birth": "1982-01-29",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RS",
+  "birth_city": "Júlio de Castilhos",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/daianasantospoa",
+    "https://www.facebook.com/daianasantospoa",
+    "https://www.instagram.com/daianasantospoa"
+  ],
+  "website": null
 }

@@ -90,5 +90,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOÃO BOSCO DA COSTA",
+  "date_of_birth": "1950-09-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SE",
+  "birth_city": "Itabaiana",
+  "education": "Superior Incompleto",
+  "social_media": [],
+  "website": null
 }

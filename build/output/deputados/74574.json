@@ -150,5 +150,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO SÉRGIO PARANHOS DE MAGALHÃES",
+  "date_of_birth": "1952-11-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Salvador",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

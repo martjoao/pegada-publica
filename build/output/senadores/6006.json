@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Ogari de Castro Pacheco",
+  "date_of_birth": "1938-07-20",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "sex": "M",
+  "email": "sen.ogaripacheco@senado.leg.br"
 }

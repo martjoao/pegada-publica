@@ -44,5 +44,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCOS TEIXEIRA BRAZ",
+  "date_of_birth": "1971-04-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Nova Iguaçu",
+  "education": null,
+  "social_media": [
+    "https://www.facebook.com/marcosbrazoficial",
+    "https://www.instagram.com/marcosbrazoficial"
+  ],
+  "website": null
 }

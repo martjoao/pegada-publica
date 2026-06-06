@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PEDRO HENRIQUE DE A. L. C. CAMPOS",
+  "date_of_birth": "1995-10-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": null,
+  "social_media": [
+    "https://www.facebook.com/pedrocampospe",
+    "https://www.instagram.com/pedrocampospe"
+  ],
+  "website": null
 }

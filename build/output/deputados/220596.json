@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "AMÁLIA SCUDELER DE BARROS SANTOS",
+  "date_of_birth": "1985-03-22",
+  "date_of_death": "2024-05-12",
+  "sex": "F",
+  "birth_state": "SP",
+  "birth_city": "Moji-Mirim",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/amaliabarros",
+    "https://www.facebook.com/amaliasbarros",
+    "https://www.instagram.com/amaliabarros",
+    "https://youtube.com/amaliabarros"
+  ],
+  "website": null
 }

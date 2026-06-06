@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Marcio Diego Fernandes Tavares de Albuquerque",
+  "date_of_birth": "1983-01-15",
+  "birth_state": "PB",
+  "birth_city": "João Pessoa",
+  "sex": "M",
+  "email": "sen.diegotavares@senado.leg.br"
 }

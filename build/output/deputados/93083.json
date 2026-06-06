@@ -61,5 +61,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO",
+  "date_of_birth": "1979-11-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Salvador",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

@@ -77,5 +77,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "UBIRATAN ANTUNES SANDERSON",
+  "date_of_birth": "1969-12-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Erechim",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/DepSanderson",
+    "https://www.facebook.com/deputadosanderson",
+    "https://www.instagram.com/deputadosanderson",
+    "https://youtube.com/channel/UC3bESW2nMM1EW-in7OwlKwg?view_as=subscriber"
+  ],
+  "website": null
 }

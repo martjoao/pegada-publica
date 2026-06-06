@@ -44,5 +44,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EDUARDO SALIM BRAIDE",
+  "date_of_birth": "1976-01-12",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "São Luís",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

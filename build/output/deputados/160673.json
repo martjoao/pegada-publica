@@ -102,5 +102,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GIOVANI CHERINI",
+  "date_of_birth": "1960-06-23",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Soledade",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

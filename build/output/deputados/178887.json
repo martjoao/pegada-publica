@@ -102,5 +102,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RUBENS PEREIRA E SILVA JUNIOR",
+  "date_of_birth": "1984-03-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "São Luís",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/https:",
+    "https://www.facebook.com/share",
+    "https://www.instagram.com/rubenspereirajr",
+    "https://youtube.com/channel/UCovkVrGdzXbAHaV6ODAWbeA"
+  ],
+  "website": null
 }

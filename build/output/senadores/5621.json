@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Rudson Leite da Silva",
+  "date_of_birth": "1963-07-29",
+  "birth_state": "RR",
+  "birth_city": "Boa Vista",
+  "sex": "M",
+  "email": "sen.rudsonleite@senado.leg.br"
 }

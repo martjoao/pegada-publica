@@ -192,5 +192,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "OSMAR GASPARINI TERRA",
+  "date_of_birth": "1950-02-18",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Porto Alegre",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/OsmarTerra",
+    "https://www.facebook.com/DeputadoOsmarTerra",
+    "https://www.instagram.com/terra.osmar",
+    "https://youtube.com/channel/UCZdKvhFxyXQm-JmyvHUYojA"
+  ],
+  "website": null
 }

@@ -95,6 +95,12 @@ def build_senator(
         "parties": parties_out,
         "office_periods": office_out,
         "names": names_out,
+        "civil_name": sen["civil_name"],
+        "date_of_birth": sen["date_of_birth"],
+        "birth_state": sen["birth_state"],
+        "birth_city": sen["birth_city"],
+        "sex": sen["sex"],
+        "email": sen["email"],
     }
     card = {
         "id": sen["id"],
@@ -122,7 +128,9 @@ def run(db_path: Path = DEFAULT_DB, out_dir: Path = DEFAULT_OUT) -> Dict[str, in
     cards: List[Dict[str, Any]] = []
     try:
         for sen in conn.execute(
-                "SELECT id, name, photo_url, current_status FROM senator").fetchall():
+                "SELECT id, name, photo_url, current_status, "
+                "civil_name, date_of_birth, birth_state, birth_city, sex, email "
+                "FROM senator").fetchall():
             sid = sen["id"]
             terms = conn.execute(
                 "SELECT legislature, state, condition FROM senate_term "

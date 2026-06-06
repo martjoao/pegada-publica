@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ EDUARDO DE QUEIROZ CAMPOS DA FONTE ALBUQUERQUE",
+  "date_of_birth": "2000-12-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Superior Incompleto",
+  "social_media": [],
+  "website": null
 }

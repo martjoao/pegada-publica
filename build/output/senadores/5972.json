@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Julio Ventura Neto",
+  "date_of_birth": "1959-01-24",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "sex": "M",
+  "email": null
 }

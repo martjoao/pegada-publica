@@ -121,5 +121,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RONALDO NOGUEIRA DE OLIVEIRA",
+  "date_of_birth": "1966-04-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Carazinho",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/ronaldornrn",
+    "https://www.facebook.com/ronaldonogueirarnoficial",
+    "https://www.instagram.com/ronaldonogueirarnoficial",
+    "https://youtube.com/channel/UC7-J9zAGVFt0FH_cqUlb0GA"
+  ],
+  "website": null
 }

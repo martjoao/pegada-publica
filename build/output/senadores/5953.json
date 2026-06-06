@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Fabiano Contarato",
+  "date_of_birth": "1966-06-20",
+  "birth_state": "ES",
+  "birth_city": "Nova Venécia",
+  "sex": "M",
+  "email": "sen.fabianocontarato@senado.leg.br"
 }

@@ -126,5 +126,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ SILVA SOARES",
+  "date_of_birth": "1963-05-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Iturama",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/ZeSilva_?t=FMvtU0UvtQUawDXz6Bp3kA&s=08",
+    "https://www.facebook.com/deputadofederalzesilva",
+    "https://www.instagram.com/depzesilva",
+    "https://youtube.com/deputadozesilva"
+  ],
+  "website": null
 }

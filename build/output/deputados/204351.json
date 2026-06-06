@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ ALBERTO OVANDO",
+  "date_of_birth": "1949-09-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MS",
+  "birth_city": "Corumbá",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/drluizovando",
+    "https://www.facebook.com/drluizovando",
+    "https://www.instagram.com/drluizovando",
+    "https://youtube.com/channel/UCQ1v5nEfElt-ztWZkpxZdBQ"
+  ],
+  "website": null
 }

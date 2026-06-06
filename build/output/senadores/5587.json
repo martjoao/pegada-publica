@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Eladio Barbosa Carneiro",
+  "date_of_birth": "1974-11-03",
+  "birth_state": "GO",
+  "birth_city": "Goiânia",
+  "sex": "M",
+  "email": null
 }

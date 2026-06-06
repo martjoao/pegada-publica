@@ -44,5 +44,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE EDUARDO PEREIRA DA COSTA",
+  "date_of_birth": "1968-02-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/dep_eduardo",
+    "https://www.facebook.com/dep.eduardocosta",
+    "https://www.instagram.com/dep.eduardocosta",
+    "https://youtube.com/deputadoeducosta"
+  ],
+  "website": null
 }

@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Janaina Carla Farias",
+  "date_of_birth": "1974-11-06",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "F",
+  "email": "sen.janainafarias@senado.leg.br"
 }

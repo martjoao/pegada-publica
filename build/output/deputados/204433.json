@@ -157,5 +157,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCELO CALERO FARIA GARCIA",
+  "date_of_birth": "1982-07-07",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/caleromarcelo",
+    "https://www.facebook.com/calero.rio",
+    "https://www.instagram.com/marcelocalero",
+    "https://youtube.com/MarceloCaleroRio"
+  ],
+  "website": null
 }

@@ -91,5 +91,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GENECIAS MATEUS NORONHA",
+  "date_of_birth": "1963-03-13",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "education": "Ensino Médio",
+  "social_media": [],
+  "website": null
 }

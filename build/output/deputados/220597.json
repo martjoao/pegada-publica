@@ -50,5 +50,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "THIAGO LEITE FLORES PEREIRA",
+  "date_of_birth": "1980-07-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Ribeirão Preto",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/depthiagoflores",
+    "https://www.facebook.com/depthiagoflores",
+    "https://www.instagram.com/deputadothiagoflores",
+    "https://www.youtube.com/channel/UCF6Ks4RTqfjqxPMqUTotKkg"
+  ],
+  "website": null
 }

@@ -108,5 +108,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "AUGUSTO RODRIGUES COUTINHO DE MELO",
+  "date_of_birth": "1962-10-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/dep_acoutinho",
+    "https://www.facebook.com/augusto.coutinho",
+    "https://www.instagram.com/augustocoutinhope",
+    "https://youtube.com/featured"
+  ],
+  "website": null
 }

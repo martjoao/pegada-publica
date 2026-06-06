@@ -65,5 +65,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Marcos Ribeiro do Val",
+  "date_of_birth": "1971-06-15",
+  "birth_state": "ES",
+  "birth_city": "Vitória",
+  "sex": "M",
+  "email": "sen.marcosdoval@senado.leg.br"
 }

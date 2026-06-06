@@ -9,7 +9,8 @@ import sqlite3
 import senadores
 
 SCHEMA = """
-CREATE TABLE senator (id INTEGER PRIMARY KEY, name TEXT, photo_url TEXT, current_status TEXT);
+CREATE TABLE senator (id INTEGER PRIMARY KEY, name TEXT, photo_url TEXT, current_status TEXT,
+  civil_name TEXT, date_of_birth TEXT, birth_state TEXT, birth_city TEXT, sex TEXT, email TEXT);
 CREATE TABLE senate_term (senator_id INT, legislature INT, state TEXT, condition TEXT);
 CREATE TABLE senator_party_affiliation (senator_id INT, party TEXT, start_at TEXT,
   end_at TEXT, source_note TEXT);
@@ -22,8 +23,13 @@ CREATE TABLE senator_name_history (senator_id INT, name TEXT, start_at TEXT, end
 def _fixture_db(path):
     c = sqlite3.connect(str(path))
     c.executescript(SCHEMA)
-    # 1: titular in office, party migration; mandate spans 57 + 58
-    c.execute("INSERT INTO senator VALUES (1,'Alan Rick','http://f/1.jpg','in_office')")
+    # 1: titular in office, party migration; mandate spans 57 + 58 — has full bio
+    c.execute(
+        "INSERT INTO senator (id,name,photo_url,current_status,"
+        "civil_name,date_of_birth,birth_state,birth_city,sex,email) "
+        "VALUES (1,'Alan Rick','http://f/1.jpg','in_office',"
+        "'Alan Rick de Oliveira','1978-11-22','AC','Rio Branco','M','alan@senado.leg.br')"
+    )
     c.executemany("INSERT INTO senate_term VALUES (?,?,?,?)", [
         (1, 57, 'AC', 'titular'), (1, 58, 'AC', 'titular')])
     c.executemany("INSERT INTO senator_party_affiliation VALUES (?,?,?,?,?)", [
@@ -31,15 +37,15 @@ def _fixture_db(path):
         (1, 'REPUBLICANOS', '2025-11-12', None, None)])
     c.execute("INSERT INTO senator_office_period VALUES (1,57,'titular','2023-02-01',NULL,NULL)")
     c.execute("INSERT INTO senator_name_history VALUES (1,'Alan Rick','1900-01-01',NULL)")
-    # 2: suplente, stepped back (substitute)
-    c.execute("INSERT INTO senator VALUES (2,'Ana Paula Lobato','http://f/2.jpg','substitute')")
+    # 2: suplente, stepped back (substitute) — no bio
+    c.execute("INSERT INTO senator (id,name,photo_url,current_status) VALUES (2,'Ana Paula Lobato','http://f/2.jpg','substitute')")
     c.executemany("INSERT INTO senate_term VALUES (?,?,?,?)", [
         (2, 57, 'MA', 'alternate'), (2, 58, 'MA', 'alternate')])
     c.execute("INSERT INTO senator_party_affiliation VALUES (2,'PDT','2018-01-01',NULL,NULL)")
     c.execute("INSERT INTO senator_office_period VALUES (2,57,'alternate','2023-02-02','2024-01-31','Retorno do titular')")
     c.execute("INSERT INTO senator_name_history VALUES (2,'Ana Paula Lobato','1900-01-01',NULL)")
-    # 3: suplente who never assumed — identity + term only, null status
-    c.execute("INSERT INTO senator VALUES (3,'Zico Suplente','http://f/3.jpg',NULL)")
+    # 3: suplente who never assumed — identity + term only, null status, no bio
+    c.execute("INSERT INTO senator (id,name,photo_url,current_status) VALUES (3,'Zico Suplente','http://f/3.jpg',NULL)")
     c.execute("INSERT INTO senate_term VALUES (3,57,'RJ','alternate')")
     c.execute("INSERT INTO senator_name_history VALUES (3,'Zico Suplente','1900-01-01',NULL)")
     c.commit(); c.close()
@@ -104,3 +110,21 @@ def test_index_sorted_and_slim(tmp_path):
                       "party": "REPUBLICANOS", "state": "AC", "status": "in_office",
                       "condition": "titular", "in_office": True, "legislatures": [57, 58]}
     assert idx[2]["party"] is None and idx[2]["status"] is None
+
+
+def test_detail_bio_fields(tmp_path):
+    db = tmp_path / "p.db"; _fixture_db(db)
+    out = tmp_path / "out"
+    senadores.run(db_path=db, out_dir=out)
+
+    d = _load(out, "1.json")
+    assert d["civil_name"] == "Alan Rick de Oliveira"
+    assert d["date_of_birth"] == "1978-11-22"
+    assert d["birth_state"] == "AC"
+    assert d["birth_city"] == "Rio Branco"
+    assert d["sex"] == "M"
+    assert d["email"] == "alan@senado.leg.br"
+
+    d3 = _load(out, "3.json")
+    assert d3["civil_name"] is None
+    assert d3["email"] is None

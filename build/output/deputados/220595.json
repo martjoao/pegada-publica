@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RUBIA FERNANDA DINIZ ROBSON SANTOS DE SIQUEIRA",
+  "date_of_birth": "1974-11-13",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MT",
+  "birth_city": "Cuiabá",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/coronelfernand9",
+    "https://www.facebook.com/coronelfernandamt",
+    "https://www.instagram.com/coronelfernandamt"
+  ],
+  "website": null
 }

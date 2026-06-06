@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALDEN JOSE LAZARO DA SILVA",
+  "date_of_birth": "1980-04-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Salvador",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/https:",
+    "https://www.facebook.com/deputadocapitaoalden"
+  ],
+  "website": null
 }

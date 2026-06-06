@@ -73,5 +73,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MÁRCIO JERRY SARAIVA BARROSO",
+  "date_of_birth": "1966-11-14",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "Colinas",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/marciojerry",
+    "https://www.facebook.com/marciojerry",
+    "https://www.instagram.com/marciojerry",
+    "https://youtube.com/marciojerry"
+  ],
+  "website": null
 }

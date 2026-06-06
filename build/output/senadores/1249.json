@@ -129,5 +129,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Kátia Regina de Abreu",
+  "date_of_birth": "1962-02-02",
+  "birth_state": "GO",
+  "birth_city": "Goiânia",
+  "sex": "F",
+  "email": "sen.katiaabreu@senado.leg.br"
 }

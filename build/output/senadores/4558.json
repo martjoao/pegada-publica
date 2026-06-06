@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Gladson de Lima Cameli",
+  "date_of_birth": "1978-03-26",
+  "birth_state": "AC",
+  "birth_city": "Cruzeiro do Sul",
+  "sex": "M",
+  "email": "gladson.cameli@senador.leg.br"
 }

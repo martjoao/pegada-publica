@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALCIDES RIBEIRO FILHO",
+  "date_of_birth": "1953-10-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Remanso",
+  "education": "Mestrado",
+  "social_media": [
+    "https://www.facebook.com/ProfessorAlcidesoficial",
+    "https://www.instagram.com/professoralcidesoficial",
+    "https://youtube.com/DeputadoProfessorAlcides"
+  ],
+  "website": null
 }

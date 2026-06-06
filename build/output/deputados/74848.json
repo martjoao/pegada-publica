@@ -132,5 +132,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JANDIRA FEGHALI",
+  "date_of_birth": "1957-05-17",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PR",
+  "birth_city": "Curitiba",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

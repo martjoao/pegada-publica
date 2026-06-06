@@ -115,5 +115,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FÁTIMA LÚCIA PELAES",
+  "date_of_birth": "1959-02-13",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "AP",
+  "birth_city": "Macapá",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

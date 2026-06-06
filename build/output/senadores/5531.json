@@ -67,5 +67,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Elmano Férrer de Almeida",
+  "date_of_birth": "1942-08-01",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

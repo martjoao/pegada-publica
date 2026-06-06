@@ -85,5 +85,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RAIMUNDO JOSÉ PEREIRA DOS SANTOS",
+  "date_of_birth": "1955-10-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Santarém",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/deprsantos",
+    "https://www.facebook.com/raimundosantosdep",
+    "https://www.instagram.com/depraimundosantos/",
+    "https://youtube.com/channel/UCDl2RREU083fkW3AR1PC3OQ"
+  ],
+  "website": null
 }

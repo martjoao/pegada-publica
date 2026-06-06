@@ -50,5 +50,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SEVERINO DE LIRA PESSÔA",
+  "date_of_birth": "1970-02-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AL",
+  "birth_city": "Arapiraca",
+  "education": "Ensino Médio",
+  "social_media": [],
+  "website": null
 }

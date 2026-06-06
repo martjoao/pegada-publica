@@ -52,5 +52,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Weverton Rocha Marques de Sousa",
+  "date_of_birth": "1979-10-08",
+  "birth_state": "MA",
+  "birth_city": "Imperatriz",
+  "sex": "M",
+  "email": "sen.wevertonrocha@senado.leg.br"
 }

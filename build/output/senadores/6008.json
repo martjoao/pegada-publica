@@ -60,5 +60,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Alexandre Luiz Giordano",
+  "date_of_birth": "1973-06-26",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "sex": "M",
+  "email": "sen.giordano@senado.leg.br"
 }

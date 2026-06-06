@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GABRIEL JOSE MOURA NUNES SOARES",
+  "date_of_birth": "1983-07-23",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

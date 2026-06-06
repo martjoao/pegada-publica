@@ -61,5 +61,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EXPEDITO GONCALVES FERREIRA NETTO",
+  "date_of_birth": "1988-10-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RO",
+  "birth_city": "Porto Velho",
+  "education": "Mestrado Incompleto",
+  "social_media": [],
+  "website": null
 }

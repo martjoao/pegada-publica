@@ -72,5 +72,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Roberto Coelho Rocha",
+  "date_of_birth": "1965-08-04",
+  "birth_state": "MA",
+  "birth_city": "São Luís",
+  "sex": "M",
+  "email": "sen.robertorocha@senado.leg.br"
 }

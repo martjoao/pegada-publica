@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARIA DO PARTO MENDES ROSAS",
+  "date_of_birth": "1965-10-01",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RJ",
+  "birth_city": "Angra dos Reis",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/mariarosassp",
+    "https://www.facebook.com/depmariarosas",
+    "https://www.instagram.com/mariarosas.oficial",
+    "https://youtube.com/channel/UCWIJ_PIc4AsfR_LlBxSILSA"
+  ],
+  "website": null
 }

@@ -44,5 +44,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALESSANDRA HABER CARVALHO SANTOS",
+  "date_of_birth": "1988-09-15",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/draalessandrahaber",
+    "https://www.instagram.com/draalessandrahaber"
+  ],
+  "website": null
 }

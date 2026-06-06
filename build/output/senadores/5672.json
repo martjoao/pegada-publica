@@ -60,5 +60,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Alan Rick Miranda",
+  "date_of_birth": "1976-10-23",
+  "birth_state": "AC",
+  "birth_city": "Rio Branco",
+  "sex": "M",
+  "email": "sen.alanrick@senado.leg.br"
 }

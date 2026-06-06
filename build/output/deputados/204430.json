@@ -44,5 +44,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARGARETE DE CASTRO COELHO",
+  "date_of_birth": "1961-03-12",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PI",
+  "birth_city": "São Raimundo Nonato",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/MargaretCoelho",
+    "https://www.facebook.com/margaretecoelho.castro",
+    "https://www.instagram.com/margaretecoelho"
+  ],
+  "website": null
 }

@@ -89,5 +89,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ELVINO JOSÉ BOHN GASS",
+  "date_of_birth": "1962-02-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Santo Cristo",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/BohnGass",
+    "https://www.facebook.com/bohngass13",
+    "https://www.instagram.com/bohn_gass",
+    "https://youtube.com/channel/UC8LeZcF8VFnSRHcAW9-lvwg"
+  ],
+  "website": null
 }

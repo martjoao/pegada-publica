@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HELOÍSA HELENA LIMA DE MORAES CARVALHO",
+  "date_of_birth": "1962-06-06",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "AL",
+  "birth_city": "Pão de Açúcar",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/_Heloisa_Helena",
+    "https://www.facebook.com/heloisa.helena.rede",
+    "https://www.instagram.com/_heloisa_helena"
+  ],
+  "website": null
 }

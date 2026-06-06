@@ -102,5 +102,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MOSES HAENDEL MELO RODRIGUES",
+  "date_of_birth": "1978-06-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Sobral",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/DepFederalMoses",
+    "https://www.facebook.com/MosesRodriguesOficial",
+    "https://www.instagram.com/mosesrodriguesoficial"
+  ],
+  "website": null
 }

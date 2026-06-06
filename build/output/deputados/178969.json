@@ -66,5 +66,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FABIO CRUZ MITIDIERI",
+  "date_of_birth": "1977-02-24",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SE",
+  "birth_city": "Aracaju",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/depfmitidieri",
+    "https://www.facebook.com/depfmitidieri",
+    "https://www.instagram.com/depfmitidieri"
+  ],
+  "website": null
 }

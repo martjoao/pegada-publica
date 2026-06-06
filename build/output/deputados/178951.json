@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RAFAEL HUETE DA MOTTA",
+  "date_of_birth": "1986-08-15",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RN",
+  "birth_city": "Natal",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/rafaelmottarn",
+    "https://www.facebook.com/rafaelmottarn",
+    "https://www.instagram.com/rafaelmottarn",
+    "https://youtube.com/Jqh7jhN66-Xa9fqWL2gSIg"
+  ],
+  "website": null
 }

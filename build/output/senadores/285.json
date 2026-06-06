@@ -82,5 +82,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Marcio Miguel Bittar",
+  "date_of_birth": "1963-06-28",
+  "birth_state": "SP",
+  "birth_city": "Franca",
+  "sex": "M",
+  "email": "sen.marciobittar@senado.leg.br"
 }

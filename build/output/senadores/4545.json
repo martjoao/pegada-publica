@@ -76,5 +76,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jarbas de Andrade Vasconcelos",
+  "date_of_birth": "1942-08-23",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.jarbasvasconcelos@senado.leg.br"
 }

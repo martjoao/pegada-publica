@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Aline Maria de Menezes Rezende Chagas",
+  "date_of_birth": "1979-11-09",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "F",
+  "email": null
 }

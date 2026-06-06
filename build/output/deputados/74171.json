@@ -97,5 +97,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FRANCISCO RODRIGUES DE ALENCAR FILHO",
+  "date_of_birth": "1949-10-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/depchicoalencar",
+    "https://www.facebook.com/chicoalencar",
+    "https://www.instagram.com/chico.alencar"
+  ],
+  "website": null
 }

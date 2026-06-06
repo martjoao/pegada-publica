@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Rosana Marcia Foerste da Silva",
+  "date_of_birth": "1968-04-01",
+  "birth_state": "ES",
+  "birth_city": "Vitória",
+  "sex": "F",
+  "email": null
 }

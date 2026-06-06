@@ -85,5 +85,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "WALDIR SOARES DE OLIVEIRA",
+  "date_of_birth": "1962-11-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Jacarezinho",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

@@ -67,5 +67,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Daniella Velloso Borges Ribeiro",
+  "date_of_birth": "1972-03-26",
+  "birth_state": "PB",
+  "birth_city": "Campina Grande",
+  "sex": "F",
+  "email": "sen.daniellaribeiro@senado.leg.br"
 }

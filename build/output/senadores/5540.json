@@ -55,5 +55,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Fernando Bezerra de Souza Coelho",
+  "date_of_birth": "1957-12-07",
+  "birth_state": "PE",
+  "birth_city": "Petrolina",
+  "sex": "M",
+  "email": "sen.fernandobezerracoelho@senado.leg.br"
 }

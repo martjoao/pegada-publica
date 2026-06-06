@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ROGÉRIA DE ALMEIDA PEREIRA DOS SANTOS",
+  "date_of_birth": "1966-08-19",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/drarogeria",
+    "https://www.facebook.com/rogeriasantosoficial",
+    "https://www.instagram.com/rogeriasantosoficial",
+    "https://youtube.com/channel/UCWe-7aMx_Q87rZIbh7ccbyw"
+  ],
+  "website": null
 }

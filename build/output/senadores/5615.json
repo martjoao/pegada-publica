@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Gilberto Piselo do Nascimento",
+  "date_of_birth": "1959-07-04",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

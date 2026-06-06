@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jaques Wagner",
+  "date_of_birth": "1951-03-16",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "sex": "M",
+  "email": "sen.jaqueswagner@senado.leg.br"
 }

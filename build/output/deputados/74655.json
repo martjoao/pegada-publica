@@ -121,5 +121,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EDUARDO LUIZ BARROS BARBOSA",
+  "date_of_birth": "1958-08-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Pará de Minas",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://www.facebook.com/deputadofederaleduardobarbosa/",
+    "https://www.instagram.com/eduardobarbosamg/"
+  ],
+  "website": null
 }

@@ -56,5 +56,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ENEIAS JOSÉ DOS REIS",
+  "date_of_birth": "1972-11-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Coronel Fabriciano",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/depeneiasreis",
+    "https://www.facebook.com/eneiasreisoficial",
+    "https://www.instagram.com/deputadoeneiasreis"
+  ],
+  "website": null
 }

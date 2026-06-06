@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jacira Maria Alves de Souza",
+  "date_of_birth": "1960-02-26",
+  "birth_state": "AM",
+  "birth_city": "Manaus",
+  "sex": "F",
+  "email": null
 }

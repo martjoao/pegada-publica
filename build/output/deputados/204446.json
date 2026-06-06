@@ -50,5 +50,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOZIEL FERREIRA CARLOS",
+  "date_of_birth": "1966-04-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Duque de Caxias",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/professorjoziel",
+    "https://www.facebook.com/professorjoziel",
+    "https://www.instagram.com/professorjoziel"
+  ],
+  "website": null
 }

@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARIO LUIS FRIAS",
+  "date_of_birth": "1971-10-09",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://twitter.com/mfriasoficial",
+    "https://www.instagram.com/mariofriasoficial"
+  ],
+  "website": null
 }

@@ -50,5 +50,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ GUILHERME NEGRÃO PEIXOTO",
+  "date_of_birth": "1961-11-13",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Tatuí",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

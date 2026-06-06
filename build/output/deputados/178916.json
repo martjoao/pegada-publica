@@ -67,5 +67,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DANIEL PIRES COELHO",
+  "date_of_birth": "1978-11-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

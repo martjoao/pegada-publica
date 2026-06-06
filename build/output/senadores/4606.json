@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Eleonildo Soares",
+  "date_of_birth": "1960-05-10",
+  "birth_state": "MA",
+  "birth_city": "São Luís",
+  "sex": "M",
+  "email": "pinto.itamaraty@senador.leg.br"
 }

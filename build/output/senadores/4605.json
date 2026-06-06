@@ -57,5 +57,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Flávio Dino de Castro e Costa",
+  "date_of_birth": "1968-04-30",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.flaviodino@senado.leg.br"
 }

@@ -61,5 +61,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ACÁCIO DA SILVA FAVACHO NETO",
+  "date_of_birth": "1983-09-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AP",
+  "birth_city": "Macapá",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/acaciofavacho",
+    "https://www.facebook.com/deputadofederalacaciofavacho",
+    "https://youtube.com/channel/UCWNbptIjAriL2pt8H3W6CGw"
+  ],
+  "website": null
 }

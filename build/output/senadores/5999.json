@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Helenilson Cunha Pontes",
+  "date_of_birth": "1972-03-11",
+  "birth_state": "PA",
+  "birth_city": "Santarém",
+  "sex": "M",
+  "email": null
 }

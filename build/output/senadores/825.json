@@ -83,5 +83,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Paulo Renato Paim",
+  "date_of_birth": "1950-03-15",
+  "birth_state": "RS",
+  "birth_city": "Caxias do Sul",
+  "sex": "M",
+  "email": "sen.paulopaim@senado.leg.br"
 }

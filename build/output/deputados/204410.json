@@ -67,5 +67,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUISA CANZIANI DOS SANTOS SILVEIRA",
+  "date_of_birth": "1996-04-11",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PR",
+  "birth_city": "Londrina",
+  "education": "Mestrado",
+  "social_media": [],
+  "website": null
 }

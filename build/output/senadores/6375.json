@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Igor Augusto Fernandes Targino",
+  "date_of_birth": "1984-12-20",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

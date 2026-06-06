@@ -80,5 +80,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCELO DE BRUM DA COSTA",
+  "date_of_birth": "1972-11-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Santiago",
+  "education": "Ensino Médio Incompleto",
+  "social_media": [],
+  "website": null
 }

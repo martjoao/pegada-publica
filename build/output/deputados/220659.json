@@ -43,5 +43,19 @@
       "start": "2023-05-05T12:09",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DAYANY BITTENCOURT SANTIL",
+  "date_of_birth": "1981-09-13",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://twitter.com/dep_dayany",
+    "https://www.facebook.com/dayanydocapitao/",
+    "https://www.instagram.com/dayanybittencourt",
+    "https://youtube.com/dayanydocapitao9613"
+  ],
+  "website": null
 }

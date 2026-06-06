@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Maria Ivonete Gomes do Nascimento",
+  "date_of_birth": "1960-07-26",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "F",
+  "email": null
 }

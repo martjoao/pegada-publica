@@ -38,5 +38,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE CARLOS SCHIAVINATO",
+  "date_of_birth": "1954-09-12",
+  "date_of_death": "2021-04-13",
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Iguaraçu",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/Schiavinato_",
+    "https://www.facebook.com/DeputadoSchiavinato",
+    "https://www.instagram.com/deputadoschiavinato",
+    "https://youtube.com/channel/UC9DzKm6lsq0Ezf6ybpIJoWg"
+  ],
+  "website": null
 }

@@ -61,5 +61,16 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Tiago Dimas Braga Pereira",
+  "date_of_birth": "1988-08-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Uberaba",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://www.facebook.com/tiagodimas7788"
+  ],
+  "website": null
 }

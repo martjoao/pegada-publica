@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Roberta de Araujo Costa Roma",
+  "date_of_birth": "1980-05-11",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "BA",
+  "birth_city": "Salvador",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

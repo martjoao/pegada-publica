@@ -79,5 +79,16 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE LOURENÇO BOMFIM JUNIOR",
+  "date_of_birth": "1978-10-18",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "São Luís",
+  "education": "Superior",
+  "social_media": [
+    "https://www.instagram.com/juniorlourenco2200"
+  ],
+  "website": null
 }

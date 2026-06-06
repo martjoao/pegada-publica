@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CAMILA BAZACHI JARA MARZOCHI",
+  "date_of_birth": "1995-02-10",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MS",
+  "birth_city": "Campo Grande",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/camilajarams",
+    "https://www.facebook.com/camilajarams",
+    "https://www.instagram.com/camilajarams"
+  ],
+  "website": null
 }

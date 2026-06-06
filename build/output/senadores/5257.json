@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Renzo do Amaral Braz",
+  "date_of_birth": "1980-04-11",
+  "birth_state": "MG",
+  "birth_city": "Muriaé",
+  "sex": "M",
+  "email": null
 }

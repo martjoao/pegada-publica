@@ -38,5 +38,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "UBIRAJARA DO PINDARÉ ALMEIDA SOUSA",
+  "date_of_birth": "1968-11-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "Pindaré Mirim",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/BiradoPindare",
+    "https://www.facebook.com/bira.dopindare",
+    "https://www.instagram.com/biradopindare",
+    "https://youtube.com/depbiradopindare"
+  ],
+  "website": null
 }

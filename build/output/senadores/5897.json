@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Milton Jose das Mercêz",
+  "date_of_birth": "1952-11-30",
+  "birth_state": "MG",
+  "birth_city": "Tiros",
+  "sex": "M",
+  "email": null
 }

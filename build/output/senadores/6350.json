@@ -66,5 +66,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Augusta Brito de Paula",
+  "date_of_birth": "1976-05-27",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "sex": "F",
+  "email": "sen.augustabrito@senado.leg.br"
 }

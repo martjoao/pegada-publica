@@ -74,5 +74,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Rosilda de Freitas",
+  "date_of_birth": "1949-01-23",
+  "birth_state": "MG",
+  "birth_city": "Caratinga",
+  "sex": "F",
+  "email": "sen.rosedefreitas@senado.leg.br"
 }

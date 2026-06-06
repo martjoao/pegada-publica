@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Schariff Moyses",
+  "date_of_birth": "1939-06-29",
+  "birth_state": "ES",
+  "birth_city": "Vitória",
+  "sex": "M",
+  "email": null
 }

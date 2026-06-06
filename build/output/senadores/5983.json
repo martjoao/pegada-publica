@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Chagas dos Santos",
+  "date_of_birth": "1954-06-07",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

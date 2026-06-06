@@ -55,5 +55,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ISNALDO BULHOES BARROS JUNIOR",
+  "date_of_birth": "1976-10-30",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AL",
+  "birth_city": "Maceió",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/bulhoesjr",
+    "https://www.facebook.com/isnaldobulhoesjr",
+    "https://www.instagram.com/isnaldobulhoes"
+  ],
+  "website": null
 }

@@ -59,5 +59,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Renan Vasconcelos Calheiros Filho",
+  "date_of_birth": "1979-10-08",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.renanfilho@senado.leg.br"
 }

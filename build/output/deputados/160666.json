@@ -89,5 +89,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FELIX DE ALMEIDA MENDONÇA JÚNIOR",
+  "date_of_birth": "1963-11-29",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Itabuna",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/felixmendoncajr",
+    "https://www.facebook.com/felixmendoncajr",
+    "https://www.instagram.com/felixmendoncajr"
+  ],
+  "website": null
 }

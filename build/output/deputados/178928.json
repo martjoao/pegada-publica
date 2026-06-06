@@ -73,5 +73,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CHRISTIANE DE SOUZA YARED",
+  "date_of_birth": "1960-02-23",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PR",
+  "birth_city": "Curitiba",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://www.facebook.com/ChristianeYared",
+    "https://www.instagram.com/christianeyared"
+  ],
+  "website": null
 }

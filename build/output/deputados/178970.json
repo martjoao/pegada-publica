@@ -77,5 +77,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOAO SOMARIVA DANIEL",
+  "date_of_birth": "1967-08-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "São Lourenço D'Oeste",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://twitter.com/depjoaodanielpt",
+    "https://www.facebook.com/deputadojoaodaniel",
+    "https://www.instagram.com/deputadojoaodaniel",
+    "https://youtube.com/deputadojoaodaniel"
+  ],
+  "website": null
 }

@@ -114,5 +114,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ARTHUR DE OLIVEIRA MAIA DA SILVA",
+  "date_of_birth": "1964-08-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Salvador",
+  "education": "Mestrado",
+  "social_media": [
+    "https://facebook.com/arthur.oliveiramaia",
+    "https://instagram.com/departhuroliveiramaia",
+    "https://twitter.com/DepArthurMaia"
+  ],
+  "website": null
 }

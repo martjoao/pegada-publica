@@ -64,5 +64,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Geraldo César Althoff",
+  "date_of_birth": "1947-06-16",
+  "birth_state": "SC",
+  "birth_city": "Tubarão",
+  "sex": "M",
+  "email": "althoff@senado.leg.br"
 }

@@ -61,5 +61,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LEUR ANTONIO DE BRITTO LOMANTO JUNIOR",
+  "date_of_birth": "1976-10-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Salvador",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/leurlomantojr",
+    "https://www.facebook.com/leurlomantojr/",
+    "https://www.instagram.com/leurlomantojr"
+  ],
+  "website": null
 }

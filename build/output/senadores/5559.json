@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Afonso Teixeira",
+  "date_of_birth": "1964-10-29",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

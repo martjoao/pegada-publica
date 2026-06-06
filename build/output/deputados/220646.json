@@ -56,5 +56,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FELIPE BECARI COMENALE",
+  "date_of_birth": "1987-03-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/felipebecari",
+    "https://www.facebook.com/felipebecarisp",
+    "https://www.instagram.com/felipebecari",
+    "https://youtube.com/channel"
+  ],
+  "website": null
 }

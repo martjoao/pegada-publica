@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Bento Adeodato Porto",
+  "date_of_birth": "1966-05-22",
+  "birth_state": "ES",
+  "birth_city": "São Mateus",
+  "sex": "M",
+  "email": null
 }

@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO EDUARDO DA COSTA FREIRE",
+  "date_of_birth": "1964-10-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RN",
+  "birth_city": "Natal",
+  "education": "Superior Incompleto",
+  "social_media": [],
+  "website": null
 }

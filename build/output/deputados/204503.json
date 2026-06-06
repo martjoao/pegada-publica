@@ -61,5 +61,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALEXANDRE ROCHA SANTOS PADILHA",
+  "date_of_birth": "1971-09-14",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/padilhando",
+    "https://www.facebook.com/padilhando",
+    "https://www.instagram.com/padilhando",
+    "https://youtube.com/AlexandrePadilhaTV"
+  ],
+  "website": null
 }

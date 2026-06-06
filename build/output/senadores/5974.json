@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Reginauro Sousa Nascimento",
+  "date_of_birth": "1973-04-02",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "sex": "M",
+  "email": null
 }

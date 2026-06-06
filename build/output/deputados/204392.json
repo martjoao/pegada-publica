@@ -38,5 +38,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FRANCISCO RODRIGUES VALE JUNIOR",
+  "date_of_birth": "1969-03-15",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "Goiânia",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/franciscojr_go",
+    "https://www.facebook.com/franciscojrgo",
+    "https://www.instagram.com/franciscojr_go"
+  ],
+  "website": null
 }

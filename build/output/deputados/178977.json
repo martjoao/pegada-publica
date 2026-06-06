@@ -55,5 +55,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EDUARDO PEDROSA CURY",
+  "date_of_birth": "1963-09-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São José dos Campos",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/Eduardo_Cury",
+    "https://www.facebook.com/EduardoCuryOficial",
+    "https://www.instagram.com/eduardocuryoficial"
+  ],
+  "website": null
 }

@@ -84,5 +84,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUCIO ANTONIO MOSQUINI",
+  "date_of_birth": "1969-07-23",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MT",
+  "birth_city": "Rondonópolis",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://www.facebook.com/deputadoluciomosquini",
+    "https://www.instagram.com/luciomosquini",
+    "https://youtube.com/lucioantoniomosquinimosqui7885"
+  ],
+  "website": null
 }

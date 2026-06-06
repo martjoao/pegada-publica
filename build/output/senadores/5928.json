@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Ana Patricia de Carvalho Ribeiro Costa",
+  "date_of_birth": "1975-10-16",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "F",
+  "email": null
 }

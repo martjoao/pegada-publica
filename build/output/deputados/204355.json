@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSIAS MARIO DA VITORIA",
+  "date_of_birth": "1971-06-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Colatina",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/depdavitoria",
+    "https://www.facebook.com/deputadodavitoria",
+    "https://www.instagram.com/deputadodavitoria",
+    "https://youtube.com/channel/UC4YSDb1Hfh-DtR1Wj0WQNWg?view_as=subscriber"
+  ],
+  "website": null
 }

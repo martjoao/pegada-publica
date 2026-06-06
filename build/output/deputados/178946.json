@@ -84,5 +84,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SORAYA ALENCAR DOS SANTOS",
+  "date_of_birth": "1958-12-04",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RJ",
+  "birth_city": "Macaé",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/https:",
+    "https://www.instagram.com/dep.sorayasantos",
+    "https://www.youtube.com/channel/UCYJ_VrjZS7ISX0Ut0bU_AMA"
+  ],
+  "website": null
 }

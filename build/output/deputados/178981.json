@@ -73,5 +73,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HERCULANO CASTILHO PASSOS JUNIOR",
+  "date_of_birth": "1956-08-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Itu",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://https://www.instagram.com/herculanopassosoficial/?hl=pt-br",
+    "https://twitter.com/herculanopassos",
+    "https://www.facebook.com/HerculanoPassos/",
+    "https://www.youtube.com/user/herculanopassos"
+  ],
+  "website": null
 }

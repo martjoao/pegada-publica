@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Josenir Gonçalves Nascimento",
+  "date_of_birth": "1966-01-16",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

@@ -55,5 +55,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANTONIO JOSE AGUIAR ALBUQUERQUE",
+  "date_of_birth": "1983-09-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

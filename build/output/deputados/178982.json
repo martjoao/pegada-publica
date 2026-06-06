@@ -61,5 +61,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ LAURO FERREIRA FILHO",
+  "date_of_birth": "1978-06-10",
+  "date_of_death": "2020-05-18",
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Campinas",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

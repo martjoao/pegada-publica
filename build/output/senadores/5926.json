@@ -52,5 +52,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Luiz Cantuária Barreto",
+  "date_of_birth": "1964-11-10",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.lucasbarreto@senado.leg.br"
 }

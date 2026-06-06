@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANTONIO TADEU VENERI",
+  "date_of_birth": "1953-02-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "União da Vitória",
+  "education": "Superior Incompleto",
+  "social_media": [],
+  "website": null
 }

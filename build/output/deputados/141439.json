@@ -95,5 +95,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FRANCISCO JOSÉ D'ANGELO PINTO",
+  "date_of_birth": "1953-02-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Campos dos Goytacazes",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/CHICO_DANGELO",
+    "https://www.facebook.com/chicodangelo",
+    "https://www.instagram.com/chicodangelo"
+  ],
+  "website": null
 }

@@ -55,5 +55,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Lasier Costa Martins",
+  "date_of_birth": "1942-04-14",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.lasiermartins@senado.leg.br"
 }

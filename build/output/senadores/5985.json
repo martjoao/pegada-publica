@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Nelson Trad Filho",
+  "date_of_birth": "1961-09-05",
+  "birth_state": "MS",
+  "birth_city": "Campo Grande",
+  "sex": "M",
+  "email": "sen.nelsinhotrad@senado.leg.br"
 }

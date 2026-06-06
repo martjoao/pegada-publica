@@ -42,5 +42,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Vivaldo Vieira Barbosa",
+  "date_of_birth": "1942-02-23",
+  "birth_state": "MG",
+  "birth_city": "Manhumirim",
+  "sex": "M",
+  "email": null
 }

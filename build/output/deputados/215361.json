@@ -38,5 +38,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RACHEL XIMENES MARQUES",
+  "date_of_birth": "1961-11-05",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

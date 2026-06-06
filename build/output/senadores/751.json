@@ -65,5 +65,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Arolde de Oliveira",
+  "date_of_birth": "1937-03-11",
+  "birth_state": "RS",
+  "birth_city": "São Luiz Gonzaga",
+  "sex": "M",
+  "email": "sen.aroldedeoliveira@senado.leg.br"
 }

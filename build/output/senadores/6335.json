@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Damares Regina Alves",
+  "date_of_birth": "1964-03-11",
+  "birth_state": "PR",
+  "birth_city": "Paranaguá",
+  "sex": "F",
+  "email": "sen.damaresalves@senado.leg.br"
 }

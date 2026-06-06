@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANA PAULA PROCOPIO JUNQUEIRA",
+  "date_of_birth": "1965-08-22",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MG",
+  "birth_city": "Varginha",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/apjunqueira",
+    "https://www.facebook.com/AnaPaulaJunqueiraLeao",
+    "https://www.instagram.com/anapaulajunqueiraleao",
+    "https://youtube.com/channel/UC-DlAUSQo11ZjK_yhbXoTgQ"
+  ],
+  "website": null
 }

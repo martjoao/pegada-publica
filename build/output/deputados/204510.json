@@ -44,5 +44,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FRANCO CARTAFINA GOMES",
+  "date_of_birth": "1986-11-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Uberaba",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/francocartafina",
+    "https://www.facebook.com/franco.cartafina.75",
+    "https://www.instagram.com/francocartafina",
+    "https://youtube.com/results?search_query=francocartafina"
+  ],
+  "website": null
 }

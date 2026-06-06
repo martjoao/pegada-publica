@@ -44,5 +44,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANTÔNIO DA LUZ FURTADO",
+  "date_of_birth": "1972-01-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/delegadofurtado",
+    "https://www.facebook.com/DelegadoAntonioFurtado",
+    "https://www.instagram.com/DEPDELANTONIOFURTADO",
+    "https://youtube.com/channel/UC8Y-pKCl3hv3qNLKzsCo51g"
+  ],
+  "website": null
 }

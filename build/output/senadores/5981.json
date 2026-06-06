@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Ildomario Santos Gomes",
+  "date_of_birth": "1975-06-18",
+  "birth_state": "SE",
+  "birth_city": "Aracaju",
+  "sex": "M",
+  "email": null
 }

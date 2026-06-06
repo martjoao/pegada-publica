@@ -9,7 +9,9 @@ import sqlite3
 import deputados
 
 SCHEMA = """
-CREATE TABLE deputy (id INTEGER PRIMARY KEY, name TEXT, photo_url TEXT, current_status TEXT);
+CREATE TABLE deputy (id INTEGER PRIMARY KEY, name TEXT, photo_url TEXT, current_status TEXT,
+  civil_name TEXT, date_of_birth TEXT, date_of_death TEXT, sex TEXT,
+  birth_state TEXT, birth_city TEXT, education TEXT, social_media TEXT, website TEXT);
 CREATE TABLE mandate (deputy_id INT, legislature INT, state TEXT);
 CREATE TABLE party_affiliation (deputy_id INT, party TEXT, start_at TEXT,
   end_at TEXT, legislature INT, source_note TEXT);
@@ -22,30 +24,36 @@ CREATE TABLE name_history (deputy_id INT, name TEXT, start_at TEXT, end_at TEXT)
 def _fixture_db(path):
     c = sqlite3.connect(str(path))
     c.executescript(SCHEMA)
-    # 1: migrator titular, currently in office
-    c.execute("INSERT INTO deputy VALUES (1,'Adail Filho','http://f/1.jpg','in_office')")
+    # 1: migrator titular, currently in office — has full bio
+    c.execute(
+        "INSERT INTO deputy (id,name,photo_url,current_status,"
+        "civil_name,date_of_birth,date_of_death,sex,birth_state,birth_city,education,"
+        "social_media,website) VALUES (1,'Adail Filho','http://f/1.jpg','in_office',"
+        "'Adail Filho Silva','1975-03-15',NULL,'M','AM','Itacoatiara','Superior completo',"
+        "'[\"https://twitter.com/adailfilho\"]','https://adailfilho.com.br')"
+    )
     c.execute("INSERT INTO mandate VALUES (1,57,'AM')")
     c.executemany("INSERT INTO party_affiliation VALUES (?,?,?,?,?,?)", [
         (1, 'REPUBLICANOS', '2023-02-01T00:00', '2026-04-01T14:00', 57, 'início'),
         (1, 'MDB', '2026-04-01T14:00', None, 57, 'Alteração de partido')])
     c.execute("INSERT INTO office_period VALUES (1,57,'titular','2023-02-01T12:05',NULL)")
     c.execute("INSERT INTO name_history VALUES (1,'Adail Filho','2023-02-01T00:00',NULL)")
-    # 2: alternate, stepped down (substitute), had a name change
-    c.execute("INSERT INTO deputy VALUES (2,'Allan Garcês','http://f/2.jpg','substitute')")
+    # 2: alternate, stepped down (substitute), had a name change — no bio
+    c.execute("INSERT INTO deputy (id,name,photo_url,current_status) VALUES (2,'Allan Garcês','http://f/2.jpg','substitute')")
     c.execute("INSERT INTO mandate VALUES (2,57,'MA')")
     c.execute("INSERT INTO party_affiliation VALUES (2,'PP','2023-02-01T00:00',NULL,57,'início')")
     c.execute("INSERT INTO office_period VALUES (2,57,'alternate','2023-09-13T16:01','2024-12-03T10:11')")
     c.executemany("INSERT INTO name_history VALUES (?,?,?,?)", [
         (2, 'Dr. Allan Garcês', '2023-02-01T00:00', '2024-07-18T15:26'),
         (2, 'Allan Garcês', '2024-07-18T15:26', None)])
-    # 3: titular on leave
-    c.execute("INSERT INTO deputy VALUES (3,'José Licenciado','http://f/3.jpg','on_leave')")
+    # 3: titular on leave — no bio
+    c.execute("INSERT INTO deputy (id,name,photo_url,current_status) VALUES (3,'José Licenciado','http://f/3.jpg','on_leave')")
     c.execute("INSERT INTO mandate VALUES (3,57,'SP')")
     c.execute("INSERT INTO party_affiliation VALUES (3,'PT','2023-02-01T00:00',NULL,57,'início')")
     c.execute("INSERT INTO office_period VALUES (3,57,'titular','2023-02-01T12:05','2023-09-13T14:53')")
     c.execute("INSERT INTO name_history VALUES (3,'José Licenciado','2023-02-01T00:00',NULL)")
-    # 4: no history fetched — identity + mandate only
-    c.execute("INSERT INTO deputy VALUES (4,'Zico Sem Historico','http://f/4.jpg',NULL)")
+    # 4: no history fetched — identity + mandate only, no bio
+    c.execute("INSERT INTO deputy (id,name,photo_url,current_status) VALUES (4,'Zico Sem Historico','http://f/4.jpg',NULL)")
     c.execute("INSERT INTO mandate VALUES (4,57,'RJ')")
     c.commit(); c.close()
 
@@ -120,3 +128,26 @@ def test_index_sorted_and_slim(tmp_path):
                       "party": "MDB", "state": "AM", "status": "in_office",
                       "condition": "titular", "in_office": True, "legislatures": [57]}
     assert idx[3]["party"] is None and idx[3]["status"] is None  # no-history deputy
+
+
+def test_detail_bio_fields(tmp_path):
+    db = tmp_path / "p.db"; _fixture_db(db)
+    out = tmp_path / "out"
+    deputados.run(db_path=db, out_dir=out)
+
+    d = _load(out, "1.json")
+    assert d["civil_name"] == "Adail Filho Silva"
+    assert d["date_of_birth"] == "1975-03-15"
+    assert d["date_of_death"] is None
+    assert d["sex"] == "M"
+    assert d["birth_state"] == "AM"
+    assert d["birth_city"] == "Itacoatiara"
+    assert d["education"] == "Superior completo"
+    assert d["social_media"] == ["https://twitter.com/adailfilho"]
+    assert d["website"] == "https://adailfilho.com.br"
+    assert "cpf" not in d  # LGPD: never in build output
+
+    d4 = _load(out, "4.json")
+    assert d4["civil_name"] is None
+    assert d4["social_media"] == []
+    assert "cpf" not in d4

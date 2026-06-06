@@ -64,5 +64,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Cid Ferreira Gomes",
+  "date_of_birth": "1963-04-27",
+  "birth_state": "CE",
+  "birth_city": "Sobral",
+  "sex": "M",
+  "email": "sen.cidgomes@senado.leg.br"
 }

@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Bene André Camacho Araújo",
+  "date_of_birth": "1958-04-05",
+  "birth_state": "SP",
+  "birth_city": "Ibirarema",
+  "sex": "M",
+  "email": "sen.benecamacho@senado.leg.br"
 }

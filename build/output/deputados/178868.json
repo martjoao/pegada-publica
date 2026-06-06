@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ ODORICO MONTEIRO DE ANDRADE",
+  "date_of_birth": "1961-08-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Arneiroz",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/odoricomonteiro",
+    "https://www.facebook.com/odoricoamonteiro",
+    "https://www.instagram.com/odoricomonteiro"
+  ],
+  "website": null
 }

@@ -78,5 +78,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FÁBIO RICARDO TRAD",
+  "date_of_birth": "1969-08-18",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MS",
+  "birth_city": "Campo Grande",
+  "education": "Mestrado",
+  "social_media": [],
+  "website": null
 }

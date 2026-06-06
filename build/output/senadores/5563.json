@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Severino Barboza Leão",
+  "date_of_birth": "1944-08-05",
+  "birth_state": "AL",
+  "birth_city": "Arapiraca",
+  "sex": "M",
+  "email": null
 }

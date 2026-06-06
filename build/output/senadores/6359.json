@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Maria de Lourdes Pereira e Pereira",
+  "date_of_birth": "1956-06-29",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "F",
+  "email": null
 }

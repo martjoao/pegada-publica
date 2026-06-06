@@ -44,5 +44,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARÍLIA VALENÇA ROCHA ARRAES DE ALENCAR",
+  "date_of_birth": "1984-04-12",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/MariliaArraes",
+    "https://www.facebook.com/arraes",
+    "https://www.instagram.com/mariliaarraes",
+    "https://youtube.com/channel/UCMygck8SGte9ZtudThgwxDQ"
+  ],
+  "website": null
 }

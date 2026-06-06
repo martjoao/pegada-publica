@@ -79,5 +79,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HIRAN MANUEL GONCALVES DA SILVA",
+  "date_of_birth": "1957-06-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AM",
+  "birth_city": "Tefé",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/drhiran_",
+    "https://www.facebook.com/drhirangoncalves",
+    "https://www.instagram.com/dr.hiran",
+    "https://youtube.com/channel/UCfUhURQXWoyyK384VXxMNSw"
+  ],
+  "website": "http://deputadohirangoncalves.com.br/"
 }

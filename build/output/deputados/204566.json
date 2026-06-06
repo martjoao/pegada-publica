@@ -73,5 +73,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANTONIO DA CRUZ FILGUEIRA NETO",
+  "date_of_birth": "1992-04-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "São Luís",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://twitter.com/depmarrecafilho",
+    "https://www.facebook.com/depmarrecafilho",
+    "https://www.instagram.com/depmarrecafilho"
+  ],
+  "website": null
 }

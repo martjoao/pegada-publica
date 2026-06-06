@@ -103,5 +103,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOÃO CAMPOS DE ARAÚJO",
+  "date_of_birth": "1962-12-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "TO",
+  "birth_city": "Peixe",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/depjoaocampos",
+    "https://www.facebook.com/deputadojoaocampos",
+    "https://www.instagram.com/deputadojoaocampos"
+  ],
+  "website": null
 }

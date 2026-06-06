@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Waldemar de Andrada Ignácio de Oliveira",
+  "date_of_birth": null,
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "sex": "M",
+  "email": null
 }

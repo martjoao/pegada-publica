@@ -44,5 +44,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO SERGIO ABOU ANNI",
+  "date_of_birth": "1966-11-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/DeputadoFederalAbouAnni",
+    "https://www.instagram.com/abouanni"
+  ],
+  "website": null
 }

@@ -110,5 +110,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Magno Pereira Malta",
+  "date_of_birth": "1957-10-16",
+  "birth_state": "BA",
+  "birth_city": "Macarani",
+  "sex": "M",
+  "email": "sen.magnomalta@senado.leg.br"
 }

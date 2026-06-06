@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Suely Torres e Silva",
+  "date_of_birth": "1962-02-20",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

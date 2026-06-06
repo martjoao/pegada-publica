@@ -55,5 +55,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EDMILSON BRITO RODRIGUES",
+  "date_of_birth": "1957-05-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "education": "Doutorado",
+  "social_media": [],
+  "website": null
 }

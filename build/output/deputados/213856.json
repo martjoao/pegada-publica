@@ -44,5 +44,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FRANCISCO DEUZINHO DE OLIVEIRA FILHO",
+  "date_of_birth": "1975-09-20",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Caucaia",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/deuzinhofilho",
+    "https://www.facebook.com/deuzinhofilho.oficial",
+    "https://www.instagram.com/deuzinhofilho.oficial",
+    "https://youtube.com/deuzinhofilho"
+  ],
+  "website": null
 }

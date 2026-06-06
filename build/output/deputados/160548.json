@@ -55,5 +55,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JONAS DONIZETTE FERREIRA",
+  "date_of_birth": "1965-06-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Monte Belo",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "http://www.twitter.com/jonas_donizette",
+    "https://www.facebook.com/jonasdonizette",
+    "https://www.instagram.com/jonasdonizette/"
+  ],
+  "website": null
 }

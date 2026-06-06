@@ -50,5 +50,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "NEREU CRISPIM",
+  "date_of_birth": "1963-07-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Porto Alegre",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/nereucrispim",
+    "https://www.facebook.com/nereucrispim",
+    "https://www.instagram.com/nereucrispim",
+    "https://youtube.com/channel/UCeorlh2XnpPoLkRlNWUauyg"
+  ],
+  "website": null
 }

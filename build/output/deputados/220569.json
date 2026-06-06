@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SILVYE ALVES DA SILVA",
+  "date_of_birth": "1980-11-08",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "GO",
+  "birth_city": "Goiânia",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/silvyealves",
+    "https://www.facebook.com/SilvyeeAlves",
+    "https://www.instagram.com/silvyealves"
+  ],
+  "website": null
 }

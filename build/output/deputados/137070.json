@@ -102,5 +102,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "VICENTE ALVES DE OLIVEIRA JUNIOR",
+  "date_of_birth": "1985-04-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "Goiânia",
+  "education": "Superior Incompleto",
+  "social_media": [],
+  "website": null
 }

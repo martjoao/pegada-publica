@@ -79,5 +79,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ULDURICO ALENCAR PINTO",
+  "date_of_birth": "1992-01-30",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "DF",
+  "birth_city": "Brasília",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/ulduricojunior",
+    "https://www.instagram.com/ulduricojr"
+  ],
+  "website": null
 }

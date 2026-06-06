@@ -38,5 +38,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MILTON COELHO DA SILVA NETO",
+  "date_of_birth": "1964-12-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "Codó",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/MiltonCoelhooficial",
+    "https://www.instagram.com/MiltonCoelhoOficial",
+    "https://youtube.com/MiltonCoelhoOficial"
+  ],
+  "website": null
 }

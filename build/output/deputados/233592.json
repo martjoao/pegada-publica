@@ -50,5 +50,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO CESAR LEMOS DE OLIVEIRA",
+  "date_of_birth": "1972-01-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Baião",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/paulolemosap",
+    "https://www.facebook.com/paulolemosap",
+    "https://www.instagram.com/paulolemosap",
+    "https://youtube.com/channel/UCPt5rQPkiVFL3kskxR0CP7Q"
+  ],
+  "website": null
 }

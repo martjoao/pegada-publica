@@ -61,5 +61,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANTONIO CEZAR CORREIA FREIRE",
+  "date_of_birth": "1973-12-12",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Ipiaú",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/cezinhademadureira",
+    "https://www.instagram.com/cezinhademadureira"
+  ],
+  "website": null
 }

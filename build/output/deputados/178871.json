@@ -95,5 +95,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EVAIR VIEIRA DE MELO",
+  "date_of_birth": "1972-04-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Conceição do Castelo",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://www.facebook.com/evair.vieirademelo",
+    "https://youtube.com/channel/UCT5EVLanh6IiCl01fzPSOBQ"
+  ],
+  "website": null
 }

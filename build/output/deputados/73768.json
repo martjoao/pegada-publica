@@ -139,5 +139,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DILCEU JOÃO SPERAFICO",
+  "date_of_birth": "1948-01-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Santa Rosa",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

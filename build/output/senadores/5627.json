@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jean Paul Terra Prates",
+  "date_of_birth": "1968-06-19",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "sex": "M",
+  "email": "sen.jeanpaulprates@senado.leg.br"
 }

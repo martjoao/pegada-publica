@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Ronaldo Libardi",
+  "date_of_birth": "1976-08-07",
+  "birth_state": "ES",
+  "birth_city": "Vitória",
+  "sex": "M",
+  "email": null
 }

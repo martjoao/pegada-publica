@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "KATARINA FEITOZA LIMA SANTANA",
+  "date_of_birth": "1973-10-05",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "SE",
+  "birth_city": "Aracaju",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://www.facebook.com/delegadakatarina",
+    "https://www.instagram.com/delegadakatarina/",
+    "https://www.youtube.com/@delegadakatarina"
+  ],
+  "website": null
 }

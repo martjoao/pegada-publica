@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Davidson de Magalhães Santos",
+  "date_of_birth": "1960-11-07",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

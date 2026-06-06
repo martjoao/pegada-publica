@@ -72,5 +72,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HELDER IGNACIO SALOMAO",
+  "date_of_birth": "1964-03-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Colatina",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

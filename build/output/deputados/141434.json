@@ -85,5 +85,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FLAVIANO FLÁVIO BAPTISTA DE MELO",
+  "date_of_birth": "1949-11-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AC",
+  "birth_city": "Rio Branco",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/flavianomelooficial/",
+    "https://www.instagram.com/instadoflaviano/"
+  ],
+  "website": "www.deputadoflavianomelo.com.br"
 }

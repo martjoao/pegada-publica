@@ -108,5 +108,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ PAULO TEIXEIRA FERREIRA",
+  "date_of_birth": "1961-05-09",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Águas da Prata",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/pauloteixeira13",
+    "https://www.facebook.com/pauloteixeira13",
+    "https://www.instagram.com/pauloteixeira13"
+  ],
+  "website": null
 }

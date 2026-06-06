@@ -79,5 +79,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANTÔNIO LUIZ RODRIGUES MANO JÚNIOR",
+  "date_of_birth": "1985-04-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Nova Russas",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/juniormanodep",
+    "https://www.facebook.com/juniormanodep",
+    "https://www.instagram.com/juniormanodep",
+    "https://youtube.com/deputadojuniormano"
+  ],
+  "website": null
 }

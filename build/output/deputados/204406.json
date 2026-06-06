@@ -55,5 +55,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PEDRO BANDARRA WESTPHALEN",
+  "date_of_birth": "1950-12-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Cruz Alta",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

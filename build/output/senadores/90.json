@@ -92,5 +92,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Serra",
+  "date_of_birth": "1942-03-19",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "sex": "M",
+  "email": "sen.joseserra@senado.leg.br"
 }

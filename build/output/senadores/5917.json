@@ -57,5 +57,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Fernando Antonio Caminha Dueire",
+  "date_of_birth": "1959-04-14",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "sex": "M",
+  "email": "sen.fernandodueire@senado.leg.br"
 }

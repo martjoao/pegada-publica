@@ -105,5 +105,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Fernando Affonso Collor de Mello",
+  "date_of_birth": "1949-08-12",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "sex": "M",
+  "email": "sen.fernandocollor@senado.leg.br"
 }

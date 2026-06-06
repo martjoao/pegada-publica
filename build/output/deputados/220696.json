@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "IVONEIDE SOUZA CAETANO",
+  "date_of_birth": "1972-09-10",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "BA",
+  "birth_city": "Biritinga",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/ivoneidecaetano",
+    "https://www.facebook.com/ivoneidecaetanooficial",
+    "https://www.instagram.com/ivoneidecaetanooficial",
+    "https://youtube.com/channel/UCG1OT1V0SGnvBIf_RRicnpg"
+  ],
+  "website": null
 }

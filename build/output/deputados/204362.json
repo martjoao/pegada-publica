@@ -79,5 +79,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RICARDO ZANATTA GUIDI",
+  "date_of_birth": "1977-09-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Criciúma",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/ricardozguidi",
+    "https://www.facebook.com/deputadoricardoguidi",
+    "https://www.instagram.com/ricardozguidi"
+  ],
+  "website": null
 }

@@ -97,5 +97,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SEBASTIAO IGNACIO DE OLIVEIRA JUNIOR",
+  "date_of_birth": "1968-08-31",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/deputadosebastiaooliveira",
+    "https://www.instagram.com/deputadosebastiaooliveira"
+  ],
+  "website": null
 }

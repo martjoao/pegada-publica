@@ -78,5 +78,16 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+  "date_of_birth": "1972-06-09",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Superior",
+  "social_media": [
+    "https://www.instagram.com/baleia.rossi"
+  ],
+  "website": null
 }

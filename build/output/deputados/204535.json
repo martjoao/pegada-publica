@@ -55,5 +55,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SAMIA DE SOUZA BOMFIM",
+  "date_of_birth": "1989-08-22",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "SP",
+  "birth_city": "Presidente Prudente",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/samiabomfim",
+    "https://www.facebook.com/samia.bomfim.psol",
+    "https://www.instagram.com/samiabomfim",
+    "https://youtube.com/samiabomfimpsol"
+  ],
+  "website": null
 }

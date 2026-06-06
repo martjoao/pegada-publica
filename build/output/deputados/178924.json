@@ -115,5 +115,16 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FABIO ABREU COSTA",
+  "date_of_birth": "1972-12-31",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://www.instagram.com/fabioabreu.oficial/"
+  ],
+  "website": null
 }

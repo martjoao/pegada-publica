@@ -132,5 +132,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JÚLIO CÉSAR DE CARVALHO LIMA",
+  "date_of_birth": "1948-08-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PI",
+  "birth_city": "Guadalupe",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/depjuliocesarPI",
+    "https://www.facebook.com/depjuliocesar",
+    "https://www.instagram.com/deputadojuliocesar",
+    "https://youtube.com/deputadojuliocesarpi"
+  ],
+  "website": null
 }

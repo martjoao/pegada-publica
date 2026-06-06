@@ -42,5 +42,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Paulo Gilberto Gouvêa da Costa",
+  "date_of_birth": "1943-05-13",
+  "birth_state": "RS",
+  "birth_city": "Cachoeira do Sul",
+  "sex": "M",
+  "email": null
 }

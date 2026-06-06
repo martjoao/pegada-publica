@@ -83,5 +83,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FREDERICO BORGES DA COSTA",
+  "date_of_birth": "1977-07-12",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://twitter.com/fredcostadep",
+    "https://www.facebook.com/FredCostaDEP",
+    "https://www.instagram.com/FredCostaDEP"
+  ],
+  "website": null
 }

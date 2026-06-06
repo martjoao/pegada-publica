@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Irajá Silvestre Filho",
+  "date_of_birth": "1983-02-03",
+  "birth_state": "GO",
+  "birth_city": "Goiânia",
+  "sex": "M",
+  "email": "sen.iraja@senado.leg.br"
 }

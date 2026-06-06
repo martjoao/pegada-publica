@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jorge Seif Júnior",
+  "date_of_birth": "1977-05-10",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "sex": "M",
+  "email": "sen.jorgeseif@senado.leg.br"
 }

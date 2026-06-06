@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALEXANDRE DUARTE LINDENMEYER",
+  "date_of_birth": "1963-12-23",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Rio Grande",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

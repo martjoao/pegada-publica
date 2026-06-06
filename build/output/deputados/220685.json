@@ -44,5 +44,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO HENRIQUE COLETTI FERNANDES",
+  "date_of_birth": "1991-10-30",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Pato Branco",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

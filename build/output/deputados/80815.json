@@ -49,5 +49,18 @@
       "start": "2023-08-16T17:40",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LEONARDO SILVA PRATES",
+  "date_of_birth": "1978-04-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Salvador",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/LeonardoPrates4",
+    "https://www.facebook.com/leo.prates.7",
+    "https://www.instagram.com/leoprates"
+  ],
+  "website": null
 }

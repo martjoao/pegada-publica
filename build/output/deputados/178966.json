@@ -96,5 +96,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Geovânia de Sá",
+  "date_of_birth": "1972-03-30",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "SC",
+  "birth_city": "Criciúma",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://instagram.com/geovaniasa?igshid=ZDdkNTZiNTM=",
+    "https://twitter.com/geovaniadesa?t=zlR3T1G0uVQIQSdO6omG7A&s=09",
+    "https://www.facebook.com/geovaniadesaa?mibextid=ZbWKwL"
+  ],
+  "website": null
 }

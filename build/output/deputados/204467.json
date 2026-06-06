@@ -38,5 +38,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ROSA NEIDE SANDES DE ALMEIDA",
+  "date_of_birth": "1963-08-08",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "BA",
+  "birth_city": "Amargosa",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/prof_rosaneide",
+    "https://www.facebook.com/ProfessoraRosaNeide",
+    "https://www.instagram.com/prof_rosaneide",
+    "https://youtube.com/channel/UC4CfnB9C6PN_RHQJ0gEgXNw"
+  ],
+  "website": null
 }

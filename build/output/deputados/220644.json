@@ -49,5 +49,19 @@
       "start": "2024-04-04T13:55",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ROSANGELA MARIA WOLFF DE QUADROS MORO",
+  "date_of_birth": "1974-05-28",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PR",
+  "birth_city": "Curitiba",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/rosangelawm",
+    "https://www.facebook.com/rosangelawolffmoro",
+    "https://www.instagram.com/rosangelawmoro",
+    "https://youtube.com/channel/UC5X-86dz8GEf6QGMm95ZoAA"
+  ],
+  "website": null
 }

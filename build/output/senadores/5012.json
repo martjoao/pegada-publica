@@ -79,5 +79,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Randolph Frederich Rodrigues Alves",
+  "date_of_birth": "1972-11-06",
+  "birth_state": "PE",
+  "birth_city": "Garanhuns",
+  "sex": "M",
+  "email": "sen.randolferodrigues@senado.leg.br"
 }

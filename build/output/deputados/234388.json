@@ -44,5 +44,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FABIANO LOPES FERREIRA CAZECA",
+  "date_of_birth": "1954-11-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Itapecerica",
+  "education": null,
+  "social_media": [],
+  "website": null
 }

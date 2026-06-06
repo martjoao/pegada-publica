@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Sergio Fernando Moro",
+  "date_of_birth": "1972-08-01",
+  "birth_state": "PR",
+  "birth_city": "Maringá",
+  "sex": "M",
+  "email": "sen.sergiomoro@senado.leg.br"
 }

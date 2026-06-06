@@ -44,5 +44,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "AMOM MANDEL LINS FILHO",
+  "date_of_birth": "2001-01-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Mestrado Incompleto",
+  "social_media": [
+    "https://twitter.com/eusouamom",
+    "https://www.facebook.com/eusouamom",
+    "https://www.instagram.com/eusouamom",
+    "https://youtube.com/channel/UCwPEeCb9CuIqhqpUoGvGpvA"
+  ],
+  "website": null
 }

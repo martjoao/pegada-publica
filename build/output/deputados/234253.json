@@ -44,5 +44,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUCAS ABRAHAO ROSA CEZARIO DE ALMEIDA",
+  "date_of_birth": "1992-03-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Nova Iguaçu",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/lucasabrahaoap",
+    "https://www.instagram.com/lucasabrahao_"
+  ],
+  "website": null
 }

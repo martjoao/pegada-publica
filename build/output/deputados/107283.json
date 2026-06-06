@@ -61,5 +61,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GLEISI HELENA HOFFMANN",
+  "date_of_birth": "1965-09-06",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PR",
+  "birth_city": "Curitiba",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/gleisi",
+    "https://www.facebook.com/gleisi.hoffmann",
+    "https://www.instagram.com/gleisihoffmann",
+    "https://youtube.com/GleisiHoffmannPT"
+  ],
+  "website": null
 }

@@ -56,5 +56,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO FERNANDO MELO DA COSTA",
+  "date_of_birth": "1967-06-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "DF",
+  "birth_city": "Brasília",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/paulofernandodf",
+    "https://www.facebook.com/paulofernandoprovida",
+    "https://www.instagram.com/paulofernandodf",
+    "https://youtube.com/PauloFernandoDF"
+  ],
+  "website": null
 }

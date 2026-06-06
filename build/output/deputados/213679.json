@@ -38,5 +38,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOÃO ANTONIO HOLANDA CALDAS",
+  "date_of_birth": "1990-03-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AL",
+  "birth_city": "Maceió",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

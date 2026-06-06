@@ -96,5 +96,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PATRUS ANANIAS DE SOUZA",
+  "date_of_birth": "1952-01-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Bocaiúva",
+  "education": "Mestrado",
+  "social_media": [],
+  "website": null
 }

@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCOS PAULO BARBOSA TAVARES",
+  "date_of_birth": "1978-01-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Duque de Caxias",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://www.facebook.com/oficialmarcostavares",
+    "https://www.instagram.com/oficialmarcostavares"
+  ],
+  "website": null
 }

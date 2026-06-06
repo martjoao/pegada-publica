@@ -44,5 +44,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANDRÉ FERNANDES DE MOURA",
+  "date_of_birth": "1997-12-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Iguatu",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/andrefernm",
+    "https://www.facebook.com/andrefernm",
+    "https://www.instagram.com/andrefernandes",
+    "https://youtube.com/depandrefernandes"
+  ],
+  "website": null
 }

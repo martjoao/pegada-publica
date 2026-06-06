@@ -132,5 +132,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FERNANDO LÚCIO GIACOBO",
+  "date_of_birth": "1970-12-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Pato Branco",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/fernandogiacobo",
+    "https://www.instagram.com/fernandogiacobo"
+  ],
+  "website": null
 }

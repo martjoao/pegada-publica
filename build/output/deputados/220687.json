@@ -50,5 +50,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCIO JOSE HONAISER",
+  "date_of_birth": "1967-04-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Carazinho",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/Marcio_Honaiser",
+    "https://www.facebook.com/marciohonaiser/",
+    "https://www.instagram.com/marciohonaiser/"
+  ],
+  "website": null
 }

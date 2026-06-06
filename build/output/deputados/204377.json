@@ -44,5 +44,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULA MORENO PARO BELMONTE",
+  "date_of_birth": "1973-06-23",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "SP",
+  "birth_city": "SAO PAULO",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/paulabelmonteoficial",
+    "https://www.instagram.com/paulabelmonteoficial",
+    "https://www.twitter.com/paulambelmonte",
+    "https://www.youtube.com/channel/UCVw8ykZEHdvNCu0JLsvpfIA"
+  ],
+  "website": null
 }

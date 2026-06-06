@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DILVANDA FURTADO FARO",
+  "date_of_birth": "1969-05-08",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PA",
+  "birth_city": "Bujaru",
+  "education": "Ensino Médio",
+  "social_media": [],
+  "website": null
 }

@@ -50,5 +50,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE MARIO SCHREINER",
+  "date_of_birth": "1961-02-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Porto União",
+  "education": "Ensino Técnico",
+  "social_media": [
+    "https://twitter.com/ZeMarioGo",
+    "https://www.facebook.com/zemariogo",
+    "https://www.instagram.com/zemariogo"
+  ],
+  "website": null
 }

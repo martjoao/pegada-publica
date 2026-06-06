@@ -84,5 +84,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LEONARDO DE MELO GADELHA",
+  "date_of_birth": "1975-05-12",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "DF",
+  "birth_city": "Brasília",
+  "education": "Mestrado",
+  "social_media": [
+    "https://www.facebook.com/leonardogadelhapb",
+    "https://www.instagram.com/leonardogadelhapb"
+  ],
+  "website": null
 }

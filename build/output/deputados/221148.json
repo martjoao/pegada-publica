@@ -61,5 +61,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALFREDO ALVES CAVALCANTE",
+  "date_of_birth": "1959-06-24",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PI",
+  "birth_city": "Oeiras",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://twitter.com/ptalfredinho",
+    "https://www.facebook.com/Alfredinho",
+    "https://www.instagram.com/Alfredinho.pt"
+  ],
+  "website": null
 }

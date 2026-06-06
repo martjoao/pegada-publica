@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CARLOS ALBERTO RICHA",
+  "date_of_birth": "1965-07-29",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Londrina",
+  "education": "Superior",
+  "social_media": [
+    "https://pt-br.facebook.com/BetoRichaOficial",
+    "https://twitter.com/BetoRicha",
+    "https://www.instagram.com/betoricha/",
+    "https://www.youtube.com/channel/UC11K_Oia5ib5Zknm87oG1FQ"
+  ],
+  "website": null
 }

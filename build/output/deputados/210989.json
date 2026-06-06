@@ -44,5 +44,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "BRUNO SOUZA FARIAS",
+  "date_of_birth": "1982-10-07",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Teófilo Otoni",
+  "education": "Mestrado",
+  "social_media": [
+    "https://www.facebook.com/brunofariasmg",
+    "https://www.instagram.com/brunofariasmg"
+  ],
+  "website": null
 }

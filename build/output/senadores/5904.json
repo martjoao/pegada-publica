@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Eugênio de Leão Braga",
+  "date_of_birth": "1937-09-13",
+  "birth_state": "PA",
+  "birth_city": "Cametá",
+  "sex": "M",
+  "email": null
 }

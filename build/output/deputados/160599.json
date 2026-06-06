@@ -90,5 +90,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DIMAS FABIANO TOLEDO JÚNIOR",
+  "date_of_birth": "1973-05-23",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Macaé",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

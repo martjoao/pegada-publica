@@ -43,5 +43,19 @@
       "start": "2019-02-05T13:26",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ FLAVIO GOMES",
+  "date_of_birth": "1957-05-06",
+  "date_of_death": "2020-04-01",
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Sud Menucci",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/professorLFG",
+    "https://www.facebook.com/luizflaviogomesoficial",
+    "https://www.instagram.com/professorlfg",
+    "https://youtube.com/ProfessorLFG"
+  ],
+  "website": null
 }

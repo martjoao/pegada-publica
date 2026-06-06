@@ -44,5 +44,16 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GUILHERME A. UCHOA CAVALCANTI PESSOA DE MELO JUNIOR",
+  "date_of_birth": "1971-04-27",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Paulista",
+  "education": "Superior",
+  "social_media": [
+    "https://www.instagram.com/GUILHERMEUCHOAJR"
+  ],
+  "website": null
 }

@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "KENISTON DE JESUS REGO BRAGA",
+  "date_of_birth": "1967-06-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Abaetetuba",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://www.facebook.com/kenistonoficial",
+    "https://www.instagram.com/kenistonoficial/",
+    "https://www.youtube.com/c/KenistonOficial"
+  ],
+  "website": null
 }

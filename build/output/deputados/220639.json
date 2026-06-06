@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GUILHERME CASTRO BOULOS",
+  "date_of_birth": "1982-06-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/guilhermeboulos?s=11&t=PbdbjkD7sGuAiT6UirTpIw",
+    "https://www.facebook.com/guilhermeboulos?mibextid=LQQJ4d",
+    "https://www.instagram.com/guilhermeboulos.oficial",
+    "https://www.youtube.com/@GuilhermeBoulosoficial"
+  ],
+  "website": null
 }

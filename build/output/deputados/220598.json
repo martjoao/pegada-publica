@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "TARCISIO MOTTA DE CARVALHO",
+  "date_of_birth": "1975-01-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Petrópolis",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/MottaTarcisio",
+    "https://www.facebook.com/TarcisioMottaPSOL",
+    "https://www.instagram.com/tarcisiomottapsol",
+    "https://youtube.com/tarcisiomottapsol"
+  ],
+  "website": null
 }

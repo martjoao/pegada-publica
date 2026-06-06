@@ -38,5 +38,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DIRLAINE JAQUELINE CASSOL",
+  "date_of_birth": "1974-12-03",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "SC",
+  "birth_city": "São Miguel do Oeste",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/jqcassol",
+    "https://www.facebook.com/jaquelinecassoloficial",
+    "https://www.instagram.com/jaquelinecassol"
+  ],
+  "website": null
 }

@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Renata Cordeiro Guerra",
+  "date_of_birth": "1974-03-21",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "sex": "F",
+  "email": null
 }

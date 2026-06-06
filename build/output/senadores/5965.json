@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Manoel Junior Souto de Souza",
+  "date_of_birth": "1958-06-22",
+  "birth_state": "RN",
+  "birth_city": "Areia Branca",
+  "sex": "M",
+  "email": null
 }

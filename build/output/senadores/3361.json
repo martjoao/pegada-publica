@@ -71,5 +71,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Targino Maranhão",
+  "date_of_birth": "1933-09-06",
+  "birth_state": "PB",
+  "birth_city": "Araruna",
+  "sex": "M",
+  "email": "sen.josemaranhao@senado.leg.br"
 }

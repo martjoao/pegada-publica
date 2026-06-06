@@ -67,5 +67,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FRANCISCO DE ASSIS CARVALHO GONÇALVES",
+  "date_of_birth": "1961-09-09",
+  "date_of_death": "2020-07-05",
+  "sex": "M",
+  "birth_state": "PI",
+  "birth_city": "Oeiras",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }
