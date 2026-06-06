@@ -6,6 +6,7 @@ inline SQL (no etl import). Canonical English throughout. Covers every branch.
 import json
 import sqlite3
 
+import pytest
 import senadores
 
 SCHEMA = """
@@ -17,6 +18,14 @@ CREATE TABLE senator_party_affiliation (senator_id INT, party TEXT, start_at TEX
 CREATE TABLE senator_office_period (senator_id INT, legislature INT, condition TEXT,
   start_at TEXT, end_at TEXT, cause TEXT);
 CREATE TABLE senator_name_history (senator_id INT, name TEXT, start_at TEXT, end_at TEXT);
+CREATE TABLE tse_candidate (id INTEGER PRIMARY KEY, election_year INTEGER,
+  office TEXT, tse_seq INTEGER, name TEXT, party TEXT, state TEXT,
+  election_result TEXT, deputy_id INTEGER, senator_id INTEGER);
+CREATE TABLE donor (id INTEGER PRIMARY KEY, cpf_cnpj TEXT, name TEXT,
+  city TEXT, state TEXT, donor_type TEXT);
+CREATE TABLE tse_donation (id INTEGER PRIMARY KEY, election_year INTEGER,
+  tse_candidate_id INTEGER, donor_id INTEGER, amount REAL,
+  date TEXT, funding_source TEXT, receipt_number TEXT);
 """
 
 
@@ -128,3 +137,34 @@ def test_detail_bio_fields(tmp_path):
     d3 = _load(out, "3.json")
     assert d3["civil_name"] is None
     assert d3["email"] is None
+
+
+def test_top_donors_in_senator_detail(tmp_path):
+    db = tmp_path / "p.db"
+    c = sqlite3.connect(str(db))
+    c.executescript(SCHEMA)
+    c.execute(
+        "INSERT INTO senator (id,name,photo_url,current_status,"
+        "civil_name,date_of_birth,birth_state,birth_city,sex,email) "
+        "VALUES (1,'Alan Rick','http://f/1.jpg','in_office',"
+        "'Alan Rick de Oliveira','1978-11-22','AC','Rio Branco','M','alan@senado.leg.br')"
+    )
+    c.execute("INSERT INTO senate_term VALUES (1,57,'AC','titular')")
+    c.execute("INSERT INTO senator_party_affiliation VALUES (1,'UNIÃO','2022-02-24',NULL,NULL)")
+    c.execute("INSERT INTO senator_office_period VALUES (1,57,'titular','2023-02-01',NULL,NULL)")
+    c.execute("INSERT INTO senator_name_history VALUES (1,'Alan Rick','1900-01-01',NULL)")
+    # TSE data
+    c.execute("INSERT INTO tse_candidate VALUES (1,2022,'senator',200,'ALAN RICK','UNIÃO','AC','elected',NULL,1)")
+    c.execute("INSERT INTO donor VALUES (1,'11122233344','Pedro Costa','Brasília','DF','individual')")
+    c.execute("INSERT INTO tse_donation VALUES (1,2022,1,1,25000.0,'2022-08-15','individual_donation','R010')")
+    c.commit(); c.close()
+
+    out = tmp_path / "out"
+    senadores.run(db_path=db, out_dir=out)
+
+    d = json.loads((out / "senadores" / "1.json").read_text())
+    assert "top_donors" in d
+    assert len(d["top_donors"]) == 1
+    assert d["top_donors"][0]["name"] == "Pedro Costa"
+    assert d["top_donors"][0]["total_amount"] == pytest.approx(25000.0)
+    assert "cpf" not in str(d["top_donors"])
