@@ -116,3 +116,54 @@ def _parse_br_date(date_str: str) -> Optional[str]:
     if len(parts) == 3:
         return f"{parts[2]}-{parts[1]}-{parts[0]}"
     return None
+
+
+# ── Pipeline steps ────────────────────────────────────────────────────────────
+
+def load_candidates(
+    conn: sqlite3.Connection,
+    years: Sequence[int] = ELECTIONS,
+    base: Optional[Path] = None,
+) -> None:
+    """Load tse_candidate rows from consulta_cand ZIPs (one per year).
+
+    Deduplicates to one row per (year, tse_seq) taking the highest NR_TURNO,
+    so a presidential candidate who reaches round 2 gets their final result.
+    """
+    for year in years:
+        zip_path = paths.tse_candidatos_zip_path(year, base=base)
+        with zipfile.ZipFile(zip_path) as zf:
+            csv_names = [n for n in zf.namelist() if n.lower().endswith(".csv")]
+            # Accumulate best-round row per tse_seq within this year
+            best: Dict[int, dict] = {}
+            for name in csv_names:
+                with zf.open(name) as raw:
+                    text = io.TextIOWrapper(raw, encoding=ENCODING)
+                    reader = csv.DictReader(text, delimiter=";")
+                    for row in reader:
+                        if row["DS_CARGO"].strip().upper() not in FEDERAL_CARGOS:
+                            continue
+                        seq = int(row["SQ_CANDIDATO"])
+                        turno = int(row["NR_TURNO"])
+                        existing = best.get(seq)
+                        if existing is None or turno > existing["_turno"]:
+                            best[seq] = {**row, "_turno": turno}
+                    text.detach()
+
+            for row in best.values():
+                conn.execute(
+                    """INSERT OR REPLACE INTO tse_candidate
+                       (election_year, office, tse_seq, cpf, name, party, state, election_result)
+                       VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+                    (
+                        year,
+                        canonicalize_office(row["DS_CARGO"]),
+                        int(row["SQ_CANDIDATO"]),
+                        row.get("NR_CPF_CANDIDATO", "").strip() or None,
+                        row["NM_CANDIDATO"].strip(),
+                        row["SG_PARTIDO"].strip(),
+                        row["SG_UF"].strip(),
+                        canonicalize_election_result(row["DS_SIT_TOT_TURNO"]),
+                    ),
+                )
+    conn.commit()

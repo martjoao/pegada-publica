@@ -15,6 +15,8 @@ from transform.tse.donations import (
     infer_donor_type,
     parse_br_decimal,
 )
+from transform import db as txdb
+from transform.tse.donations import load_candidates
 
 
 # ── Helper tests ──────────────────────────────────────────────────────────────
@@ -81,3 +83,125 @@ def test_infer_donor_type():
     assert infer_donor_type(None) == "party"
     assert infer_donor_type("") == "party"
     assert infer_donor_type("123") == "unknown"                  # other length
+
+
+# ── Fake ZIP helper ───────────────────────────────────────────────────────────
+
+_CAND_COLUMNS = [
+    "DT_GERACAO", "HH_GERACAO", "ANO_ELEICAO", "CD_TIPO_ELEICAO",
+    "NM_TIPO_ELEICAO", "NR_TURNO", "CD_ELEICAO", "DS_ELEICAO",
+    "DT_ELEICAO", "TP_ABRANGENCIA", "SG_UF", "SG_UE", "NM_UE",
+    "CD_CARGO", "DS_CARGO", "SQ_CANDIDATO", "NR_CANDIDATO",
+    "NM_CANDIDATO", "NM_URNA_CANDIDATO", "NM_SOCIAL_CANDIDATO",
+    "NR_CPF_CANDIDATO", "DS_EMAIL", "CD_SITUACAO_CANDIDATURA",
+    "DS_SITUACAO_CANDIDATURA", "TP_AGREMIACAO", "NR_PARTIDO",
+    "SG_PARTIDO", "NM_PARTIDO", "NR_FEDERACAO", "NM_FEDERACAO",
+    "SG_FEDERACAO", "DS_COMPOSICAO_FEDERACAO", "SQ_COLIGACAO",
+    "NM_COLIGACAO", "DS_COMPOSICAO_COLIGACAO", "SG_UF_NASCIMENTO",
+    "DT_NASCIMENTO", "NR_TITULO_ELEITORAL_CANDIDATO", "CD_GENERO",
+    "DS_GENERO", "CD_GRAU_INSTRUCAO", "DS_GRAU_INSTRUCAO",
+    "CD_ESTADO_CIVIL", "DS_ESTADO_CIVIL", "CD_COR_RACA",
+    "DS_COR_RACA", "CD_OCUPACAO", "DS_OCUPACAO",
+    "CD_SIT_TOT_TURNO", "DS_SIT_TOT_TURNO",
+]
+
+def _cand_row(**kwargs) -> List[str]:
+    """Build a consulta_cand row with sensible defaults."""
+    defaults = {c: "" for c in _CAND_COLUMNS}
+    defaults.update({
+        "ANO_ELEICAO": "2022",
+        "NR_TURNO": "1",
+        "SG_UF": "SP",
+        "DS_CARGO": "DEPUTADO FEDERAL",
+        "SQ_CANDIDATO": "100",
+        "NM_CANDIDATO": "ANA SILVA",
+        "SG_PARTIDO": "PT",
+        "NR_CPF_CANDIDATO": "12345678901",
+        "DS_SIT_TOT_TURNO": "ELEITO POR QP",
+    })
+    defaults.update(kwargs)
+    return [defaults[c] for c in _CAND_COLUMNS]
+
+
+def _make_candidatos_zip(rows_by_file: Dict[str, List[List[str]]]) -> bytes:
+    """Build an in-memory consulta_cand ZIP with per-state CSVs."""
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w", compression=zipfile.ZIP_STORED) as zf:
+        for filename, rows in rows_by_file.items():
+            csv_buf = io.StringIO()
+            writer = csv.writer(csv_buf, delimiter=";")
+            writer.writerow(_CAND_COLUMNS)
+            writer.writerows(rows)
+            zf.writestr(filename, csv_buf.getvalue().encode("latin-1"))
+    buf.seek(0)
+    return buf.read()
+
+
+def _db(tmp_path) -> sqlite3.Connection:
+    conn = txdb.connect(tmp_path / "test.db")
+    txdb.create_schema(conn)
+    return conn
+
+
+# ── load_candidates tests ─────────────────────────────────────────────────────
+
+def test_load_candidates_inserts_federal_rows(tmp_path):
+    rows = [
+        _cand_row(DS_CARGO="DEPUTADO FEDERAL", SQ_CANDIDATO="100",
+                  NM_CANDIDATO="ANA SILVA", SG_PARTIDO="PT", SG_UF="SP",
+                  NR_CPF_CANDIDATO="12345678901", DS_SIT_TOT_TURNO="ELEITO POR QP"),
+        _cand_row(DS_CARGO="SENADOR", SQ_CANDIDATO="200",
+                  NM_CANDIDATO="BRUNO LIMA", SG_PARTIDO="PL", SG_UF="RJ",
+                  NR_CPF_CANDIDATO="98765432100", DS_SIT_TOT_TURNO="ELEITO"),
+    ]
+    zip_bytes = _make_candidatos_zip({"consulta_cand_2022_SP.csv": rows})
+    zip_path = tmp_path / "tse" / "candidatos" / "2022.zip"
+    zip_path.parent.mkdir(parents=True)
+    zip_path.write_bytes(zip_bytes)
+
+    conn = _db(tmp_path)
+    load_candidates(conn, years=(2022,), base=tmp_path)
+    rows_db = conn.execute("SELECT * FROM tse_candidate ORDER BY tse_seq").fetchall()
+    assert len(rows_db) == 2
+    assert rows_db[0]["office"] == "federal_deputy"
+    assert rows_db[0]["name"] == "ANA SILVA"
+    assert rows_db[0]["election_result"] == "elected"
+    assert rows_db[1]["office"] == "senator"
+
+
+def test_load_candidates_filters_non_federal(tmp_path):
+    rows = [
+        _cand_row(DS_CARGO="DEPUTADO FEDERAL", SQ_CANDIDATO="100"),
+        _cand_row(DS_CARGO="GOVERNADOR", SQ_CANDIDATO="200"),   # filtered out
+    ]
+    zip_bytes = _make_candidatos_zip({"consulta_cand_2022_SP.csv": rows})
+    zip_path = tmp_path / "tse" / "candidatos" / "2022.zip"
+    zip_path.parent.mkdir(parents=True)
+    zip_path.write_bytes(zip_bytes)
+
+    conn = _db(tmp_path)
+    load_candidates(conn, years=(2022,), base=tmp_path)
+    count = conn.execute("SELECT COUNT(*) FROM tse_candidate").fetchone()[0]
+    assert count == 1
+
+
+def test_load_candidates_deduplicates_by_highest_round(tmp_path):
+    # Presidential candidate with two round rows — round 2 result should win
+    rows = [
+        _cand_row(DS_CARGO="PRESIDENTE", SQ_CANDIDATO="300",
+                  NM_CANDIDATO="LULA", SG_PARTIDO="PT", SG_UF="BR",
+                  NR_TURNO="1", DS_SIT_TOT_TURNO="2º TURNO"),
+        _cand_row(DS_CARGO="PRESIDENTE", SQ_CANDIDATO="300",
+                  NM_CANDIDATO="LULA", SG_PARTIDO="PT", SG_UF="BR",
+                  NR_TURNO="2", DS_SIT_TOT_TURNO="ELEITO NO 2º TURNO"),
+    ]
+    zip_bytes = _make_candidatos_zip({"consulta_cand_2022_BR.csv": rows})
+    zip_path = tmp_path / "tse" / "candidatos" / "2022.zip"
+    zip_path.parent.mkdir(parents=True)
+    zip_path.write_bytes(zip_bytes)
+
+    conn = _db(tmp_path)
+    load_candidates(conn, years=(2022,), base=tmp_path)
+    rows_db = conn.execute("SELECT * FROM tse_candidate").fetchall()
+    assert len(rows_db) == 1
+    assert rows_db[0]["election_result"] == "elected"   # round-2 result wins
