@@ -25,6 +25,9 @@ Goal: one unambiguous word per concept, so nothing is misinformed downstream.
 | `senator_office_period` | exercício (senador) | A dated interval a senator actually held the seat, from a `Mandato.Exercicio` row. |
 | `senator_party_affiliation` | filiação partidária (senador) | A dated party affiliation, from `/filiacoes` (`DataFiliacao`/`DataDesfiliacao`). |
 | `senator_name_history` | histórico de nome parlamentar (senador) | Dated parliamentary-name intervals (rarely changes; usually one open interval). |
+| `tse_candidate` | candidato TSE | A federal candidate in a TSE election year. |
+| `donor` | doador | A unique campaign donor, deduplicated by CPF/CNPJ. |
+| `tse_donation` | receita eleitoral | A single campaign donation record from TSE `receitas_candidatos`. |
 
 ## Columns
 
@@ -45,6 +48,10 @@ Goal: one unambiguous word per concept, so nothing is misinformed downstream.
 | `current_condition` | (derived) | The deputy's current `condition`. |
 | `current_status` | (derived) | The deputy's current state — see **status** values. |
 | `source_note` | descricaoStatus | Breadcrumb to the originating history event. |
+| `office` | cargo / DS_CARGO | The elected office sought: `federal_deputy`, `senator`, or `president`. |
+| `election_result` | DS_SIT_TOT_TURNO | Final election outcome: `elected`, `not_elected`, `alternate`, `invalidated`, `withdrew`, `pending`, or NULL. |
+| `funding_source` | DS_FONTE_RECEITA | Canonical donation source type: `individual_donation`, `self_funding`, `party_transfer`, `electoral_fund`, `party_fund`, `candidate_transfer`, or `other`. |
+| `donor_type` | (derived) | `individual` (CPF, 11 digits), `company` (CNPJ, 14 digits), `party` (no CPF), `unknown` (other length). |
 
 ## Bio columns (`deputy` and `senator`)
 
