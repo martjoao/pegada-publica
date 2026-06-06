@@ -40,6 +40,38 @@ def _read_json(path: Path) -> Dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def load_bio(
+    deputy_ids: List[int],
+    raw_base: Optional[Path] = None,
+) -> Dict[int, Dict[str, Any]]:
+    """Read raw bio landing files and return canonical bio fields keyed by deputy id.
+
+    Deputies whose bio file does not exist are simply absent from the result;
+    no exception is raised and no None entry is inserted.
+    """
+    result: Dict[int, Dict[str, Any]] = {}
+    for dep_id in deputy_ids:
+        path = paths.camara_bio_path(dep_id, base=raw_base)
+        if not path.exists():
+            continue
+        dados = _read_json(path).get("dados", {}) or {}
+        social_raw = dados.get("redeSocial") or []
+        dod = dados.get("dataFalecimento") or None
+        result[dep_id] = {
+            "cpf": dados.get("cpf"),
+            "civil_name": dados.get("nomeCivil"),
+            "date_of_birth": dados.get("dataNascimento"),
+            "date_of_death": dod if dod else None,
+            "sex": dados.get("sexo"),
+            "birth_state": dados.get("ufNascimento"),
+            "birth_city": dados.get("municipioNascimento"),
+            "education": dados.get("escolaridade"),
+            "social_media": json.dumps(social_raw, ensure_ascii=False),
+            "website": dados.get("urlWebsite"),
+        }
+    return result
+
+
 def load_roster(
     raw_base: Optional[Path] = None,
     legislatures: Sequence[int] = LEGISLATURES,
@@ -78,6 +110,7 @@ def transform(
         conn.execute(f"DELETE FROM {table}")
 
     deputies, mandates, roster_metas = load_roster(raw_base, legislatures)
+    bios = load_bio(list(deputies.keys()), raw_base)
 
     office_rows: List[tuple] = []
     party_rows: List[tuple] = []
@@ -109,9 +142,27 @@ def transform(
 
     # parents before children (foreign keys are enforced)
     conn.executemany(
-        "INSERT INTO deputy (id, name, photo_url, current_status) VALUES (?, ?, ?, ?)",
-        [(dep_id, d["name"], d["photo_url"], d["current_status"])
-         for dep_id, d in deputies.items()],
+        "INSERT INTO deputy "
+        "(id, name, photo_url, current_status, "
+        " cpf, civil_name, date_of_birth, date_of_death, sex, "
+        " birth_state, birth_city, education, social_media, website) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        [
+            (
+                dep_id, d["name"], d["photo_url"], d["current_status"],
+                bios.get(dep_id, {}).get("cpf"),
+                bios.get(dep_id, {}).get("civil_name"),
+                bios.get(dep_id, {}).get("date_of_birth"),
+                bios.get(dep_id, {}).get("date_of_death"),
+                bios.get(dep_id, {}).get("sex"),
+                bios.get(dep_id, {}).get("birth_state"),
+                bios.get(dep_id, {}).get("birth_city"),
+                bios.get(dep_id, {}).get("education"),
+                bios.get(dep_id, {}).get("social_media"),
+                bios.get(dep_id, {}).get("website"),
+            )
+            for dep_id, d in deputies.items()
+        ],
     )
     conn.executemany(
         "INSERT INTO mandate (deputy_id, legislature, state) VALUES (?, ?, ?)",
