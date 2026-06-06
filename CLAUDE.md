@@ -18,6 +18,8 @@ Open-source Brazilian congressional transparency portal. Aggregates public gover
   Actions, Astro `base: /pegada-publica`). Every push to `main` rebuilds and redeploys.
 - **Built:** deputy + senator pipelines end-to-end (parallel `deputy*` / `senator*`
   tables in one `etl/data/pegada.db`; a unified `parliamentarian` model is deferred).
+- **TSE extract done:** `receitas_candidatos` + `consulta_cand` ZIPs for 2018 and 2022
+  downloaded to `etl/data/raw/tse/` (gitignored). Transform step not yet built.
 - Consequential decisions & deferrals are logged in [`docs/decisions.md`](docs/decisions.md)
   (numbered ledger, 001 = oldest); EN↔PT term mappings in [`docs/glossario.md`](docs/glossario.md).
 

@@ -160,6 +160,18 @@ column names being inferred from regulation docs is closed: `common/tse_zip.py`'
 `build_manifest` reads actual CSV headers from each ZIP on first run and records them
 in the manifest, so column names are captured from the real files rather than assumed.
 
+**023 — Milestone: TSE extract ran end-to-end on live data.** `receitas_candidatos`
+and `consulta_cand` ZIPs downloaded and manifested for 2018 and 2022.
+Key discovery: `prestacao_de_contas_eleitorais_candidatos_YYYY.zip` contains four CSV
+families in a single archive — `receitas_candidatos_YEAR_STATE.csv` (has `DS_CARGO`),
+`receitas_candidatos_doador_originario_YEAR_STATE.csv` (no `DS_CARGO`),
+`despesas_pagas_candidatos_YEAR_STATE.csv`, `despesas_contratadas_candidatos_YEAR_STATE.csv`.
+Fix: added an optional `name_filter` param to `build_manifest`; `receitas.py` filters
+for `receitas_candidatos_\d{4}_` regex. `FEDERAL_CARGOS` values confirmed correct
+against live data (DEPUTADO FEDERAL, SENADOR, PRESIDENTE). Raw ZIPs saved to
+`data/raw/tse/receitas/` and `data/raw/tse/candidatos/` (gitignored).
+→ spec: `docs/superpowers/specs/2026-06-05-tse-donations-extract-design.md`
+
 ---
 
 ## Deferrals
