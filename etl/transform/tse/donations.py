@@ -206,3 +206,19 @@ def backfill_senator_cpf(conn: sqlite3.Connection) -> None:
 
     conn.commit()
     log.info("backfill_senator_cpf: matched %d / %d candidates", matched, len(candidates))
+
+
+def resolve_candidate_fks(conn: sqlite3.Connection) -> None:
+    """Populate tse_candidate.deputy_id / senator_id by matching CPFs."""
+    conn.execute(
+        "UPDATE tse_candidate SET deputy_id = ("
+        "  SELECT id FROM deputy WHERE deputy.cpf = tse_candidate.cpf"
+        ") WHERE office = 'federal_deputy' AND cpf IS NOT NULL"
+    )
+    conn.execute(
+        "UPDATE tse_candidate SET senator_id = ("
+        "  SELECT id FROM senator WHERE senator.cpf = tse_candidate.cpf"
+        ") WHERE office = 'senator' AND cpf IS NOT NULL"
+    )
+    conn.commit()
+    log.info("resolve_candidate_fks: done")

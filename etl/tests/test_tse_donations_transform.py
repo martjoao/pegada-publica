@@ -18,6 +18,7 @@ from transform.tse.donations import (
 from transform import db as txdb
 from transform.tse.donations import load_candidates
 from transform.tse.donations import backfill_senator_cpf
+from transform.tse.donations import resolve_candidate_fks
 
 
 # ── Helper tests ──────────────────────────────────────────────────────────────
@@ -210,6 +211,13 @@ def test_load_candidates_deduplicates_by_highest_round(tmp_path):
 
 # ── backfill_senator_cpf tests ────────────────────────────────────────────────
 
+def _insert_deputy(conn, deputy_id, cpf):
+    conn.execute(
+        "INSERT INTO deputy (id, name, cpf) VALUES (?, ?, ?)",
+        (deputy_id, f"Dep {deputy_id}", cpf),
+    )
+
+
 def _insert_senator(conn, senator_id, civil_name, cpf=None):
     conn.execute(
         "INSERT INTO senator (id, name, civil_name, cpf) VALUES (?, ?, ?, ?)",
@@ -275,3 +283,72 @@ def test_backfill_senator_cpf_logs_warning_on_no_match(tmp_path, caplog):
         backfill_senator_cpf(conn)
 
     assert any("NOME SEM CORRESPONDENTE" in r.message for r in caplog.records)
+
+
+def test_resolve_candidate_fks_links_deputy(tmp_path):
+    conn = _db(tmp_path)
+    _insert_deputy(conn, 10, "12345678901")
+    conn.execute(
+        "INSERT INTO tse_candidate (election_year, office, tse_seq, cpf, name, party, state) "
+        "VALUES (2022, 'federal_deputy', 300, '12345678901', 'DEP A', 'PT', 'SP')"
+    )
+    conn.commit()
+
+    resolve_candidate_fks(conn)
+
+    row = conn.execute(
+        "SELECT deputy_id, senator_id FROM tse_candidate WHERE tse_seq = 300"
+    ).fetchone()
+    assert row["deputy_id"] == 10
+    assert row["senator_id"] is None
+
+
+def test_resolve_candidate_fks_links_senator(tmp_path):
+    conn = _db(tmp_path)
+    _insert_senator(conn, 20, "Maria Souza", cpf="98765432100")
+    conn.execute(
+        "INSERT INTO tse_candidate (election_year, office, tse_seq, cpf, name, party, state) "
+        "VALUES (2022, 'senator', 301, '98765432100', 'MARIA SOUZA', 'PL', 'RJ')"
+    )
+    conn.commit()
+
+    resolve_candidate_fks(conn)
+
+    row = conn.execute(
+        "SELECT deputy_id, senator_id FROM tse_candidate WHERE tse_seq = 301"
+    ).fetchone()
+    assert row["senator_id"] == 20
+    assert row["deputy_id"] is None
+
+
+def test_resolve_candidate_fks_skips_null_cpf(tmp_path):
+    conn = _db(tmp_path)
+    conn.execute(
+        "INSERT INTO tse_candidate (election_year, office, tse_seq, cpf, name, party, state) "
+        "VALUES (2022, 'federal_deputy', 302, NULL, 'SEM CPF', 'MDB', 'MG')"
+    )
+    conn.commit()
+
+    resolve_candidate_fks(conn)   # must not raise
+
+    row = conn.execute(
+        "SELECT deputy_id FROM tse_candidate WHERE tse_seq = 302"
+    ).fetchone()
+    assert row["deputy_id"] is None
+
+
+def test_resolve_candidate_fks_leaves_presidential_null(tmp_path):
+    conn = _db(tmp_path)
+    conn.execute(
+        "INSERT INTO tse_candidate (election_year, office, tse_seq, cpf, name, party, state) "
+        "VALUES (2022, 'president', 303, '11122233344', 'CANDIDATO PRES', 'PT', 'BR')"
+    )
+    conn.commit()
+
+    resolve_candidate_fks(conn)
+
+    row = conn.execute(
+        "SELECT deputy_id, senator_id FROM tse_candidate WHERE tse_seq = 303"
+    ).fetchone()
+    assert row["deputy_id"] is None
+    assert row["senator_id"] is None
