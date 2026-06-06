@@ -84,3 +84,23 @@ def test_tse_candidatos_zip_path_uses_year_filename():
 def test_tse_candidatos_manifest_path_uses_year_filename():
     p = paths.tse_candidatos_manifest_path(2022, base=Path("/tmp/raw"))
     assert p == Path("/tmp/raw/tse/candidatos/2022_manifest.json")
+
+
+def test_camara_bio_path_uses_deputy_id_filename():
+    p = paths.camara_bio_path(226708, base=Path("/tmp/raw"))
+    assert p == Path("/tmp/raw/camara/bio/226708.json")
+
+
+def test_camara_bio_path_defaults_under_data_raw():
+    p = paths.camara_bio_path(226708)
+    assert p.parts[-4:] == ("raw", "camara", "bio", "226708.json")
+
+
+def test_senado_bio_path_uses_codigo_filename():
+    p = paths.senado_bio_path(5672, base=Path("/tmp/raw"))
+    assert p == Path("/tmp/raw/senado/bio/5672.json")
+
+
+def test_senado_bio_path_defaults_under_data_raw():
+    p = paths.senado_bio_path(5672)
+    assert p.parts[-4:] == ("raw", "senado", "bio", "5672.json")

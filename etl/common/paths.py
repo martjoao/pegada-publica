@@ -46,6 +46,18 @@ def senado_filiacoes_path(codigo: int, base: Optional[Path] = None) -> Path:
     return base / "senado" / "filiacoes" / f"{codigo}.json"
 
 
+def camara_bio_path(deputy_id: int, base: Optional[Path] = None) -> Path:
+    """Return the raw landing file path for one deputy's bio detail."""
+    base = base if base is not None else DATA_RAW
+    return base / "camara" / "bio" / f"{deputy_id}.json"
+
+
+def senado_bio_path(codigo: int, base: Optional[Path] = None) -> Path:
+    """Return the raw landing file path for one senator's bio detail."""
+    base = base if base is not None else DATA_RAW
+    return base / "senado" / "bio" / f"{codigo}.json"
+
+
 def db_path(base: Optional[Path] = None) -> Path:
     """Return the canonical SQLite DB path (the transform/load system-of-record)."""
     base = base if base is not None else DATA
