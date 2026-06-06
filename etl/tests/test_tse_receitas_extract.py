@@ -26,7 +26,7 @@ ROWS = [
 ]
 
 
-def _make_zip(rows=ROWS, filename="receitas_2022_BRASIL.csv"):
+def _make_zip(rows=ROWS, filename="receitas_candidatos_2022_BRASIL.csv"):
     buf = io.BytesIO()
     with zipfile.ZipFile(buf, "w", compression=zipfile.ZIP_STORED) as zf:
         csv_buf = io.StringIO()

@@ -15,6 +15,7 @@ Run with:
 """
 from __future__ import annotations
 
+import re
 from pathlib import Path
 from typing import Dict, List, Optional, Sequence
 
@@ -25,10 +26,9 @@ from common.tse_zip import build_manifest
 
 ELECTIONS = (2018, 2022)
 
-# VERIFY these URLs against the TSE open-data portal before running.
 RECEITAS_URLS: Dict[int, str] = {
-    2018: "https://cdn.tse.jus.br/estatistica/sead/odsele/prestacao_contas/prestacao_contas_final_2018.zip",
-    2022: "https://cdn.tse.jus.br/estatistica/sead/odsele/prestacao_contas/prestacao_contas_final_2022.zip",
+    2018: "https://cdn.tse.jus.br/estatistica/sead/odsele/prestacao_contas/prestacao_de_contas_eleitorais_candidatos_2018.zip",
+    2022: "https://cdn.tse.jus.br/estatistica/sead/odsele/prestacao_contas/prestacao_de_contas_eleitorais_candidatos_2022.zip",
 }
 
 
@@ -53,7 +53,14 @@ def run(
         downloader.download(url, zip_path)
         print(f"  saved {zip_path} ({zip_path.stat().st_size:,} bytes)")
 
-        manifest = build_manifest(zip_path, url)
+        manifest = build_manifest(
+            zip_path, url,
+            # Select only receitas_candidatos_YEAR_STATE.csv files.
+            # Excludes receitas_candidatos_doador_originario_* (no DS_CARGO).
+            name_filter=lambda n: bool(
+                re.match(r"receitas_candidatos_\d{4}_", n.lower())
+            ),
+        )
         write_json_atomic(manifest, manifest_path)
 
         for f in manifest["files"]:

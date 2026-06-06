@@ -162,6 +162,35 @@ def test_manifest_raises_on_corrupt_zip(tmp_path):
         build_manifest(p, "http://example.com/corrupt.zip")
 
 
+def test_manifest_name_filter_excludes_non_matching_csvs(tmp_path):
+    """ZIPs with mixed file types (e.g., receitas + despesas) are filtered by name."""
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w") as zf:
+        # receitas file — has DS_CARGO, should be included
+        csv_buf = io.StringIO()
+        writer = csv.writer(csv_buf, delimiter=";")
+        writer.writerow(COLUMNS)
+        writer.writerow(SAMPLE_ROWS[0])  # DEPUTADO FEDERAL row
+        zf.writestr("receitas_candidatos_2022_SP.csv", csv_buf.getvalue().encode(ENCODING))
+        # despesas file — no DS_CARGO, should be excluded by filter
+        csv_buf2 = io.StringIO()
+        writer2 = csv.writer(csv_buf2, delimiter=";")
+        writer2.writerow(["COL_A", "VR_PAGTO_DESPESA"])  # no DS_CARGO
+        writer2.writerow(["x", "100.00"])
+        zf.writestr("despesas_pagas_candidatos_2022_SP.csv", csv_buf2.getvalue().encode(ENCODING))
+    buf.seek(0)
+    p = tmp_path / "mixed.zip"
+    p.write_bytes(buf.read())
+
+    result = build_manifest(
+        p, "http://example.com/mixed.zip",
+        name_filter=lambda n: n.lower().startswith("receitas_candidatos_"),
+    )
+    assert len(result["files"]) == 1
+    assert result["files"][0]["filename"] == "receitas_candidatos_2022_SP.csv"
+    assert result["files"][0]["federal_rows"] == 1
+
+
 def test_manifest_strips_bom_from_first_column(tmp_path):
     """Some TSE files open with a UTF-8 BOM despite being latin-1."""
     buf = io.BytesIO()

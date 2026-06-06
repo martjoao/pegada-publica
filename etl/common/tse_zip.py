@@ -11,7 +11,7 @@ import io
 import zipfile
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Callable, Dict, List, Optional
 
 SOURCE = "tse-dados-abertos"
 ENCODING = "latin-1"
@@ -24,18 +24,24 @@ def _utcnow_iso() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def build_manifest(zip_path: Path, source_url: str) -> Dict[str, Any]:
+def build_manifest(
+    zip_path: Path,
+    source_url: str,
+    name_filter: Optional[Callable[[str], bool]] = None,
+) -> Dict[str, Any]:
     """Read a TSE ZIP and return a manifest dict.
 
     Records column names, total row count, and federal-candidate row count for
-    every CSV inside the ZIP.  Raises ``ValueError`` if the ZIP has no CSVs or
-    if any CSV is missing the expected ``DS_CARGO`` column.
+    every CSV inside the ZIP (or only those passing ``name_filter`` when given).
+    Raises ``ValueError`` if no matching CSVs are found or if any processed CSV
+    is missing the expected ``DS_CARGO`` column.
     """
     files: List[Dict[str, Any]] = []
 
     try:
         with zipfile.ZipFile(zip_path) as zf:
-            csv_names = [n for n in zf.namelist() if n.lower().endswith(".csv")]
+            all_csv = [n for n in zf.namelist() if n.lower().endswith(".csv")]
+            csv_names = [n for n in all_csv if name_filter is None or name_filter(n)]
             if not csv_names:
                 raise ValueError(
                     f"No CSV files found in {zip_path}. Found: {zf.namelist()}"
