@@ -18,13 +18,17 @@ Open-source Brazilian congressional transparency portal. Aggregates public gover
   Actions, Astro `base: /pegada-publica`). Every push to `main` rebuilds and redeploys.
 - **Built:** deputy + senator pipelines end-to-end (parallel `deputy*` / `senator*`
   tables in one `etl/data/pegada.db`; a unified `parliamentarian` model is deferred).
-- **TSE extract done:** `receitas_candidatos` + `consulta_cand` ZIPs for 2018 and 2022
-  downloaded to `etl/data/raw/tse/` (gitignored). Transform step not yet built.
 - **Bio pipeline complete (decisions 024–026):** extract → transform → build → site all
   done. Raw bio files in `etl/data/raw/camara/bio/` and `etl/data/raw/senado/bio/`
   (gitignored). Nullable bio columns in both `deputy` and `senator` tables. Build emits
   bio fields (`cpf` excluded per LGPD; `social_media` parsed to array). Site renders a
   "Dados pessoais" section on both detail pages.
+- **TSE donations pipeline complete (decisions 027):** transform → build done. ZIPs for
+  2018 and 2022 in `etl/data/raw/tse/` (gitignored). Three new tables: `tse_candidate`
+  (19,892 rows), `donor` (462,661 rows), `tse_donation` (164,709 rows). `senator.cpf`
+  backfilled for 96/318 senators (72/81 in-office; 9 missing are suplentes who never
+  ran). Build emits `top_donors` arrays on deputy/senator detail JSONs and
+  `donors_ranking.json` (top 500 of 462,661 donors). Site wiring is a follow-on spec.
 - Consequential decisions & deferrals are logged in [`docs/decisions.md`](docs/decisions.md)
   (numbered ledger, 001 = oldest); EN↔PT term mappings in [`docs/glossario.md`](docs/glossario.md).
 
@@ -37,7 +41,9 @@ transform on a fresh DB.
 **Python (ETL + build)** — venv at `etl/.venv`, no global install:
 - ETL tests:   `cd etl && .venv/bin/python -m pytest -q`
 - Build tests: `cd build && PYTHONPATH=../etl ../etl/.venv/bin/python -m pytest -q`
-- Build JSON:  `etl/.venv/bin/python build/deputados.py` / `build/senadores.py`
+- Build JSON:  `etl/.venv/bin/python build/deputados.py` / `build/senadores.py` / `build/doadores.py`
+- TSE donations transform: `cd etl && .venv/bin/python -m transform.tse.donations`
+  *(requires ZIPs in `etl/data/raw/tse/candidatos/` and `etl/data/raw/tse/receitas/`)*
 
 **Site** — requires Node 20 via nvm (system Node is too old):
 `export NVM_DIR="$HOME/.nvm" && . "$NVM_DIR/nvm.sh" && nvm use 20 && cd site && npm run build`

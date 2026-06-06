@@ -268,6 +268,18 @@ undefer**.
   reload), Portal da Transparência amendments, and the signature **CPF×QSA inferred
   corporate influence** (with confidence tiers).
 
+**027 — Milestone: TSE donations pipeline complete (2026-06-06).** Three new tables in
+`pegada.db`: `tse_candidate` (19,892 rows — one per federal candidate per election year
+from `consulta_cand`, with `deputy_id`/`senator_id` FKs resolved via CPF matching),
+`donor` (462,661 rows, deduplicated by CPF/CNPJ), `tse_donation` (164,709 rows from
+`receitas_candidatos` BRASIL.csv). Transform pipeline: load candidates → backfill
+`senator.cpf` (closes decision 025 deferral; 96/318 senators matched — 9 missing are
+suplentes who never ran) → resolve FKs → load donations. Build outputs:
+`donors_ranking.json` (top 500 of 462,661 donors with full recipient lists) and
+`top_donors` arrays on each deputy/senator detail JSON (top 20 donors). Site wiring
+is a follow-on spec.
+→ spec: `docs/superpowers/specs/2026-06-06-tse-donations-transform-design.md`
+
 ---
 
 ## Open verification items
@@ -283,15 +295,3 @@ Things believed-true but not yet confirmed end-to-end. Resolve before relying on
   term; kept verbatim as the authoritative party-at-date source. **Verify** it answers
   the party-at-vote-time query correctly once Senado votes land — i.e. that an open or
   pre-term filiação interval resolves to the right party on a given vote date.
-
----
-
-**027 — Milestone: TSE donations transform designed.** Three new tables in `pegada.db`:
-`tse_candidate` (one row per federal candidate per election year from `consulta_cand`,
-with `deputy_id`/`senator_id` FKs resolved via CPF matching), `donor` (one row per
-unique donor deduplicated by CPF/CNPJ), `tse_donation` (one row per donation from
-`receitas_candidatos` BRASIL.csv). Transform pipeline: load candidates → backfill
-`senator.cpf` (closes decision 025 deferral) → resolve FKs → load donations. Build
-outputs: `donors_ranking.json` (top 500 donors by total amount, with full recipient
-list) and `top_donors` arrays on each deputy/senator detail JSON (top 20 donors).
-→ spec: `docs/superpowers/specs/2026-06-06-tse-donations-transform-design.md`
