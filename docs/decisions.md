@@ -172,6 +172,16 @@ against live data (DEPUTADO FEDERAL, SENADOR, PRESIDENTE). Raw ZIPs saved to
 `data/raw/tse/receitas/` and `data/raw/tse/candidatos/` (gitignored).
 → spec: `docs/superpowers/specs/2026-06-05-tse-donations-extract-design.md`
 
+**024 — Milestone: bio extract ran end-to-end on live data.** `extract/camara/bio.py`
+(`GET /deputados/{id}`) and `extract/senado/bio.py` (`GET /senador/{codigo}`) crawled all
+924 deputies and 318 senators (0 failures each). Raw bio files saved to
+`data/raw/camara/bio/` and `data/raw/senado/bio/` (gitignored). Deputy bio keys confirmed:
+`nomeCivil`, `cpf`, `dataNascimento`, `escolaridade`, `redeSocial`, `urlWebsite`,
+`ufNascimento`, `municipioNascimento`, `ultimoStatus`. Senator bio wrapped under
+`DetalheParlamentar`. The "Deputy bio/detail fields" deferral is undeferred at the extract
+level; transform/build wiring is a follow-on spec.
+→ spec: `docs/superpowers/specs/2026-06-06-bio-extract-design.md`
+
 ---
 
 ## Deferrals
@@ -216,11 +226,10 @@ undefer**.
   would carry a **confidence tier** (`confirmed` = ofício names titular / `inferred`
   = unique temporal+party match / `ambiguous`).
 
-- **Deputy bio/detail fields** (cpf, nomeCivil, dataNascimento, escolaridade, redes
-  sociais, `ultimoStatus`).
-  *Why deferred:* needs the per-deputy `GET /deputados/{id}` detail fetch, not yet
-  built. *To undefer:* add a `extract/camara/deputado_detalhe` fetch and enrich
-  `deputado` with nullable columns.
+- **Deputy and senator bio/detail fields** (cpf, nomeCivil, dataNascimento, escolaridade,
+  redes sociais, `ultimoStatus` for deputies; `DetalheParlamentar` for senators).
+  *Extract done (decision 024).* *To fully undefer:* add transform step to enrich
+  `deputy`/`senator` tables with nullable bio columns, and expose fields in build JSON.
 
 - **Party as a first-class entity** (normalize `sigla_partido` → a stable party id;
   party member history; mergers/renames).
