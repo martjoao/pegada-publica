@@ -67,5 +67,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Francisco Feitosa de Albuquerque Lima",
+  "date_of_birth": "1964-07-03",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "sex": "M",
+  "email": "sen.chiquinhofeitosa@senado.leg.br"
 }

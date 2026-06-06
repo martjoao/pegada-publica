@@ -50,5 +50,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALINE SLEUTJES",
+  "date_of_birth": "1979-07-26",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PR",
+  "birth_city": "Castro",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/AlineSleutjes",
+    "https://www.facebook.com/alinesleutjes",
+    "https://www.instagram.com/alinesleutjes",
+    "https://youtube.com/channel/UCcryiDLj86mGK2kPc4idoGg"
+  ],
+  "website": null
 }

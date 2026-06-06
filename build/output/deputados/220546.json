@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RODOLFO OLIVEIRA NOGUEIRA",
+  "date_of_birth": "1973-11-24",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MS",
+  "birth_city": "Dourados",
+  "education": "Superior",
+  "social_media": [
+    "https://instagram.com/rodolfonogueirams?igshid=YmMyMTA2M2Y=",
+    "https://twitter.com/rodolfoms",
+    "https://www.facebook.com/rodolfonogueiraoficial",
+    "https://youtube.com/RodolfoNogueirams"
+  ],
+  "website": null
 }

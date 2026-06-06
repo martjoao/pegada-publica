@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CAROLINE RODRIGUES DE TONI",
+  "date_of_birth": "1986-09-01",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "SC",
+  "birth_city": "Chapecó",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/CarolDeToni",
+    "https://www.facebook.com/carolinerdetoni",
+    "https://www.instagram.com/carolinedetoni",
+    "https://youtube.com/videos"
+  ],
+  "website": null
 }

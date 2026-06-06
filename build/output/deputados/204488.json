@@ -73,5 +73,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CELIO STUDART BARBOSA",
+  "date_of_birth": "1987-06-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/CelioStudart",
+    "https://www.facebook.com/celio.studart",
+    "https://www.instagram.com/celiostudart",
+    "https://youtube.com/channel/UCHEI0XtQiyNwR5x7bVTewGQ"
+  ],
+  "website": null
 }

@@ -96,5 +96,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RUY MANUEL CARNEIRO BARBOSA DE ACA BELCHIOR",
+  "date_of_birth": "1970-08-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PB",
+  "birth_city": "João Pessoa",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/ruycarneiropb",
+    "https://www.facebook.com/ruycarneiropb",
+    "https://www.instagram.com/ruy.carneiro"
+  ],
+  "website": null
 }

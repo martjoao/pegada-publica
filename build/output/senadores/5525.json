@@ -64,5 +64,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Omar José Abdel Aziz",
+  "date_of_birth": "1958-08-13",
+  "birth_state": "SP",
+  "birth_city": "Garça",
+  "sex": "M",
+  "email": "sen.omaraziz@senado.leg.br"
 }

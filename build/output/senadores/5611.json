@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Severino Nunes de Araujo",
+  "date_of_birth": "1939-01-17",
+  "birth_state": "PE",
+  "birth_city": "Limoeiro",
+  "sex": "M",
+  "email": null
 }

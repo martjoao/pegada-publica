@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Ana Maria de Resende Vieira",
+  "date_of_birth": "1945-09-19",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "sex": "F",
+  "email": null
 }

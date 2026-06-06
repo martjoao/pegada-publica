@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Marizete Lisboa Fernandes Pereira",
+  "date_of_birth": "1946-06-17",
+  "birth_state": "BA",
+  "birth_city": "Brumado",
+  "sex": "F",
+  "email": null
 }

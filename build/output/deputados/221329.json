@@ -62,5 +62,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RICARDO MARTINS DAVID",
+  "date_of_birth": "1972-09-13",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/RicardoAbrao_RJ",
+    "https://www.facebook.com/ricardoabraooficial",
+    "https://www.instagram.com/ricardoabraooficial"
+  ],
+  "website": null
 }

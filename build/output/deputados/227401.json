@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FABIO GONÇALVES DE RUEDA",
+  "date_of_birth": "1977-07-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": null,
+  "social_media": [
+    "https://www.facebook.com/fabio.derueda",
+    "https://www.instagram.com/fabioruedaoficial"
+  ],
+  "website": null
 }

@@ -126,5 +126,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ELCIONE THEREZINHA ZAHLUTH BARBALHO",
+  "date_of_birth": "1944-10-05",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "http://twitter.com/elcionepmdb",
+    "http://www.facebook.com/elcionepmdb",
+    "https://www.instagram.com/elcionebarbalho"
+  ],
+  "website": null
 }

@@ -89,5 +89,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOÃO CARLOS SIQUEIRA",
+  "date_of_birth": "1967-02-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Urucânia",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/dep_padrejoao",
+    "https://www.facebook.com/padrejoao",
+    "https://www.instagram.com/dep_padrejoao",
+    "https://youtube.com/channel/UC3xn6en0oZZdxt56VW8PS9A"
+  ],
+  "website": null
 }

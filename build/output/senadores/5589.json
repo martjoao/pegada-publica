@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Paulo Henrique Campos Matos",
+  "date_of_birth": "1968-04-28",
+  "birth_state": "MA",
+  "birth_city": "São Luís",
+  "sex": "M",
+  "email": null
 }

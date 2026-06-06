@@ -90,5 +90,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jader Fontenelle Barbalho",
+  "date_of_birth": "1944-10-27",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "sex": "M",
+  "email": "sen.jaderbarbalho@senado.leg.br"
 }

@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PEDRO SOUZA CATINGUEIRO JUNIOR",
+  "date_of_birth": "1970-03-29",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "Grajaú",
+  "education": null,
+  "social_media": [
+    "https://twitter.com/deputadopedrojunior",
+    "https://www.facebook.com/deputadopedrojunior",
+    "https://www.instagram.com/deputadopedrojunior"
+  ],
+  "website": null
 }

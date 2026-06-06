@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Henrique Arruda Guimarães",
+  "date_of_birth": "1971-05-12",
+  "birth_state": "AL",
+  "birth_city": "Maceió",
+  "sex": "M",
+  "email": null
 }

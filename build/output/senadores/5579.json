@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Carlos de Moraes Vasconcellos Filho",
+  "date_of_birth": "1970-08-27",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "sex": "M",
+  "email": null
 }

@@ -66,5 +66,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Camilo Sobreira de Santana",
+  "date_of_birth": "1968-06-03",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.camilosantana@senado.leg.br"
 }

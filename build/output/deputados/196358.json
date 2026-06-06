@@ -79,5 +79,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LOURIVAL GOMES DE ALMEIDA",
+  "date_of_birth": "1955-07-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Ensino Fundamental",
+  "social_media": [],
+  "website": null
 }

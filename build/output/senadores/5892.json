@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Raimundo Roberth Bringel Martins",
+  "date_of_birth": "1952-03-15",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.roberthbringel@senado.leg.br"
 }

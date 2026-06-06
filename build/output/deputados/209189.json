@@ -61,5 +61,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSEILDO RIBEIRO RAMOS",
+  "date_of_birth": "1957-08-23",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Alagoinhas",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/joseildoramos",
+    "https://www.facebook.com/deputadojoseildoramos",
+    "https://www.instagram.com/joseildoramos"
+  ],
+  "website": null
 }

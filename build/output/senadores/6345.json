@@ -52,5 +52,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Fernando Lopes de Farias",
+  "date_of_birth": "1952-02-06",
+  "birth_state": "AL",
+  "birth_city": "Maceió",
+  "sex": "M",
+  "email": "sen.fernandofarias@senado.leg.br"
 }

@@ -50,5 +50,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GELSON DE AZEVEDO ALMEIDA",
+  "date_of_birth": "1965-01-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Campos dos Goytacazes",
+  "education": "Ensino Médio Incompleto",
+  "social_media": [],
+  "website": null
 }

@@ -44,5 +44,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARIA LEAL ARRAES DE ALENCAR",
+  "date_of_birth": "1994-02-24",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/mariaarraespe",
+    "https://www.facebook.com//mariaarraespe",
+    "https://www.instagram.com/mariaarraes"
+  ],
+  "website": null
 }

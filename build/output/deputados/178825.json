@@ -55,5 +55,16 @@
       "start": "2021-11-10T12:26",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LEONARDO CUNHA DE BRITO",
+  "date_of_birth": "1979-04-13",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AC",
+  "birth_city": "Rio Branco",
+  "education": "Mestrado",
+  "social_media": [
+    "https://www.facebook.com/leodopt1331"
+  ],
+  "website": null
 }

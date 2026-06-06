@@ -78,5 +78,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MISAEL ARTUR FERREIRA VARELLA",
+  "date_of_birth": "1959-11-27",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Muriaé",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://www.facebook.com/deputadomisaelvarella",
+    "https://www.instagram.com/misaelvarella"
+  ],
+  "website": null
 }

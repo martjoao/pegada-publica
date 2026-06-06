@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Paulo Salamuni",
+  "date_of_birth": "1960-10-24",
+  "birth_state": "PR",
+  "birth_city": "Curitiba",
+  "sex": "M",
+  "email": null
 }

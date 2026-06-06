@@ -61,5 +61,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE ANTONIO DOS SANTOS MEDEIROS",
+  "date_of_birth": "1970-03-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RN",
+  "birth_city": "Caicó",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/josemedeirosmt",
+    "https://www.facebook.com/josemedeirosmt",
+    "https://www.instagram.com/josemedeirosmt"
+  ],
+  "website": null
 }

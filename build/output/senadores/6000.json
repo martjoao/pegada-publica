@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "João Chamon Neto",
+  "date_of_birth": "1952-10-26",
+  "birth_state": "PA",
+  "birth_city": "Marabá",
+  "sex": "M",
+  "email": null
 }

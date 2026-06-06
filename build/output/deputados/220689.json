@@ -44,5 +44,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARIA DEUSDETE LIMA CUNHA RODRIGUES",
+  "date_of_birth": "1979-01-25",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "CE",
+  "birth_city": "Cariús",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/detinha",
+    "https://www.instagram.com/detinhapl",
+    "https://youtube.com/detinha"
+  ],
+  "website": null
 }

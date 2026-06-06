@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SILVIO ANTONIO GUIMARAES MACHADO",
+  "date_of_birth": "1969-08-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "São Luís",
+  "education": null,
+  "social_media": [
+    "https://twitter.com/silvioantonioma",
+    "https://www.facebook.com/silvioantonioma",
+    "https://www.instagram.com/silvioantonioma",
+    "https://youtube.com/channel/UCmyO0mvtwWDuOmB9n0BaWRQ"
+  ],
+  "website": null
 }

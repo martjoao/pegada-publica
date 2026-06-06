@@ -67,5 +67,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE VITOR DE RESENDE AGUIAR",
+  "date_of_birth": "1984-11-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Araguari",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/zevitorMG",
+    "https://www.instagram.com/zevitormg"
+  ],
+  "website": null
 }

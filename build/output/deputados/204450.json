@@ -66,5 +66,18 @@
       "start": "2022-10-05T10:47",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ ANTONIO DE SOUZA TEIXEIRA JÚNIOR",
+  "date_of_birth": "1973-12-15",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Nova Iguaçu",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/Doutorluizinhot",
+    "https://www.facebook.com/doutorluizinho",
+    "https://www.instagram.com/doutorluizinho"
+  ],
+  "website": null
 }

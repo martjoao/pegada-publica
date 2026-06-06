@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Rodolfo Oliveira Nogueira",
+  "date_of_birth": "1973-11-24",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "dep.rodolfonogueira@camara.leg.br"
 }

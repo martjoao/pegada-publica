@@ -50,5 +50,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LOESTER CARLOS GOMES DE SOUZA",
+  "date_of_birth": "1982-09-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MS",
+  "birth_city": "Campo Grande",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/tiotrutis",
+    "https://www.instagram.com/tiotrutis"
+  ],
+  "website": null
 }

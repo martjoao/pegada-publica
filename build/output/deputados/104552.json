@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARIA DO SOCORRO NERI MEDEIROS DE SOUZA",
+  "date_of_birth": "1966-05-19",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "AC",
+  "birth_city": "Tarauacá",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/SocorroNeriAC",
+    "https://www.facebook.com/SocorroNeri.Ac",
+    "https://www.instagram.com/socorroneri"
+  ],
+  "website": null
 }

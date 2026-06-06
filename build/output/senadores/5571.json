@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Marco Jeovano Soares Ribas",
+  "date_of_birth": "1972-01-19",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

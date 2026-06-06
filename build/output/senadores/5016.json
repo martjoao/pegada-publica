@@ -85,5 +85,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Wellington Barroso de Araujo Dias",
+  "date_of_birth": "1962-03-05",
+  "birth_state": "PI",
+  "birth_city": "Oeiras",
+  "sex": "M",
+  "email": "wellington.dias@senador.leg.br"
 }

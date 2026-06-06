@@ -55,5 +55,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Alessandro Vieira",
+  "date_of_birth": "1975-04-03",
+  "birth_state": "RS",
+  "birth_city": "Passo Fundo",
+  "sex": "M",
+  "email": "sen.alessandrovieira@senado.leg.br"
 }

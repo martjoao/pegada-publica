@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Manoel Francisco de Vasconcelos Motta",
+  "date_of_birth": "1949-12-21",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "sex": "M",
+  "email": null
 }

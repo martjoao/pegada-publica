@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Alisson Taveira Rocha Leal",
+  "date_of_birth": "1977-11-03",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "sex": "M",
+  "email": null
 }

@@ -73,5 +73,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSIVALDO DOS SANTOS MELO",
+  "date_of_birth": "1983-11-29",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Jacundá",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://www.facebook.com/deputadojosivaldojp/",
+    "https://www.instagram.com/jpdeputado/"
+  ],
+  "website": null
 }

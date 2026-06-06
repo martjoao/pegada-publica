@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Luiz Carlos do Carmo",
+  "date_of_birth": "1958-04-02",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.luizcarlosdocarmo@senado.leg.br"
 }

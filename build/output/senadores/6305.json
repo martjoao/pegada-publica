@@ -52,5 +52,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Esteves de Lacerda Filho",
+  "date_of_birth": "1952-06-17",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.joselacerda@senado.leg.br"
 }

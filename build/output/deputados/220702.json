@@ -44,5 +44,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GERALDO GABRIEL MENDES",
+  "date_of_birth": "1985-12-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Galvão",
+  "education": "Ensino Médio Incompleto",
+  "social_media": [
+    "https://www.facebook.com/geraldomendesoficial?mibextid=LQQJ4d",
+    "https://www.instagram.com/geraldomendesoficial/?igshid=YmMyMTA2M2Y%3D",
+    "https://www.youtube.com/@geraldomendes3450"
+  ],
+  "website": null
 }

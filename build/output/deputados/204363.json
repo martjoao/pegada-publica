@@ -44,5 +44,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "OSIRES RODRIGUES DAMASO",
+  "date_of_birth": "1963-04-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "Campinorte",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://www.facebook.com/DeputadoOsiresDamaso",
+    "https://www.instagram.com/deputadoosiresdamaso"
+  ],
+  "website": null
 }

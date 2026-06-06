@@ -65,5 +65,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jorge Kajuru Reis da Costa Nasser",
+  "date_of_birth": "1961-01-20",
+  "birth_state": "SP",
+  "birth_city": "Cajuru",
+  "sex": "M",
+  "email": "sen.jorgekajuru@senado.leg.br"
 }

@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FILIPE MARTINS DOS SANTOS",
+  "date_of_birth": "1984-04-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "Goiânia",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/filipemartinsto",
+    "https://www.instagram.com/filipemartinsto",
+    "https://youtube.com/filipemartinsto"
+  ],
+  "website": null
 }

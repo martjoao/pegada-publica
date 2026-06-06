@@ -60,5 +60,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Hiran Manuel Gonçalves da Silva",
+  "date_of_birth": "1957-06-19",
+  "birth_state": "AM",
+  "birth_city": "Tefé",
+  "sex": "M",
+  "email": "sen.drhiran@senado.leg.br"
 }

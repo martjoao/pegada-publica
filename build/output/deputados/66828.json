@@ -90,5 +90,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FAUSTO RUY PINATO",
+  "date_of_birth": "1977-06-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Fernandópolis",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

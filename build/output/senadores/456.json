@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Ronaldo Ramos Caiado",
+  "date_of_birth": "1949-09-25",
+  "birth_state": "GO",
+  "birth_city": "Anápolis",
+  "sex": "M",
+  "email": "ronaldo.caiado@senador.leg.br"
 }

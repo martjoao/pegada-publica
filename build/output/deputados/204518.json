@@ -78,5 +78,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FREDERICO DE CASTRO ESCALEIRA",
+  "date_of_birth": "1977-03-24",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Teresópolis",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/drfredericomg",
+    "https://www.instagram.com/drfredericomg"
+  ],
+  "website": null
 }

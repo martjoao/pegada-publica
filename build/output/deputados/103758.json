@@ -44,5 +44,16 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUCIANO PALMA DE AZEVEDO",
+  "date_of_birth": "1969-05-24",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Passo Fundo",
+  "education": "Superior",
+  "social_media": [
+    "https://www.instagram.com/luciano_passofundo"
+  ],
+  "website": null
 }

@@ -44,5 +44,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "AMANDA KELLY GENTIL GUIMARÃES ROSA",
+  "date_of_birth": "1998-12-25",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MA",
+  "birth_city": "Caxias",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/amandagentiI",
+    "https://www.instagram.com/amandagentill"
+  ],
+  "website": null
 }

@@ -114,5 +114,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARIA DO ROSÁRIO NUNES",
+  "date_of_birth": "1966-11-22",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RS",
+  "birth_city": "Veranópolis",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/mariadorosario",
+    "https://www.facebook.com/DeputadaMariaDoRosario",
+    "https://www.instagram.com/_mariadorosario"
+  ],
+  "website": null
 }

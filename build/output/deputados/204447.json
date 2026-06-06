@@ -38,5 +38,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FLORDELIS DOS SANTOS DE SOUZA",
+  "date_of_birth": "1961-02-05",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://www.facebook.com/flordeliscantora",
+    "https://www.instagram.com/flordeliscantora",
+    "https://youtube.com/flordelis"
+  ],
+  "website": null
 }

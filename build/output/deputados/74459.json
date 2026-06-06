@@ -151,5 +151,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ÁTILA FREITAS LIRA",
+  "date_of_birth": "1947-04-07",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PI",
+  "birth_city": "Piripiri",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "http://twitter.com/atilalira",
+    "https://www.facebook.com/@atilalira4040",
+    "https://www.instagram.com/atilaliraoficial"
+  ],
+  "website": null
 }

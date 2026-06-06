@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Roberta Leontina Xisto Acioly",
+  "date_of_birth": "1978-10-19",
+  "birth_state": "SP",
+  "birth_city": "Santo André",
+  "sex": "F",
+  "email": "sen.robertaacioly@senado.leg.br"
 }

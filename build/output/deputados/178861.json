@@ -61,5 +61,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RONALDO CARLETTO",
+  "date_of_birth": "1960-01-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Conceição da Barra",
+  "education": "Ensino Médio",
+  "social_media": [],
+  "website": null
 }

@@ -150,5 +150,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ ALVES ROCHA",
+  "date_of_birth": "1948-08-18",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Coribe",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

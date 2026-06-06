@@ -73,5 +73,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALINE PARANHOS VARONIL GURGEL",
+  "date_of_birth": "1980-11-25",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "AP",
+  "birth_city": "Macapá",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/https:",
+    "https://www.facebook.com/dep.alinegurgel",
+    "https://www.instagram.com/dep_alinegurgel",
+    "https://youtube.com/channel/UC7v2Ng9B1UAxhEypPw5cEag"
+  ],
+  "website": null
 }

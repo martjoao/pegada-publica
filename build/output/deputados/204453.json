@@ -55,5 +55,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "NATÁLIA BASTOS BONAVIDES",
+  "date_of_birth": "1988-06-15",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RN",
+  "birth_city": "Natal",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/Natbonavides",
+    "https://www.facebook.com/nataliabonavides",
+    "https://www.instagram.com/nataliabonavides",
+    "https://youtube.com/channel/UC4SZ1UNy6t9Mz99In-Rt1tw"
+  ],
+  "website": null
 }

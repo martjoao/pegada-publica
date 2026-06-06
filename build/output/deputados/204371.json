@@ -50,5 +50,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FELIPE RIGONI LOPES",
+  "date_of_birth": "1991-06-13",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Linhares",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/rigoni_felipe",
+    "https://www.facebook.com/rigonifelipe",
+    "https://www.instagram.com/rigonifelipe",
+    "https://youtube.com/rigonifelipe"
+  ],
+  "website": null
 }

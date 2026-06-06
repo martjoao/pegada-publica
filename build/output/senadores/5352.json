@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Rogério Carvalho Santos",
+  "date_of_birth": "1968-08-02",
+  "birth_state": "SE",
+  "birth_city": "Aracaju",
+  "sex": "M",
+  "email": "sen.rogeriocarvalho@senado.leg.br"
 }

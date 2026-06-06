@@ -50,5 +50,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ICARO BARBOSA COSTA",
+  "date_of_birth": "2001-04-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SE",
+  "birth_city": "Itabaiana",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://twitter.com/icarodevalmir",
+    "https://www.instagram.com/icarodevalmir"
+  ],
+  "website": null
 }

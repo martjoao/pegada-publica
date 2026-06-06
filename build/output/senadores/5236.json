@@ -65,5 +65,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Antônio Machado Reguffe",
+  "date_of_birth": "1972-09-05",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "sex": "M",
+  "email": "sen.reguffe@senado.leg.br"
 }

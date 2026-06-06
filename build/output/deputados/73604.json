@@ -78,5 +78,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RUI GOETHE DA COSTA FALCÃO",
+  "date_of_birth": "1943-11-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Pitangui",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/rfalcao13",
+    "https://www.facebook.com/rfalcao13",
+    "https://www.instagram.com/ruifalcao13",
+    "https://youtube.com/rfalcao13"
+  ],
+  "website": null
 }

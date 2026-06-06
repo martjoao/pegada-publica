@@ -55,5 +55,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HERCÍLIO ARAÚJO DINIZ FILHO",
+  "date_of_birth": "1963-09-14",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Governador Valadares",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://twitter.com/herciliodiniz",
+    "https://www.facebook.com/herciliocoelhodinizoficial",
+    "https://www.instagram.com/herciliocoelhodinizoficial",
+    "https://youtube.com/HercílioCoelhoDinizOficial"
+  ],
+  "website": null
 }

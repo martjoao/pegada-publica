@@ -114,5 +114,16 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FABIO DE ALMEIDA REIS",
+  "date_of_birth": "1977-04-15",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SE",
+  "birth_city": "Lagarto",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://www.facebook.com/fabioreispsd"
+  ],
+  "website": null
 }

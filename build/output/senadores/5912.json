@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jader Paiva de Melo",
+  "date_of_birth": "1980-03-23",
+  "birth_state": "TO",
+  "birth_city": "Araguaína",
+  "sex": "M",
+  "email": null
 }

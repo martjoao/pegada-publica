@@ -57,5 +57,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Sandra Backsmann Braga",
+  "date_of_birth": "1959-07-27",
+  "birth_state": "AM",
+  "birth_city": "Manaus",
+  "sex": "F",
+  "email": "sandrabraga@senadora.leg.br"
 }

@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "IZA PAULA DE DEUS E MELLO ALBUQUERQUE ARRUDA",
+  "date_of_birth": "1987-09-06",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PE",
+  "birth_city": "Vitória de Santo Antão",
+  "education": "Mestrado Incompleto",
+  "social_media": [
+    "https://www.facebook.com/izaarrudape",
+    "https://www.instagram.com/izaarrudape"
+  ],
+  "website": null
 }

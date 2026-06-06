@@ -73,5 +73,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FERNANDO RODOLFO TENORIO DE VASCONCELOS",
+  "date_of_birth": "1983-11-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Garanhuns",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/FernandoRodolfoTV",
+    "https://www.instagram.com/fernandorodolfooficial"
+  ],
+  "website": null
 }

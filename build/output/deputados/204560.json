@@ -55,5 +55,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ADOLFO VIANA DE CASTRO NETO",
+  "date_of_birth": "1981-02-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Salvador",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

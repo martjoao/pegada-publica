@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO EDUARDO LIMA MARTINS",
+  "date_of_birth": "1981-04-20",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Presidente Venceslau",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/paulomartins10",
+    "https://www.facebook.com/PauloEduardoOficial",
+    "https://www.instagram.com/deputadopaulomartins",
+    "https://youtube.com/burke880"
+  ],
+  "website": null
 }

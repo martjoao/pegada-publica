@@ -67,5 +67,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ROMERO RODRIGUES VEIGA",
+  "date_of_birth": "1966-01-09",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PB",
+  "birth_city": "Campina Grande",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/romeropelapb",
+    "https://www.facebook.com/romerorodriguespb",
+    "https://www.instagram.com/romerorodriguespb",
+    "https://youtube.com/romerorodriguespb"
+  ],
+  "website": null
 }

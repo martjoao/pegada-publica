@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Marcelo Costa e Castro",
+  "date_of_birth": "1950-06-09",
+  "birth_state": "PI",
+  "birth_city": "São Raimundo Nonato",
+  "sex": "M",
+  "email": "sen.marcelocastro@senado.leg.br"
 }

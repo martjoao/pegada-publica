@@ -43,5 +43,19 @@
       "start": "2023-04-26T22:10",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ AUGUSTO PUPPIO REIS JÚNIOR",
+  "date_of_birth": "1982-05-09",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "education": null,
+  "social_media": [
+    "https://twitter.com/AUGUSTOPUPIO",
+    "https://www.facebook.com/augustopupio",
+    "https://www.instagram.com/augustopupio",
+    "https://youtube.com/augustopupio7945"
+  ],
+  "website": null
 }

@@ -115,5 +115,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JÚLIO CÉSAR DELGADO",
+  "date_of_birth": "1966-11-18",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Juiz de Fora",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/depjuliodelgado",
+    "https://www.facebook.com/depjuliodelgado",
+    "https://www.instagram.com/depjuliodelgado",
+    "https://youtube.com/depjuliodelgado"
+  ],
+  "website": null
 }

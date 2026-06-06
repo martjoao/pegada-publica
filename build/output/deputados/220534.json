@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DAVYS FREDERICO TEIXEIRA LINHARES",
+  "date_of_birth": "1980-01-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "DF",
+  "birth_city": "Brasília",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/fredlinhares?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "https://www.facebook.com/FredLinharesBrasilia?mibextid=LQQJ4d",
+    "https://www.instagram.com/fredlinharesbrasilia",
+    "https://www.youtube.com/@fredlinharesbrasilia/videos"
+  ],
+  "website": null
 }

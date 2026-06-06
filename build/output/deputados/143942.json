@@ -74,5 +74,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CAIO SANTOS VIANNA",
+  "date_of_birth": "1988-12-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Campos dos Goytacazes",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

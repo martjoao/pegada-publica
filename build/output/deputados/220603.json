@@ -44,5 +44,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DANIELLE DYTZ DA CUNHA",
+  "date_of_birth": "1987-05-19",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOÃO CARLOS DOS SANTOS MELLO",
+  "date_of_birth": "1976-08-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": null,
+  "social_media": [],
+  "website": null
 }

@@ -44,5 +44,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EDUARDO CARVALHO BANDEIRA DE MELLO",
+  "date_of_birth": "1953-03-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/mello_bandeira",
+    "https://www.facebook.com/eduardobandeirademello",
+    "https://www.instagram.com/eduardobandeirademello",
+    "https://youtube.com/bandeirademello.oficial"
+  ],
+  "website": null
 }

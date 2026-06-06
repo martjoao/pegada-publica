@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ NELTO LAGARES DAS MERCEZ",
+  "date_of_birth": "1960-09-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Tiros",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/depjosenelto",
+    "https://www.facebook.com/joseneltopodemos",
+    "https://www.instagram.com/joseneltooficial"
+  ],
+  "website": null
 }

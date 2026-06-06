@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Francisco Helder Cavalcante Sousa",
+  "date_of_birth": "1956-10-23",
+  "birth_state": "CE",
+  "birth_city": "Pacajus",
+  "sex": "M",
+  "email": null
 }

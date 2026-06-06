@@ -102,5 +102,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ CARLOS GHIORZZI BUSATO",
+  "date_of_birth": "1948-11-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Cacador",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/lcbusato",
+    "https://www.facebook.com/lcbusato",
+    "https://www.instagram.com/lcbusato",
+    "https://youtube.com/channel/UCI1WRKDHZA-6HQwN5_yWypw"
+  ],
+  "website": null
 }

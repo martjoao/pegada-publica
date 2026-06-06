@@ -55,5 +55,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ELIZA VIRGINIA DE SOUZA FERNANDES",
+  "date_of_birth": "1972-04-02",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PB",
+  "birth_city": "João Pessoa",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

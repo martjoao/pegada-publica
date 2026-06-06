@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RICARDO AYRES DE CARVALHO",
+  "date_of_birth": "1979-01-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "Goiânia",
+  "education": "Mestrado Incompleto",
+  "social_media": [
+    "https://twitter.com/ricardoayres_to",
+    "https://www.facebook.com/ricardoayres.to",
+    "https://www.instagram.com/ricardoayres_to"
+  ],
+  "website": null
 }

@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Cândida dos Santos Farias",
+  "date_of_birth": "1951-06-17",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

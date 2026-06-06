@@ -44,5 +44,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CARLOS ALBERTO DA CUNHA",
+  "date_of_birth": "1977-10-14",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Santos",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://instagram.com/delegadodacunha?igshid=ZDdkNTZiNTM=",
+    "https://m.facebook.com/delegadodacunha?mibextid=ZbWKwL",
+    "https://twitter.com/DacunhaDelegado",
+    "https://www.youtube.com/@DelegadodaCunha"
+  ],
+  "website": null
 }

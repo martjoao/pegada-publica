@@ -143,5 +143,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ODAIR JOSÉ DA CUNHA",
+  "date_of_birth": "1976-06-18",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Piedade",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/odaircunhamg",
+    "https://www.facebook.com/odaircunhamg",
+    "https://www.instagram.com/odaircunhamg"
+  ],
+  "website": null
 }

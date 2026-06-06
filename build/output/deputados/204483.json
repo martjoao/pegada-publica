@@ -38,5 +38,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "VILSON LUIZ DA SILVA",
+  "date_of_birth": "1957-05-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Cláudio",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://twitter.com/Vilsondafetaemg",
+    "https://www.facebook.com/VilsondaFetaemg",
+    "https://www.instagram.com/vilsondafetaemg"
+  ],
+  "website": null
 }

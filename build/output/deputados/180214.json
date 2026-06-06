@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RAIMUNDO DINIZ ARAÚJO",
+  "date_of_birth": "1980-03-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RR",
+  "birth_city": "Boa Vista",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/pr.diniz.rr",
+    "https://www.instagram.com/pastordiniz.ad"
+  ],
+  "website": null
 }

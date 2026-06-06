@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "WASHINGTON LUIZ CARDOSO SIQUEIRA",
+  "date_of_birth": "1971-05-31",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "São Gonçalo",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/quaqua1313",
+    "https://www.facebook.com/Washington.Quaqua.13",
+    "https://www.instagram.com/washington.quaqua.5"
+  ],
+  "website": null
 }

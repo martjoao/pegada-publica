@@ -84,5 +84,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CELIO ANTONIO DA SILVEIRA",
+  "date_of_birth": "1959-09-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "Luziânia",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/celiosilveiradeputado",
+    "https://www.instagram.com/celiosilveiradeputado"
+  ],
+  "website": null
 }

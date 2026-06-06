@@ -108,5 +108,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DARCI POMPEO DE MATTOS",
+  "date_of_birth": "1958-07-12",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Santo Augusto",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/PompeodeMattos",
+    "https://www.facebook.com/PompeodeMattos",
+    "https://www.instagram.com/pompeodemattospdt",
+    "https://youtube.com/PompeodeMattos"
+  ],
+  "website": null
 }

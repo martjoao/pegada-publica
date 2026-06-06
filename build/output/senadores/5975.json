@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Francisco José Alves Guimaraes",
+  "date_of_birth": "1957-04-29",
+  "birth_state": "CE",
+  "birth_city": "Sobral",
+  "sex": "M",
+  "email": null
 }

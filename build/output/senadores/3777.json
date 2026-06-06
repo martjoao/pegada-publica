@@ -74,5 +74,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Carlos Eduardo Torres Gomes",
+  "date_of_birth": "1966-04-28",
+  "birth_state": "SE",
+  "birth_city": "Estância",
+  "sex": "M",
+  "email": "sen.eduardogomes@senado.leg.br"
 }

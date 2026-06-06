@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "João Cury Neto",
+  "date_of_birth": "1973-10-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Botucatu",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/joaocurysp",
+    "https://www.instagram.com/joaocurysp"
+  ],
+  "website": null
 }

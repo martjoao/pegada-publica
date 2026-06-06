@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Mauro Carvalho Junior",
+  "date_of_birth": "1958-05-08",
+  "birth_state": "SP",
+  "birth_city": "Bauru",
+  "sex": "M",
+  "email": "sen.maurocarvalhojunior@senado.leg.br"
 }

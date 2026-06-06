@@ -55,5 +55,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Lael Vieira Varella",
+  "date_of_birth": "1939-02-19",
+  "birth_state": "MG",
+  "birth_city": "Muriaé",
+  "sex": "M",
+  "email": null
 }

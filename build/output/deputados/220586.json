@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RAFAEL DE GOES BRITO",
+  "date_of_birth": "1981-08-25",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AL",
+  "birth_city": "Maceió",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://www.instagram.com/rafaelbrito15",
+    "https://youtube.com/channel/UCq3xwtJvyjdU-ceUhWg-lPg"
+  ],
+  "website": null
 }

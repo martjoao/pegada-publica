@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Hamilton Furtado Castelo Branco",
+  "date_of_birth": "1949-05-18",
+  "birth_state": "PI",
+  "birth_city": "Parnaíba",
+  "sex": "M",
+  "email": null
 }

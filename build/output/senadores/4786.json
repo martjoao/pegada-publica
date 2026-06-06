@@ -76,5 +76,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Virginio José de Carvalho Neto",
+  "date_of_birth": "1953-04-17",
+  "birth_state": "SE",
+  "birth_city": "Aracaju",
+  "sex": "M",
+  "email": "virginio.carvalho@senador.leg.br"
 }

@@ -20,13 +20,11 @@ Open-source Brazilian congressional transparency portal. Aggregates public gover
   tables in one `etl/data/pegada.db`; a unified `parliamentarian` model is deferred).
 - **TSE extract done:** `receitas_candidatos` + `consulta_cand` ZIPs for 2018 and 2022
   downloaded to `etl/data/raw/tse/` (gitignored). Transform step not yet built.
-- **Bio extract done:** `extract/camara/bio.py` + `extract/senado/bio.py` crawled all
-  924 deputies and 318 senators (decision 024). Raw files in `etl/data/raw/camara/bio/`
-  and `etl/data/raw/senado/bio/` (gitignored). Deputy bio fields available: `nomeCivil`,
-  `cpf`, `dataNascimento`, `escolaridade`, `redeSocial`, `urlWebsite`, `ultimoStatus`.
-  **Transform done (decision 025):** nullable bio columns added to `deputy` and `senator`
-  tables; `load_bio()` integrated into both transform scripts. Build wiring not yet done
-  (`cpf` must be excluded from build JSON per LGPD).
+- **Bio pipeline complete (decisions 024–026):** extract → transform → build → site all
+  done. Raw bio files in `etl/data/raw/camara/bio/` and `etl/data/raw/senado/bio/`
+  (gitignored). Nullable bio columns in both `deputy` and `senator` tables. Build emits
+  bio fields (`cpf` excluded per LGPD; `social_media` parsed to array). Site renders a
+  "Dados pessoais" section on both detail pages.
 - Consequential decisions & deferrals are logged in [`docs/decisions.md`](docs/decisions.md)
   (numbered ledger, 001 = oldest); EN↔PT term mappings in [`docs/glossario.md`](docs/glossario.md).
 

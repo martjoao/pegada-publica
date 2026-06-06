@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LENILDO MENDES DOS SANTOS SERTÃO",
+  "date_of_birth": "1979-04-27",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "Rio Verde",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/delegadocaveira",
+    "https://www.facebook.com/delegadocaveira",
+    "https://www.instagram.com/delegadocaveira",
+    "https://youtube.com/delegadocaveira"
+  ],
+  "website": null
 }

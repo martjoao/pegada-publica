@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Abel Rebouças São José",
+  "date_of_birth": "1956-09-04",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

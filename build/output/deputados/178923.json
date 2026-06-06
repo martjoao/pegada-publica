@@ -55,5 +55,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE CAVALCANTI ALVES JUNIOR",
+  "date_of_birth": "1966-07-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Arcoverde",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

@@ -44,5 +44,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FERNANDO RODRIGUES MÁXIMO",
+  "date_of_birth": "1979-10-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "Ceres",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/fernandomaximoX",
+    "https://www.facebook.com/drfernandomaximo007",
+    "https://www.instagram.com/drfernandomaximo007/",
+    "https://www.youtube.com/@DrFernandoMaximo"
+  ],
+  "website": null
 }

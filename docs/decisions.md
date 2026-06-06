@@ -193,6 +193,15 @@ CPFs; will be populated by the TSE transform spec. `deputy.cpf` is LGPD-protecte
 (internal use only, never exported to build JSON). 45 new tests; 186 total passing.
 → spec: `docs/superpowers/specs/2026-06-06-bio-transform-design.md`
 
+**026 — Milestone: bio fields wired end-to-end through build and site.** Build scripts
+(`build/deputados.py`, `build/senadores.py`) updated to SELECT and emit bio columns
+(cpf excluded per LGPD; social_media JSON string parsed to array). TypeScript interfaces
+in `site/src/lib/types.ts` extended; `sexLabel()` added to `labels.ts`. Both detail
+pages render a conditional "Dados pessoais" section: deputies show civil name, birth
+date + city/state, sex, education, website, and social media badge links; senators show
+civil name, birth date + city/state, sex, e-mail. 11 build tests passing (2 new).
+The bio deferral from decision 025 is fully closed.
+
 ---
 
 ## Deferrals
@@ -237,10 +246,8 @@ undefer**.
   would carry a **confidence tier** (`confirmed` = ofício names titular / `inferred`
   = unique temporal+party match / `ambiguous`).
 
-- **Deputy and senator bio/detail fields** (cpf, nomeCivil, dataNascimento, escolaridade,
-  redes sociais, `ultimoStatus` for deputies; `DetalheParlamentar` for senators).
-  *Extract done (decision 024). Transform done (decision 025).* *To fully undefer:*
-  expose bio fields in build JSON (build spec + site wiring).
+- **Deputy and senator bio/detail fields** — ~~fully undeferred (decisions 024–026)~~.
+  Extract, transform, build, and site wiring all complete. `cpf` remains internal only.
 
 - **Party as a first-class entity** (normalize `sigla_partido` → a stable party id;
   party member history; mergers/renames).

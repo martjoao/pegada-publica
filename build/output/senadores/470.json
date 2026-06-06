@@ -77,5 +77,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Francisco de Assis Rodrigues",
+  "date_of_birth": "1951-04-23",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "sex": "M",
+  "email": "sen.chicorodrigues@senado.leg.br"
 }

@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DORINALDO BARBOSA MALAFAIA",
+  "date_of_birth": "1976-02-23",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AP",
+  "birth_city": "Macapá",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/malafaia_d",
+    "https://www.instagram.com/malafaiadorinaldo"
+  ],
+  "website": null
 }

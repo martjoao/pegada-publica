@@ -61,5 +61,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GILSON CARDOSO FAHUR",
+  "date_of_birth": "1963-11-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Londrina",
+  "education": "Ensino Fundamental",
+  "social_media": [
+    "https://twitter.com/SargentoFAHUR",
+    "https://www.facebook.com/SargentoFahur10",
+    "https://www.instagram.com/sargentofahurpr",
+    "https://youtube.com/channel/UCGtU73VeRj9hY1P3PtVUERw"
+  ],
+  "website": null
 }

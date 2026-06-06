@@ -138,5 +138,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "IVAN VALENTE",
+  "date_of_birth": "1946-07-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

@@ -54,5 +54,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jose Samuel Alcolumbre Tobelem",
+  "date_of_birth": "1973-07-22",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

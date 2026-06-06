@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Clérie Fabiana Mendes",
+  "date_of_birth": "1974-02-07",
+  "birth_state": "SP",
+  "birth_city": "Mirassol",
+  "sex": "M",
+  "email": null
 }

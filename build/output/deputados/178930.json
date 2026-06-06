@@ -72,5 +72,19 @@
       "start": "2019-10-11T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EVANDRO ROGERIO ROMAN",
+  "date_of_birth": "1973-03-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Erval Grande",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/roman_evandro",
+    "https://www.facebook.com/evandrorogerio.roman",
+    "https://www.instagram.com/evandroroman",
+    "https://youtube.com/videos?view_as=subscriber"
+  ],
+  "website": null
 }

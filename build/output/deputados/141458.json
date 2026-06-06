@@ -108,5 +108,16 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOÃO CARLOS PAOLILO BACELAR FILHO",
+  "date_of_birth": "1972-10-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Salvador",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://www.instagram.com/joaobacelaroficial"
+  ],
+  "website": null
 }

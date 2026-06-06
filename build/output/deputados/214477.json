@@ -55,5 +55,14 @@
       "start": "2022-04-20T17:42",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RENATO ANDRADE QUEIROZ",
+  "date_of_birth": "1983-12-31",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RR",
+  "birth_city": "Boa Vista",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

@@ -73,5 +73,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ BENES LEOCADIO DE ARAUJO",
+  "date_of_birth": "1966-04-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RN",
+  "birth_city": "Santana do Matos",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/benesleocadiorn",
+    "https://www.facebook.com/BenesLeocadioRN",
+    "https://www.instagram.com/benesleocadiorn"
+  ],
+  "website": null
 }

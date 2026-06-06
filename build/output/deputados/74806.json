@@ -133,5 +133,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "NELSON TADEU FILIPPELLI",
+  "date_of_birth": "1949-05-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Catanduva",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

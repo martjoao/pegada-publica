@@ -127,5 +127,17 @@
       "start": "2023-11-21T22:28",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DANIEL RICARDO SORANZ PINTO",
+  "date_of_birth": "1979-02-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Vassouras",
+  "education": "Doutorado",
+  "social_media": [
+    "https://www.facebook.com/danielsoranz",
+    "https://www.instagram.com/danielsoranz"
+  ],
+  "website": null
 }

@@ -50,5 +50,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUCIANO VIEIRA MENDES",
+  "date_of_birth": "1988-04-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/lucianovieirarj",
+    "https://www.facebook.com/lucianovieirarj",
+    "https://www.instagram.com/lucianovieirarj"
+  ],
+  "website": null
 }

@@ -90,5 +90,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SOSTENES SILVA CAVALCANTE",
+  "date_of_birth": "1975-01-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AL",
+  "birth_city": "Maceió",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/DepSostenes",
+    "https://www.facebook.com/sostenescavalcante",
+    "https://www.instagram.com/sostenescavalcante",
+    "https://youtube.com/channel/UCI2j76o7JyLVSmooEcSvLxA"
+  ],
+  "website": null
 }

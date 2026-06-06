@@ -91,5 +91,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Romario de Souza Faria",
+  "date_of_birth": "1966-01-29",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "sex": "M",
+  "email": "sen.romario@senado.leg.br"
 }

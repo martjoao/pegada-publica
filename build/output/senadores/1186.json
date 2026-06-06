@@ -57,5 +57,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Luis Carlos Heinze",
+  "date_of_birth": "1950-09-14",
+  "birth_state": "RS",
+  "birth_city": "Candelária",
+  "sex": "M",
+  "email": "sen.luiscarlosheinze@senado.leg.br"
 }

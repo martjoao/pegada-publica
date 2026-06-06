@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Danilo Martins de Oliveira",
+  "date_of_birth": "1983-10-26",
+  "birth_state": "MG",
+  "birth_city": "Guaxupé",
+  "sex": "M",
+  "email": null
 }

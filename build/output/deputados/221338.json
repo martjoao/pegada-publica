@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUCIENE CAVALCANTE DA SILVA",
+  "date_of_birth": "1979-12-21",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

@@ -55,5 +55,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANTONIO SERGIO ALVES VIDIGAL",
+  "date_of_birth": "1957-05-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Vitória",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/vidigalsergio",
+    "https://www.instagram.com/sergiovidigal",
+    "https://youtube.com/channel/UCLftbfLn6hzk_lTySm-H8iw?view_as=subscriber"
+  ],
+  "website": null
 }

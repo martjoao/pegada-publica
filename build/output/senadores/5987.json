@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Danny Fabricio Cabral Gomes",
+  "date_of_birth": "1971-05-10",
+  "birth_state": "MS",
+  "birth_city": "Campo Grande",
+  "sex": "M",
+  "email": null
 }

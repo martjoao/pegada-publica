@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANA FLÁVIA RODRIGUES RAMIRO",
+  "date_of_birth": "1990-11-08",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MT",
+  "birth_city": "Colíder",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

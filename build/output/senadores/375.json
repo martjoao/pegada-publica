@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Valdir Ganzer",
+  "date_of_birth": "1955-06-01",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

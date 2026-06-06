@@ -62,5 +62,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PATRICIA LIMA FERRAZ",
+  "date_of_birth": "1980-01-09",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/patricialferraz",
+    "https://www.facebook.com/drapatricialferraz",
+    "https://www.instagram.com/drapatricialferraz"
+  ],
+  "website": null
 }

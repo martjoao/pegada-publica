@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Adélia Maria Correia Santos Konishi",
+  "date_of_birth": "1957-09-06",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "F",
+  "email": null
 }

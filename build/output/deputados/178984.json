@@ -73,5 +73,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MIGUEL MOUBADDA HADDAD",
+  "date_of_birth": "1957-10-15",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Jundiaí",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

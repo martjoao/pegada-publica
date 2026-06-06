@@ -90,5 +90,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCIVANIA DO SOCORRO DA ROCHA FLEXA",
+  "date_of_birth": "1973-06-21",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "AP",
+  "birth_city": "Macapá",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/profmarcivania",
+    "https://www.facebook.com/profmarcivania",
+    "https://www.instagram.com/profmarcivania"
+  ],
+  "website": null
 }

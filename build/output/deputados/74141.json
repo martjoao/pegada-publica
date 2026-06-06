@@ -168,5 +168,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSIAS GOMES DA SILVA",
+  "date_of_birth": "1956-10-14",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Amaraji",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

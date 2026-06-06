@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Afonso Valter Parente Pinto",
+  "date_of_birth": "1971-09-19",
+  "birth_state": "CE",
+  "birth_city": "Santa Quitéria",
+  "sex": "M",
+  "email": null
 }

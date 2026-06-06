@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Mailza Assis da Silva",
+  "date_of_birth": "1976-12-10",
+  "birth_state": "MS",
+  "birth_city": "Mundo Novo",
+  "sex": "F",
+  "email": "sen.mailzagomes@senado.leg.br"
 }

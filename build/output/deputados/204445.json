@@ -50,5 +50,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FERNANDO WANDERLEY VARGAS DA SILVA",
+  "date_of_birth": "1956-12-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Curvelo",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/mineiroptrn",
+    "https://www.facebook.com/fernandomineiro",
+    "https://www.instagram.com/mineiroptrn"
+  ],
+  "website": null
 }

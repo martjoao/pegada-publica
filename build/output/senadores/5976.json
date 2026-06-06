@@ -55,5 +55,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Luis Eduardo Grangeiro Girão",
+  "date_of_birth": "1972-09-25",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "sex": "M",
+  "email": "sen.eduardogirao@senado.leg.br"
 }

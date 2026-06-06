@@ -38,5 +38,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ELIAS VAZ DE ANDRADE",
+  "date_of_birth": "1966-07-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "Goiânia",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/EliasVazGyn",
+    "https://www.facebook.com/DeputadoEliasVaz",
+    "https://www.instagram.com/deputadoeliasvaz",
+    "https://youtube.com/PoliticoEliasVaz"
+  ],
+  "website": null
 }

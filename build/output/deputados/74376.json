@@ -108,5 +108,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "VANDER LUIZ DOS SANTOS LOUBET",
+  "date_of_birth": "1964-01-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MS",
+  "birth_city": "Porto Murtinho",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/vanderloubet",
+    "https://www.instagram.com/vanderloubet"
+  ],
+  "website": null
 }

@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Francisco Plínio Valério Tomaz",
+  "date_of_birth": "1955-01-31",
+  "birth_state": "AM",
+  "birth_city": "Eirunepé",
+  "sex": "M",
+  "email": "sen.pliniovalerio@senado.leg.br"
 }

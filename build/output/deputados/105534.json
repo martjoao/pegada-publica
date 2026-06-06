@@ -50,5 +50,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALEXANDRE BRITO DE FIGUEIREDO",
+  "date_of_birth": "1974-03-09",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SE",
+  "birth_city": "Aracaju",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

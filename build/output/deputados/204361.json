@@ -73,5 +73,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CARLOS ALBERTO CHIODINI",
+  "date_of_birth": "1982-03-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Jaraguá do Sul",
+  "education": "Superior",
+  "social_media": [
+    "https://pt-br.facebook.com/CarlosChiodini/",
+    "https://twitter.com/carloschiodini",
+    "https://www.instagram.com/carloschiodini",
+    "https://youtube.com/channel/UClnRgQbRinB3rSABMSePm7w"
+  ],
+  "website": null
 }

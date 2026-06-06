@@ -79,5 +79,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "IRACEMA MARIA PORTELLA NUNES NOGUEIRA LIMA",
+  "date_of_birth": "1966-04-23",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PI",
+  "birth_city": "Teresina",
+  "education": "Superior",
+  "social_media": [
+    "http://twitter.com/iracemaportela",
+    "http://www.facebook.com/iracemaportella"
+  ],
+  "website": null
 }

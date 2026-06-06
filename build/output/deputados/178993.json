@@ -114,5 +114,16 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CARLOS HENRIQUE AMORIM",
+  "date_of_birth": "1961-04-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "Ceres",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://www.facebook.com/carlosgaguim"
+  ],
+  "website": null
 }

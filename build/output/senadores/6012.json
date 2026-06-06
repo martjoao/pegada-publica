@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Denise Antunes dos Santos",
+  "date_of_birth": "1965-06-06",
+  "birth_state": "SC",
+  "birth_city": "Lages",
+  "sex": "F",
+  "email": null
 }

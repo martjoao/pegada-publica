@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "TÚLIO GADÊLHA SALES DE MELO",
+  "date_of_birth": "1987-11-12",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Recife",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/tuliogadelha",
+    "https://www.facebook.com/TulioGadelhaOficial",
+    "https://www.instagram.com/tulio.gadelha"
+  ],
+  "website": null
 }

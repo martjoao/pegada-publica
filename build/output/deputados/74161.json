@@ -108,5 +108,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "REGINALDO LÁZARO DE OLIVEIRA LOPES",
+  "date_of_birth": "1973-04-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Bom Sucesso",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/reginaldolopes",
+    "https://www.facebook.com/reginaldolopesmg",
+    "https://youtube.com/channel/UCKrXcydte7lEBDWVoogEptw"
+  ],
+  "website": null
 }

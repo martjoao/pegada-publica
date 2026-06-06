@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Andrea Gomes Fontes Rodrigues",
+  "date_of_birth": "1971-07-18",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "F",
+  "email": null
 }

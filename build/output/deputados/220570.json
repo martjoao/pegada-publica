@@ -43,5 +43,18 @@
       "start": "2025-01-22T11:44",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ISMAEL ALEXANDRINO JUNIOR",
+  "date_of_birth": "1983-07-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "GO",
+  "birth_city": "São Luís de Montes Belos",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/IsmAlexandrino",
+    "https://www.facebook.com/IsmaelAlexandrino",
+    "https://www.instagram.com/ismael.alexandrino"
+  ],
+  "website": null
 }

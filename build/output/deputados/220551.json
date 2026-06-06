@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FRANCIANE ABADE BAYER MULLER",
+  "date_of_birth": "1987-10-09",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RS",
+  "birth_city": "Santa Maria",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

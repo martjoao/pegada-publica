@@ -38,5 +38,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOÃO BATISTA CONTI",
+  "date_of_birth": "1964-12-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Muqui",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

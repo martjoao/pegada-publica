@@ -38,5 +38,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HENRIQUE DOS SANTOS VIEIRA LIMA",
+  "date_of_birth": "1987-04-15",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Niterói",
+  "education": "Mestrado Incompleto",
+  "social_media": [
+    "https://twitter.com/pastorhenriquev",
+    "https://www.facebook.com/pastorhenriquevieira",
+    "https://www.instagram.com/pastorhenriquevieira",
+    "https://youtube.com/PastorHenriqueVieira"
+  ],
+  "website": null
 }

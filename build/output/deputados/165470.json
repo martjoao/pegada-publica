@@ -44,5 +44,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RODRIGO SANTANA VALADARES",
+  "date_of_birth": "1989-08-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SE",
+  "birth_city": "Aracaju",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/DepRodrigo_",
+    "https://www.facebook.com/DeputadoRodrigo.SE",
+    "https://www.instagram.com/rodrigovaladares_",
+    "https://youtube.com/deputadorodrigovaladares1954"
+  ],
+  "website": null
 }

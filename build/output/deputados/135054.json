@@ -50,5 +50,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CRISTIANO DUTRA VALE",
+  "date_of_birth": "1970-04-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Manhuaçu",
+  "education": "Secundário",
+  "social_media": [],
+  "website": null
 }

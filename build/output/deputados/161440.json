@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RAFAEL PEZENTI",
+  "date_of_birth": "1987-06-06",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Petrolândia",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/deputadopezenti",
+    "https://www.facebook.com/deputadopezenti",
+    "https://www.instagram.com/deputadopezenti"
+  ],
+  "website": null
 }

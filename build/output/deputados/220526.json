@@ -44,5 +44,16 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GILVAN AGUIAR COSTA",
+  "date_of_birth": "1976-09-24",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "Araióses",
+  "education": "Superior",
+  "social_media": [
+    "https://www.instagram.com/gilvandafederal"
+  ],
+  "website": null
 }

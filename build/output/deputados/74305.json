@@ -97,5 +97,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ROBERTO SOARES PESSOA",
+  "date_of_birth": "1943-05-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/robertopessoa",
+    "https://www.facebook.com/RobertoPessoaOficial",
+    "https://www.instagram.com/robertopessoaoficial"
+  ],
+  "website": null
 }

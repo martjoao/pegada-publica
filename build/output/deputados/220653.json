@@ -38,5 +38,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Fábio Eduardo de Oliveira Teruel",
+  "date_of_birth": "1971-10-22",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Santa Bárbara D'Oeste",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/TmjFabioTeruel",
+    "https://www.instagram.com/fabioterueloficial",
+    "https://youtube.com/FabioTeruelOficial"
+  ],
+  "website": null
 }

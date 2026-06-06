@@ -119,5 +119,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MÁRCIO CARLOS MARINHO",
+  "date_of_birth": "1970-12-12",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Cabo Frio",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/dpmarciomarinho?lang=pt-br",
+    "https://www.facebook.com/deputadomarciomarinho",
+    "https://www.instagram.com/deputadomarciomarinho",
+    "https://youtube.com/channel/UCx3t_YQx8H-93UD5k9Mt1lQ"
+  ],
+  "website": null
 }

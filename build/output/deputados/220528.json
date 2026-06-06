@@ -44,5 +44,19 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "VICTOR GAROZI LINHALIS",
+  "date_of_birth": "1986-01-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Colatina",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/DepDrVictor",
+    "https://www.facebook.com/DrVictorLinhalis",
+    "https://www.instagram.com/drvictorlinhalis/",
+    "https://www.youtube.com/channel/UC9lrrW_04FxppALPdqqoUjw"
+  ],
+  "website": null
 }

@@ -78,5 +78,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOAQUIM PASSARINHO PINTO DE SOUZA PORTO",
+  "date_of_birth": "1961-12-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/depjpassarinho",
+    "https://www.facebook.com/joaquimpassarinhooficial",
+    "https://www.instagram.com/joaquim_passarinho"
+  ],
+  "website": null
 }

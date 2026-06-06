@@ -132,5 +132,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MAGDA MOFATTO HON",
+  "date_of_birth": "1948-10-26",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "SP",
+  "birth_city": "Limeira",
+  "education": "Ensino Fundamental",
+  "social_media": [
+    "https://twitter.com/MofattoMagda",
+    "https://www.facebook.com/MagdaMofatto.Goias",
+    "https://www.instagram.com/magdamofatto.goias"
+  ],
+  "website": null
 }

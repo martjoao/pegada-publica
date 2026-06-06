@@ -130,5 +130,14 @@
       "start": "2022-02-17T12:36",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO PEREIRA DA SILVA",
+  "date_of_birth": "1956-02-24",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Porecatu",
+  "education": "Ensino Médio",
+  "social_media": [],
+  "website": null
 }

@@ -91,5 +91,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCO AURÉLIO SPALL MAIA",
+  "date_of_birth": "1965-12-27",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Canoas",
+  "education": "Doutorado",
+  "social_media": [
+    "http://www.facebook.com/DepMarcoMaia",
+    "http://www.twitter.com/DepMarcoMaia"
+  ],
+  "website": null
 }

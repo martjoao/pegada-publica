@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ PHILIPPE DE ORLEANS BRAGANÇA",
+  "date_of_birth": "1969-04-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/lpbragancabr",
+    "https://www.facebook.com/luizphilippebr",
+    "https://www.instagram.com/lpbragancabr",
+    "https://youtube.com/luizphilippebr"
+  ],
+  "website": null
 }

@@ -52,5 +52,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Aníbal Peres de Pontes",
+  "date_of_birth": "1947-08-09",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "sen.joseanibal@senado.leg.br"
 }

@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Carlos Francisco Portinho",
+  "date_of_birth": "1973-07-02",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "sex": "M",
+  "email": "sen.carlosportinho@senado.leg.br"
 }

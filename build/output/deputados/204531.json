@@ -95,5 +95,19 @@
       "start": "2023-01-30T15:18",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GUILHERME MURARO DERRITE",
+  "date_of_birth": "1984-10-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Sorocaba",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/capitaoderrite",
+    "https://www.facebook.com/capitaoderrite",
+    "https://www.instagram.com/capitaoderrite",
+    "https://youtube.com/channel/UCZHZxgmwC2c5tz3_Jn-gGOw"
+  ],
+  "website": null
 }

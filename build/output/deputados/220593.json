@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ABILIO JACQUES BRUNINI MOUMER",
+  "date_of_birth": "1984-01-31",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MT",
+  "birth_city": "Cuiabá",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

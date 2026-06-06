@@ -91,5 +91,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EUNÍCIO LOPES DE OLIVEIRA",
+  "date_of_birth": "1952-09-30",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Lavras da Mangabeira",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/eunicio",
+    "https://www.instagram.com/euniciooliveira"
+  ],
+  "website": null
 }

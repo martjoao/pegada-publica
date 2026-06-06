@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Maria Márcia Rodrigues de Almeida",
+  "date_of_birth": "1972-05-17",
+  "birth_state": "PE",
+  "birth_city": "Bom Conselho",
+  "sex": "F",
+  "email": null
 }

@@ -83,5 +83,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALBERTO PEREIRA MOURÃO",
+  "date_of_birth": "1954-04-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/albertomourao",
+    "https://www.facebook.com/mouraopg",
+    "https://www.instagram.com/albertopmourao"
+  ],
+  "website": null
 }

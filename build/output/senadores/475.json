@@ -52,5 +52,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Confúcio Aires Moura",
+  "date_of_birth": "1948-05-16",
+  "birth_state": "TO",
+  "birth_city": "Dianópolis",
+  "sex": "M",
+  "email": "sen.confuciomoura@senado.leg.br"
 }

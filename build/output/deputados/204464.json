@@ -55,5 +55,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "TALIRIA PETRONE SOARES",
+  "date_of_birth": "1985-04-09",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "RJ",
+  "birth_city": "Niterói",
+  "education": "Mestrado Incompleto",
+  "social_media": [],
+  "website": null
 }

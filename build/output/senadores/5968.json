@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Luis Felipe Belmonte dos Santos",
+  "date_of_birth": "1953-08-01",
+  "birth_state": "RS",
+  "birth_city": "Santa Cruz do Sul",
+  "sex": "M",
+  "email": null
 }

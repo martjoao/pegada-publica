@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Reginete Souza Bispo",
+  "date_of_birth": "1963-01-23",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "F",
+  "email": null
 }

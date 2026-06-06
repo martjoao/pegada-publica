@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Gilberto Eglair Possamai",
+  "date_of_birth": "1969-05-12",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

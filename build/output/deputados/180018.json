@@ -38,5 +38,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANTHONY THIAGO CARTAXO FERREIRA",
+  "date_of_birth": "1982-09-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RN",
+  "birth_city": "Natal",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

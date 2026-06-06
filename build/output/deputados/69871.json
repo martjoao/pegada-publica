@@ -84,5 +84,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOAO CARLOS BACELAR BATISTA",
+  "date_of_birth": "1957-07-09",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Esplanada",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/DEPUTADOBACELAR",
+    "https://www.facebook.com/DEPUTADOBACELAR",
+    "https://www.instagram.com/DEPUTADOBACELAR"
+  ],
+  "website": null
 }

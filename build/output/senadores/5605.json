@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Eliane Rodrigues de Andrade Ferreira",
+  "date_of_birth": "1957-08-03",
+  "birth_state": "PE",
+  "birth_city": "Nazaré da Mata",
+  "sex": "F",
+  "email": null
 }

@@ -44,5 +44,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "STÉLIO DENER DE SOUZA CRUZ",
+  "date_of_birth": "1972-11-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RR",
+  "birth_city": "Boa Vista",
+  "education": null,
+  "social_media": [],
+  "website": null
 }

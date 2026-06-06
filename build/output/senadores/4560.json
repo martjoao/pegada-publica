@@ -76,5 +76,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Sérgio de Oliveira Cunha",
+  "date_of_birth": "1960-04-20",
+  "birth_state": "AC",
+  "birth_city": "Rio Branco",
+  "sex": "M",
+  "email": "sen.sergiopetecao@senado.leg.br"
 }

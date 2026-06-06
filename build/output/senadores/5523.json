@@ -64,5 +64,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Otto Roberto Mendonça de Alencar",
+  "date_of_birth": "1947-08-28",
+  "birth_state": "BA",
+  "birth_city": "Ruy Barbosa",
+  "sex": "M",
+  "email": "sen.ottoalencar@senado.leg.br"
 }

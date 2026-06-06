@@ -49,5 +49,17 @@
       "start": "2021-01-14T13:58",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PEDRO AUGUSTO PALARETI",
+  "date_of_birth": "1963-05-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Ribeirão Preto",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://www.facebook.com/pedroaugustoshow",
+    "https://www.instagram.com/pedroaugustoshow"
+  ],
+  "website": null
 }

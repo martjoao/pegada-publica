@@ -44,5 +44,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JORIELSON BRITO NASCIMENTO",
+  "date_of_birth": "1980-07-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AP",
+  "birth_city": "Macapá",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/Jorielson.Sandra",
+    "https://www.instagram.com/jorielsonjbn"
+  ],
+  "website": null
 }

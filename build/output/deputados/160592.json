@@ -84,5 +84,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ CARLOS BECKER DE OLIVEIRA E SILVA",
+  "date_of_birth": "1978-06-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Umuarama",
+  "education": "Superior",
+  "social_media": [
+    "http://www.twitter.com/zeca_dirceu",
+    "https://www.facebook.com/deputadofederalzecadirceu/",
+    "https://www.instagram.com/zecadirceuoficial"
+  ],
+  "website": null
 }

@@ -61,5 +61,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CARLOS ALBERTO DE SOUSA ROSADO SEGUNDO",
+  "date_of_birth": "1982-02-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RN",
+  "birth_city": "Mossoró",
+  "education": "Pós-Graduação",
+  "social_media": [],
+  "website": null
 }

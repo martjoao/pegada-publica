@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Benjamin Beze Junior",
+  "date_of_birth": "1951-10-16",
+  "birth_state": "GO",
+  "birth_city": "Anápolis",
+  "sex": "M",
+  "email": null
 }

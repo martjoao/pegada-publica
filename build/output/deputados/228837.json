@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JULIANA ROSA DE SOUZA KOLANKIEWICZ",
+  "date_of_birth": "1979-08-11",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PR",
+  "birth_city": "Palmas",
+  "education": null,
+  "social_media": [],
+  "website": null
 }

@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Paulo Jorge Salomão da Câmara Nery",
+  "date_of_birth": "1980-05-06",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

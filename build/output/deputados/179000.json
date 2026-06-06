@@ -120,5 +120,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCELO HENRIQUE TEIXEIRA DIAS",
+  "date_of_birth": "1974-02-16",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://twitter.com/marceloalvaroan",
+    "https://www.facebook.com/marceloalvaroantonio",
+    "https://www.instagram.com/marceloalvaroantonio"
+  ],
+  "website": null
 }

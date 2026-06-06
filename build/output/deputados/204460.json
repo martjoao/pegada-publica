@@ -73,5 +73,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Carlos Roberto Jordy Coelho de Mattos",
+  "date_of_birth": "1982-02-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Niterói",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/carlosjordy",
+    "https://www.facebook.com/carlosjordyoficial",
+    "https://www.instagram.com/carlosjordy",
+    "https://youtube.com/channel/UCkWU59eSRp41W6bCdyJlRdg"
+  ],
+  "website": null
 }

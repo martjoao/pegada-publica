@@ -96,5 +96,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DIEGO ALEXSANDER GONCALO PAULA GARCIA",
+  "date_of_birth": "1984-10-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Bandeirantes",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/diegogarciapr",
+    "https://www.facebook.com/diegogarciapr",
+    "https://www.instagram.com/diegogarciaparana",
+    "https://youtube.com/diegogarciapr"
+  ],
+  "website": null
 }

@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Manoel Coelho Arruda Junior",
+  "date_of_birth": "1979-01-31",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

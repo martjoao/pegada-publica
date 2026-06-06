@@ -136,5 +136,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Alvaro Fernandes Dias",
+  "date_of_birth": "1944-12-07",
+  "birth_state": "SP",
+  "birth_city": "Quatá",
+  "sex": "M",
+  "email": "sen.alvarodias@senado.leg.br"
 }

@@ -108,5 +108,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MERLONG SOLANO NOGUEIRA",
+  "date_of_birth": "1958-09-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PI",
+  "birth_city": "Valença do Piauí",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/merlongsolano",
+    "https://www.facebook.com/merlongsolano",
+    "https://www.instagram.com/merlongsolano"
+  ],
+  "website": null
 }

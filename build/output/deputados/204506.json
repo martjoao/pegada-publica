@@ -61,5 +61,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCOS ANTONIO PEREIRA",
+  "date_of_birth": "1972-04-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Linhares",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/marcospereira04",
+    "https://www.facebook.com/marcospereira1010",
+    "https://www.instagram.com/marcospereira1010",
+    "https://youtube.com/marcospereira0404"
+  ],
+  "website": null
 }

@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "João Batista da Rocha Lemos",
+  "date_of_birth": "1953-02-10",
+  "birth_state": "SP",
+  "birth_city": "Vinhedo",
+  "sex": "M",
+  "email": null
 }

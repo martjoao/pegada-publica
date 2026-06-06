@@ -38,5 +38,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANTONIO RIBEIRO",
+  "date_of_birth": "1944-03-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PB",
+  "birth_city": "Esperança",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

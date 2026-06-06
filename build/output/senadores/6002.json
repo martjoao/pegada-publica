@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Marcos Antônio Marinho da Cunha",
+  "date_of_birth": "1964-06-02",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "sex": "M",
+  "email": null
 }

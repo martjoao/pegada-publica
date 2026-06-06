@@ -57,5 +57,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jorginho dos Santos Mello",
+  "date_of_birth": "1956-07-15",
+  "birth_state": "SC",
+  "birth_city": "Ibicaré",
+  "sex": "M",
+  "email": "sen.jorginhomello@senado.leg.br"
 }

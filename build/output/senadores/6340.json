@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jaime Maximino Bagattoli",
+  "date_of_birth": "1961-04-26",
+  "birth_state": "SC",
+  "birth_city": "Presidente Getúlio",
+  "sex": "M",
+  "email": "sen.jaimebagattoli@senado.leg.br"
 }

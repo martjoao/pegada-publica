@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Maria Suely Alves de Oliveira Santiago",
+  "date_of_birth": "1962-07-20",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "F",
+  "email": null
 }

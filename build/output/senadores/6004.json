@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Terciliano Gomes Araujo",
+  "date_of_birth": "1975-09-23",
+  "birth_state": "GO",
+  "birth_city": "Pires do Rio",
+  "sex": "M",
+  "email": null
 }

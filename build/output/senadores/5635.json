@@ -64,5 +64,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Ricardo Barreto Franco",
+  "date_of_birth": "1972-03-10",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "ricardo.franco@senador.leg.br"
 }

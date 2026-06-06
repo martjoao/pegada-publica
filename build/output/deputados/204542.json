@@ -44,5 +44,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DENIS ANDERSON DA ROCHA BEZERRA",
+  "date_of_birth": "1980-03-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/denisbezerra",
+    "https://www.facebook.com/Drdenisbezerra",
+    "https://www.instagram.com/denisbezerra"
+  ],
+  "website": null
 }

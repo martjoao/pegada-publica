@@ -50,5 +50,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HÉLIO FRANCISCO DA COSTA",
+  "date_of_birth": "1954-03-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Florianópolis",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://www.facebook.com/heliocostasc",
+    "https://www.instagram.com/heliocostasc"
+  ],
+  "website": null
 }

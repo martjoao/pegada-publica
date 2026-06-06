@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Angelo Mario Coronel de Azevedo Martins",
+  "date_of_birth": "1958-05-03",
+  "birth_state": "BA",
+  "birth_city": "Coração de Maria",
+  "sex": "M",
+  "email": "sen.angelocoronel@senado.leg.br"
 }

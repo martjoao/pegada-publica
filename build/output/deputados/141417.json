@@ -91,5 +91,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ÉDIO VIEIRA LOPES",
+  "date_of_birth": "1952-01-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Presidente Epitácio",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://facebook.com/deputadoediolopes",
+    "https://twitter.com/ediolopes",
+    "https://www.instagram.com/deputadoediolopes"
+  ],
+  "website": null
 }

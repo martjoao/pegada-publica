@@ -60,5 +60,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Leila Gomes de Barros Rêgo",
+  "date_of_birth": "1971-09-30",
+  "birth_state": "DF",
+  "birth_city": "Brasília",
+  "sex": "F",
+  "email": "sen.leilabarros@senado.leg.br"
 }

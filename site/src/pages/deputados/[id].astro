@@ -6,6 +6,7 @@ import {
   statusColor,
   conditionLabel,
   partyColor,
+  sexLabel,
 } from "../../lib/labels";
 
 export function getStaticPaths() {
@@ -17,6 +18,26 @@ const dep = loadDeputy(id!);
 const base = import.meta.env.BASE_URL;
 const fmt = (iso: string | null) =>
   iso ? iso.slice(0, 10).split("-").reverse().join("/") : "atual";
+
+const fmtDate = (iso: string | null) =>
+  iso ? iso.slice(0, 10).split("-").reverse().join("/") : null;
+
+const socialLabel = (url: string) => {
+  try {
+    const host = new URL(url).hostname.replace(/^www\./, "");
+    const known: Record<string, string> = {
+      "twitter.com": "Twitter/X",
+      "x.com": "Twitter/X",
+      "facebook.com": "Facebook",
+      "instagram.com": "Instagram",
+      "youtube.com": "YouTube",
+      "tiktok.com": "TikTok",
+    };
+    return known[host] ?? host;
+  } catch {
+    return url;
+  }
+};
 
 // Party-history timeline on a true linear time axis, so legislature bands and
 // party segments align (revealing whether a switch was mid-term or at a boundary).
@@ -86,6 +107,79 @@ const boundaries = legBands.map((b) => b.left).filter((x) => x > 0.5 && x < 99.5
       </div>
     </div>
   </div>
+
+  {
+    (dep.civil_name || dep.date_of_birth || dep.education || dep.website || dep.social_media.length > 0) && (
+      <section class="mt-5">
+        <h2 class="mb-2 text-xs font-semibold uppercase tracking-wide text-slate-500">
+          Dados pessoais
+        </h2>
+        <dl class="grid grid-cols-[auto_1fr] gap-x-4 gap-y-1 text-sm">
+          {dep.civil_name && dep.civil_name !== dep.name && (
+            <>
+              <dt class="text-slate-500">Nome civil</dt>
+              <dd>{dep.civil_name}</dd>
+            </>
+          )}
+          {dep.date_of_birth && (
+            <>
+              <dt class="text-slate-500">Nascimento</dt>
+              <dd>
+                {fmtDate(dep.date_of_birth)}
+                {(dep.birth_city || dep.birth_state) && (
+                  <span class="text-slate-500">
+                    {" "}· {[dep.birth_city, dep.birth_state].filter(Boolean).join(" / ")}
+                  </span>
+                )}
+              </dd>
+            </>
+          )}
+          {dep.date_of_death && (
+            <>
+              <dt class="text-slate-500">Falecimento</dt>
+              <dd>{fmtDate(dep.date_of_death)}</dd>
+            </>
+          )}
+          {dep.sex && (
+            <>
+              <dt class="text-slate-500">Sexo</dt>
+              <dd>{sexLabel(dep.sex)}</dd>
+            </>
+          )}
+          {dep.education && (
+            <>
+              <dt class="text-slate-500">Escolaridade</dt>
+              <dd>{dep.education}</dd>
+            </>
+          )}
+          {dep.website && (
+            <>
+              <dt class="text-slate-500">Website</dt>
+              <dd>
+                <a href={dep.website} target="_blank" rel="noopener noreferrer"
+                  class="text-[#1f3a5f] hover:underline break-all">
+                  {dep.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}
+                </a>
+              </dd>
+            </>
+          )}
+          {dep.social_media.length > 0 && (
+            <>
+              <dt class="text-slate-500">Redes sociais</dt>
+              <dd class="flex flex-wrap gap-2">
+                {dep.social_media.map((url) => (
+                  <a href={url} target="_blank" rel="noopener noreferrer"
+                    class="rounded bg-slate-100 px-2 py-0.5 text-xs text-[#1f3a5f] hover:bg-slate-200">
+                    {socialLabel(url)}
+                  </a>
+                ))}
+              </dd>
+            </>
+          )}
+        </dl>
+      </section>
+    )
+  }
 
   <section class="mt-6">
     <h2 class="mb-2 text-xs font-semibold uppercase tracking-wide text-slate-500">

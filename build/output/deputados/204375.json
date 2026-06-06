@@ -44,5 +44,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LEDA MARIA SADALA BRITO",
+  "date_of_birth": "1966-06-11",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "PA",
+  "birth_city": "Almeirim",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/dep.ledasadala",
+    "https://www.instagram.com/dep_ledasadala"
+  ],
+  "website": null
 }

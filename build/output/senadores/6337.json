@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Cleiton Gontijo de Azevedo",
+  "date_of_birth": "1982-04-15",
+  "birth_state": "MG",
+  "birth_city": "Divinópolis",
+  "sex": "M",
+  "email": "sen.cleitinho@senado.leg.br"
 }

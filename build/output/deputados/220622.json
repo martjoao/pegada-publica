@@ -44,5 +44,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "NELI PEREIRA DE AQUINO",
+  "date_of_birth": "1972-11-17",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MG",
+  "birth_city": "São Sebastião do Maranhão",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://www.facebook.com/NelyAquinoOficial",
+    "https://www.instagram.com/nelyaquinooficial",
+    "https://youtube.com/NelyAquino"
+  ],
+  "website": null
 }

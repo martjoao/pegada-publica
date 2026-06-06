@@ -38,5 +38,14 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARIA GORETH DA SILVA E SOUSA",
+  "date_of_birth": "1963-09-09",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "AP",
+  "birth_city": "Macapá",
+  "education": "Doutorado Incompleto",
+  "social_media": [],
+  "website": null
 }

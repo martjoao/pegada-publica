@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Paulo Sérgio Ramos Barboza",
+  "date_of_birth": "1944-10-18",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/deppauloramosrj",
+    "https://www.facebook.com/deputadopauloramosrj",
+    "https://www.instagram.com/deputadopauloramosrj",
+    "https://youtube.com/deputado_pauloramos"
+  ],
+  "website": null
 }

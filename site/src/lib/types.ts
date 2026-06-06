@@ -59,6 +59,15 @@ export interface Deputy {
   parties: PartyInterval[];
   office_periods: OfficeInterval[];
   names: NameInterval[];
+  civil_name: string | null;
+  date_of_birth: string | null;
+  date_of_death: string | null;
+  sex: string | null;
+  birth_state: string | null;
+  birth_city: string | null;
+  education: string | null;
+  social_media: string[];
+  website: string | null;
 }
 
 /** A senator office period also carries the raw afastamento cause that closed it. */
@@ -93,4 +102,10 @@ export interface Senator {
   parties: SenatorPartyInterval[];
   office_periods: SenatorOfficeInterval[];
   names: NameInterval[];
+  civil_name: string | null;
+  date_of_birth: string | null;
+  birth_state: string | null;
+  birth_city: string | null;
+  sex: string | null;
+  email: string | null;
 }

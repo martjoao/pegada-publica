@@ -90,5 +90,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DIEGO LEONARDO DE ANDRADE CARVALHO",
+  "date_of_birth": "1977-08-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/@diegoandrademg",
+    "https://www.facebook.com/diegoandrademg",
+    "https://www.instagram.com/diegoandrademg"
+  ],
+  "website": null
 }

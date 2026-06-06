@@ -64,5 +64,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Humberto Sérgio Costa Lima",
+  "date_of_birth": "1957-07-07",
+  "birth_state": "SP",
+  "birth_city": "Campinas",
+  "sex": "M",
+  "email": "sen.humbertocosta@senado.leg.br"
 }

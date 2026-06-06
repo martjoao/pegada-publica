@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARIA MARGARIDA MARTINS SALOMÃO",
+  "date_of_birth": "1950-06-10",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MG",
+  "birth_city": "Juiz de Fora",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/JFMargarida",
+    "https://www.facebook.com/jfmargarida",
+    "https://www.instagram.com/jfmargarida/"
+  ],
+  "website": null
 }

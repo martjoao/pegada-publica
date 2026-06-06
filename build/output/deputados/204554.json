@@ -62,5 +62,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE ABILIO SILVA DE SANTANA",
+  "date_of_birth": "1965-02-13",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Salvador",
+  "education": "Superior Incompleto",
+  "social_media": [],
+  "website": null
 }

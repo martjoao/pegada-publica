@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Fadi Fayez Faraj",
+  "date_of_birth": "1965-09-16",
+  "birth_state": "DF",
+  "birth_city": "Brasília",
+  "sex": "M",
+  "email": null
 }

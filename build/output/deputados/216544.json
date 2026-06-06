@@ -44,5 +44,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAULO VICENTE CALEFFI",
+  "date_of_birth": "1948-08-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Bento Gonçalves",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

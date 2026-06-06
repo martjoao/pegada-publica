@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Manoel Roberto Silva do Rego",
+  "date_of_birth": "1970-03-06",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

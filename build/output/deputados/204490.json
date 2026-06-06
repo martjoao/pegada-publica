@@ -50,5 +50,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CHARLLES THOMACELLI EVANGELISTA",
+  "date_of_birth": "1984-12-27",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Juiz de Fora",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/charllesevg",
+    "https://www.facebook.com/charlles.evangelista",
+    "https://www.instagram.com/charlles.evangelista",
+    "https://youtube.com/channel/UCV7BXa77tGklAsuSx9DuZOQ"
+  ],
+  "website": null
 }

@@ -55,5 +55,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCEL VAN HATTEM",
+  "date_of_birth": "1985-11-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "São Leopoldo",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/MARCELVANHATTEM",
+    "https://www.facebook.com/MARCELVH",
+    "https://www.instagram.com/MARCELVANHATTEM",
+    "https://youtube.com/channel/UCAGHY76tgzPiiXpJtM1sVCg"
+  ],
+  "website": null
 }

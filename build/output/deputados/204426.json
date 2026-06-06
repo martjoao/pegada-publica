@@ -55,5 +55,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ CARLOS VERAS DOS SANTOS",
+  "date_of_birth": "1981-08-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Tabira",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/carlosveraspt",
+    "https://www.facebook.com/deputadocarlosveras",
+    "https://www.instagram.com/carlosverass",
+    "https://youtube.com/channel/UC93PwCF8EVN4RYG-h2OpJLw"
+  ],
+  "website": null
 }

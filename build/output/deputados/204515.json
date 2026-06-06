@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANDRE LUIS GASPAR JANONES",
+  "date_of_birth": "1984-05-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Ituiutaba",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/AndreJanonesAdv",
+    "https://www.facebook.com/andrejanones",
+    "https://www.instagram.com/andrejanones",
+    "https://youtube.com/AndreJanonesAdv"
+  ],
+  "website": null
 }

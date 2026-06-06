@@ -69,5 +69,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Telmário Mota de Oliveira",
+  "date_of_birth": "1958-02-15",
+  "birth_state": "RR",
+  "birth_city": "Normandia",
+  "sex": "M",
+  "email": "sen.telmariomota@senado.leg.br"
 }

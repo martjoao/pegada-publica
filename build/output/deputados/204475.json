@@ -49,5 +49,18 @@
       "start": "2020-02-18T12:22",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE OTACI BARROSO DO NASCIMENTO",
+  "date_of_birth": "1977-08-18",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AM",
+  "birth_city": "Eirunepé",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://twitter.com/ottaciRR",
+    "https://www.facebook.com/ottacinascimento",
+    "https://www.instagram.com/ottaci"
+  ],
+  "website": null
 }

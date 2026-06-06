@@ -91,5 +91,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RICARDO IZAR JUNIOR",
+  "date_of_birth": "1968-08-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/ricardoizar",
+    "https://www.facebook.com/ricardoizaroficial/",
+    "https://www.instagram.com/deputadoricardoizar/",
+    "https://www.youtube.com/user/ricardoizar"
+  ],
+  "website": null
 }

@@ -38,5 +38,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RODRIGO GAMBALE VIEIRA",
+  "date_of_birth": "1984-03-17",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Mogi das Cruzes",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://www.facebook.com/rodrigogambaleoficial",
+    "https://www.instagram.com/rodrigogambale"
+  ],
+  "website": null
 }

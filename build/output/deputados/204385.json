@@ -44,5 +44,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José Valdevan de Jesus Santos",
+  "date_of_birth": "1969-06-20",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SE",
+  "birth_city": "Estância",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://twitter.com/ValdevanNoventa",
+    "https://www.facebook.com/ValdevanNoventaOficial",
+    "https://www.instagram.com/valdevannoventa",
+    "https://youtube.com/"
+  ],
+  "website": null
 }

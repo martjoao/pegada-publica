@@ -73,5 +73,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "OSSESIO JOSE DA SILVA",
+  "date_of_birth": "1954-12-09",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://twitter.com/ossesio_silva",
+    "https://www.facebook.com/ossesio.silva",
+    "https://www.instagram.com/ossesio.silva"
+  ],
+  "website": null
 }

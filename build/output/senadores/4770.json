@@ -70,5 +70,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Izalci Lucas Ferreira",
+  "date_of_birth": "1956-04-07",
+  "birth_state": "MG",
+  "birth_city": "Araújos",
+  "sex": "M",
+  "email": "sen.izalcilucas@senado.leg.br"
 }

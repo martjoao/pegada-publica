@@ -127,5 +127,16 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PAUDERNEY TOMAZ AVELINO",
+  "date_of_birth": "1954-09-24",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AM",
+  "birth_city": "Eirunepé",
+  "education": "Superior",
+  "social_media": [
+    "http://www.twitter.com/pauderney"
+  ],
+  "website": null
 }

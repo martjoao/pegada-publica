@@ -50,5 +50,16 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "VALDERLAN ALVES DE SOUZA",
+  "date_of_birth": "1987-06-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Caucaia",
+  "education": null,
+  "social_media": [
+    "https://www.instagram.com/vanderlan__alves"
+  ],
+  "website": null
 }

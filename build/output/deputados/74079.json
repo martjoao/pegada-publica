@@ -126,5 +126,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ BENITO PRIANTE JÚNIOR",
+  "date_of_birth": "1963-12-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

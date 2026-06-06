@@ -96,5 +96,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "CARLOS ALBERTO ROLIM ZARATTINI",
+  "date_of_birth": "1959-06-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/CarlosZarattini",
+    "https://www.facebook.com/dep.zarattini",
+    "https://www.instagram.com/depzarattini",
+    "https://youtube.com/channel/UCAToRcTD6QsRAXjCBU8LTzw"
+  ],
+  "website": null
 }

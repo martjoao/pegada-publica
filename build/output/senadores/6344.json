@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Michel Negreiros Casagrande",
+  "date_of_birth": "1982-12-22",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

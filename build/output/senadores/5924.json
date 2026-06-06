@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Oriovisto Guimaraes",
+  "date_of_birth": "1945-08-12",
+  "birth_state": "SP",
+  "birth_city": "Batatais",
+  "sex": "M",
+  "email": "sen.oriovistoguimaraes@senado.leg.br"
 }

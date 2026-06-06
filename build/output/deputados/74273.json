@@ -150,5 +150,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JEFFERSON ALVES DE CAMPOS",
+  "date_of_birth": "1964-10-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Ourinhos",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/depjefferson",
+    "https://www.facebook.com/depjefferson",
+    "https://www.instagram.com/depjefferson",
+    "https://youtube.com/DepJeffersonCampos"
+  ],
+  "website": null
 }

@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Margarida Brandão Fernandes de Araújo",
+  "date_of_birth": "1971-02-22",
+  "birth_state": "RN",
+  "birth_city": "Natal",
+  "sex": "M",
+  "email": null
 }

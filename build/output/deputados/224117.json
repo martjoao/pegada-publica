@@ -44,5 +44,17 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "GABRIEL MOTA E SILVA",
+  "date_of_birth": "1982-12-24",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RR",
+  "birth_city": "Boa Vista",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/gabrielmotarr",
+    "https://www.facebook.com/gabrielmotarr"
+  ],
+  "website": null
 }

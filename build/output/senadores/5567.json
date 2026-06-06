@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Luis Augusto Mitoso Junior",
+  "date_of_birth": "1961-07-03",
+  "birth_state": "AM",
+  "birth_city": "Manaus",
+  "sex": "M",
+  "email": null
 }

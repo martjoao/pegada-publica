@@ -62,5 +62,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "VINICIUS MEDEIROS FARAH",
+  "date_of_birth": "1965-06-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Três Rios",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

@@ -124,5 +124,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSÉ DE ANDRADE MAIA FILHO",
+  "date_of_birth": "1974-07-31",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PI",
+  "birth_city": "Picos",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

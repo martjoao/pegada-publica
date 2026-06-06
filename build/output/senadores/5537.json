@@ -50,5 +50,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Dário Elias Berger",
+  "date_of_birth": "1956-12-07",
+  "birth_state": "SC",
+  "birth_city": "Bom Retiro",
+  "sex": "M",
+  "email": "sen.darioberger@senado.leg.br"
 }

@@ -73,5 +73,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PEDRO DEBONI LUPION MELLO",
+  "date_of_birth": "1983-06-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Curitiba",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/pedro_lupion",
+    "https://www.facebook.com/pedrolupion",
+    "https://www.instagram.com/pedrolupion"
+  ],
+  "website": null
 }

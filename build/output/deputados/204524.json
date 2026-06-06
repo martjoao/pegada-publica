@@ -55,5 +55,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANTÔNIO PINHEIRO NETO",
+  "date_of_birth": "1991-05-30",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/pinheirinhomg",
+    "https://www.facebook.com/pinheirinhomg",
+    "https://www.instagram.com/pinheirinhomg",
+    "https://youtube.com/channel/UCrsQcx5F8S_gHJTpfiE8FfA"
+  ],
+  "website": null
 }

@@ -44,5 +44,18 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DUDA BRITO RAMOS",
+  "date_of_birth": "1974-05-19",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AM",
+  "birth_city": "Benjamin Constant",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/soududaramos",
+    "https://www.facebook.com/dudaramos.rr",
+    "https://www.instagram.com/dudaramos.rr"
+  ],
+  "website": null
 }

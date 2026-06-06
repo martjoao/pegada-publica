@@ -38,5 +38,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "FRANCISCO ANTONIO LOPES DE PAULA BEZERRA",
+  "date_of_birth": "1983-11-01",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Ubajara",
+  "education": "Ensino Médio",
+  "social_media": [
+    "https://www.facebook.com/TotonhoLopesOficial",
+    "https://www.instagram.com/totonho.lopes"
+  ],
+  "website": null
 }

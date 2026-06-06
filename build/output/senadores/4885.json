@@ -57,5 +57,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Jorge Yoshiaki Yanai",
+  "date_of_birth": "1948-02-19",
+  "birth_state": "PR",
+  "birth_city": "Bandeirantes",
+  "sex": "M",
+  "email": "yanai@senador.leg.br"
 }

@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "AMARO ROCHA NASCIMENTO NETO",
+  "date_of_birth": "1976-12-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "ES",
+  "birth_city": "Vitória",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/amaronetotv",
+    "https://www.facebook.com/amaronetotv",
+    "https://www.instagram.com/amaronetotv"
+  ],
+  "website": "https://www.amaroneto.com.br/"
 }

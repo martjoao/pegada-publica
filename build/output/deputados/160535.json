@@ -84,5 +84,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DIONILSO MATEUS MARCON",
+  "date_of_birth": "1964-09-21",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RS",
+  "birth_city": "Ronda Alta",
+  "education": "Primário Incompleto",
+  "social_media": [
+    "https://instagram.com/deputadomarcon",
+    "https://twitter.com/deputadomarcon",
+    "https://www.facebook.com/deputadomarcon"
+  ],
+  "website": null
 }

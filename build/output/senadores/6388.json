@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Mauricio Buffon",
+  "date_of_birth": "1976-04-20",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

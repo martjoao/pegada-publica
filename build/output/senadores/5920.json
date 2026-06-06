@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Flavio Marcelo Gonçalves Vicente",
+  "date_of_birth": "1971-04-17",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": null
 }

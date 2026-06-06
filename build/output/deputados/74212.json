@@ -157,5 +157,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANÍBAL FERREIRA GOMES",
+  "date_of_birth": "1953-06-07",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Rio de Janeiro",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }

@@ -79,5 +79,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ALESSANDRO LUCCIOLA MOLON",
+  "date_of_birth": "1971-10-28",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Doutorado",
+  "social_media": [
+    "http://www.facebook.com/deputadomolon",
+    "http://www.twitter.com/alessandromolon"
+  ],
+  "website": null
 }

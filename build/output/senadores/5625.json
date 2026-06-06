@@ -37,5 +37,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Adilson Silva dos Santos",
+  "date_of_birth": "1942-02-04",
+  "birth_state": "RS",
+  "birth_city": "Porto Alegre",
+  "sex": "M",
+  "email": null
 }

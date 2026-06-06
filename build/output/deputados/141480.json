@@ -108,5 +108,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LÁZARO BOTELHO MARTINS",
+  "date_of_birth": "1947-02-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "Loreto",
+  "education": "Secundário",
+  "social_media": [
+    "https://www.facebook.com/dep.lazaro/?locale=pt_BR",
+    "https://www.instagram.com/dep.lazaro/"
+  ],
+  "website": null
 }

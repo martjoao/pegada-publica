@@ -94,5 +94,16 @@
       "start": "2025-08-01T11:34",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "ANDRE DOS SANTOS ABDON",
+  "date_of_birth": "1970-11-10",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "education": "Superior",
+  "social_media": [
+    "https://www.instagram.com/andreabdon_"
+  ],
+  "website": null
 }

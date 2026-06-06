@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Antônio Mecias Pereira de Jesus",
+  "date_of_birth": "1962-02-08",
+  "birth_state": "MA",
+  "birth_city": "Graça Aranha",
+  "sex": "M",
+  "email": "sen.meciasdejesus@senado.leg.br"
 }

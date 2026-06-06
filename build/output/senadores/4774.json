@@ -64,5 +64,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "João Pedro Gonçalves da Costa",
+  "date_of_birth": "1952-09-14",
+  "birth_state": "AM",
+  "birth_city": "Parintins",
+  "sex": "M",
+  "email": "joaopedro@senador.leg.br"
 }

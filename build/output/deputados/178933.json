@@ -78,5 +78,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SERGIO DE SOUZA",
+  "date_of_birth": "1971-03-13",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Ivaiporã",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/_sergiosouza",
+    "https://www.facebook.com/sergiosouzaPR",
+    "https://www.instagram.com/sergiosouzapr",
+    "https://youtube.com/deputadofederalsergiosouza"
+  ],
+  "website": null
 }

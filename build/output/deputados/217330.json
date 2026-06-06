@@ -43,5 +43,14 @@
       "start": "2021-09-10T08:53",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "PEDRO DOS SANTOS MARTINS",
+  "date_of_birth": "1977-06-07",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PA",
+  "birth_city": "Belém",
+  "education": "Ensino Médio",
+  "social_media": [],
+  "website": null
 }

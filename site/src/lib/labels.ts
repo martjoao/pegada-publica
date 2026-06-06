@@ -25,8 +25,13 @@ export const STATUS_COLOR: Record<string, string> = {
   term_ended: "bg-stone-400",
 };
 
+const SEX_PT: Record<string, string> = { M: "Masculino", F: "Feminino" };
+
 export const statusLabel = (s: string | null): string =>
   s ? STATUS_PT[s] ?? s : "—";
+
+export const sexLabel = (s: string | null): string =>
+  s ? SEX_PT[s] ?? s : "—";
 
 export const conditionLabel = (c: string | null): string =>
   c ? CONDITION_PT[c] ?? c : "—";

@@ -52,5 +52,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Divino Donizeti Borges Nogueira",
+  "date_of_birth": "1955-10-15",
+  "birth_state": "MG",
+  "birth_city": "Prata",
+  "sex": "M",
+  "email": "donizeti.nogueira@senador.leg.br"
 }

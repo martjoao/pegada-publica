@@ -61,5 +61,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MARCELO EDUARDO FREITAS",
+  "date_of_birth": "1976-03-04",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Montes Claros",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/DelegadoFreitas",
+    "https://www.facebook.com/delegadomarcelofreitas",
+    "https://www.instagram.com/delegadomarcelofreitas",
+    "https://youtube.com/channel/UC-YDFg5FTo1FKRkav_mD6oQ"
+  ],
+  "website": null
 }

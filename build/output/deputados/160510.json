@@ -95,5 +95,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIS HENRIQUE DE OLIVEIRA RESENDE",
+  "date_of_birth": "1971-07-23",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MG",
+  "birth_city": "Belo Horizonte",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "https://twitter.com/LuisTibeOficial",
+    "https://www.facebook.com/luistibeoficial",
+    "https://www.instagram.com/deputadoluistibe/",
+    "https://www.youtube.com/watch?v=BuVmJsuVjuY"
+  ],
+  "website": null
 }

@@ -67,5 +67,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "MAURO NAZIF RASUL",
+  "date_of_birth": "1959-01-30",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RJ",
+  "birth_city": "Barra do Piraí",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/nazif_dr",
+    "https://www.facebook.com/DrMauroPVH/",
+    "https://www.instagram.com/depmauronazif/",
+    "https://www.youtube.com/channel/UC15p8GVh7lRhPRoQaXVz5yQ"
+  ],
+  "website": null
 }

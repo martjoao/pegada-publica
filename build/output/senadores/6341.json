@@ -45,5 +45,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Antonio Hamilton Martins Mourão",
+  "date_of_birth": "1953-08-15",
+  "birth_state": "RS",
+  "birth_city": "Porto Alegre",
+  "sex": "M",
+  "email": "sen.hamiltonmourao@senado.leg.br"
 }

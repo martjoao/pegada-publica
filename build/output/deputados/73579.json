@@ -151,5 +151,16 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOÃO ALBERTO FRAGA SILVA",
+  "date_of_birth": "1956-06-02",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SE",
+  "birth_city": "Estância",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/deputadoalbertofraga"
+  ],
+  "website": null
 }

@@ -60,5 +60,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "José da Cruz Marinho",
+  "date_of_birth": "1959-09-18",
+  "birth_state": "TO",
+  "birth_city": "Araguacema",
+  "sex": "M",
+  "email": "sen.zequinhamarinho@senado.leg.br"
 }

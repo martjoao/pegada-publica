@@ -84,5 +84,16 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZIANNE DE OLIVEIRA LINS",
+  "date_of_birth": "1968-11-18",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "CE",
+  "birth_city": "Fortaleza",
+  "education": "Doutorado",
+  "social_media": [
+    "https://twitter.com/luiziannelinsPT"
+  ],
+  "website": null
 }

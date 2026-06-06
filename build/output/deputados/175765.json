@@ -44,5 +44,16 @@
       "start": "2023-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "RIBAMAR ANTONIO DA SILVA",
+  "date_of_birth": "1975-05-27",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "Osasco",
+  "education": null,
+  "social_media": [
+    "https://www.instagram.com/ribamarsilvaoficial"
+  ],
+  "website": null
 }

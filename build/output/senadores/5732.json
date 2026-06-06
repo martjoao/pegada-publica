@@ -60,5 +60,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Rodrigo Otavio Soares Pacheco",
+  "date_of_birth": "1976-11-03",
+  "birth_state": "RO",
+  "birth_city": "Porto Velho",
+  "sex": "M",
+  "email": "sen.rodrigopacheco@senado.leg.br"
 }

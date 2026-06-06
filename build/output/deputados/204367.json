@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DANIEL COSTA DE FREITAS",
+  "date_of_birth": "1982-04-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SC",
+  "birth_city": "Criciúma",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/DFDanielFreitas",
+    "https://www.facebook.com/depdanielfreitas",
+    "https://www.instagram.com/danielcfreitas"
+  ],
+  "website": null
 }

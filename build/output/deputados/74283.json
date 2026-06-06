@@ -114,5 +114,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "VICENTE PAULO DA SILVA",
+  "date_of_birth": "1956-04-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "RN",
+  "birth_city": "Santa Cruz",
+  "education": "Pós-Graduação",
+  "social_media": [
+    "https://twitter.com/Vicentinhopt",
+    "https://www.facebook.com/DeputadoFederalVicentinho",
+    "https://www.instagram.com/vicentinho_pt",
+    "https://youtube.com/DeputadoFederalVicentinhoPTSP"
+  ],
+  "website": null
 }

@@ -44,5 +44,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE AROLDO SOUZA MARTINS",
+  "date_of_birth": "1961-07-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SP",
+  "birth_city": "São Paulo",
+  "education": "Doutorado",
+  "social_media": [],
+  "website": null
 }

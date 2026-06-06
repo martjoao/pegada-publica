@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Onésimo de Souza Cruz Netto",
+  "date_of_birth": "1981-09-03",
+  "birth_state": "RR",
+  "birth_city": "Boa Vista",
+  "sex": "M",
+  "email": null
 }

@@ -38,5 +38,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LEONARDO BARRETO DE MORAES",
+  "date_of_birth": "1984-01-11",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Foz do Iguaçu",
+  "education": "Mestrado Incompleto",
+  "social_media": [],
+  "website": null
 }

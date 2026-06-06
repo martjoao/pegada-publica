@@ -85,5 +85,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JOSE SIMPLICIO ALVES DE ARAUJO",
+  "date_of_birth": "1969-04-18",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MA",
+  "birth_city": "Bacabal",
+  "education": "Superior Incompleto",
+  "social_media": [
+    "http://www.facebook.com/simplicioaraujo",
+    "http://www.twitter.com/simplicioaraujo",
+    "https://www.instagram.com/simplicioaraujo/"
+  ],
+  "website": null
 }

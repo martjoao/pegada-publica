@@ -50,5 +50,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "HEITOR RODRIGO PEREIRA FREIRE",
+  "date_of_birth": "1981-10-08",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "CE",
+  "birth_city": "Juazeiro do Norte",
+  "education": "Mestrado",
+  "social_media": [
+    "https://twitter.com/HeitorFreireCE",
+    "https://www.facebook.com/heitorfreire",
+    "https://www.instagram.com/heitorfreire",
+    "https://youtube.com/channel/UCaXXMIj0Y_d4BJC0efhkFtA"
+  ],
+  "website": null
 }

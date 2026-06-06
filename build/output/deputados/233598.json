@@ -49,5 +49,17 @@
       "start": "2025-08-05T18:22",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "SAMUEL JOSE DOS SANTOS",
+  "date_of_birth": "1971-10-03",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "BA",
+  "birth_city": "Medeiros Neto",
+  "education": null,
+  "social_media": [
+    "https://www.facebook.com/SamuelSantos.PerfilOficial",
+    "https://www.instagram.com/eusousamuelsantos"
+  ],
+  "website": null
 }

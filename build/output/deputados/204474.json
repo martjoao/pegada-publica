@@ -73,5 +73,19 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "JUAREZ ALVES DA COSTA",
+  "date_of_birth": "1960-01-20",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PR",
+  "birth_city": "Londrina",
+  "education": "Ensino Médio Incompleto",
+  "social_media": [
+    "https://twitter.com/juarezcostamt",
+    "https://www.facebook.com/juarezcostamt",
+    "https://www.instagram.com/juarezcostamt",
+    "https://www.youtube.com/channel/UCKKA7s-2Lo6xKtZlgahT-aA"
+  ],
+  "website": null
 }

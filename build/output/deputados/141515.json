@@ -133,5 +133,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "OTAVIO SANTOS SILVA LEITE",
+  "date_of_birth": "1961-07-29",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "SE",
+  "birth_city": "Aracaju",
+  "education": "Mestrado Incompleto",
+  "social_media": [
+    "https://twitter.com/otavioleite",
+    "https://www.facebook.com/OtavioLeiteRJ"
+  ],
+  "website": null
 }

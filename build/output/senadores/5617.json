@@ -57,5 +57,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Sebastião Valadares Neto",
+  "date_of_birth": "1963-08-12",
+  "birth_state": null,
+  "birth_city": null,
+  "sex": "M",
+  "email": "pastor.valadares@senador.leg.br"
 }

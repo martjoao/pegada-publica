@@ -127,5 +127,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "LUIZ GONZAGA PATRIOTA",
+  "date_of_birth": "1946-04-26",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "PE",
+  "birth_city": "Sertânia",
+  "education": "Doutorado",
+  "social_media": [],
+  "website": null
 }

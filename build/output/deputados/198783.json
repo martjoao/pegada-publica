@@ -67,5 +67,18 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "EMANUEL PINHEIRO DA SILVA PRIMO",
+  "date_of_birth": "1995-01-05",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "MT",
+  "birth_city": "Cuiabá",
+  "education": "Superior",
+  "social_media": [
+    "https://twitter.com/emanuelzinhomt",
+    "https://www.facebook.com/emanuelpinheironeto",
+    "https://www.instagram.com/emanuelpinheironeto"
+  ],
+  "website": null
 }

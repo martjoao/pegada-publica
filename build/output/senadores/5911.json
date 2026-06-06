@@ -31,5 +31,11 @@
       "start": "1900-01-01",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "Maria do Rosário de Fátima Biserra Rodrigues",
+  "date_of_birth": "1954-01-07",
+  "birth_state": "PI",
+  "birth_city": "União",
+  "sex": "F",
+  "email": null
 }

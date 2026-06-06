@@ -67,5 +67,17 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "DULCE FERREIRA PAGANI MIRANDA",
+  "date_of_birth": "1963-12-15",
+  "date_of_death": null,
+  "sex": "F",
+  "birth_state": "MG",
+  "birth_city": "Pocrane",
+  "education": "Superior",
+  "social_media": [
+    "https://www.facebook.com/dulcepaganimiranda",
+    "https://www.instagram.com/dulcemirandato"
+  ],
+  "website": null
 }

@@ -120,5 +120,14 @@
       "start": "2019-02-01T00:00",
       "end": null
     }
-  ]
+  ],
+  "civil_name": "VINICIUS DE AZEVEDO GURGEL",
+  "date_of_birth": "1978-07-31",
+  "date_of_death": null,
+  "sex": "M",
+  "birth_state": "AP",
+  "birth_city": "Macapá",
+  "education": "Superior",
+  "social_media": [],
+  "website": null
 }
