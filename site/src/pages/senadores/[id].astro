@@ -6,6 +6,7 @@ import {
   statusColor,
   conditionLabel,
   partyColor,
+  sexLabel,
 } from "../../lib/labels";
 
 export function getStaticPaths() {
@@ -18,6 +19,9 @@ const sen = loadSenator(id!);
 const base = import.meta.env.BASE_URL.replace(/\/?$/, "/");
 const fmt = (iso: string | null) =>
   iso ? iso.slice(0, 10).split("-").reverse().join("/") : "atual";
+
+const fmtDate = (iso: string | null) =>
+  iso ? iso.slice(0, 10).split("-").reverse().join("/") : null;
 
 // Party-history timeline on a true linear time axis, so legislature bands and
 // party segments align. Senate party history is continuous (from /filiacoes), not
@@ -88,6 +92,53 @@ const boundaries = legBands.map((b) => b.left).filter((x) => x > 0.5 && x < 99.5
       </div>
     </div>
   </div>
+
+  {
+    (sen.civil_name || sen.date_of_birth || sen.email) && (
+      <section class="mt-5">
+        <h2 class="mb-2 text-xs font-semibold uppercase tracking-wide text-slate-500">
+          Dados pessoais
+        </h2>
+        <dl class="grid grid-cols-[auto_1fr] gap-x-4 gap-y-1 text-sm">
+          {sen.civil_name && sen.civil_name !== sen.name && (
+            <>
+              <dt class="text-slate-500">Nome civil</dt>
+              <dd>{sen.civil_name}</dd>
+            </>
+          )}
+          {sen.date_of_birth && (
+            <>
+              <dt class="text-slate-500">Nascimento</dt>
+              <dd>
+                {fmtDate(sen.date_of_birth)}
+                {(sen.birth_city || sen.birth_state) && (
+                  <span class="text-slate-500">
+                    {" "}· {[sen.birth_city, sen.birth_state].filter(Boolean).join(" / ")}
+                  </span>
+                )}
+              </dd>
+            </>
+          )}
+          {sen.sex && (
+            <>
+              <dt class="text-slate-500">Sexo</dt>
+              <dd>{sexLabel(sen.sex)}</dd>
+            </>
+          )}
+          {sen.email && (
+            <>
+              <dt class="text-slate-500">E-mail</dt>
+              <dd>
+                <a href={`mailto:${sen.email}`} class="text-[#1f3a5f] hover:underline">
+                  {sen.email}
+                </a>
+              </dd>
+            </>
+          )}
+        </dl>
+      </section>
+    )
+  }
 
   <section class="mt-6">
     <h2 class="mb-2 text-xs font-semibold uppercase tracking-wide text-slate-500">
