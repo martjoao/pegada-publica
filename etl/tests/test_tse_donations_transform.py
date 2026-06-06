@@ -17,6 +17,7 @@ from transform.tse.donations import (
 )
 from transform import db as txdb
 from transform.tse.donations import load_candidates
+from transform.tse.donations import backfill_senator_cpf
 
 
 # ── Helper tests ──────────────────────────────────────────────────────────────
@@ -205,3 +206,72 @@ def test_load_candidates_deduplicates_by_highest_round(tmp_path):
     rows_db = conn.execute("SELECT * FROM tse_candidate").fetchall()
     assert len(rows_db) == 1
     assert rows_db[0]["election_result"] == "elected"   # round-2 result wins
+
+
+# ── backfill_senator_cpf tests ────────────────────────────────────────────────
+
+def _insert_senator(conn, senator_id, civil_name, cpf=None):
+    conn.execute(
+        "INSERT INTO senator (id, name, civil_name, cpf) VALUES (?, ?, ?, ?)",
+        (senator_id, f"Sen {senator_id}", civil_name, cpf),
+    )
+
+
+def test_backfill_senator_cpf_matches_by_normalized_name(tmp_path):
+    conn = _db(tmp_path)
+    _insert_senator(conn, 1, "João da Silva Pereira")
+    conn.execute(
+        "INSERT INTO tse_candidate (election_year, office, tse_seq, cpf, name, party, state) "
+        "VALUES (2022, 'senator', 200, '98765432100', 'JOÃO DA SILVA PEREIRA', 'PT', 'SP')"
+    )
+    conn.commit()
+
+    backfill_senator_cpf(conn)
+
+    cpf = conn.execute("SELECT cpf FROM senator WHERE id = 1").fetchone()["cpf"]
+    assert cpf == "98765432100"
+
+
+def test_backfill_senator_cpf_handles_accents_and_case(tmp_path):
+    conn = _db(tmp_path)
+    _insert_senator(conn, 2, "Ângela Cristina Ünal")
+    conn.execute(
+        "INSERT INTO tse_candidate (election_year, office, tse_seq, cpf, name, party, state) "
+        "VALUES (2022, 'senator', 201, '11122233344', 'ANGELA CRISTINA UNAL', 'PL', 'RJ')"
+    )
+    conn.commit()
+
+    backfill_senator_cpf(conn)
+
+    cpf = conn.execute("SELECT cpf FROM senator WHERE id = 2").fetchone()["cpf"]
+    assert cpf == "11122233344"
+
+
+def test_backfill_senator_cpf_skips_null_civil_name(tmp_path):
+    conn = _db(tmp_path)
+    _insert_senator(conn, 3, None)   # no civil_name
+    conn.execute(
+        "INSERT INTO tse_candidate (election_year, office, tse_seq, cpf, name, party, state) "
+        "VALUES (2022, 'senator', 202, '55566677788', 'CARLOS NETO', 'MDB', 'MG')"
+    )
+    conn.commit()
+
+    backfill_senator_cpf(conn)   # must not raise
+
+    cpf = conn.execute("SELECT cpf FROM senator WHERE id = 3").fetchone()["cpf"]
+    assert cpf is None   # not updated
+
+
+def test_backfill_senator_cpf_logs_warning_on_no_match(tmp_path, caplog):
+    import logging
+    conn = _db(tmp_path)
+    conn.execute(
+        "INSERT INTO tse_candidate (election_year, office, tse_seq, cpf, name, party, state) "
+        "VALUES (2022, 'senator', 203, '99988877766', 'NOME SEM CORRESPONDENTE', 'PT', 'SP')"
+    )
+    conn.commit()
+
+    with caplog.at_level(logging.WARNING, logger="transform.tse.donations"):
+        backfill_senator_cpf(conn)
+
+    assert any("NOME SEM CORRESPONDENTE" in r.message for r in caplog.records)

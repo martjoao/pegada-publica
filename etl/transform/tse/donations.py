@@ -167,3 +167,42 @@ def load_candidates(
                     ),
                 )
         conn.commit()
+
+
+def backfill_senator_cpf(conn: sqlite3.Connection) -> None:
+    """Update senator.cpf from tse_candidate for matched senators.
+
+    Matches on normalized civil_name (uppercase, accents stripped). Senators
+    with null civil_name are skipped. Unmatched tse_candidate senator rows
+    produce a WARNING — expected for senators outside our 2018/2022 scope.
+    """
+    candidates = conn.execute(
+        "SELECT cpf, name FROM tse_candidate "
+        "WHERE office = 'senator' AND cpf IS NOT NULL"
+    ).fetchall()
+
+    senators = conn.execute(
+        "SELECT id, civil_name FROM senator WHERE civil_name IS NOT NULL"
+    ).fetchall()
+
+    senator_lookup: Dict[str, int] = {
+        _normalize_name(s["civil_name"]): s["id"] for s in senators
+    }
+
+    matched = 0
+    for cand in candidates:
+        normalized = _normalize_name(cand["name"])
+        senator_id = senator_lookup.get(normalized)
+        if senator_id is not None:
+            conn.execute(
+                "UPDATE senator SET cpf = ? WHERE id = ?",
+                (cand["cpf"], senator_id),
+            )
+            matched += 1
+        else:
+            log.warning(
+                "backfill_senator_cpf: no senator match for TSE name %r", cand["name"]
+            )
+
+    conn.commit()
+    log.info("backfill_senator_cpf: matched %d / %d candidates", matched, len(candidates))
