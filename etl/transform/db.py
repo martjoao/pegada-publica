@@ -15,6 +15,9 @@ import sqlite3
 from pathlib import Path
 
 SCHEMA = """
+DROP TABLE IF EXISTS tse_donation;
+DROP TABLE IF EXISTS tse_candidate;
+DROP TABLE IF EXISTS donor;
 DROP TABLE IF EXISTS name_history;
 DROP TABLE IF EXISTS party_affiliation;
 DROP TABLE IF EXISTS office_period;
@@ -90,7 +93,8 @@ CREATE TABLE senator (
   birth_state    TEXT,                  -- nullable
   birth_city     TEXT,                  -- nullable
   sex            TEXT,                  -- nullable; 'M' or 'F'
-  email          TEXT                   -- nullable
+  email          TEXT,                  -- nullable
+  cpf            TEXT                   -- nullable; internal only (LGPD); backfilled by TSE transform
 );
 
 -- One row per legislature a mandate covers (the 8-year mandate spans two terms).
@@ -136,6 +140,43 @@ CREATE TABLE source (
   legislature  INTEGER,
   fetched_at   TEXT,
   record_count INTEGER
+);
+
+CREATE TABLE tse_candidate (
+  id              INTEGER PRIMARY KEY,
+  election_year   INTEGER NOT NULL,
+  office          TEXT NOT NULL,        -- federal_deputy | senator | president
+  tse_seq         INTEGER NOT NULL,     -- SQ_CANDIDATO (unique within year)
+  cpf             TEXT,                 -- NR_CPF_CANDIDATO; internal only (LGPD)
+  name            TEXT NOT NULL,        -- NM_CANDIDATO
+  party           TEXT NOT NULL,        -- SG_PARTIDO
+  state           TEXT NOT NULL,        -- SG_UF
+  election_result TEXT,                 -- elected | not_elected | alternate | invalidated | withdrew | pending | NULL
+  deputy_id       INTEGER REFERENCES deputy(id),
+  senator_id      INTEGER REFERENCES senator(id),
+  UNIQUE(election_year, tse_seq)
+);
+
+CREATE TABLE donor (
+  id         INTEGER PRIMARY KEY,
+  cpf_cnpj   TEXT UNIQUE,              -- nullable (party transfers carry none); internal only (LGPD)
+  name       TEXT NOT NULL,
+  city       TEXT,
+  state      TEXT,
+  donor_type TEXT                       -- individual | company | party | unknown
+);
+
+CREATE TABLE tse_donation (
+  id                INTEGER PRIMARY KEY,
+  election_year     INTEGER NOT NULL,
+  tse_candidate_id  INTEGER NOT NULL REFERENCES tse_candidate(id),
+  donor_id          INTEGER NOT NULL REFERENCES donor(id),
+  amount            REAL NOT NULL,
+  date              TEXT,               -- ISO-8601 YYYY-MM-DD
+  funding_source    TEXT,               -- individual_donation | self_funding | party_transfer |
+                                        --   electoral_fund | party_fund | candidate_transfer | other
+  receipt_number    TEXT,
+  UNIQUE(election_year, receipt_number)
 );
 """
 

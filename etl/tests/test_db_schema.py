@@ -154,7 +154,8 @@ class TestSenatorColumns:
         assert "email" in cols
         assert cols["email"]["notnull"] is False
 
-    def test_senator_has_no_cpf_column(self, schema_conn):
-        """cpf is deferred for senator — confirm it is absent from the table."""
+    def test_cpf_exists_and_is_nullable(self, schema_conn):
+        """cpf column was added to senator for TSE backfill; confirm it is nullable."""
         cols = _column_info(schema_conn, "senator")
-        assert "cpf" not in cols
+        assert "cpf" in cols
+        assert cols["cpf"]["notnull"] is False
