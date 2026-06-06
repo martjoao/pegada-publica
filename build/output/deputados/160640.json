@@ -122,5 +122,211 @@
     "https://www.facebook.com/erosbiondini",
     "https://www.instagram.com/ErosBiondini"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1700000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1067405.48,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCO ANTONIO MARTINS PATRUS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS JACOBINO LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GREGOR LIMA VIANA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIO BATISTA MIRANDA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARINA MARTINS PATRUS PARDINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIO ALAOR DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CARLOS DE SOUZA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 WELITON FERNANDES PRADO DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 5166.63,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOEL ANTONIO DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAPHAEL RIBEIRO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RONALDO GOMES DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CESAR ANTONIO ARCI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERIVALDA LEOCADIA SUZUKI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LICIO MOREIRA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2866.67,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOAO BIONDINI JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2473.82,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO PEDROSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA EDUARDA FREITAS SA DORNELA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HALPH CARVALHO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

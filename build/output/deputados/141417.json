@@ -104,5 +104,157 @@
     "https://twitter.com/ediolopes",
     "https://www.instagram.com/deputadoediolopes"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1800000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA FRANCISCA BRAGA ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11040.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELTON VIEIRA LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAILSON LOPES DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCA BRAGA ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3680.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE HENRIQUE PEREIRA STUMPF",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GONCALO MELO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIA DE ANDRADE BRASIL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA GHORETTI LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "KELYHORRARA LIMA FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUZILENE DA CRUZ MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROBSON MORAIS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIS COSMO DA SILVA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GIDALIAS DA SILVA ASSIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDIO VIEIRA LOPES",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "individual",
+      "total_amount": 1064.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -52,5 +52,88 @@
   "birth_city": "Belém",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO NACIONAL DO PARTIDO SOCIAL CRISTAO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1700000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 DAVID SAMUEL ALCOLUMBRE TOBELEM GOVERNADOR",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 121408.45,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NATHALIA TEIXEIRA RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RENIVALDO NASCIMENTO DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLEA LUCIA DOS SANTOS ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CATARINA DOS SANTOS MARTINS SCHNEIDER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4025.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RIBANES NASCIMENTO DE AGUIAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO CARDOSO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -66,5 +66,207 @@
   "birth_state": "MS",
   "birth_city": "Dourados",
   "sex": "F",
-  "email": "sen.sorayathronicke@senado.leg.br"
+  "email": "sen.sorayathronicke@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "MICHEL ABDULAHAD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JERICO VIEIRA DE MATOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WILSON JOSE VELASQUEZ MAKSOUD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CECILIA NASCIMENTO CRIPPA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADOLPHO FERREIRA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROBERTO JOSE MOSENA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MILTON INSUELA PEREIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILBERTO ANTONIO MOSENA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA LUCIA DE LIMA BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CELSO GENOUD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ILDA VIEIRA GENOUD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS GENOUD NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ISOLINA MARQUES LOPES SANCHES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS CESAR DE LIMA BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROLIM DE LIMA BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BERNARDO THRONICKE BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS PEREIRA BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CASSIA FERREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDER LUIZ REDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OSCAR ANDRE NUNES AQUINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

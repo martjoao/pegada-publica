@@ -83,5 +83,208 @@
   "birth_city": "Campos dos Goytacazes",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIAL DEMOCRATICO - RIO DE JANEIRO / RJ.",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 806547.15,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CAIO SANTOS VIANNA",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 98000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 PEDRO HENRIQUE FERNANDES DA SILVA GOVERNADOR",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ARLETE VIANA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ERIC SERPA AREAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DENISE MARILIA ESTEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ALTAMIR BARBARA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZA AZEVEDO SIQUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NEUSA MARTINI SIQUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DE FATIMA AZEVEDO MANHAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEDEA MARIA SOARES CAVALCANTE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSIANE REBEL ALBERNAZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TATIANA FALQUER PESSANHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BRUNO VICENTE TAVARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALCIDES TRAJANO DE LUNA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA CELESTE FALQUER PESSANHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ GUSTAVO OLIVEIRA CARREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JORGE LUIZ DA SILVA GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VITOR PALHARES DE CARVALHO GONCALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

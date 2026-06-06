@@ -70,5 +70,210 @@
   "birth_city": "Mossoró",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2022550.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO PROGRESSISTA - COMISSAO PROVISORIA ESTADUAL",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "company",
+      "total_amount": 487482.37,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO DE SOUSA ROSADO SEGUNDO",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "individual",
+      "total_amount": 62178.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO ROBERTO GIORGI MONTEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO DE SOUSA ROSADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ISOARES MARTINS DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE HAMILTON MANDARINO DE MELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ISAURA AMELIA DE SOUZA ROSADO MAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEILA BANDEIRA HONORATO REGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8311.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "KATIA MARIA CARDOSO PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JACKSON RANIELLY GOMES DE FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO FREITAS ALMEIDA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANNE KATHERINE DE HOLANDA BEZERRA ROSADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLEIDE ALMEIDA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO NILTON DE FREITAS REGO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO NILTON DE FREITAS REGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "YURI TASSO DUARTE QUEIROZ PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO MATOS CASCUDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ITAMAR RIBEIRO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALVARO ROBERTO BARROS COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2900.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

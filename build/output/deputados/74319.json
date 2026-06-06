@@ -172,5 +172,77 @@
   "birth_city": "São João do Piauí",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2116000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1150000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 727000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - PIAUI - PI - ESTADUAL",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 THEMISTOCLES DE SAMPAIO PEREIRA FILHO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 13774.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA CATHARINA CORNELIO PESSOA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ABEL MODESTO PAES LANDIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 961.53,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

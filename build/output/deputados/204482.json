@@ -82,5 +82,208 @@
   "birth_city": "Governador Valadares",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO NACIONAL DO PARTIDO SOCIAL CRISTAO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3691000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 LUCIANO DE OLIVEIRA E SILVA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 51500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALTINO MACHADO D OLIVEIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WEBSTER MOURA DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13855.560000000001,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO CARLOS DA FONSECA SABARA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GEIVSON DOS SANTOS PATROCINIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12748.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROBSON DE OLIVEIRA CAMPOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10739.7,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO ANDRADE DE SOUZA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS MAGNO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9047.2,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ARTHUR ALVES ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SAULO SOARES DIAMANTINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7284.15,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ALTINO MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RIVIANY MARCIA DE ALMEIDA TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6373.35,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE TELISMAR SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6051.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HALDREY TEIXEIRA BARRETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6051.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME ARAUJO ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6051.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELOA GUEDES VARGAS FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5047.2,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KARLA MARIA LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5047.2,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO VIEIRA DA SILVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WALTON CARDOSO LIMA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2800.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

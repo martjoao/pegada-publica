@@ -51,5 +51,167 @@
     "https://www.facebook.com/camilajarams",
     "https://www.instagram.com/camilajarams"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 743605.09,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 GISELLE MARQUES DE ARAUJO GOVERNADOR",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 39600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JOSE ORCIRIO MIRANDA DOS SANTOS DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 22500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SARA MARA PALHANO ARGIRIN DE FIGUEIREDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RABIH NASSER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 AMARILDO VALDO DA CRUZ DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 HUMBERTO CARLOS RAMOS AMADUCCI DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 1550.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDNA BAZACHI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HIRAN CATUNINHO AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCAS NETO DE EMILIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IRENE RODRIGUES DE MENDONCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDITE DE MORAES DOS ANJOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALVARO MARZOCHI JARA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO CRUZ ALFAIA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO ANTONIO ARGIRIN DE FIGUEIREDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THASSIA ADRIANA DA SILVA MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -51,5 +51,97 @@
     "https://www.facebook.com/atilalirapi",
     "https://www.instagram.com/atilalirapi/#"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "LIA RACQUEL CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 SILVIO MENDES DE OLIVEIRA FILHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 4632.83,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MANOEL FERREIRA PACIFICO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE GOMES DO AMARAL NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILBERTO ANTONIO NEVES PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ATILA FREITAS LIRA",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA HELENA COELHO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1750.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL COELHO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 969.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "INDIRA MARIA DE MELO LIRA PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

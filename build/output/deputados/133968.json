@@ -81,5 +81,177 @@
     "https://www.instagram.com/deputadopauloramosrj",
     "https://youtube.com/deputado_pauloramos"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PDT - PARTIDO DEMOCRATICO TRABALHISTA DIRETORIO RJ",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 PEDRO HENRIQUE FERNANDES DA SILVA GOVERNADOR",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO SERGIO RAMOS BARBOZA",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 9999.99,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDSON FORTES RANGEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RENAN MOREIRA LACERDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TECIO DUARTE COLLARO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AUGUSTO MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SHEILA MORGADO SAMPAIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIANA BARBOSA DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO ROBERTO FERNANDES RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO CESAR GOMES DE ASSIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JORGE LUIZ BARBOSA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MERCIA ROZEMARLY DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCAS MACHADO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MONICA MONTEIRO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAIZE DOMINGOS DE ASSIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIETE FERRER CEBRIAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -52,5 +52,17 @@
     "https://www.instagram.com/rogeriasantosoficial",
     "https://youtube.com/channel/UCWe-7aMx_Q87rZIbh7ccbyw"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BAHIA - ESTADUAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 73.53,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

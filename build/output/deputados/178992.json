@@ -91,5 +91,210 @@
     "https://www.facebook.com/vitorlippi",
     "https://www.instagram.com/vitorlippi"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3275000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO DE GODOY BUENO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HUMBERTO BARBATO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 75000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALBERTO EIGIER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO AIRTON GEHLEN ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 43000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 32333.36,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA HELENA MARCHESAN MATTURRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE LUIZ ALBERTO MARCHESAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO CARLOS MARCHESAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA CECILIA BASTIA MARCHEZAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GINO PAULUCCI JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CARLOS RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILBERTO POLETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO SEIJI BERNARDES NISHIMURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIO CAMARGO PENTEADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SELMA PEDROSO LIPPI RACHKORSKY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ARIEL BOZZA AMAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MAURILIO BIAGI FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO LEANDRO DA COSTA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE GERALDO ANTUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

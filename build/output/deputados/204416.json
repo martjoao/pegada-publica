@@ -91,5 +91,209 @@
     "https://www.instagram.com/deputadosanderson",
     "https://youtube.com/channel/UC3bESW2nMM1EW-in7OwlKwg?view_as=subscriber"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "GILSON LARI TRENNEPOHL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE SALIM MATTAR JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL SCARTON STROHSCHEIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 44000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVANISE MARISTANA SCARTON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO STAPELBROEK TRENNEPOHL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO MARIO ZANETTI JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO BAIAO ZANETTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 26064.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO TURCATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME SCOZZIERO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIA STAPELBROEK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCO ANTONIO DE CASTRO LUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5836.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ONELIO PILECCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NELSON MAGALHAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THIAGO SOMMER FONTOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SINESIO DANILO REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANGELO BUSANELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UBIRATAN ANTUNES SANDERSON",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO JAIRO MARTINS DE FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TIAGO ARNHOLD LUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO CARLOS ZANDONA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4100.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -73,5 +73,212 @@
     "https://www.facebook.com/AdrianoDoBaldyOficial",
     "https://www.instagram.com/adrianodobaldyoficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3865629.5,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO PROGRESSISTA",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 477200.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LUANA BARBOSA LIMIRIO GONCALVES DE SANT ANNA BRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 249890.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ADRIANO ANTONIO AVELAR",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 110000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO DE SOUZA RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA JOSE TEIXEIRA GONTIJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALFREDO ANGELO SONCINI FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ ANTONIO VESSANI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ALEXANDRE BALDY DE SANT ANNA BRAGA SENADOR",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 19500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PABLO GEOVANNI MOREIRA BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CELISMAR FERREIRA BORGES ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO LIMA SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WISNER ARAUJO DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERITON ORLANDO DE OLIVEIRA BECKENKAMP",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO SAUL CHIARELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDVALDO DA SILVA LINHARES NETTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AFONSO NOGUEIRA GORDO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2300.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CHARLES TELES MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2300.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "AGENOR FERREIRA NICK BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

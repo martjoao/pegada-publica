@@ -37,5 +37,6 @@
   "birth_state": "PA",
   "birth_city": "Chaves",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

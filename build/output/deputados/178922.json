@@ -64,5 +64,139 @@
   "birth_city": "Juazeiro do Norte",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1300000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO EUSTACIO FERNANDES VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIALISTA BRASILEIRO - PSB",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 47904.26,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE CAVALCANTI ROSA E SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME PEIRAO LEAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ FERNANDO MOTA DUBEUX",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO CLAUDINO PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MAX DE SOUZA CORREA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIOLA PALATINIC LAPENDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROBERTO BRAYNER SAMPAIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALDEMARIO ARAUJO CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANA HOFF",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ ALLENDE TOHA DE LIMA BASTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

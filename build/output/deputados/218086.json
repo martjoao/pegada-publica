@@ -73,5 +73,149 @@
     "https://instagram.com/deputadafederal_elysantos?utm_medium=copy_link",
     "https://pt-br.facebook.com/oficialelysantos/"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 2033518.3,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1787828.32,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO REPUBLICANO BRASILEIRO - PRB",
+      "city": "EMBU DAS ARTES",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LOURIVAL DOMINGUES DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2682.0699999999997,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE ADRIANO OLIVEIRA TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CRISTIANO DE JESUS MACIEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THAYSA PINHEIRO MONTEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EUSICE PEREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WALTER DO NASCIMENTO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ISIDORIO MARTINS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1907.53,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ROBERTO RODRIGUES MEDINA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1598.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALDIRIO LIMA TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1421.01,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL DE PROENCA MARCONDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1413.2,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO GABRIEL PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 809.09,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -105,5 +105,208 @@
     "https://www.instagram.com/deputadoricardoizar/",
     "https://www.youtube.com/user/ricardoizar"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1960692.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1750000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO IZAR JUNIOR",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 269950.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS JEREISSATI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 75000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDUARDO ELIAS SAUMA RESK FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VERA LYGIA BUSSAB SALIBA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARISA MAUAD IZAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSUE SAMPAIO BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 5339.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE AUGUSTO DO NASCIMENTO RIBEIRO SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO JAMIL SALIBA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO JAMIL SALIBA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIO ERNESTO ZARZUR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO ERNESTO ZARZUR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIEGO FARAH FERRERO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RONALDO DE ARAUJO VIEGAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HALIM AIDAR NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CESAR AUGUSTO YAMAGUISHI TSUKUDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 CAIO FRANCA DE GOUVEA GOMES DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 960.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 FABIO SARTORI MANFRINATO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 15.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

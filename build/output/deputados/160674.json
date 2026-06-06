@@ -105,5 +105,130 @@
   "birth_city": "João Pessoa",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2385374.2800000003,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - PARAIBA - PB - ESTADUAL",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "company",
+      "total_amount": 125927.88,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HUGO MOTTA WANDERLEY DA NOBREGA",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "individual",
+      "total_amount": 80000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SANDRO DA MABEL ANTONIO SCODRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAIMUNDO LIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SEVERINO MEDEIROS RAMOS NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NABOR WANDERLEY DA NOBREGA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCA GOMES ARAUJO MOTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ILANNA ARAUJO MOTTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3200.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JOAO AZEVEDO LINS FILHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "company",
+      "total_amount": 2118.64,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIA DE FATIMA SOUSA BEZERRA FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOAO AZEVEDO LINS FILHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "company",
+      "total_amount": 350.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

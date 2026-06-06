@@ -57,5 +57,67 @@
     "https://www.facebook.com/pauloalexandrebarbosapsdb",
     "https://www.instagram.com/pauloalexandrebarbosa"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3123000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA SANTOS SP MUNICIPAL",
+      "city": "SANTOS",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 7963.01,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO SIMAS DE JESUS OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DAS NEVES FARIA DE SOUZA E CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE FALCHI BUENO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

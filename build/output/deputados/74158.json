@@ -141,5 +141,212 @@
   "birth_city": "Manhumirim",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MARIO LUCIO HERINGER",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 1710000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1700000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO JOSE EIRAS DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 120000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ALBA REGINA RIBEIRO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 75000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NEEMIAS MACHADO DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 72000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "HELIO CESAR TELLES PRIMO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CRISTINA HELENA TOULIAS HERINGER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 61850.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FLAVIO COUTO BERNARDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BERNARDO LUZ GOVERNO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS FERNANDO FORNASARI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 49575.16,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA MONICA SABBA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 43500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LEONARDO ANTUNES DA CONCEICAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 42000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE TUPY CALDAS DE MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 42000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ANTONIO MATOS PARAMO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSANGELA LOPES FURTADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 37963.18,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUILHERME XAVIER JACCOUD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 32000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VITOR LUIZ FERREIRA GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GEDALIAS HERINGER FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO ROLIM BOHM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -108,5 +108,208 @@
     "https://www.facebook.com/chicodangelo",
     "https://www.instagram.com/chicodangelo"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1930000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MAURO LUIS LAPA E SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 PEDRO HENRIQUE FERNANDES DA SILVA GOVERNADOR",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BARBARA DA SILVA SIQUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7338.08,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLAUDIO DA SILVA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FILINTO DOS ANJOS DO SOUTO BRANCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL VARGAS DA SILVA COELHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO VICTOR COELHO CERBINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANA CARVALHO BRANDAO VENTURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE RENATO DA GAMA BARANDIER JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO CARLOS COUTINHO CARINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4285.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEANDRO ALVES CECCHETTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO BATISTA CARVALHO E SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JANAINA CARVALHO MARCHON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO ANTONIO OLIVEIRA DOS REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MANUEL DA SILVA MACHADO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CAMILO DE LELLIS MACHADO MASSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1001.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS FELIPE SA BAIONETA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALEXANDRE MONTEIRO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IGOR SOARES TARGINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

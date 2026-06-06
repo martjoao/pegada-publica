@@ -64,5 +64,159 @@
   "birth_city": "João Pessoa",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1950000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO PROGRESSISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 711500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ISRAEL THIERRY DE SOUZA FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL LOURENCO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIZABETH SILVA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA TERCIA RODRIGUES DE ALBUQUERQUE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTOMARI TRAJANO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WILLAMS DE LIMA NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "KELIANE SILVA ALVES DE FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIVALDO SILVA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NIVALDO MANOEL DE SOUZA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIZA DE CARVALHO MENDONCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WESLLEY TRAJANO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSIVALDO BARBOSA DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUCELIO CARTAXO PIRES DE SA GOVERNADOR",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "company",
+      "total_amount": 233.34,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

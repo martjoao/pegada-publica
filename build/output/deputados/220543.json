@@ -51,5 +51,207 @@
     "https://www.facebook.com/ricardoayres.to",
     "https://www.instagram.com/ricardoayres_to"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 600000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE EDUARDO GUIMARAES MOTTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MATEUS BELIZARIO SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIO HENRIQUE MATHEUS PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO AYRES DE CARVALHO",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCA DE ASSIS MAGALHAES OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIVANE MENESES CARNEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 WANDERLEI BARBOSA CASTRO GOVERNADOR",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 7600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GERALDO AYRES DA SILVA NEIVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE GILDO GONCALVES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA LUCIA KAMEI MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA LUIZA RODRIGUES TEIXEIRA DA MATA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JEREMIAS DEMITO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JESSE ALVES DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA MADALENA NUNES CAVALARI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LORENA PECLAT BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 4531.25,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO MOREIRA MARTINS NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HERCULANO MARQUES MIRANDA DE ARAUJO BITTENCOURT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROGERIO FARIA NUNES DE BRITO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -74,5 +74,209 @@
     "https://www.facebook.com/deputadofederalacaciofavacho",
     "https://youtube.com/channel/UCWNbptIjAriL2pt8H3W6CGw"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1620000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 720316.3,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELITON CHAVES FRANCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20450.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "NUBIA DOS SANTOS MACEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16800.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANDRESSA BARBOSA SILVA GURGEL DO AMARAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCO ANTONIO DE OLIVEIRA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ACACIO DA SILVA FAVACHO NETO",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO ANTONIO BRAGA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RUBENS JOSE BARROS GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAQUIM MARCELO GOMES FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CIPRIANA DOS SANTOS MACEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ CARLOS DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GLEICIANE LOURENCO MAFRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL DOS SANTOS DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7022.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE LUIZ AMARAL PINGARILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROBSON BEZERRA DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUANY CRYSTY FERREIRA FAVACHO SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ITALO BRUNO CALDAS PAULO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DO SOCORRO GUEDES COELHO MARINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HEVELIN AZEVEDO MONTEIRO DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -51,5 +51,207 @@
     "https://www.facebook.com/renilcenicodemos",
     "https://www.instagram.com/renilcenicodemoss"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 387500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RENILCE CONCEICAO NICODEMOS DE ALBUQUERQUE",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "individual",
+      "total_amount": 238000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEYVISON KASSIO VERAS DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DA PIEDADE ALVES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THALES BARROS DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSMAR GILSON DE OLIVEIRA MATOGROSSO COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "OLENIO CAVALLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MILTON SPERAFICO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE COSTA DA MATA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILVAIR DIAS LADEIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRUNO ROCHA RUY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCO ANTONIO DE AZEVEDO ALVES MACHADO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIGUEL ANGELO SCARAMUSSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA PAULA ROSA SCARAMUSSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AUGUSTO PRAXEDES NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE VITORIO DEPRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WANDERSON ANTUNES DOS REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KLLEVISON NASCIMENTO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 HELDER ZAHLUTH BARBALHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 16100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 WENDERSON AZEVEDO CHAMON DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 13675.1,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

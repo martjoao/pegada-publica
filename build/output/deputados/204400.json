@@ -64,5 +64,67 @@
     "https://www.instagram.com/alinesleutjes",
     "https://youtube.com/channel/UCcryiDLj86mGK2kPc4idoGg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "ALINE SLEUTJES",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 81635.4,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NEUDO ARI MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5755.85,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DAVI KATZENWADEL DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS EDUARDO FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2550.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLEUZA MARIA SCHIMIDT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDUARDO MEDEIROS GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

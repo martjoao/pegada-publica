@@ -59,5 +59,207 @@
   "birth_city": "São Paulo",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 RAFAEL HENRIQUE CANO TELHADA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILVANA LEONARDO FESTA MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 37500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DOMINGOS NELSON MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 37500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE PAULO MARCOLINO ROSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIO CAMARGO PENTEADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REJANE ALVES FRUJUELE FARINA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA MARTA FLOREZE SARRAF",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IVANIA CANO TELHADA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ OLIVEIRA DA SILVEIRA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MELINA LOURENCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NANCY APARECIDA DE FREITAS ROSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SIRLEI PEREIRA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PATRICIA CRISTIAN LAFURIA LOQUETE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VICTOR SCHALCH",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CELSO VOLPATO SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIA FIGUEIRA DUARTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GIOVANNA TREVIZAN BENIGNO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAVID DENIS LOBAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

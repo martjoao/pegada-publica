@@ -37,5 +37,6 @@
   "birth_state": "GO",
   "birth_city": "Pires do Rio",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

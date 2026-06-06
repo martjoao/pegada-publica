@@ -91,5 +91,207 @@
     "https://twitter.com/raimundocostaba",
     "https://www.facebook.com/oficialraimundocosta"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PODEMOS - BAHIA - BA - ESTADUAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO CELSO GUERRA LAGE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO MAGALHAES COSTA",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "individual",
+      "total_amount": 57000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVANILDA MALTA LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE GEORGE SANTANA DA HORA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WELLINGTON NUNES DA HORA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ARILSON SANTOS DA HORA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIZEU SOUZA DA CONCEICAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ABIZAEL DE JESUS DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIS GUILHERME SILVA SANTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO HERALDO ALVES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUSECI MENDES SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO SERGIO SOUZA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AILTON NASCIMENTO DA SILVA CAMPOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDA SEARA FONSECA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO BATISTA GOMES REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSEMARY RABELO DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO SANTANA DE ARAUJO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SAULO SANTANA DE ARAUJO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VICTOR REINAN LEMOS COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

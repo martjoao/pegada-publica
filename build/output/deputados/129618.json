@@ -177,5 +177,78 @@
   "birth_city": "Juazeiro do Norte",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4900000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO VALADARES GONTIJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIELLE PEREIRA REGADAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCAS RIBEIRO DE AQUINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DALILA DRISANA GOMES GONCALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA DALIA DE FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2574.9300000000003,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERICA BEZERRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2175.76,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

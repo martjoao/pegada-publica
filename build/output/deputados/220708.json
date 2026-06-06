@@ -47,5 +47,27 @@
   "birth_city": "Recife",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 24366.67,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

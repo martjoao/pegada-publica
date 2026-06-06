@@ -106,5 +106,207 @@
   "birth_city": "Natal",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "company",
+      "total_amount": 1020000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDUARDO BEZERRA CARIELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO MESQUITA DE FARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SERGIO HENRIQUE ANDRADE DE AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO ROCHA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALDO CLEMENTE DE ARAUJO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RUY PEREIRA GASPAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO ALVES DE CARVALHO BASTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FELIPE VARELA ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BRUNO GURGEL DE FARIA DINIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALUISIO BEZERRA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DAVID MARINHO ALVARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MURILO DINIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEONARDO GURGEL DE FARIA DINIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROMULO DE MEDEIROS CIRNE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PATRICIA GURGEL BEZERRA DE MELO LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAFAEL VARELLA GOMES DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO SALDANHA TOSCANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALESSANDRO HENRIQUE SILVA PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ERICK WANDERLEY GURGEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

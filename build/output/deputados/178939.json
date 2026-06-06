@@ -94,5 +94,157 @@
   "birth_city": "Campos dos Goytacazes",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 787815.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 700000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EXECUTIVA MUNICIPAL DO PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "TERESÓPOLIS",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 300000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARCELO JANDRE DELAROLI VICE-GOVERNADOR",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MAGNUM ESCORZA SODRE DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RICARDO ALEXANDRE DIAS DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARCELO MURTA MESSEDER FILHO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LAZARO BRUNO DOS SANTOS OLIVEIRA DE MELO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LEONARDO CORREIA SANTOS DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 SERGIO DE OLIVEIRA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 3750.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 EVANDRO DIVINO MACHADO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 3750.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIANA RAMOS RABHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TAMARA GISELDA LEY MODESTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1890.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MANOEL LUIS DE FREITAS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO HENRIQUE ESTEVES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

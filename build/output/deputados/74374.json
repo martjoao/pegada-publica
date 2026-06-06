@@ -158,5 +158,149 @@
     "https://www.instagram.com/geraldoresendems",
     "https://youtube.com/channel/UCbnj5-ROiu04qLttEG6HNmQ"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2625000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "GERALDO RESENDE PEREIRA",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "individual",
+      "total_amount": 75500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CANDIDO BOTELHO BRACHER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 66666.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELINO FLORES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIMITRIOS MARKAKIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO LUIZ PEREIRA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA PAULINA FERREIRA ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 REINALDO AZAMBUJA SILVA GOVERNADOR",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 4453.34,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VICTOR DO PRADO GREGORIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCO AURELIO FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KARLA PAES MOREIRA RASSLAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 EDNEI MARCELO MIGLIOLI SENADOR",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 1781.1999999999994,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PSDB",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 1718.76,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEONARDO MALDONADO OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

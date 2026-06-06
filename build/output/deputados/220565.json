@@ -52,5 +52,177 @@
     "https://www.instagram.com/adriana_accorsi/",
     "https://www.youtube.com/channel/UCka3DO1hTh69qpZm27yjlmg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1050000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UBIRANI GUIMARAES DE PINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NELSON GONCALVES GALVAO",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUSTAVO ALVES GUERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "INOCENCIO GONCALVES BORGES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIO CESAR ANDRADE FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIA GOMES LOIOLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANIVALDO BATISTA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NOEL FERREIRA SAMPAIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RUTH APARECIDA MARQUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GASPARINA MARIA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HESLY DOMINGUES FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SANDOVAL DE SOUSA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIMAR BORGES DA SILVA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ODETH CANDIDA PEREIRA GONCALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 WOLMIR THEREZIO AMADO GOVERNADOR",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CESAR LUIS SILVA CAVALCANTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

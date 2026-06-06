@@ -105,5 +105,210 @@
   "birth_city": "Brejo do Cruz",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3740000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO HENRIQUE RIBEIRO ALECRIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "NEWTON MAIA SALOMAO ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "NELSON SEQUEIROS RODRIGUEZ TANURE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WALTER APPEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALVARO PIQUET CARNEIRO PESSOA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUCELINO OLIVEIRA DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO DA SILVA MAIA",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "individual",
+      "total_amount": 22010.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO LEITE JALES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS EDUARDO LEAO DE MEDEIROS COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAXIMILIAN ROBESPIERRE SUAREZ RODRIGUEZ CARVALHO DO NASCIMEN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RONAN WAGNER GONTIJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE HAROLDO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PABLO ANTONIO FERNANDO TATIM DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA JOSE CORDEIRO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALDO ARAUJO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIDYA HEMILLY GURGEL DE SOUZA TARGINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILVAN GOMES CARDOSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4095.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VAN CESAR DANTAS MAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3137.2,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JESSE TOME DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3137.2,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

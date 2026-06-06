@@ -47,5 +47,207 @@
   "birth_city": "Dom Macedo Costa",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "ANTONIO LEOCADIO DOS SANTOS",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "individual",
+      "total_amount": 317490.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - PARA - PA - ESTADUAL",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 70000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL SOUZA ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 52000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JANSEN GOMES MONTEIRO DE BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO PIRES DE MOURA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIELLE SOUZA ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 46988.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVALDO OLIVEIRA DA CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 43000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDREA COSTA DANTAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 42000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE WILSON DE MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 31400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO DA ROCHA ROLIM NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23952.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO DE ASSIS GALHARDO DO VALE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADEMIR CESAR GOMES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAS SOUZA PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WERVERSON HERMINIO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIO CESAR DIOGENES ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 HELDER ZAHLUTH BARBALHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 14280.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IGOR MARCIO BATISTA SERAFIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DA CONCEICAO RODRIGUES COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDREZA DE CACIA LIMA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12770.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO TARCIZO OLIVEIRA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

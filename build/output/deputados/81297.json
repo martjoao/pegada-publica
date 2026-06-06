@@ -59,5 +59,207 @@
   "birth_city": "Linhares",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL LIBERAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 190000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRECAO REGIONAL DO PSL NO ESTADO DO ESPIRITO SANTO",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 96884.65,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WALTEMBERG COSTA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO FERREIRA MAGALHAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NILO SERGIO RETORE MORENO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRUNO VIANA MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VIVIANE DE SOUZA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIS CLAUDIO RANGEL DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARILENE BRAGA MILEIPPE MOULIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUVENAL CALIXTO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIS FILIPE CABRAL CEZARIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALDEMIR GREGORIO PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALDINEI GUIMARAES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS CEZAR BARONE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LORENA VALENTIM DE ALMEIDA SANTA ANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1325.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CRISTIELY CAVALCANTE DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1325.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON JULIO PINHEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1325.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA PAULA SOUZA SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1325.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSELENE DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1325.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

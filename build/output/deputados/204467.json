@@ -52,5 +52,211 @@
     "https://www.instagram.com/prof_rosaneide",
     "https://youtube.com/channel/UC4CfnB9C6PN_RHQJ0gEgXNw"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2709000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 213750.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO PT/MT",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 138500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REPUBLICANOS MATO GROSSO - MT - ESTADUAL",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 20416.97,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL / PL - DIRETORIO ESTADUAL DE MATO GROSSO",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 8600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JUNIO COELHO MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSA NEIDE SANDES DE ALMEIDA",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEJANY CRISTINA PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REGINALDO NELIO DA SILVA BARATA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADILSON RIBEIRO DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVANGELISTA DOS SANTOS BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2655.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VOLNEY ALBANO OLIVEIRA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RONE CESAR BORGES SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JEAN CARLOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2270.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALDEMAR DA SILVA FARIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2196.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ZOROASTRO RODRIGUES TEODORO PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEILA DOS SANTOS TAVARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE CARLOS ROBERTO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CASSIANA OLIVEIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JHONATHA DA SILVA LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1920.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

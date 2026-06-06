@@ -58,5 +58,27 @@
     "https://www.instagram.com/mariliaarraes",
     "https://youtube.com/channel/UCMygck8SGte9ZtudThgwxDQ"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MIRNA GUIMARAES CAMPELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

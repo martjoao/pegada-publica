@@ -58,5 +58,207 @@
     "https://www.instagram.com/drfernandomaximo007/",
     "https://www.youtube.com/@DrFernandoMaximo"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2305000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - RONDONIA - RO - ESTADUAL",
+      "city": "#NULO",
+      "state": "RO",
+      "donor_type": "company",
+      "total_amount": 105725.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MERYCLES GUEDES NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RUBENS STELZENBERGER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO LUIZ MAXIMO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDIMAR FILHO FILMATO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DJAIR DA SILVA JAKSON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CAUBY DE QUEIROZ NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VICTORIA GABRIELLY RODRIGUES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIEMISSON DAS CHAGAS CRUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO SERGIO CAVALCANTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NIARA SILVA DORIGAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALDEMIR COSTA MACEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRUNO HENRIQUE WELMER DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HELIO DE SOUZA LEITE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELISANGELA MOTA DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERISON BRITO DA SILVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ROBERTO OLIVEIRA AMORIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "COSMO FREITAS DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO PERES FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

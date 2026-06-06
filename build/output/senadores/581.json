@@ -51,5 +51,47 @@
   "birth_state": "RJ",
   "birth_city": "Rio de Janeiro",
   "sex": "M",
-  "email": "sen.jaqueswagner@senado.leg.br"
+  "email": "sen.jaqueswagner@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1356156.5599999998,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOAO CARLOS PAOLILO BACELAR FILHO DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ANGELO MARIO CORONEL DE AZEVEDO MARTINS SENADOR",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 75000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RUI COSTA DOS SANTOS GOVERNADOR",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 13.2,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

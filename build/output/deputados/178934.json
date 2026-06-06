@@ -105,5 +105,149 @@
   "birth_city": "Foz do Iguaçu",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2425300.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO WANDSCHEER",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 1478773.3900000001,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 555000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PROGRESSISTAS - PARANA - PR - ESTADUAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 300000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WALDEMAR ENS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HANS WILFRIED DYCK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA PAULA STRUJAK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDA BARRANCO WANDSCHEER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JESSICA CRISTIANE COGORNI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2040.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SUELI DA COSTA ASCARI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVANETE TOFFOLO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADAO CARLOS DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDO ALENCAR ROVEDA ZANIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDIMEIRE IEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1040.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

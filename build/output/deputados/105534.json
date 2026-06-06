@@ -59,5 +59,78 @@
   "birth_city": "Aracaju",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIAL DEMOCRATICO - PSD / SE",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "company",
+      "total_amount": 301861.3600000001,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - MDB - SERGIPE - SE - ESTADUAL",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "company",
+      "total_amount": 150000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 BELIVALDO CHAGAS SILVA GOVERNADOR",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "company",
+      "total_amount": 16457.15,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALEXANDRE BRITO DE FIGUEIREDO",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "individual",
+      "total_amount": 13110.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ELIAS SANTOS JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NELIO DE FIGUEIREDO AQUINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JEFERSON TORRES SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

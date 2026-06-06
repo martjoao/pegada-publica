@@ -81,5 +81,208 @@
   "birth_city": "Colatina",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2700000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON ABREU SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JACKELINE OLIVEIRA ROCHA GOVERNADOR",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 2741.93,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HELDER IGNACIO SALOMAO",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "individual",
+      "total_amount": 2252.39,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 1685.71,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROGERIO LIMA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO DE ASSIS RIBEIRO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SIRLANI SA CARARETTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE CARLOS NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSON CAULIT SCHWAB",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSON CAULIT SCHWAB JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS ANTONIO CARVALHO MIGUEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO HILARIO VALENTIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FLAVIA SUELY PINHEIRO ALVES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIANA LOUZADA DA SILVA GLAZAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ZILMA BRUNO CANDIDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 464.88,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL ANTONIO TARDIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIANE KAMIENSKI PALHAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ROBERTO DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILVAN VITORINO DA CUNHA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -97,5 +97,78 @@
     "https://www.instagram.com/dep.sorayasantos",
     "https://www.youtube.com/channel/UCYJ_VrjZS7ISX0Ut0bU_AMA"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4400000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO PARTIDO LIBERAL NO ESTADO DO RIO DE JANEIRO",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 9096.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PRISCILA ALENCAR DOS SANTOS MURY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA CLAUDIA COUTINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JANAYNA KRISTINA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SANDRO CANDIDO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUZIA DINIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

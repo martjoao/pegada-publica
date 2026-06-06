@@ -37,5 +37,6 @@
   "birth_state": "RS",
   "birth_city": "Três Passos",
   "sex": "F",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

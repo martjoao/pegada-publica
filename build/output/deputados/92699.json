@@ -111,5 +111,198 @@
   "birth_city": "Recife",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4658488.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SYLVIO KLEIN TROMPOWSKY HECK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE OSCAR DE MOURA GONCALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIOGO VALLE BUENO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HIGO BEZERRA DA ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FELIPE MONTEIRO DE ALBUQUERQUE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GIOVANNI FERNANDES DE ALBUQUERQUE JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20001.3,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME JOSE SOBRAL PONZI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDA LOBO MONTEIRO DE MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDREA ALENCAR FERNANDES DE ALBUQUERQUE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13258.42,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JESSICA SERRASQUEIRO INDALECIO DOUMIT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO ANTONIO DE BARROS BASILIO MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VICTOR RIQUE RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7998.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO ANTONIO TORRES RODRIGUES NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7998.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MUCIO PEREIRA DE BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE PAULO CAVALCANTI NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GABRIEL RIQUE RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4004.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO ROBERTO VIEIRA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO FERREIRA DE VASCONCELOS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -57,5 +57,157 @@
     "https://www.facebook.com/deputadoismael",
     "https://www.instagram.com/deputadoismael"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1400000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - SANTA CATARINA - SC - ESTADUAL",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 76500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ISMAEL DOS SANTOS",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "individual",
+      "total_amount": 70000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSUE SOMMER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALBERTO JUNIOR CORDEIRO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIO FERNANDO WOLFF",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALMIR RICARDO ZUCHI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16582.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVERSON CECHELLA MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8805.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EMERSON ANTUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NOLISA BONI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE LUIZ PRUCINIO PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6935.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KLEBER EDSON WAN DALL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5150.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALICIO DA CRUZ BITENCOURT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEILA MARA DA SILVA WAN DALL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "QUEREN SILVA DE ALMEIDA PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

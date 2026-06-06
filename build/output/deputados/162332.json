@@ -117,5 +117,209 @@
   "birth_city": "Marialva",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 1766557.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO LEOMAR KAPPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KOITI ORITA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 127957.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSEMAR JOSE DORNELES ELGER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 125000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO VIEIRA NEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZA DA ROCHA TEIXEIRA NEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANILDO KUREK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 96500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FABIO RUEDIGER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 80000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ORCIVAL GOUVEIA GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 65000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SANDRO ZANCANARO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARILENE ZANCANARO ZANELLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSON HIDEKI HORITA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WALTER YUKIO HORITA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALDEMIRO ANDRIGHETTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CANISIO FROELICH",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO LHOSSUKE HORITA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ORLANDO HENRIQUE FERRARI POLATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 41000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROMEU FROELICH",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "INACIO JOSE WEBLER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

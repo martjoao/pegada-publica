@@ -73,5 +73,209 @@
     "https://www.facebook.com/cezinhademadureira",
     "https://www.instagram.com/cezinhademadureira"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO ESTADUAL DE SAO PAULO",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1060256.41,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 TARCISIO GOMES DE FREITAS GOVERNADOR",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 399000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NELSON JOSE VIGOLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADEMAR FIORANELLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "OLAVO DE CASTILHO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 27000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO RIBEIRO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELISEU BENTO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE LUIS MENEZES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO PAULO DE FARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRUNO GUERINO DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CESAR DIAS ERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO JOSE EUSEBIO MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO CESAR CORREIA FREIRE",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 8147.6900000000005,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FLAVIO HENRIQUE ARAUJO TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIANA PEREIRA PARREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ CARLOS GUTIERREZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELISEU RODRIGUES TROVAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RENAN VERZOLA RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

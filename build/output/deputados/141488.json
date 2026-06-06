@@ -121,5 +121,208 @@
     "https://www.facebook.com/pauloteixeira13",
     "https://www.instagram.com/pauloteixeira13"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2445000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO ESTEVAM ALVES PINTO SERRANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALEXANDRE LUDOVIC ALLARD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ TARCISIO TEIXEIRA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDUARDO FISCHER TEIXEIRA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEONARDO MESQUITA DA CRUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIE HORN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE DE MELLO JUNQUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROBERTO PODVAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ FERNANDO FERRAZ BUENO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OTAVIO CAMPOS DE BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HENRIQUE PETERS JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ ROBERTO CORREA RECHE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCO AURELIO DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ERNESTO TZIRULNIK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIANA WERNEK DE CAMARGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO SERGIO MENEZES GARCIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VINICIUS MARQUES DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALBERTO ZACHARIAS TORON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO GATTI REIS LOBO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

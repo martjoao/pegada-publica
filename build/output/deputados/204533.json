@@ -80,5 +80,208 @@
     "https://www.facebook.com/idilvanoficial",
     "https://www.instagram.com/idilvanalencar"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1400000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO IDILVAN DE LIMA ALENCAR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 43919.06,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CELIA MARIA SOARES DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO GUSTAVO PAIVA LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JANE COSTA BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIANA NUNES ESTRELA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IANA ALENCAR DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZA MARIA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIA DE NEGREIROS VIANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REMO CESAR DE OLIVEIRA MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO ERISVALDO LINHARES PONTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LARISSA MELO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIO JAMIL MAILDO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO GUSTAVO OLIVEIRA GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO CRISOMAR PESSOA DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA JACKELINE MAILDO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE DARLAN TEIXEIRA DA ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BRUNO SILVA DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO RICARDO DA SILVA SABOIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO EDVANDO DE OLIVEIRA MARIANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

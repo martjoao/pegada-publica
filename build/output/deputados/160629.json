@@ -81,5 +81,57 @@
     "https://www.instagram.com/romerorodriguespb",
     "https://youtube.com/romerorodriguespb"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO NACIONAL DO PARTIDO SOCIAL CRISTAO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 EFRAIM DE ARAUJO MORAIS FILHO SENADOR",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROMERO RODRIGUES VEIGA",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "individual",
+      "total_amount": 23574.11,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO LIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUZIA ANJO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -138,5 +138,207 @@
   "social_media": [
     "http://www.twitter.com/pauderney"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2561000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO SETIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 180000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIE HORN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 120000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - AMAZONAS - AM - ESTADUAL",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 75583.7,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAUDERLEY TOMAZ AVELINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE RICARDO REZEK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO VIOLIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TAKASHI NISHIMURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REGINA MARIA ARRIGONI URZEDO ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO FAIRBANKS VON UHLENDORFF",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO UCHOA LUNA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDWARD JAMES FEDER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 WILSON MIRANDA LIMA GOVERNADOR",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 11818.75,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DAS GRACAS MAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSEMI FERREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 OMAR JOSE ABDEL AZIZ GOVERNADOR",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 5150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUIDO ORLANDO GREIPEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DOUGLAS RUI PESSOA REIS AGUIAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO ROGERIO ARANTES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - MANAUS - AM - MUNICIPAL",
+      "city": "MANAUS",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 2730.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -124,5 +124,147 @@
   "birth_city": "Macapá",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IAGO PANTOJA DEL CASTILO RAIOL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VLADIMIR GOMES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MELCHISEDEC COELHO COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME JOSE LEONAN SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIVALDO ALVES DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL TORRES GUEDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUAN CAYAN SUARES MOURAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO SERGIO DE LIMA MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO LIMA PANTOJA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDEMIRO DA SILVA QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON PAULA DA CONCEICAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANUBIO DOS SANTOS MONTENEGRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FREDESON WILLCK COSTA VASCONCELOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

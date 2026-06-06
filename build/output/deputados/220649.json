@@ -58,5 +58,67 @@
     "https://twitter.com/DacunhaDelegado",
     "https://www.youtube.com/@DelegadodaCunha"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2312000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DOUGLAS MAGDESIAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RONALD DO COUTO SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6212.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIO RANDRINEY DA CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIGUEL REZENDE CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MATHEUS REZENDE CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

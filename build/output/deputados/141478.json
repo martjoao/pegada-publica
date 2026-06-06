@@ -104,5 +104,77 @@
   "birth_city": "Goiânia",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2150000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL - DISTRITO FEDERAL - DF - ESTADUAL",
+      "city": "#NULO",
+      "state": "DF",
+      "donor_type": "company",
+      "total_amount": 35400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAERTE RODRIGUES DE BESSA",
+      "city": "#NULO",
+      "state": "DF",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIA CHAVES DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 767.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIELLY DE CARVALHO RODRIGUES SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 767.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIZA CHAVES CARVALHO MEIRELES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 766.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO RIBEIRO MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -52,5 +52,97 @@
     "https://www.instagram.com/guilhermeboulos.oficial",
     "https://www.youtube.com/@GuilhermeBoulosoficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE (P-SOL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1428228.89,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 450927.66000000003,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WALFRIDO JORGE WARDE JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIO DE CARVALHO CAMARGO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VERA LUCIA BAPTISTA ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MICHELLE ARRUDA DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSELI DOS SANTOS SILVA LANDRI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO LIBANIO CHRISTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON DOS SANTOS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

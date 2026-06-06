@@ -63,5 +63,209 @@
     "https://www.facebook.com/fernandomineiro",
     "https://www.instagram.com/mineiroptrn"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1300800.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO WANDERLEY VARGAS DA SILVA",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "individual",
+      "total_amount": 15404.53,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MICHELA KATIUSCIA CALACA ALVES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5373.51,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE NILTO DANTAS PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4821.73,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALLAN PHELIPE DE MACEDO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4742.92,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO CIPRIANO DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4063.34,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MANOEL RAONI DE OLIVEIRA FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4034.16,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSENILDA LIMA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3438.76,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCO AURELIO SOUSA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2249.82,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE LEANDRO CASSIMIRO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1933.62,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALEXANDRE DOS SANTOS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1933.62,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA EGIVANIA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1933.62,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RUTH PAIVA SANTOS SARAIVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1917.77,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE MOACIR FARIAS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1917.77,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BRUNO LUIZ SANTOS DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1917.77,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIO ANTONINHO NEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1917.77,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAIMUNDO CERINO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1917.77,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILBERTO NUNES LACET",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1440.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CIRO UCHOA AZEVEDO DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO CARLOS PIRES NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

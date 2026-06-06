@@ -129,5 +129,207 @@
     "https://www.instagram.com/depjuliodelgado",
     "https://youtube.com/depjuliodelgado"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO VERDE",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2049978.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1400000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SELMA DE REZENDE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE SALIM MATTAR JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANA LILIAN CAMARGOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 48000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIO CESAR DELGADO",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 45000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HELOISA ANGELICA CANAVESE TEIXEIRA REZENDE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO MORAES PEREIRA DAS NEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANGELO MARCIANO LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOANA FRANCISQUINI DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAYMUNDO TARCISIO DELGADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DA GLORIA CARDOZO DOS SANTOS NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12450.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ISABEL CRISTINA BENICIO VENTURA FALCE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GEOVANE MARCIANO LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TATIANA ALVES E SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIA RITA DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO ROBERTO LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GABRIEL EDES ALVES CENTICO MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FELIPE MARCIANO LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIO FLAVIO CENTICO MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

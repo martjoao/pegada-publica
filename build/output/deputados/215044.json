@@ -47,5 +47,208 @@
   "birth_city": "Belém",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE (P-SOL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1550000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 30593.56,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MAX ANDRE CORREA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SARAH ARCANGELA SOARES DOS REMEDIOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALESSANDRA OLIVEIRA ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AVNER NASCIMENTO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OLIVIA VARELA MAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IZABEL CRISTINA DE CARVALHO MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO ITALO DA SILVA LAREDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BARBARA DIAS DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ATILA AUGUSTO CORDEIRO PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOEL MARCO SOUZA DE CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO MOURA QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCAS DA SILVA ALEGARIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TARSILA AMORAS SANCHES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEBORA SOUSA PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIULLY SIQUEIRA MONTEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GABRIEL ATAIDE TANCREDI RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NATALINE DI PAULA ALVES GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MAYARA MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

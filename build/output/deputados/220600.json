@@ -47,5 +47,207 @@
   "birth_city": "Guará",
   "education": "Ensino Fundamental",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1475000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - RONDONIA - RO - ESTADUAL",
+      "city": "#NULO",
+      "state": "RO",
+      "donor_type": "company",
+      "total_amount": 105725.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILMAR ALVES NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GREKITUI CLAITON RODRIGUES DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KEZIA CARDOSO SARAIVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEMIR APOLINARIO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JEAM CARLOS ALBUQUERQUE SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WERBO OLIVEIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TIAGO RIBEIRO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4990.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO RUBIO NERES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4990.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO RODRIGUES PEIXOTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4990.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALDIR ELIAS RODRIGUES TOMAZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4990.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLEMILSON GALDINO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4990.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADEMIR FELICIANO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4990.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VANDERSON DA COSTA TAXI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4990.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALVARO CARLOS MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4745.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AURIVALDO PEIXE DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSIANE DE LIMA LUNA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CELSO HENRIQUE DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JARBES FERNANDES DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

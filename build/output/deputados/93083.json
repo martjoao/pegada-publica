@@ -70,5 +70,97 @@
   "birth_city": "Salvador",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1783274.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANO MAFFRA DE VASCONCELLOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 125000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUILHERME BASTOS COLACO DIAS FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REJANE MARIA DA FONTE PARANHOS FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ ANTONIO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUILHERME FERREIRA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIO CEZAR BUSATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RUI COSTA DOS SANTOS GOVERNADOR",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 20310.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AILTON LUSTOZA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -100,5 +100,27 @@
   "social_media": [
     "https://www.instagram.com/marionegromontejr"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1783274.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RUI COSTA DOS SANTOS GOVERNADOR",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 20310.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

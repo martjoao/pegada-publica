@@ -47,5 +47,27 @@
   "birth_city": "Caraí",
   "education": null,
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "AVANTE DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 513287.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HEBER GOMES NEIVA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -47,5 +47,207 @@
   "birth_city": "Condeúba",
   "education": null,
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1410000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "OSMARILDO ALVES DE SOUSA",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 314127.76,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - GOIAS - GO - ESTADUAL",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 90000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ARNALDO JOSE NEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO DE CARVALHO RIBEIRO GONCALVES NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12812.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SIMONE RIBEIRO LEAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12325.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEUSIMAR MACEDO BEZERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9176.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SARAH SILVA SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8083.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALESSANDRA BRAGA SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARLON RONALDO SOARES ROCHA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6940.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ABDERMAN LIMA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6666.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KARINA BEZERRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5764.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA APARECIDA FERREIRA MACIEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5325.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAEVIA DE MEDEIROS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4605.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UENEM DA SILVA GARCIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4435.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALDO QUINTILIANO LEAO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA CLEIDES RIBEIRO BIANGULO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3747.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LETICIA CORDEIRO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3537.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA MARIA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3473.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA CLEONICE PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

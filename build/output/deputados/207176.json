@@ -65,5 +65,209 @@
   "birth_city": "Corumbá",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1152250.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "BEATRIZ ROSALIA RIBEIRO CAVASSA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "individual",
+      "total_amount": 17500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HAROLDO WALTENCYR RIBEIRO CAVASSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6800.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 REINALDO AZAMBUJA SILVA GOVERNADOR",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 5075.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ANTONIO ASSAD E FARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA BEATRIZ SILVA SABATEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA ANTONIETA SILVA SABATEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PSDB",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 2090.41,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAIR FRANCISCO ALVES DE ARRUDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SARA JANE DA SILVA ALBUQUERQUE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ABEL GOMES MONTEIRO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TELMA REGINA SANTOS NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MANOEL FERNANDES AGUILAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JESSIKA GIMENEZ DE MEDEIROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TAMARA FERREIRA SANTIAGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NUALA LOBO CAMBARA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GRACIELA DE OLIVEIRA ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSALIA DE ARAUJO DUARTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "KARLLA JENNIFFER DE MORAES ESTEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELISBELTO LUIZ CAVALCANTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -111,5 +111,28 @@
   "birth_city": "São Paulo",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PODEMOS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4919704.63,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PODEMOS - SAO PAULO - SP- ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 60454.919999999984,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

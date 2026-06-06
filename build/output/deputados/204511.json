@@ -82,5 +82,208 @@
   "birth_city": "Rio de Janeiro",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 521850.19,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEMOCRATAS - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 350000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARCOS BEZERRA RIBEIRO SOARES DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 80000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DAVID BEZERRA RIBEIRO SOARES",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 52411.08,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL JESUS DE QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - SAO PAULO - SP - MUNICIPAL",
+      "city": "SÃO PAULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 7850.320000000001,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCAS JOSE VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7120.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALVARINDO VICENTE DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULYANNE BRASIL DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIO CESAR DOS SANTOS FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3120.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JANAINA APARECIDA NAVA NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA ELRILENI ALVES MATOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO DE MOURA BRAZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROZANIA MOREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAQUELINE MARIA DE JESUS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILVANIA DE SOUZA VITOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSIANE TEREZINHA PEREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DAIANE FANTATO BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DILZA RODRIGUES ESGALHA PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

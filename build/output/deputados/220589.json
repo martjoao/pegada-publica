@@ -64,5 +64,27 @@
     "https://www.instagram.com/dr.eduardovelloso",
     "https://youtube.com/channel"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO OVIDIO BORGES DE VELLOSO VIANNA",
+      "city": "#NULO",
+      "state": "AC",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

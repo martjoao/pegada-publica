@@ -52,5 +52,207 @@
     "https://www.instagram.com/betoricha/",
     "https://www.youtube.com/channel/UC11K_Oia5ib5Zknm87oG1FQ"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 62547.28,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO WADY DEBES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE MIGUEL PILOTO NETTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDSON APARECIDO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DYEMI FRANCIELLI FERREIRA MIYAMURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIZABETH DUBAS LASKOSKI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AUGUSTO TEIXEIRA DE FREITAS MUGGIATI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HELENTON EIITI MIYAMURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ CARLOS LOPES CORREA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAURICIO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIZA BORGES CALADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADALBERTO LUIZ MEDEIROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VANESSA GOMES MANO ALEXANDRE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLA REGINA BARRETO CARNIERI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLARICE DOS SANTOS MELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO ANDRE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ALEXANDRE MARANHAO KHURY DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 1787.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIO CESAR CALDAS SANTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JONATHAN PEREIRA DE MELO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 833.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -159,5 +159,57 @@
   "birth_city": "Coribe",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2800000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1400000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RUI COSTA DOS SANTOS GOVERNADOR",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 20310.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - BAHIA - BA - ESTADUAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 11764.7,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ALVES ROCHA",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "individual",
+      "total_amount": 9765.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

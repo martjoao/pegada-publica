@@ -43,5 +43,6 @@
   "birth_state": "PB",
   "birth_city": "Coremas",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

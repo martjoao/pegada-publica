@@ -63,5 +63,57 @@
   "birth_state": "PR",
   "birth_city": "Bandeirantes",
   "sex": "M",
-  "email": "yanai@senador.leg.br"
+  "email": "yanai@senador.leg.br",
+  "top_donors": [
+    {
+      "name": "27 - DEMOCRACIA CRISTA",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 130000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO TRABALHISTA CRISTAO - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DOUGLAS YANAI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23560.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WAGNER DONIZETI TREVISAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HERMES RODRIGUES ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -37,5 +37,6 @@
   "birth_state": "RS",
   "birth_city": "Caxias do Sul",
   "sex": "F",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

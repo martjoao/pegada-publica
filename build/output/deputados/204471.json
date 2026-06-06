@@ -53,5 +53,47 @@
   "birth_city": "Rio Branco",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1002250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - AC",
+      "city": "#NULO",
+      "state": "AC",
+      "donor_type": "company",
+      "total_amount": 538014.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA - PSDB/AC",
+      "city": "#NULO",
+      "state": "AC",
+      "donor_type": "company",
+      "total_amount": 89100.95,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MANOEL PEDRO DE SOUZA GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

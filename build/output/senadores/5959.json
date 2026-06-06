@@ -66,5 +66,107 @@
   "birth_state": "AC",
   "birth_city": "Rio Branco",
   "sex": "M",
-  "email": "sen.styvensonvalentim@senado.leg.br"
+  "email": "sen.styvensonvalentim@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "EANN STYVENSON VALENTIM MENDES",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "individual",
+      "total_amount": 24000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE MARIA BARRETO DE FIGUEIREDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ABILIO CESAR DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OSWALDO GUEDES DE FIGUEIREDO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1064.1,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALERIO HENRIQUE ARAUJO FLORENCIO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1064.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDILMA VALENTIM MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WERNHER MEDEIROS SOARES DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOACI GONCALVES MAFRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EMMANUEL DE FREITAS MORAIS PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDO ANTONIO DE ARAUJO MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

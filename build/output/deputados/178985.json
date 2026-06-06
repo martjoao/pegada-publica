@@ -90,5 +90,213 @@
     "https://www.instagram.com/dep.miguellombardi",
     "https://youtube.com/channel/UCzP0L6ymrNXOBJuOpflBwgA"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2450000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOAO GUILHERME SABINO OMETTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 210000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JAIRO GERALDO RIBEIRO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 95000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ROMOLO JOSE SOARES LENCI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO APARECIDO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO HENRIQUE BISCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL SAO PAULO SP ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 47624.38,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RONALDO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS ANTONIO DE NADAI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROGERIO TADEU RAMOS SARRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "APARECIDO RUBENS CURI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ANTONIO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ROBERTO MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VICTOR LUIZ MAZUTTI LEVY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO MASUTI LEVY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARIA JOSE PEREIRA DO AMARAL HUNGLAUB DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 9190.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA RITA DE PAIVA SILLMAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS ANTONIO RIBEIRO BOZZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO FRANCESCHI MONTEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA BERNADETE GOBETTI PICCININ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

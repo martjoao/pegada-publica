@@ -51,5 +51,27 @@
   "birth_state": "RR",
   "birth_city": "Boa Vista",
   "sex": "M",
-  "email": "sen.rudsonleite@senado.leg.br"
+  "email": "sen.rudsonleite@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO VERDE",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 167193.39,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "COMISSAO EXECUTIVA DO PARTIDO VERDE EM RORAIMA",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "company",
+      "total_amount": 10347.8,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

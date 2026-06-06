@@ -58,5 +58,207 @@
     "https://www.instagram.com/coronelassis",
     "https://youtube.com/coronelassis308"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 794400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - MATO GROSSO - MT - ESTADUAL",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 358700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE GUSTAVO ALBERNAZ RONDON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 123350.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDMAR GUERMAND DE QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 80000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ODAIR MANTOVAN JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 67350.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAMBROS ANDRE SBIZERO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE ANTONIO PIRES DE MIRANDA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIS FERNANDO OLIVEIRA DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GARCIA FERREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE BATISTA DOS REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MOIZES CYPRIANO DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANILO SEGOVIA MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JONILDO JOSE DE ASSIS",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WESMENSANDRO AUTO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HENRIQUE ALEXANDRE MAZZARDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAUL SANTOS COSTA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAIME ALFREDO BINSFELD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSELI DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS EDUARDO OLIVEIRA DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.02,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIGUEL VAZ RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

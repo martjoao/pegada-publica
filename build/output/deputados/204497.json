@@ -64,5 +64,208 @@
   "birth_city": "Oriximiná",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "JOAO FERRARI JUNIOR",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "individual",
+      "total_amount": 423100.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "COMISSAO PROVISORIA/ PA PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 305338.75,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ANGELO AUGUSTO DE OLIVEIRA FERRARI DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 37948.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIA NASCIMENTO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO ANTONIO DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PATRICIA APARECIDA PORTO PICANCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSIBERGUE TORRES CAMPOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDIONE PATRICIA CAMPOS FERRARI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CARLOS FIGUEIREDO PICANCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO DA SILVA BARROZO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE MANOEL FIGUEIREDO PICANCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WALDOMIRA DO AMAZONAS MILEO YAMADA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VINICIUS AZEVEDO REZENDE SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUZIA TAVARES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO SAVIO FERNANDEZ MILEO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MADSON ANTONIO BRANDAO DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSON UBIRACY DOS SANTOS SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIENE MARIA DINIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FELIPE COELHO PICANCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO CASTRO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6350.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

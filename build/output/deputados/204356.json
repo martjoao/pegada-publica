@@ -80,5 +80,216 @@
     "https://www.facebook.com/amaronetotv",
     "https://www.instagram.com/amaronetotv"
   ],
-  "website": "https://www.amaroneto.com.br/"
+  "website": "https://www.amaroneto.com.br/",
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3269999.99,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ERICK CABRAL MUSSO SENADOR",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO MESQUITA VENTURIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAIDER GUILHERME HORTA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2266.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "GIOVANI RIBEIRO DUTRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2266.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PAULO CESAR MILAGRE DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2166.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "WASHINGTON CABRAL RIBEIRO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2166.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO LOPES DOS REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2166.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "IGOR BARBOSA LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2166.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RENATO PAUSEN GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2166.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO CARVALHO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2166.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "KARYNA AMORIM GONCALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIO GREIK BERNARDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO VIEIRA DE SOUZA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIO FERREIRA SIMOES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELDER CORREA SENA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO FREDDI CARREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AMARO ROCHA NASCIMENTO NETO",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "individual",
+      "total_amount": 350.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HUGO SIMAN MADEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIELA APARECIDA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

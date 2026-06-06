@@ -65,5 +65,47 @@
   "birth_city": "Magé",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "RICARDO CORREA DE BARROS",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 603500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SERGIO LUIZ DE AMORIM BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABRICIO QUEZADA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAPHAEL PEREIRA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

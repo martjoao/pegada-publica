@@ -61,5 +61,207 @@
     "https://www.facebook.com/SamuelSantos.PerfilOficial",
     "https://www.instagram.com/eusousamuelsantos"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO NACIONAL DO PARTIDO SOCIAL CRISTAO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO TRABALHISTA CRISTAO - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 230000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DOMINGOS SAVIO GOMES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIO CLAUDIO PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ITALO ANDRE FLORES SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILDER PEDRO DE MORAIS",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALINE CHRISTINE ALVES DIONISIO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SAMUEL BANDEIRA DOS SANTOS JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILVANIA MOREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE NETO DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DOUGLAS CIPRIANO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GRACIANA PEREIRA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JACIARA PEREIRA DE JESUS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO GOMES CORCINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MOISES JOSE INACIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SINVAL MONTEIRO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALDIR LOPES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PATRICK MANDELA FERREIRA BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GLEIVE ALVES DE QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDINEY MAXUEL PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

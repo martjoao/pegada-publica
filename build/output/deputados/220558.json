@@ -47,5 +47,17 @@
   "birth_city": "São Paulo",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

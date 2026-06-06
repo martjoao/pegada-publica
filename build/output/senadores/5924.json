@@ -56,5 +56,77 @@
   "birth_state": "SP",
   "birth_city": "Batatais",
   "sex": "M",
-  "email": "sen.oriovistoguimaraes@senado.leg.br"
+  "email": "sen.oriovistoguimaraes@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "ORIOVISTO GUIMARAES",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 3377000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROGERIO PEDROZO MAINARDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GERSON GUELMANN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS HENRIQUE SA DE FERRANTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDUARDO CALDEIRA JARDIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DENISE GUIMARAES FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CINTHIA PRUETER PAZIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

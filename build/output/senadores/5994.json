@@ -37,5 +37,6 @@
   "birth_state": "SE",
   "birth_city": "Nossa Senhora do Socorro",
   "sex": "F",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

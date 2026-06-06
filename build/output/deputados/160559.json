@@ -101,5 +101,211 @@
   "social_media": [
     "http://twitter.com/alceu_moreira"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALCEU MOREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "individual",
+      "total_amount": 212500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ERNESTO AUGUSTIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 125000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MATHIAS ELTER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 88000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "OSMAR ALVES DE QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 75000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FAVA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO MUCCI LOUREIRO DE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERASMO CARLOS BATTISTELLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ORCIVAL GOUVEIA GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAFAEL DAVIDSOHN ABUD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERIKA BRANDAO LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO DO VAL GUERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "INGRID SAUR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GERALDO CARRER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RENATO JOSE MASTROPIETRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ FAVA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JORGE GERDAU JOHANNPETER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUAREZ FOCHESATTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ARLEI ROBERTO KRUGER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CRISTIANO PITHAN DAUDT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

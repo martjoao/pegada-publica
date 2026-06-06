@@ -154,5 +154,208 @@
   "birth_city": "Nilópolis",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1500000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - RIO DE JANEIRO - RJ - ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 150000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OILSON JOAO WAGNER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEXANDRE ALVADI DI DOMENICO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEONARDO CARNEIRO MONTEIRO PICCIANI",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO NUNES DE SOUSA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3640.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIA CRISTINA CARNEIRO MONTEIRO PICCIANI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDA GOMES ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3219.87,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROBERTA VIEIRA DE ABREU",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3219.87,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALLAN SANTOS PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2583.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IAN MARTINS DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2583.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KATIA DAMIANA ALVES PEREIRA LOBO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SONIA FERREIRA BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WELBERTH DE SOUZA SADDI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1511.59,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS VINICIUS RAMOS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1446.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANGELA MARIA DOS SANTOS ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1446.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOYCE MORAES PAIVA RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1446.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MICHEL AURELIO DE OLIVEIRA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1446.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THATIANE CRISTINE DE OLIVEIRA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1446.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FAGNER VINICIUS MIRANDA MENDONCA RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1446.67,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

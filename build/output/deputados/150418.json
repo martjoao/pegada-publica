@@ -133,5 +133,38 @@
     "https://www.instagram.com/deputadomarciomarinho",
     "https://youtube.com/channel/UCx3t_YQx8H-93UD5k9Mt1lQ"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 600000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - BAHIA - ESTADUAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 8464.529999999999,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PRB-PARTIDO REPUBLICANO BRASILEIRO DIRETORIO MUNICIPAL DE SALVADOR",
+      "city": "SALVADOR",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 4512.21,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

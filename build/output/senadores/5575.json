@@ -43,5 +43,6 @@
   "birth_state": "BA",
   "birth_city": "Brumado",
   "sex": "F",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

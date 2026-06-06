@@ -75,5 +75,49 @@
     "https://www.instagram.com/deputadomotta",
     "https://www.youtube.com/@DeputadoMotta"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2200000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ CARLOS MOTTA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 102000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZA HELENA TRAJANO INACIO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL SAO PAULO SP ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 12745.630000000001,
+      "elections": [
+        2018,
+        2022
+      ]
+    }
+  ]
 }

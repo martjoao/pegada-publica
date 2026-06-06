@@ -93,5 +93,208 @@
     "https://www.instagram.com/oficialluizlima",
     "https://youtube.com/oficialluizlima"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ EDUARDO CARNEIRO DA SILVA DE SOUZA LIMA",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 106783.03,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ROBERTO LOMBARDI DE BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 75000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO PINHEIRO DE SENNA NOGUEIRA BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ABILIO DOS SANTOS DINIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLECIO RADLER DOS GUARANYS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FELIPE ANCEDE MONTEIRO DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDUARDO SILVEIRA MUFAREJ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE CAETANO PAULA DE LACERDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ARMANDO KLABIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL LIBERAL - RIO DE JANEIRO - RJ - ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 6835.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUSTAVO BRAGA MARINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ERIK CONOLLY DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4999.99,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS ERALDO ARNOUD MARQUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2625.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO PAULO FERRAZ VASCONCELLOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAQUIM PEDRO ANDRES RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLAUDIO ALMEIDA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HENRIQUE FIGUEIREDO SIMOES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JORGE LUIZ NOBREGA RICHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WOLFF KLABIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

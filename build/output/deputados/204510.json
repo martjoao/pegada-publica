@@ -58,5 +58,210 @@
     "https://www.instagram.com/francocartafina",
     "https://youtube.com/results?search_query=francocartafina"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2300000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILVIO DE CASTRO CUNHA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 120000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO HUMANISTA DA SOLIDARIEDADE",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 100341.67,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NELSON LUIS KRASTEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 80000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCO CARTAFINA GOMES",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 37673.130000000005,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ADEMIR FERREIRA DE MELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO DEMOCRATAS DE MINAS GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 14215.68,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALERIO MAREGA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA KEYLA PINTO CARTAFINA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCO ANTONIO ANDRADE BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO PROGRESSISTA - PP",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUAREZ ALVES DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CRISTIANO CARDOSO HUEB",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CRISTIANO CERCHI ANGOTTI RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THIAGO RENATO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DOMINGOS ALVES GOMES JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA RAQUEL GOMES LOURENCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AFONSO HENRIQUE TANOS LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MERYLIN MARQUES FERREIRA BILHARINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

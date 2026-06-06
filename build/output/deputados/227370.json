@@ -53,5 +53,127 @@
   "birth_city": "Belo Horizonte",
   "education": null,
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PATRIOTA - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2214500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "Direção Municipal/Comissão Provisória",
+      "city": "BELO HORIZONTE",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 600000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FELIPE MAURICIO SALIBA DE SOUZA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 106450.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VICTOR FELIPE SILVEIRA E OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BARTIRA VIANA OLIVE DE SOUZA DOMINGOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIA CRISTINA TORRES GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA LUCIA ROCHA ROSENBURG",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CHARLISON DE SOUZA NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AMIR FRANCISCO DA ROCHA NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REGIANE CARLA SOUZA CORREIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILBERT ALBERTO OLBRISCH",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIELLE DOS SANTOS SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

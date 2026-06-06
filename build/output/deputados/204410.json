@@ -76,5 +76,208 @@
   "birth_city": "Londrina",
   "education": "Mestrado",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1768553.67,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 680000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 440000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CAROLINE FELIZ SARRAF FERRI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 91119.64,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARIANA CARVALHO POZENATO MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 52000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEX CANZIANI SILVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 42000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GIOVANA MANFRON DA FONSECA MANIGLIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 37887.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO ARTUR DE SOUZA SAMPAIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 33218.11,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ITALO CONTI JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIAN BARROS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CID ROCHA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIELE MICHALOWSKI COSECHEN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO SPRICIGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS PASCOLAT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO CESAR HILDEBRAND SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17157.69,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSON DE MATOS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE EDUARDO RIZZI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10230.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO MATSUZAWA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9169.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GEORGE RODRIGUES DA SILVEIRA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9138.34,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

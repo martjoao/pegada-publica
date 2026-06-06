@@ -64,5 +64,207 @@
     "https://www.instagram.com/nereucrispim",
     "https://youtube.com/channel/UCeorlh2XnpPoLkRlNWUauyg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1210000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 FERNANDO RODRIGUES CANTES DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 49000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NEREU CRISPIM",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "individual",
+      "total_amount": 36520.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA - RIO GRANDE DO SUL - RS - ESTADUAL",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 5999.98,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAQUELINE MARIA TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4383.36,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - ORGAO PROVISORIO",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 3720.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARLENE FERREIRA CORREA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CRISTIANO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS FERNANDO VIEIRA PLANELLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRESSA PACHECO NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RENATA MACHADO CAMBOIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DELTON SANTOS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROGERIO PANTALEAO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GISLAINE PEREIRA BACK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOVELINO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO LUIZ RUSTIK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRUNNO COSTA GARCIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IZALDO ROCHA DA ROSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAVID KUHN DOMINGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ FERNANDO DROCHNER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

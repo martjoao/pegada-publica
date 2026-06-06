@@ -61,5 +61,177 @@
   "social_media": [
     "https://www.facebook.com/nittinhovitale"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIAL DEMOCRATICO - PSD / SE",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "company",
+      "total_amount": 251062.78,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS WAGNER BRAVO DE OLIVEIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUSTAVO DE ANDRADE SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 32300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SANDRO SILVA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO FERNANDES DE BRITTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANNE DANIELLE FERREIRA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE JORGE SANTOS DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SOLANGE MOTA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO RICARDO MENEZES DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSON TELES BARROSO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LARISSA PALMEIRA DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALERIA GRACY RESENDE DANTAS TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALVARO RICARDO OLIVEIRA PRADO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELLEN PRATA GONCALVES DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VICTOR MANZANO OLIVEIRA LEITE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRENO COSTA AZEVEDO DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVELLYN CHRISTYNE RIBEIRO ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 999.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

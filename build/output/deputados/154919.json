@@ -94,5 +94,37 @@
   "birth_city": "Santos",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "ELEUSES VIEIRA DE PAIVA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 1055835.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO ESTADUAL DE SAO PAULO",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1050000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BENEDITO JOSE PINHEIRO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

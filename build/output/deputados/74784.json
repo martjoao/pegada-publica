@@ -135,5 +135,109 @@
   "birth_city": "Uiraúna",
   "education": "Mestrado",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE (P-SOL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1798597.53,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 443443.57,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZA ERUNDINA DE SOUSA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALEXANDRA REGINA LALIER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARCIA PERRONE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILDO TORQUATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO PEDROSA PONCHIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA IRENE DE SOUZA MOXOTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CAMILO BORGES DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ALVES FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

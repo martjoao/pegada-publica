@@ -85,5 +85,38 @@
     "https://www.facebook.com/deputadojoaomarcelo",
     "https://www.instagram.com/deputadojoaomarcelo"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4000000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOAO MARCELO SANTOS SOUZA",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - MDB MARANHAO - MA - ESTADUAL",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

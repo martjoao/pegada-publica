@@ -58,5 +58,107 @@
     "https://www.instagram.com/eusouamom",
     "https://youtube.com/channel/UCwPEeCb9CuIqhqpUoGvGpvA"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "CIDADANIA - AMAZONAS - AM - ESTADUAL",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 AMAZONINO ARMANDO MENDES GOVERNADOR",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 9000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EZIO FERREIRA DE SOUZA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELISEANO VIEIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SAMMYA CASSIANO DA SILVA PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ESTHER CLAUDIA CASSIANO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CYBELE SANTANA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDMILSON FERNANDES FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO AUGUSTO CAMARA DE OLIVEIRA BESSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ EDUARDO DOURADO DO VALE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 400.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

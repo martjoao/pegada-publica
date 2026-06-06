@@ -125,5 +125,108 @@
   "social_media": [
     "https://www.facebook.com/carlosgaguim"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2150000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 CESAR HANNA HALUM SENADOR",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "44 - UNIAO BRASIL TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 169441.86,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "COMISSAO ESTADUAL PROVISORIA DO PARTIDO SOLIDARIEDADE NO ESTADO DO TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 41912.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS HENRIQUE AMORIM",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "individual",
+      "total_amount": 34476.15,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RAGLEBIA BEZERRA DOS SANTOS LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE FELIPE IZAGUIRRE CREWE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BRUNO OTAVIO CARRIJO SILVA TOMAZINI AMORIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO BATISTA DIAS PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NAGILA TATIANE MECENAS DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

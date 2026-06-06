@@ -114,5 +114,209 @@
     "https://www.facebook.com/dagobertonogueirams",
     "https://www.instagram.com/dagobertonogueirams"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2275000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAGOBERTO NOGUEIRA FILHO",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "individual",
+      "total_amount": 1044854.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO VAQUER BRUNET",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "CAMPO GRANDE",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 80000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ZENILDA AUXILIADORA MARTINS PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "WALDEMIR LUCIO ROMULO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SERGIO ROBERTO CASTILHO VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SANDRA SONDA VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALESSANDRO PAULINO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSA APARECIDA ORTEGA BENITES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SONIA TEREZA DE VASCONCELOS PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO APARECIDO LEMES DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALTAMIR ORTIZ DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CRISTIANO ELIAS DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIRIO FLORES MACIEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "XAVIER FRANCISCO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULA FERREIRA BORGES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDSON DE ALENCAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDYANNE CRISTIAN OEIRAS DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

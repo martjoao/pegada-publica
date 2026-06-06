@@ -76,5 +76,207 @@
   "birth_city": "Bituruna",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "ELEICAO 2018 GERALDO JOSE RODRIGUES ALCKMIN FILHO PRESIDENTE",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIANA MARIANI ROSSONI GAIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALDIR LUIZ ROSSONI",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 55103.740000000005,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO CARLOS RIBEIRO PEDROSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DOUGLAS RIBEIRO FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HELENA FRANCISCA ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VERA LUCIA LOEBENS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SANDRA BONET DE MIRANDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA APARECIDA FREITAS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LECI SALETE DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCA MARGARIDA SILVA DA ROZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA DOS SANTOS DOMINGOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA LURDES SALES BARBIERI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LENIR FERNANDES DA ROSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA VIEIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "STELLA MOREIRA DE SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO DOMINGOS DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAIR DA SILVA MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ISAIAS DO PRADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

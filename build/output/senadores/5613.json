@@ -43,5 +43,6 @@
   "birth_state": "SP",
   "birth_city": "Vinhedo",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

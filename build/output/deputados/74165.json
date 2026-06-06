@@ -91,5 +91,147 @@
     "https://www.facebook.com/neucimar.fraga",
     "https://www.instagram.com/neucimarfraga55"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1705000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 766500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO DE ASSIS TORRES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARLLON MAYKOW TORRES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RICARDO DE REZENDE FERRACO SENADOR",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NEUCIMAR FERREIRA FRAGA",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "individual",
+      "total_amount": 10011.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AYRTON SILVEIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NEY FERREIRA FRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5120.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "UBIRACI PALESTINO DO OCIDENTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEONARDO SCARAMUSSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSILENE ALMEIDA NILO PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4510.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PROGRESSISTAS - ESPIRITO SANTO - ES - ESTADUAL",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 2520.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WALLACE MILLIS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HALLAN FERREIRA FRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1845.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

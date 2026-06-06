@@ -55,5 +55,207 @@
   "social_media": [
     "https://www.instagram.com/luciano_passofundo"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1110123.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERASMO CARLOS BATTISTELLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 75000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AUGUSTO RICARDO GHION JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ JUAREZ NOGUEIRA DE AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO ZAFFARI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TIAGO ZAFFARI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEXANDRE BOTELHO TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO PALMA DE AZEVEDO",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "individual",
+      "total_amount": 24681.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VINICIUS FERRARI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALDEMAR ANTONIO SCORSATTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA - RIO GRANDE DO SUL - RS - ESTADUAL",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 5999.98,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CRISTIANO CORREA TAGLIARI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HENRIQUE LUIZ OLIANI JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO MARCELO GEHM HOFF",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO BITTENCOURT DE CARLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCUS VINICIUS MATZENBACKER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCINEY BOHRER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - ORGAO PROVISORIO",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 2880.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CEZAR GUADAGNIN DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

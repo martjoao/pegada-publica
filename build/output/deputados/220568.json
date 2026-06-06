@@ -52,5 +52,137 @@
     "https://www.instagram.com/gusgayer",
     "https://youtube.com/GustavoGayer"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FREDERICO GAYER MACHADO DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CIBELLE DA SILVA XAVIER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE ARANTES JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1064.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UEDER JOSE RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE PEIXOTO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO MATHEUS BASTOS RASSEN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUSTAVO DE SANTANA CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 535.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAQUEL ANTUNES BUENO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO PAULO DE SOUSA CAVALCANTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL HUMBERTO NUNES JACOB GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "OSMAR MOREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO SEBASTIAO DE MENDONCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

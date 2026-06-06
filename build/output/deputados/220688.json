@@ -51,5 +51,207 @@
     "https://www.facebook.com/drfranciscopiaui",
     "https://www.instagram.com/drfranciscopiaui"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1398661.3,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO DE ASSIS DE OLIVEIRA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULA CYNARA DE LIMA RAMOS GUEDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IAGO TORRES DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MYLANA VILARINHO DE OLIVEIRA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MATEUS VILARINHO DE MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KELVIN OLIVEIRA PRACA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILMAR DA GUIA DE OLIVEIRA COSTA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5712.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILVAN CLODOALDO DE OLIVEIRA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILVANIRA DE OLIVEIRA COSTA PRACA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DIMAS RIBEIRO LAGES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRUNA LORENA ALENCAR DE ALMEIDA VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZA GONZAGA LEAO NETA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JANIDELIA DE LIMA SOUSA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO DE ASSIS QUARESMA PRACA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAILSON FERREIRA DE MOURA TORRES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THIAGO SILVA MACEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILSON GOMES MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSON DA SILVA VERAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE DE CASSIO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

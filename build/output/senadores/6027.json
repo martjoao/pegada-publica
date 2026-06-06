@@ -51,5 +51,57 @@
   "birth_state": "MA",
   "birth_city": "Graça Aranha",
   "sex": "M",
-  "email": "sen.meciasdejesus@senado.leg.br"
+  "email": "sen.meciasdejesus@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2321460.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - RORAIMA - RR - ESTADUAL",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "company",
+      "total_amount": 10500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSUE OLIVEIRA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO DE BRITO MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO MECIAS PEREIRA DE JESUS",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "individual",
+      "total_amount": 99.03,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

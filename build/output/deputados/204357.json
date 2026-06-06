@@ -53,5 +53,207 @@
   "birth_city": "Fátima do Sul",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 602250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALDAIR CAPATTI DE AQUINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO CARLOS VIDEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO MONTEIRO SALOMAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDUARDO MACHADO METELLO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "APARECIDA RAMONA VIEIRA ROSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSIANE MODESTO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RINALDO MODESTO DE OLIVEIRA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 9565.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DARCI LOPES SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WAMILDES VIEIRA ROSA GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OSVALDO RAMOS MIRANDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALLISON LOPES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RANULFO BARBOSA FALCAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4999.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MILTON MARCONDES DORNELES FLORES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GENI SZLACHTA SENNA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GABRIELA SZLACHTA SENNA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2560.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MAURO CESAR SENNA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NAJLA MACHADO DIB",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "KARLA LETHIR JESUINO SANDIM DEMENCIANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REJANE AUREA SILVA ARCE SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

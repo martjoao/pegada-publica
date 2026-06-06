@@ -76,5 +76,118 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "sen.wildermorais@senado.leg.br"
+  "email": "sen.wildermorais@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "ELEICAO 2022 KEILA GOMES DE CARVALHO BORGES VICE-GOVERNADOR",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 518500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SALON BATISTA DA FONSECA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILDER PEDRO DE MORAIS",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 486000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 VITOR HUGO DE ARAUJO ALMEIDA GOVERNADOR",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 378535.85,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO HENRIQUE GONCALVES DE MENEZES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RONALDO RAMOS CAIADO GOVERNADOR",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 11570.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ALVES QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLAUDIO ELISIO DE CARVALHO PAIVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1680.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCAS JOSE DE QUEIROZ JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1680.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS ANTONIO MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1680.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

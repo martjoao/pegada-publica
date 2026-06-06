@@ -116,5 +116,69 @@
     "https://www.instagram.com/alexandreleite.sp",
     "https://youtube.com/depfedalexandreleite"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 793951.9399999998,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEXANDRE LEITE DA SILVA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 524300.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 OSMAR STUART BERTOLDI DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MILTON LEITE DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10733.7,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - SAO PAULO - SP - MUNICIPAL",
+      "city": "SÃO PAULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1221.97,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

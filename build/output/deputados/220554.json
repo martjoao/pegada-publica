@@ -47,5 +47,27 @@
   "birth_city": "Rio Grande",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1289000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JOAO EDEGAR PRETTO GOVERNADOR",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 4392.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

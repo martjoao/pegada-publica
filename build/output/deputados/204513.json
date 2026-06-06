@@ -59,5 +59,78 @@
   "birth_city": "Tatuí",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "JOSE GUILHERME NEGRAO PEIXOTO",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 358939.08,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE GERALDO ANTUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL BARROS PILON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALMIR PILON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILLIAM MARCELO NICOLAU",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO RENOVADOR TRABALHISTA BRASILEIRO - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 3975.24,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO MODANEZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1400.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

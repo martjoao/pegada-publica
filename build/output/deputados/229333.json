@@ -47,5 +47,157 @@
   "birth_city": "Itaúna",
   "education": null,
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 300000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GRACINDA SANTIAGO CARNEIRO NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARDOQUEU HERCULANO ANTUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GLAUCIO HERCULANO ANTUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAIRO HERCULANO ANTUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIO OLIVEIRA DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19047.62,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANILO MELIM ABURJELI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADRIANA MARA GUIMARAES RAMOS DE BRITO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE MAURICIO LABORNE SALAZAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7142.86,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FLAVIO LABORNE SALAZAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7142.86,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GLAUCIA MARIA SANTIAGO RODRIGUES",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 5020.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL PENTAGNA GUIMARAES SALAZAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2380.95,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE PENTAGNA GUIMARAES SALAZAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2380.95,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIO PENTAGNA GUIMARAES SALAZAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2380.95,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCUS ROBERTO DE FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1630.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

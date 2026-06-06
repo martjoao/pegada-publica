@@ -56,5 +56,177 @@
   "birth_state": "ES",
   "birth_city": "Nova Venécia",
   "sex": "M",
-  "email": "sen.fabianocontarato@senado.leg.br"
+  "email": "sen.fabianocontarato@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "REDE SUSTENTABILIDADE",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 190000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "COMISSAO PROVISORIA DO PARTIDO REDE SUSTENTABILIDADE - SERRA/ES",
+      "city": "SERRA",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 10266.66,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TIAGO MARGON SCALZER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9410.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDRE LUIZ TOSCANO DALMASIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3024.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NINA IGNACIO FERNANDES MOYSES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1516.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JORGE MOYSES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1350.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA MARTA ORLANDI DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1348.21,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDRESCA RIBEIRO BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1348.21,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JUANITA AURORA GONCALVES GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1348.21,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE SOARES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1348.21,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIOLA DESSAUNE TARDIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1214.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DE FATIMA DE JESUS NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1214.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DINECI PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1214.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIO CRISTIANO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 650.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BENTO ADEODATO PORTO",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MANUZA PAIXAO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 315.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SHEILA RAMOS MOSCHEN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 315.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

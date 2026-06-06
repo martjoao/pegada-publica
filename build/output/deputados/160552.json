@@ -123,5 +123,128 @@
   "birth_city": "Crissiumal",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2162000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - ORGAO PROVISORIO",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 101576.9,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA - RIO GRANDE DO SUL - RS - ESTADUAL",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 5999.98,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO LUIS GRANDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROGERIO ORTIZ PORTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRUNA KETZER PERALTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO JOSE DE LEAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CHARLES MORAIS BARRAGAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1902.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RENAN GIACOMELI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - VENANCIO AIRES - RS - MUNICIPAL",
+      "city": "VENÂNCIO AIRES",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 1480.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOSE IVO SARTORI GOVERNADOR",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 1478.4699999999998,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUSTAVO CAVALHEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 770.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

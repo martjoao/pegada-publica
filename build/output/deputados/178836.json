@@ -85,5 +85,177 @@
     "https://www.facebook.com/deputadoalanrick",
     "https://www.instagram.com/alanrickm"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DEMOCRATAS - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 825000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALAN RICK MIRANDA",
+      "city": "#NULO",
+      "state": "AC",
+      "donor_type": "individual",
+      "total_amount": 95000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO NONATO LIMA DA CRUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEONARDO MOTA DE MORAIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ISRAEL CANDIDO DA SILVA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ARYTON MENDES SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANA BRUNO DO NASCIMENTO DUARTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADORLA GOMES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BRUNA PAULA FELIX PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSANGELA ABRAHIM TELES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ENOQUE FEIJO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RONALDO DA SILVA SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JORGE CARLOS MAIA DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO DEMOCRATAS ESTADUAL",
+      "city": "#NULO",
+      "state": "AC",
+      "donor_type": "company",
+      "total_amount": 300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIANA FERNANDES DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIA PEREIRA DANIEL NERY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "#NULO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "unknown",
+      "total_amount": 6.4,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

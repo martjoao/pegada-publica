@@ -81,5 +81,207 @@
     "https://www.instagram.com/deputadonicoletti",
     "https://youtube.com/DeputadoNicoletti"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL - RORAIMA - RR - ESTADUAL",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "company",
+      "total_amount": 1191407.41,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 725000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO CARLOS NICOLETTI",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIAS BARROSO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4820.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANA DE MELO LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EVALDO BEZERRA TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3820.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ACACIO SALES DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3820.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO ROGERIO GOMES CORREA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLARISSA LOPES AZEVEDO NICOLETTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELISANGELA RIBEIRO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVONEI DARCI STULP",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIEGO VICTOR RODRIGUES BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOELMA SANTOS NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1820.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIANE SILVA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1820.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE WINGLICE GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1820.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "KEYSE LUANE SOUSA DE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1820.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NUBIA PEREIRA ANDRE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1820.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DO ROSARIO SILVA TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1820.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO DA SILVA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1820.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

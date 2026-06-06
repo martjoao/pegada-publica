@@ -59,5 +59,108 @@
   "birth_city": "Manhuaçu",
   "education": "Secundário",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 850000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "22 - PARTIDO LIBERAL",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 538515.03,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 350000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CRISTIANO DUTRA VALE",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "individual",
+      "total_amount": 125098.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO DA SILVA ALCANTARA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSIAS FERREIRA BOTELHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDA MARIA FARIAS DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4135.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RENAN ALMEIDA DE FARIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 HELDER ZAHLUTH BARBALHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 930.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 WENDERSON AZEVEDO CHAMON DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 483.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

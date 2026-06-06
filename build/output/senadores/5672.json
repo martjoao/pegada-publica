@@ -66,5 +66,57 @@
   "birth_state": "AC",
   "birth_city": "Rio Branco",
   "sex": "M",
-  "email": "sen.alanrick@senado.leg.br"
+  "email": "sen.alanrick@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2735314.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALAN RICK MIRANDA",
+      "city": "#NULO",
+      "state": "AC",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADRIANA MICHELE DE ARAUJO MIRANDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA CONCEICAO DE OLIVEIRA FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FELIPE PIETRO DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2225.14,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -93,5 +93,212 @@
   "birth_city": "Porto Alegre",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1950000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "AFONSO ANTUNES DA MOTTA",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "individual",
+      "total_amount": 1202750.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JULIANA VAUCHER BENTO LEAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO LUIZ CORREA OSORIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE DE SOUZA ROQUE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6501.3,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RUI ANTUNES DA MOTTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AFONSO FLORES DA CUNHA DA MOTTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FILIPE SOUZA DA MOTTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE ADAO MACHADO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIS HENRIQUE LEMOS DA SILVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LINO ROGERIO DA SILVA FURTADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME NUNES SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSUE DE SOUZA ROQUE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2122.19,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VITOR BORGES DE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA ALZIRA MARQUES DA CONCEICAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ ALBERTO MINUZI MARTINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OSCAR GILBERTO PAIM GARRIDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JAIRO JORGE DA SILVA GOVERNADOR",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 1220.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO FRANCISCO GONCALVES CAGGIANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILSON MOURA VAUCHER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

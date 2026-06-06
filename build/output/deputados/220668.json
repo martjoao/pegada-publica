@@ -57,5 +57,17 @@
     "https://www.facebook.com//mariaarraespe",
     "https://www.instagram.com/mariaarraes"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "SOLIDARIEDADE - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3170000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

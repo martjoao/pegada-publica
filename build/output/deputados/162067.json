@@ -52,5 +52,47 @@
     "https://www.instagram.com/kiko.celeguim",
     "https://youtube.com/KikoCeleguimoficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1685600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DOS TRABALHADORES - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 6311.48,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WIDERSON TADEU ANZELOTTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO RICARDO HARTMANN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

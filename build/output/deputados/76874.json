@@ -53,5 +53,207 @@
   "birth_city": "Niterói",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE - RIO DE JANEIRO (PSOL-RJ)",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 301047.53,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ELIOMAR DE SOUZA COELHO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 34771.240000000005,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 FLAVIO ALVES SERAFINI DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 27960.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO RIBEIRO FREIXO",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 7196.16,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CRISTIANE SCHUCH PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SONIA MARIA SOARES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAFAEL LINS BEZZE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.01,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SILVANA DA FONSECA FRANCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDIVALDO BARRETO DOS REIS JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HELOISA HELENA KRUKOSKI GEVAERD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TERESA CRISTINA MACEDO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO MIRANDA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDA SAMPAIO DE LACERDA ABREU",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE RENATO BOTELHO MOSCHOVICH",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GABRIEL DE MOURA PASSOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DAVID TYGEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MATEUS SOLANO SCHENKER CARNEIRO DA CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO DE LAMARE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ARMED NEMR SARIEDDINE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EMERSON DOS SANTOS AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

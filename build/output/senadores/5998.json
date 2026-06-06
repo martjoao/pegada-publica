@@ -73,5 +73,27 @@
   "birth_state": "PB",
   "birth_city": "Campina Grande",
   "sex": "F",
-  "email": "sen.daniellaribeiro@senado.leg.br"
+  "email": "sen.daniellaribeiro@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO PROGRESSISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 155500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUCELIO CARTAXO PIRES DE SA GOVERNADOR",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "company",
+      "total_amount": 3096.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

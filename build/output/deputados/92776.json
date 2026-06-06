@@ -127,5 +127,69 @@
     "https://www.facebook.com/PastorStefanoAguiar",
     "https://www.instagram.com/depstefano"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1600000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO GENARO OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WAGNER FERREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "GRAZZIELLI GONCALVES GOZER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JANAINA REIS FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WAGNER WASHINGTON LANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

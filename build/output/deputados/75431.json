@@ -70,5 +70,211 @@
   "birth_city": "Curitiba",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO PODEMOS - RIO GRANDE DO SUL - RS - ESTADUAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1955873.92,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 700000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO METROPOLITANO DO PARTIDO TRABALHISTA BRASILEIRO DE PORTO ALEGRE",
+      "city": "PORTO ALEGRE",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 37000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NILO INACIO PEIXOTO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "EVERTON LUIS GOMES BRAZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 22000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MILTON MELNICK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUIS CARLOS HEINZE SENADOR",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 18500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VINICIUS POLANCZYK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16140.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARILIA ALVES FIDELL DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CASSIO DE JESUS TROGILDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14990.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO OLIMPIO GUIMARAES FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12019.06,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ILIZEU DAROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11450.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULA VAZ PINTO ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODIMAR LUIS REBELATTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA - RIO GRANDE DO SUL - RS - ESTADUAL",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 8671.96,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JEFERSON AZEVEDO BITENCOURT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8600.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ATIDOR DA SILVA DA CRUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILBERTO BORSATO DA ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO LUIZ SCOPEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDRE VINICIOS BARCELOS DA CRUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

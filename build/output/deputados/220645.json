@@ -50,5 +50,197 @@
     "https://twitter.com/erikakhilton",
     "https://www.instagram.com/hilton_erika"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1424107.94,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CINTHIA MARIA DO CARMO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FLAVIO SIQUEIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8050.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERIKA SANTOS SILVA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 7400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO CARLOS TAVARES VEGLIONE JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL PEREIRA SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GABRIEL DA SILVA LINDENBACH GARCIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3050.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MURILO CESAR ABOLIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS JOSE DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROBERTO FIGUEIREDO DO AMARAL FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA PAULA DE ASSUMPCAO RAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO JUNIOR MENDES KIKUCHI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GIOVANNA FERREIRA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MATHEUS NIGRO ZAMUR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1896.08,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO MAIA VEIGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL LOPES CANOBA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA IZABEL FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1150.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MELHEM YARYD JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCAS DE SANTANA MODOLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 53.02,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

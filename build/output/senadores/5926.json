@@ -58,5 +58,77 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "sen.lucasbarreto@senado.leg.br"
+  "email": "sen.lucasbarreto@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 480000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LORRAN DAMASCENO BARRETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAIMUNDA DE NAZARE CANTUARIA BARRETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AMILCAR BENJAMIM DO CARMO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MANOELA DE OLIVEIRA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GABRIELA SOLIDADE BARRETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIOGO BRITO GRUNHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13.2,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

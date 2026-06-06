@@ -65,5 +65,47 @@
   "birth_city": "Minas Novas",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PATRIOTA - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADILSON BARROSO OLIVEIRA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL SAO PAULO SP ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1431.42,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

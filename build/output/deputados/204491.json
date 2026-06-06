@@ -74,5 +74,210 @@
     "https://www.facebook.com/gilbertoabramo",
     "https://www.instagram.com/gilbertoabramo_"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3133874.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - COMISSAO PROVISORIA REGIONAL MG",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 102554.57,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PAULO EDESIO FERNANDES COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3237.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO WILLIAM FELIPE DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2758.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO DIAS JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2643.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO GUILHERME DEPIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2643.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HARLEY FABIANY JUNQUEIRA COBRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2615.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSON FERNANDES COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2533.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SANDRO MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2422.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAVID OLIVEIRA NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2332.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AILSON BATISTA DE FIGUEIREDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILVIO LINCOLN ANTUNES DE AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1729.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WANDSON DE LIMA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1690.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SUELY MARQUES SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1688.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GERALDO MAGELA CHAVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1552.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GEORGE FELIPE PEREIRA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1445.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEBORA FERNANDES COSTA BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO VIEIRA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILBERTO DIAS DE CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALDECI JOSE DE ALBUQUERQUE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

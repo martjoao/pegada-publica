@@ -76,5 +76,209 @@
   "birth_city": "Teresina",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1800000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 218750.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO PROGRESSISTA - PP -PI",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAQUIM FELIPE LAGINSKI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CONCEICAO DE MARIA PADUA SAMPAIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20354.03,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME ARAUJO PARENTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANGELO PADUA REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE LIRA MENDES FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS AURELIO PADUA RIBEIRO GONCALVES DE SAMPAIO",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 17208.98,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE PADUA REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE EDVAN LIMA OLIVEIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAVID BORGES HAGEM MASUAD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE GERALDO CASTELLO BRANCO SOBRINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AURELIO LOBAO LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE CARLOS DE MOURA PADUA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DAS MERCES LEAL DA COSTA PADUA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LARISSA GONCALVES MENDES DE CARVALHO DO REGO MONTEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCILIO BONA ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALANO DOURADO MENESES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALEXANDRINA RAQUEL DE LIMA MARINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

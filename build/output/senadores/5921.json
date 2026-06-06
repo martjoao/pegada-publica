@@ -37,5 +37,6 @@
   "birth_state": "PR",
   "birth_city": "Curitiba",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

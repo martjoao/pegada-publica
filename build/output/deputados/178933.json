@@ -92,5 +92,210 @@
     "https://www.instagram.com/sergiosouzapr",
     "https://youtube.com/deputadofederalsergiosouza"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3602000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RUBENS OMETTO SILVEIRA MELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ARNOLDO HAMMERSCHMIDT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALYSSON HOFFMANN PEGORARO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO CARLOS FREITAS DE CAMARGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO DE SOUZA",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 45351.97,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ORLANDO HENRIQUE FERRARI POLATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 44750.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NORMANDO CORRAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 37000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL SCHENKEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 32000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROMEU FROELICH",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEXANDRE PEDRO SCHENKEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ARILTON CESAR RIEDI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDRE GUILHERME SUCOLOTTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLETO WEBLER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JORGE SUSUMU SEINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO ANDRE LOPES GUERREIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSON DALTROZO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO ROGERIO DE MORAIS MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEX CANZIANI SILVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21770.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARLON FEDRIZZI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

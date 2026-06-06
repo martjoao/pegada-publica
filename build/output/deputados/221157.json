@@ -53,5 +53,108 @@
   "birth_city": "Rio de Janeiro",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 31800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RUI GODINHO DA MOTA",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "individual",
+      "total_amount": 13786.99,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO ALMEDI SANI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUCAS DE SOUZA ESMERALDINO SENADOR",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 3190.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABRICIO CORREA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 CARLOS MOISES DA SILVA GOVERNADOR",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 1315.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO HENRIQUE ALVES DE CARVALHO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO MOREIRA OSORIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL LIBERAL - SANTA CATARINA - SC - ESTADUAL",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 265.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

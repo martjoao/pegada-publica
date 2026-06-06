@@ -47,5 +47,207 @@
   "birth_city": "Manaus",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "SOLIDARIEDADE - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 280000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO BOSCO GOMES SARAIVA",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "individual",
+      "total_amount": 39500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO DE SOUZA MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIOLINO BRITO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELISSANDRO AMORIM BESSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 AMAZONINO ARMANDO MENDES GOVERNADOR",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 11520.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO SANTINO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LILIAN DA FROTA MOREIRA ALEIXO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDREWS CUNHA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIANA GOMES TUMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO CHICRE NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GISELLE ALELUIA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAFAEL VIEIRA AMORIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ENE PATRICIA AMORIM BESSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAURA VICUNA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IRIS LUCIANA TREVISAN ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5499.99,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDNEY VIEIRA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EYDE CRISTIANNE SARAIVA BONATTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TANIA MARIA DOS REIS PASSOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANO DOS SANTOS MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

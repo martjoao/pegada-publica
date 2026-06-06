@@ -53,5 +53,207 @@
   "birth_city": "Itabira",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "HAROLDO ALVES CAMPOS",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "individual",
+      "total_amount": 1005942.08,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OEL DE SOUZA NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24999.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA CLAUDIA DE OLIVEIRA REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 22815.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE HAROLDO FIGUEIREDO CAMPOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21519.84,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DAGMAR VIEIRA RAMALHO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14034.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FREDERICO OLIVEIRA MARTINS DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9514.64,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA JOSE ALMEIDA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6951.36,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELA DO NASCIMENTO DE AQUINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6184.36,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANGELA MARIA CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6184.36,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDRELINA DE OLIVEIRA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6184.36,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IEDA DA SILVA E SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6082.96,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EMERSON RODRIGUES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6082.96,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDA FERNANDES PINTO RAMALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4674.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS JOSE MARTINS COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4674.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "STEFANNY BEATRIZ COSTA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4514.64,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "company",
+      "total_amount": 4290.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELCIANE DE CASSIA BARROS LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3582.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDIMAR GOMES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3582.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CELSO RICARDO ANDRADE SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3582.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WANDERSON KLEBER SILVA DE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3582.8,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

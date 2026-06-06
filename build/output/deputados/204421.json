@@ -63,5 +63,87 @@
     "https://www.facebook.com/ednahenriqueoficial",
     "https://www.instagram.com/ednahenriqueoficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 375000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 150000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 150000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PARAIBA - PB - ESTADUAL",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "company",
+      "total_amount": 99000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDNACE ALVES SILVESTRE HENRIQUE",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RENATA TARRADT MARACAJA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS ANDRE GUERRA SARAIVA BEZERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUCELIO CARTAXO PIRES DE SA GOVERNADOR",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "company",
+      "total_amount": 233.34,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

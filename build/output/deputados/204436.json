@@ -68,5 +68,208 @@
     "https://www.facebook.com/isnaldobulhoesjr",
     "https://www.instagram.com/isnaldobulhoes"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2542300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOSE RENAN VASCONCELOS CALHEIROS SENADOR",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "company",
+      "total_amount": 600000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAOLA MANTEGAZZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 250000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTIDIO ALEIXO LUNELLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 230000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ISNALDO BULHOES BARROS JUNIOR",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "individual",
+      "total_amount": 225653.88,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ISNALDO BULHOES BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 77273.78,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SYLVIO KLEIN TROMPOWSKY HECK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BURKHARD OTTO CORDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CHRISTIANE BULHOES BARROS MELO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WILSON FRANCISCO REBELO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO MAGRIN BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROBSON DE ALVARENGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VLADIMIR SEGALLA AFANASIEFF",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA IRENE ALVES MONTEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NELSON LUIS MILANETTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RENILDE SILVA BULHOES BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUSTAVO PONTES DE MIRANDA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6819.9,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO MELO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLAUDEMIR DOS SANTOS MOTA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5153.88,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ADRIANO PEREIRA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

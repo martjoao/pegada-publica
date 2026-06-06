@@ -52,5 +52,107 @@
     "https://www.instagram.com/juliazanattasc",
     "https://youtube.com/channel/UC-xMxlTPP-xGmOry0wx2sxw"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIO GONCALVES VASQUES JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADRIAN ROGERS CENSI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JORGINHO DOS SANTOS MELLO GOVERNADOR",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 13898.14,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FILIPE SILVEIRA PAVEI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO GUEDES LANDIM DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIA PEDROSO ZANATTA",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "individual",
+      "total_amount": 2901.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE LUIS CENSI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO DE QUEIROZ CORDOVA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NEWTON MAGALHAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

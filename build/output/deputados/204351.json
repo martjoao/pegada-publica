@@ -81,5 +81,97 @@
     "https://www.instagram.com/drluizovando",
     "https://youtube.com/channel/UCQ1v5nEfElt-ztWZkpxZdBQ"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "COMISSAO PROVISORIA ESTADUAL-PARTIDO PROGRESSISTA",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 230000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ ALBERTO OVANDO",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "individual",
+      "total_amount": 19300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NAURA JAFAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 REINALDO AZAMBUJA SILVA GOVERNADOR",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 1008.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVAN ARAUJO BRANDAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OSVALDO DIAS CORREA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BRUNO ALMEIDA AQUINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS OSMAR TRAPP",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

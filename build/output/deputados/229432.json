@@ -63,5 +63,97 @@
     "https://www.instagram.com/luizfernandovampiro",
     "https://youtube.com/channel/UCZUR6Tw7hmmhGL820lEmEfg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - SANTA CATARINA - SC - ESTADUAL",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 202674.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO MINATTO BRANDAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KENIO MAFIOLETTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16150.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ FERNANDO CARDOSO",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "individual",
+      "total_amount": 12800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON ROSSI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AMANDA DUZZIONI ULIANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DARLAN PACHECO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HUGO DA SILVA DAL PONT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

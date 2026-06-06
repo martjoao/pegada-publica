@@ -51,5 +51,107 @@
     "https://www.facebook.com/daianasantospoa",
     "https://www.instagram.com/daianasantospoa"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO COMUNISTA DO BRASIL - RIO GRANDE DO SUL - RS - ESTADUAL",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 427360.95,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO COMUNISTA DO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 253000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIREÇÃO MUNICIPAL/COMISSÃO PROVISÓRIA",
+      "city": "PORTO ALEGRE",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO PEDRO DA SILVA ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL PAULO LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CANDIDO IVAN RIBEIRO ACOSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LADIN QUARESMA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAVINO PUCHALSKI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDER PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JOAO EDEGAR PRETTO GOVERNADOR",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 380.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

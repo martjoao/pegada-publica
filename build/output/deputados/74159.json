@@ -156,5 +156,209 @@
     "https://www.facebook.com/odaircunhamg",
     "https://www.instagram.com/odaircunhamg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3257950.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ODAIR JOSE DA CUNHA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROBERT CARLOS LYRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON FRANCO DAS NEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA TERESA GAMBARATO KRASTEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE FRANCISCO DE FATIMA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DOS TRABALHADORES PT",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 92500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "HOMERO AGUIAR PAIVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCO ANTONIO VIANA LEITE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 45000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALTAIR DE JESUS VILAR GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 41186.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIS FERNANDO PAROLI SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO AMORIM DA ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAZARO ROBERTO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO BRAGA NARCISO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VINICIUS PINTO DUTRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALYSSON DANIEL GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8020.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIANA JORGE DE SOUSA COSMO PINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO CARLI CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CAMILA OLIVIA DO NASCIMENTO DE MORAES FARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

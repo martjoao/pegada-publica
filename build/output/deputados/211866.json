@@ -75,5 +75,168 @@
   "birth_city": "Belo Horizonte",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO NACIONAL DO PARTIDO SOCIAL CRISTAO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 800000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CIDADANIA - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 594064.05,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIANO GALLETTI TOLENTINO",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 19285.09,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ISNEI JOSE GARCIA FARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO AUGUSTO DE ALMEIDA BRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO POPULAR SOCIALISTA - PPS - DIRETORIO ESTADUAL DE MINAS GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 5292.38,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIEGO ANDRADE SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2195.2,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDA MARIA SIMOES MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1333.2,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IGOR GUIMARAES DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1252.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CHRISTIAN EDUARDO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1144.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALESSANDRA MARIA TELES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1144.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ARISTIDES RODRIGUES FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1144.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CECILIA PATRICIA PAULA PEDROSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1144.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELLEN VALADARES DE MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1144.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEONARDO DA SILVA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1144.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ARIANA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

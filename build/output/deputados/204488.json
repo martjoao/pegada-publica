@@ -87,5 +87,209 @@
     "https://www.instagram.com/celiostudart",
     "https://youtube.com/channel/UCHEI0XtQiyNwR5x7bVTewGQ"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 1100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO VERDE",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 503132.47,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO VERDE",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 165955.54,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CELIO STUDART BARBOSA",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 155000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ ARY ROMCY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 53000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARILDA STUDART BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 48000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "DARCY SAMPAIO RABELO SUCUPIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO MILTON DA PONTE NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERICH ROSEONELY CAVALCANTE REGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCAS AMERICO GURGEL DE MEDEIROS PEIXOTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SOLANGE MARIA VERAS CASTRO BEZERRA MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EVELINE STUDART BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DANNIEL DAMASCENO CASTELLO BRANCO MOURAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO OLINTO CHAGAS LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ESTEVAO SAMPAIO ROMCY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6270.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE MOREIRA ARAUJO DE SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AGENOR CORDEIRO STUDART GURGEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CELIO ARAUJO BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO FREITAS MAGALHAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4750.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA CLARA GOMES MATHIAS CAVALCANTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

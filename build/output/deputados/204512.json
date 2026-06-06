@@ -75,5 +75,117 @@
     "https://www.instagram.com/delegadomarcelofreitas",
     "https://youtube.com/channel/UC-YDFg5FTo1FKRkav_mD6oQ"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2900000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GABRIEL MASSULA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO EDUARDO FREITAS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 5914.63,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - MINAS GERAIS - MG - ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 3030.3,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIO ALBERTO DE SOUTO LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO EUSTAQUIO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL LIBERAL DIRETORIO ESTADUAL - MINA GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 1401.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SHIRLEY TEIXEIRA MARQUES DINIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE LUIZ DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO DA SILVA PRATES JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SERGIO MURILO DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 172.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

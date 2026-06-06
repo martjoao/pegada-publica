@@ -123,5 +123,58 @@
   "birth_city": "Rio de Janeiro",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3500000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO DOS TRABALHADORES DO RIO DE JANEIRO",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 171000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ELIKA TAKIMOTO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARCIA ANGELITA TIBURI GOVERNADOR",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 5945.95,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MANOEL SEVERINO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

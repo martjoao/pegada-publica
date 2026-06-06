@@ -37,5 +37,6 @@
   "birth_state": "BA",
   "birth_city": "Paulo Afonso",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

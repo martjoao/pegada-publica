@@ -64,5 +64,207 @@
     "https://www.instagram.com/paulolemosap",
     "https://youtube.com/channel/UCPt5rQPkiVFL3kskxR0CP7Q"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE (P-SOL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1165897.78,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE (P-SOL)",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 293322.32999999996,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA CAROLINA CUNHA ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JACIANE ARRELIAS PAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GEAN ARLON ALEIXO NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO MARIA DOS SANTOS RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALAN SERGIO DE OLIVEIRA POSSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ANTONIO CAMPELO DE MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALESSANDRO PICANCO LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO HENRIQUE FARIAS CARDOSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WENDERSON VILHENA FARIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEXANDRE RODRIGO RODRIGUES AMANAJAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE NAZARENO REBELO DA FONSECA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA EUNICE CARVALHO E SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ORIELSON BRAGA MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA JOSE MAGALHAES LOBATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE PRADO DE AGUIAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILLIAN DA SILVA BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KATIA CONCEICAO DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LAURO SANTOS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

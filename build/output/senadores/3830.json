@@ -85,5 +85,27 @@
   "birth_state": "AP",
   "birth_city": "Macapá",
   "sex": "M",
-  "email": "sen.davialcolumbre@senado.leg.br"
+  "email": "sen.davialcolumbre@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2700086.65,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL DIRETORIO ESTADUAL",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 880000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

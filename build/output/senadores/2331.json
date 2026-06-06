@@ -80,5 +80,37 @@
   "birth_state": "MG",
   "birth_city": "Caratinga",
   "sex": "F",
-  "email": "sen.rosedefreitas@senado.leg.br"
+  "email": "sen.rosedefreitas@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "BENEDITO MOROZESKY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO CARLOS DONATO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "COSME DE JESUS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

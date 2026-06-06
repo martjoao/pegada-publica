@@ -112,5 +112,87 @@
   "birth_city": "Caruaru",
   "education": "Superior Incompleto",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA PDT",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 165000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WOLNEY QUEIROZ MACIEL",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "individual",
+      "total_amount": 52210.98,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JOSE QUEIROZ DE LIMA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE QUEIROZ DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 36000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SEVERINO ANTONIO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "Direção Municipal/Comissão Provisória",
+      "city": "CARUARU",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 8800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THANIA CILENE DE ANDRADE ALVES QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

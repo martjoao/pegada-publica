@@ -47,5 +47,17 @@
   "birth_city": "Recife",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIALISTA BRASILEIRO - PSB",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

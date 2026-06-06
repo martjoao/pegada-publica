@@ -51,5 +51,38 @@
     "https://www.facebook.com/Washington.Quaqua.13",
     "https://www.instagram.com/washington.quaqua.5"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2270300.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARCIA ANGELITA TIBURI GOVERNADOR",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 1486.49,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO SERGIO DE BRITO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -129,5 +129,48 @@
   "birth_city": "Santa Inês",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4908488.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO DE ASSIS LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVAIR MARCEL SILVA BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE LUIZ CARVALHO RIBEIRO",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

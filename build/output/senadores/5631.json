@@ -43,5 +43,6 @@
   "birth_state": "SC",
   "birth_city": "Rodeio",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

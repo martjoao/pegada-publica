@@ -105,5 +105,208 @@
   "social_media": [
     "https://www.instagram.com/andreabdon_"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4134541.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 DAVID SAMUEL ALCOLUMBRE TOBELEM GOVERNADOR",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 1408.45,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DENIS BRUNO FELIX DE MORAIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSANGELA MARIA LINA DOS SANTOS COUTINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELISBETH BARBOSA FORTUNATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RUAN GABRIEL DE SA AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JESUS DE SOUZA CIRILO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSANA TAVARIS LEITE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ODEVALDO DE BRITO SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RILDON DOS SANTOS COUTINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BARBARA MANUELE CAVALCANTE DE CAVALCANTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MAURICEIA VILARINO BAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LENILZA GONCALVES FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAISA FERREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANK MOTA SERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JEAN FORTUNATO CIRILO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SHIRLEYNA MARCELA SILVA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOICE CIRILO MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RUAM RODRIGUES DIAS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSIVALDO DE SOUZA COUTINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

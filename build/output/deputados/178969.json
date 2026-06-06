@@ -79,5 +79,37 @@
     "https://www.facebook.com/depfmitidieri",
     "https://www.instagram.com/depfmitidieri"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIAL DEMOCRATICO - PSD / SE",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "company",
+      "total_amount": 670000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MAISA CRUZ MITIDIERI DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "company",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 BELIVALDO CHAGAS SILVA GOVERNADOR",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "company",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

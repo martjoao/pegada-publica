@@ -69,5 +69,87 @@
     "https://www.facebook.com/pedroaiharaoficial",
     "https://www.instagram.com/pedroaihara"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PATRIOTA - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 950000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SALO DAVI SEIBEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 73333.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CANDIDO BOTELHO BRACHER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HELIO SEIBEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROBERTO LOMBARDI DE BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO SILVEIRA MUFAREJ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALYSSON COIMBRA DE SOUZA CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MICHEL FABIO BRULL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

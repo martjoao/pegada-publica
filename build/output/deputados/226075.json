@@ -50,5 +50,147 @@
     "https://www.facebook.com/priscilacostaoficial",
     "https://www.instagram.com/priscilacosta"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IGOR QUEIROZ BARROSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "COMISSAO PROVISORIA - PARTIDO RENOVADOR TRABALHISTA BRASILEIRO - PRTB",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIS EDUARDO GRANGEIRO GIRAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE TEIXEIRA REGO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MANUEL ELIVANO MARQUES SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO ITALO OLIVEIRA CLEMENTE POMPEU",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3825.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PRISCILA BEZERRA DA COSTA",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 3600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALDERES GONCALVES DE ATAIDE VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO SOARES RIBEIRO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GERVASIO DA SILVA LUCENA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GERSON ALVES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARGARIDA IARA TAVARES FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE VIEIRA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

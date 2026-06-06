@@ -70,5 +70,6 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "ricardo.franco@senador.leg.br"
+  "email": "ricardo.franco@senador.leg.br",
+  "top_donors": []
 }

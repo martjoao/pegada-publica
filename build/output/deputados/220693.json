@@ -47,5 +47,117 @@
   "birth_city": "Salvador",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1150000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JOAO INACIO RIBEIRO ROMA NETO GOVERNADOR",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 62000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEXANDRE JORDAO LORENZO DE ROSARIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IVANILSON CARDOSO DE SANT ANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NADIA CONCEICAO MOURA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TANIA MARIA NUNES NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL - BAHIA - BA - ESTADUAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 7334.16,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ATILA BRANDAO DE OLIVEIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ ANTONIO GALVAO DA SILVA GORDO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL DOS SANTOS CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PATRICIA SAMPAIO VILLAS BOAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

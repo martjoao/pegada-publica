@@ -102,5 +102,47 @@
     "https://www.facebook.com/ProfessoraDorinha",
     "https://www.instagram.com/profdorinha"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "ELEICAO 2018 CESAR HANNA HALUM SENADOR",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEMOCRATAS - DIRETORIO REGIONAL DO TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 79900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "COMISSAO ESTADUAL PROVISORIA DO PARTIDO SOLIDARIEDADE NO ESTADO DO TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 12258.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IOAV BLANCHE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

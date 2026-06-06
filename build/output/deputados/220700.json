@@ -47,5 +47,127 @@
   "birth_city": "Buriti dos Lopes",
   "education": null,
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 66000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DE FATIMA CAMPOS LIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3992.65,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIEGO MACEDO DA CRUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOCIEL DA SILVA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANILO DA CUNHA LAURINDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARLITANIA DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOCENILDO MARTINS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILVANA CARDOSO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIGUEL ARCANJO DOS SANTOS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO PESSOA VALE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LAYLLA CRISTINA MOREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIANA MOURA VILARINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

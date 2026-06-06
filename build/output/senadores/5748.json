@@ -68,5 +68,97 @@
   "birth_state": "PB",
   "birth_city": "Campina Grande",
   "sex": "M",
-  "email": "sen.venezianovitaldorego@senado.leg.br"
+  "email": "sen.venezianovitaldorego@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1216660.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NEY ROBINSON SUASSUNA",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "individual",
+      "total_amount": 300000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JURACI FELIX CAVALCANTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSA DE MEDEIROS CAVALCANTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VENEZIANO VITAL DO REGO SEGUNDO NETO",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "individual",
+      "total_amount": 10996.85,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANO JOSE NOBREGA PIRES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELINO SANTOS DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IZOLDA FREITAS REIS PIRES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JURACI FELIX CAVALCANTE JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

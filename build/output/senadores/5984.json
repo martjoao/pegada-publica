@@ -37,5 +37,6 @@
   "birth_state": "MS",
   "birth_city": "Três Lagoas",
   "sex": "F",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

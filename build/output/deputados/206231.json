@@ -47,5 +47,207 @@
   "birth_city": "Muqui",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "ELEICAO 2022 JOSE RENATO CASAGRANDE GOVERNADOR",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 3128.35,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIO BERILLI MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIRIAM ZAN DE SOUSA CONTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1920.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALEXANDRE GUIMARAES MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLAUDIA TRAVASSOS BUENO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1650.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIO BARBEITO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SEBASTIAO LUIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FRAGA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NALDIRA FRANCISCA DA CRUZ GRADISSE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HATIENCIO SILVA DE OLIVEIRA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLOVES MAXIMINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MOACIR ALVES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HELENA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIEL TITOL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MANOEL RODRIGUES NOVAIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEOCLECIO CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BERTILO NAITZEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WENDERSON VIEIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DE ALMEIDA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL BEZERRA BARCELLOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

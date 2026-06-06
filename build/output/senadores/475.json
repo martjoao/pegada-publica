@@ -58,5 +58,207 @@
   "birth_state": "TO",
   "birth_city": "Dianópolis",
   "sex": "M",
-  "email": "sen.confuciomoura@senado.leg.br"
+  "email": "sen.confuciomoura@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1500000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CONFUCIO AIRES MOURA",
+      "city": "#NULO",
+      "state": "RO",
+      "donor_type": "individual",
+      "total_amount": 561552.76,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA ELIZA DE AGUIAR E SILVA",
+      "city": "#NULO",
+      "state": "RO",
+      "donor_type": "individual",
+      "total_amount": 283552.76,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SIDNEY SANTOS DE SENA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO DE CASTRO FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAZARO OLAIA SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5550.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEONARDO DA CRUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3454.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "UILIAN RICARDO MAIA SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2766.5,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CRISTINA GARCIA BERNARDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GENIVAL RIBEIRO LACERDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TIBERIO CARDOSO DE OLIVEIRA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANA ALVES DA PAIXAO OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MAURICIO MARCONDES GUALBERTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALESSANDRA RODRIGUES DE SOUSA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OSCAR ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OLDACK SANTANA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LIOBERTO UBIRAJARA CAETANO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ ROBERTO DE MATTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2375.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIZEU MESSIAS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2375.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WALTER RODRIGUES MARQUES JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2312.5,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

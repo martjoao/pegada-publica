@@ -100,5 +100,47 @@
   "birth_city": "Fortaleza",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "SOLIDARIEDADE - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 690000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 EUNICIO LOPES DE OLIVEIRA SENADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 12500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ ALVES NORONHA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10750.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS ROBERTO BEZERRA DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

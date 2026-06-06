@@ -82,5 +82,197 @@
   "birth_state": "PI",
   "birth_city": "Teresina",
   "sex": "M",
-  "email": "sen.cironogueira@senado.leg.br"
+  "email": "sen.cironogueira@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2118652.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO PROGRESSISTA - PP -PI",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 358000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CIRO NOGUEIRA LIMA FILHO",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 48290.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIANE E SILVA NOGUEIRA LIMA",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 18360.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MIGUEL SINHUE FONSECA ROSAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE JESUS TRABULO DE SOUSA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLAUDIO BARROS ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WILSON GOMES VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALDEMAR AMORIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO HENRIQUE DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA MARIA GALIZA ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAIMUNDO NETO E SILVA NOGUEIRA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO AUGUSTO DE OLIVEIRA RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSEAN SOARES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALLISSON PAIXAO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDUARDO WILSON CAVALCANTE NEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUILHERMANO PIRES FERREIRA CORREA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA CRISTINA LAGES REBELLO CASTELO BRANCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOSE RIBAMAR NOLETO DE SANTANA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 126.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

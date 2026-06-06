@@ -56,5 +56,207 @@
   "birth_state": "MG",
   "birth_city": "Divinópolis",
   "sex": "M",
-  "email": "sen.cleitinho@senado.leg.br"
+  "email": "sen.cleitinho@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "ALEX SANDRO COELHO DINIZ",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 190392.11,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HENRIQUE MULFORD COELHO DINIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 140000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MACGVEYVER SANTOS ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 110000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO COELHO DINIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLEITON GONTIJO DE AZEVEDO",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALUIZIO ALFREDO ALVES DUTRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE LUIZ RIVERA MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO FONSECA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REINALDO JUSTINO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEONARDO DE RESENDE MIRANDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIAL CRISTAO DE MINAS GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 10850.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MUCIO MENEZES MESQUITA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THIAGO PEREIRA GONTIJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANGELITO RONDINELLI PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1494.8,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL ANTONIO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1494.8,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NARA LUCIA APARECIDA DE PAULA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1494.8,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUBIANE GONCALVES DA FONSECA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 969.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EMILIANA PINTO SEVERINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 969.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUSTAVO CARNEIRO MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 969.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELLEN VALADARES DE MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 969.6,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

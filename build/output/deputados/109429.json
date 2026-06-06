@@ -86,5 +86,209 @@
     "https://www.facebook.com/BenesLeocadioRN",
     "https://www.instagram.com/benesleocadiorn"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO TRABALHISTA CRISTAO - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 810000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ BENES LEOCADIO DE ARAUJO",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "individual",
+      "total_amount": 202649.7,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA KARINA LOPES DA SILVA ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "THIAGO LOPES LEOCADIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.05,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "EUDIANE JANAINA MACEDO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVAN PINHEIRO DE FIGUEIREDO SOBRINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IDALECIO PINHEIRO DE FIGUEIREDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "THAYRONY JACKSON LEOCADIO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3205.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO PAULO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3205.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLA SORAIA DA COSTA SA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.01,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DO ROSARIO MATOS RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARILIA ARAUJO ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCA IRENE MARTINS GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JIMMY CLEYSON TEOFILO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1496.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO EDUARDO DE MEDEIROS DANTAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAIME SECUNDO LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE MARQUES FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DANIEL PEREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAURITA SILVEIRA DIAS DE ARRUDA CAMARA PATRIOTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS CEZAR CAVALCANTE DE MATOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

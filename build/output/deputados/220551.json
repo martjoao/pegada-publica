@@ -47,5 +47,117 @@
   "birth_city": "Santa Maria",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 731258.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCIANE ABADE BAYER MULLER",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "individual",
+      "total_amount": 20160.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MICHEL VILELA DA FLORENCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12110.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO RENATO TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ NOE SOUZA SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA IZABEL KREMER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THAIS CRISTINE SUTIL GULES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VANESSA CONCEICAO JARDIM QUINTILHANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CIBELE DE FRAGA SILVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIA FERNANDA EDEL DA ROSA FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVERTON JOAO MANTELLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

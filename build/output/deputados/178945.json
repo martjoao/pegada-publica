@@ -115,5 +115,150 @@
     "https://www.facebook.com/pages/Rosangela-Gomes",
     "https://www.instagram.com/rosangelasgomes"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3019540.02,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - RIO DE JANEIRO - RJ - ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 401850.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "Direção Municipal/Comissão Provisória",
+      "city": "RIO DE JANEIRO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 44000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON DE AZEVEDO COELHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21080.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO DE AZEVEDO COELHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANNA KARINA CREMA DUARTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ ANTONIO RAYMUNDO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HOMERO BERNARDO PERRENOUD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CHARLES DA SILVA CESARIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MICHELE ROSA ZANARDI COELHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALERIA DA CONCEICAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA PAULA MACHADO DUTRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TELMO FERNANDES CARNEIRO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARTA DELFINO DIAS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

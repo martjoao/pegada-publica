@@ -86,5 +86,211 @@
     "https://www.facebook.com/pedrolupion",
     "https://www.instagram.com/pedrolupion"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1680000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEMOCRATAS - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RUBENS OMETTO SILVEIRA MELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PROGRESSISTAS - PARANA - PR - ESTADUAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 200348.83,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PAULA ABREU BARCELLOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NEIDE SANCHES FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ERNESTO AUGUSTIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WALFRIDO VICTORINO AVILA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ MENEGHEL NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERASMO CARLOS BATTISTELLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ABELARDO LUIZ LUPION MELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 42811.880000000005,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ERIKA BRANDAO LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO DO VAL GUERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ FAVA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ORCIVAL GOUVEIA GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL DAVIDSOHN ABUD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROMEU FROELICH",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO GILBERTO COMINESE FREIRE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLETO WEBLER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO LOPES ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    }
+  ]
 }

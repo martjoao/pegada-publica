@@ -81,5 +81,157 @@
     "https://www.instagram.com/christonietto",
     "https://youtube.com/channel/UCqqG6AaU2hm2vLhMir4Jdlw"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL LIBERAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 73333.33,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BRUNNO DE SOUZA BARROS GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JEAN FELIPPE GARCIA PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA LUISA DE ALMEIDA RABELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL LIBERAL - RIO DE JANEIRO - RJ - ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 673.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARCIO GUALBERTO DOS SANTOS DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 665.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCAS HENRIQUE FEITOSA DE MATTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 350.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OMAR DEMETRIO MANSOUR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAIRO DE FARIAS PAVAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.01,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALLANDERSON MOREIRA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO HENRIQUE DOS REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO FELIPE ALVES LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIO GUALBERTO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANNA CAROLINA PAPA TAVARES DOS ANJOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

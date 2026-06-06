@@ -76,5 +76,77 @@
   "birth_city": "Curitiba",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - PARANA - PR - ESTADUAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 1029786.03,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 FERNANDO DESTITO FRANCISCHINI DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 146429.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIS FELIPE BONATTO FRANCISCHINI",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUIZ FERNANDO GUERRA FILHO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 41000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLAUDIA NETTO SAFATLE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13530.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MICHEL NAZARETH MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

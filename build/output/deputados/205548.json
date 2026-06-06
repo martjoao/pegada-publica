@@ -57,5 +57,17 @@
     "https://www.facebook.com/davmichael.mir",
     "https://www.instagram.com/davidmirandario"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE - RIO DE JANEIRO (PSOL-RJ)",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 1492.98,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

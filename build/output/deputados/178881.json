@@ -128,5 +128,117 @@
     "https://www.instagram.com/aluisiomendesma",
     "https://youtube.com/aluisiomendesma"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO NACIONAL DO PARTIDO SOCIAL CRISTAO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1300000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PODEMOS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 605000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALUISIO GUIMARAES MENDES FILHO",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDO GUIMARAES MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 41000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANA GOZZI GUIMARAES MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAERCIO GOMES COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ HENRIQUE COSTA NICOLAU",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO DA SILVA LEAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LIANA SALDANHA NOLETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AMARILDO DE DEUS MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ROBERTO COELHO ROCHA GOVERNADOR",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 535.72,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

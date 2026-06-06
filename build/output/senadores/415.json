@@ -61,5 +61,6 @@
   "birth_state": "MG",
   "birth_city": "Muriaé",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

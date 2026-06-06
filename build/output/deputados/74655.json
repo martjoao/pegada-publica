@@ -133,5 +133,208 @@
     "https://www.facebook.com/deputadofederaleduardobarbosa/",
     "https://www.instagram.com/eduardobarbosamg/"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2900000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 GERALDO JOSE RODRIGUES ALCKMIN FILHO PRESIDENTE",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 700000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 DANIEL FIORAVANTE BARBOSA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 22250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HENRIQUE MARINHO DE FARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO ALEXANDRE SACIOTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GERALDO MAGELA DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL FIORAVANTE BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE RICARDO PEREIRA DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2636.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO BOSCO PINTO MONTEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 1126.03,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VILMA PAULA MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 636.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RENATA ARANTES VILLELA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 636.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NUNO AUGUSTO ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 636.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ISABEL CECILIA OLIVEIRA MAGALHAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 636.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JUDITH MARIA DE MAGALHAES MONTEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 636.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROBERTA ALVES BORGES PACHECO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 636.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA CELESTE DE PAULO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 636.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEBORA GONTIJO LABORY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 636.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VERA NILCE MAIA GONCALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 636.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ISAMIM COUTO GONCALVES COELHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

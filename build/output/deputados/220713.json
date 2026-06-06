@@ -70,5 +70,207 @@
     "https://www.instagram.com/saullovianna",
     "https://youtube.com/SaulloVianna"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2561000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - AMAZONAS - AM - ESTADUAL",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 28079.17,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 WILSON MIRANDA LIMA GOVERNADOR",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 5100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DERMIVANIA MENDONCA DE MELO RAYOL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AZIZILENE GEBER DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADMA DE BARROS CAMPELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DARCY FERNANDA BENTES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SAMUEL CARVALHO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIO JORGE PONTES PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE AUGUSTO GOMES DORAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IZABELLE CHRISTINE MONTEIRO PENA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MACLAINE NEVES BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS JEAN SILVA BARRETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CALIL HENRIQUE DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CAMILA CAVALCANTE BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALESSANDRO CASSIO BARRETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIELE CASAS PORTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIO JORGE SANTIAGO DA CRUZ FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUAN ROGER PEREIRA DE AROUCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JESSICA SANTOS VIANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

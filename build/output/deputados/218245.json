@@ -56,5 +56,38 @@
     "https://www.facebook.com/Jorielson.Sandra",
     "https://www.instagram.com/jorielsonjbn"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 620000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOSE CARLOS CARVALHO BARBOSA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 33000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 VINICIUS DE AZEVEDO GURGEL DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

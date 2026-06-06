@@ -87,5 +87,88 @@
   "birth_city": "Belém",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1526000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "COMISSAO PROVISORIA/ PA PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 915358.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDER MAURO CARDOSO BARRA",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "individual",
+      "total_amount": 65088.07,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "WALACY DA SILVA MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HUGO ROGERIO SARMANHO BARRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HESIO MOREIRA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JOSE DA CRUZ MARINHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 1875.0100000000002,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 HELDER ZAHLUTH BARBALHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 1730.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

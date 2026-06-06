@@ -81,5 +81,77 @@
     "https://www.instagram.com/coroneltadeu",
     "https://youtube.com/coroneltadeuoficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIO TADEU ANHAIA DE LEMOS",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 58824.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SYNESIO BATISTA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL SAO PAULO SP ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 5240.63,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO RENOVADOR TRABALHISTA BRASILEIRO - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 3975.24,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILBERTO JOSE MIRANDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANO ANGELO ESPARAPANI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 970.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

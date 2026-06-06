@@ -57,5 +57,207 @@
     "https://www.facebook.com/pedrobezerradep",
     "https://www.instagram.com/PEDROAUGUSTOBEZERRADEP"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 215000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO AUGUSTO GEROMEL BEZERRA DE MENEZES",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 90000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALERIO ROBERTO FAHEINA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 65000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE MAURO SAMPAIO BEZERRA DE MENEZES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 47900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO FURTADO DE SOUSA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 36892.380000000005,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LETICIA MARIA RIBEIRO DANTAS LANDIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30043.59,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCEL DE ALENCAR PITA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 26500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ARNON CRUZ BEZERRA DE MENEZES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELISE GEROMEL BEZERRA DE MENEZES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24217.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIA MONT ALVERNE BRAUN CHAVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MURILLO PAURA PERES FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MANUELA RIBEIRO DANTAS LANDIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IRENILVA AMORIM BEM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE LEITE LANDIM NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DANIEL DOS SANTOS MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DAVID ESMERALDO DE FIGUEIREDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11464.58,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ISABELA GEROMEL BEZERRA DE MENEZES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "KLEIKSON RICELLY RODRIGUES DE FIGUEIREDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUSTAVO JOSE DA SILVA MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BARBARA MARIA DE MACEDO SAMAAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

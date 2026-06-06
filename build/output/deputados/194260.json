@@ -98,5 +98,207 @@
     "https://www.facebook.com/DeputadoNivaldoAlbuquerque",
     "https://www.instagram.com/nivaldoalbuquerque"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1810000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO TRABALHISTA BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1150000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - ALAGOAS - AL - ESTADUAL",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NIVALDO FERREIRA DE ALBUQUERQUE NETO",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "individual",
+      "total_amount": 38000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ANTONIO RIBEIRO DE ALBUQUERQUE DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "company",
+      "total_amount": 35000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CRISTIANO SOUZA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DAS GRACAS BALBINO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MAYRA PEREIRA DE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LILIANE CONCEICAO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HEITOR RIBEIRO SILVA ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIA BARBOSA SILVA MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA SALETE ALVES OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CICERO CEZAR SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MIRELLY HONORIO DA SILVA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SHIRLEY ASSUNCAO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSINETE DOS SANTOS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAYANE HONORATO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA LUANA DA CONCEICAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE BRUNO NOBRE ROSENDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCINNE MARIA FAGUNDES SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

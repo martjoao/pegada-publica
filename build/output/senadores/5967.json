@@ -56,5 +56,77 @@
   "birth_state": "BA",
   "birth_city": "Coração de Maria",
   "sex": "M",
-  "email": "sen.angelocoronel@senado.leg.br"
+  "email": "sen.angelocoronel@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 1400000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANGELO MARIO CORONEL DE AZEVEDO MARTINS",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "individual",
+      "total_amount": 181000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOSE EDUARDO MENDONCA DE ALENCAR DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JAQUES WAGNER SENADOR",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 10775.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 OTTO ROBERTO MENDONCA DE ALENCAR FILHO DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 7815.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLAUDIO MEIRELLES MATTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDO ANTONIO DUARTE DANTAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -101,5 +101,37 @@
   "social_media": [
     "https://www.instagram.com/helio.leite"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2800000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HELIO LEITE DA SILVA",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "individual",
+      "total_amount": 54792.31,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILBERTO RECH",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

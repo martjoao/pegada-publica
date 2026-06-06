@@ -59,5 +59,167 @@
   "birth_city": "Imperatriz",
   "education": null,
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO NACIONAL DO PARTIDO SOCIAL CRISTAO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TACILLA MARIANA CARVALHO SILVA",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "individual",
+      "total_amount": 39082.72,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JANDERSON VIANA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIONEI ALCHAAR COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO SOARES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ABRAO RIBEIRO RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUNIOR SERGIO BRANDAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THAYNA JAMYLLY DA SILVA GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ANTONIO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADAUTO CARVALHO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KAROLINE DA SILVA RIBEIRO RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ALUISIO GUIMARAES MENDES FILHO DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEUSIRENE DA COSTA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AYLLA MARIA CARVALHO ZUCATELLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2680.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSIMAR RODRIGUES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RONAIB RODRIGUES DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

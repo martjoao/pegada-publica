@@ -77,5 +77,6 @@
   "birth_state": "SP",
   "birth_city": "São Paulo",
   "sex": "M",
-  "email": "sen.luizpastore@senado.leg.br"
+  "email": "sen.luizpastore@senado.leg.br",
+  "top_donors": []
 }

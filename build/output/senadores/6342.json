@@ -51,5 +51,207 @@
   "birth_state": "RJ",
   "birth_city": "Rio de Janeiro",
   "sex": "M",
-  "email": "sen.jorgeseif@senado.leg.br"
+  "email": "sen.jorgeseif@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO HANG",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 380000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO LUIZ DA SILVA MATTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 80000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALCINO PASQUALOTTO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60222.22,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE SEIF JUNIOR",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ ANTONIO BOGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA REPUBLICA - PR",
+      "city": "BALNEÁRIO CAMBORIÚ",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 56992.27,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE CRISTIANO MELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SILVIO PRIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AFONSO LUIZ SCHREIBER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIAS MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCAS OMAR MACCAGNAN LEARDINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SALEZIO JOSE MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO CASTELLAR DE FARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "OSNI CIPRIANI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 28000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VILSON HERMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSEMERI APARECIDA STEIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 22000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE LUIZ DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIAM SEIF",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO GRACIOLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

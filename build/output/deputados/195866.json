@@ -94,5 +94,77 @@
   "birth_city": "Acaraú",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2675148.19,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 785272.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 CARLOS MATOS LIMA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 80000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL CEARA - CE - ESTADUAL",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUIS EDUARDO GRANGEIRO GIRAO SENADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 4951.1,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDREZA CRISTINA PEREIRA DE MATOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL DIRETORIO ESTADUAL CE",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 463.64,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

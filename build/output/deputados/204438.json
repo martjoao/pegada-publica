@@ -59,5 +59,87 @@
   "birth_city": "Maceió",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ GUSTAVO LEAO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MAURICIO CAVALCANTE BUGARIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCUS VINICIUS COSTA CANSANCAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO MOREIRA DE MENDONCA CANUTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5170.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ARCESILAU PIMENTEL DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3710.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EMILIO DE OLIVEIRA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3710.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE GREISON CARVALHO MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3710.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

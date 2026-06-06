@@ -53,5 +53,87 @@
   "birth_city": "Araguaína",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 600000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ALEXANDRE DOMINGUES GUIMARAES",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "individual",
+      "total_amount": 300000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 OLYNTHO GARCIA DE OLIVEIRA NETO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAUL GUILHERME DOMINGUES GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SUZELLY SENA GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ISRAEL JUSTINO DOS REIS GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UELBER GOMES DE OLIVEIRA RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7793.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 3750.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

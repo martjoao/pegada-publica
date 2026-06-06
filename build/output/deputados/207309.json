@@ -69,5 +69,208 @@
     "https://www.facebook.com/eneiasreisoficial",
     "https://www.instagram.com/deputadoeneiasreis"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO DEMOCRATAS DE MINAS GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 22130.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO ALBERTO PAIXAO LAGES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO OTAVIO SOARES PACHECO",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS VINICIUS DA SILVA BIZARRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAIRO HERCULANO ANTUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6666.68,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARDOQUEU HERCULANO ANTUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6666.66,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GLAUCIO HERCULANO ANTUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6666.66,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ENEIAS JOSE DOS REIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 5390.55,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ABNER ROBERTO ANDRADE DE SOUZA PENNA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ROSANGELA DE OLIVEIRA CAMPOS REIS DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 4341.6900000000005,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL LIBERAL DIRETORIO ESTADUAL - MINA GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 2530.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUIZ CARLOS DE MIRANDA FARIA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 2165.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE CESAR LEAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAIR SANTOS NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VINICIUS BRASIL ALVARENGA NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO PAULO GOMIDE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLA DINEY DE ALVARENGA ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE BRASIL ALVARENGA NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DANIEL SOUZA ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

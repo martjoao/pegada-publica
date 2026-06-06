@@ -164,5 +164,87 @@
     "https://www.facebook.com/@atilalira4040",
     "https://www.instagram.com/atilaliraoficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1300000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ATILA FREITAS LIRA",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 36259.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ATILA DE MELO LIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15695.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILBERTO ANTONIO NEVES PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11861.35,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSIMAR ALCANTARA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "INDIRA MARIA DE MELO LIRA PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7819.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DAS GRACAS MELO E LIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1064.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEONARDO ALVES CORDEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1060.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -105,5 +105,128 @@
   "birth_city": "Maceió",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3677758.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "OTAVIO LIMA LEITE NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8752.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ALBERTO DE CARVALHO MARQUES FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3732.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DJAIR MARCELINO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIANA BOTELHO SILVA DE VERCOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO ROBERTO BORBA LEITE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSINALDO OLIVEIRA DE FARIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ILEILDA FERREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE CARLOS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DE LOURDES DOS SANTOS HOLANDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1889.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA LIA BAHIA LOUREIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1751.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DAS GRACAS LESSA MARCELINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1562.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

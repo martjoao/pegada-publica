@@ -80,5 +80,209 @@
     "https://www.facebook.com/drzachariascalil",
     "https://www.instagram.com/drzachariascalil"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL GOIAS GO ESTADUAL",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 123683.9,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VILAR DE FARIA ALBERNAZ JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SANDRA FERREIRA DE SOUZA HAMU",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11540.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GOIRAN SEGURADO BESSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ZACARIAS CALIL HAMU",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 5850.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PATRICIA NUNES LEITE BORGES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4840.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIA COELHO NASCIMENTO BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4190.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SIDNEY BRASIL DA SILVA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3640.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEODORO NUNES LEITE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3640.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TANIA RACHEL ARANTES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3640.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO CARVALHO DO COUTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3640.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ORIVALDO LUDOVICO DE ALMEIDA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCA DA SOLIDADE LIMA LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MATHEUS HENRIQUE CHAGAS SABINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLEONICE XAVIER DE FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALERIA GODOI VIEIRA NAVES DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LIVIA GABRIELLA VIEIRA BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JEFFERSON ALVES DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEONARDO MARCOS RODRIGUES DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

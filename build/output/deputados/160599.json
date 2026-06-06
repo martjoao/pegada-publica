@@ -99,5 +99,78 @@
   "birth_city": "Macaé",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2341369.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO DEMOCRATAS DE MINAS GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 15838.399999999998,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DILZON LUIZ DE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5885.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAQUEL DOS SANTOS ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3400.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "BONIFACIO JOSE TAMM DE ANDRADA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIMAS FABIANO TOLEDO JUNIOR",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 1669.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SANDRO FORESTI LELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1020.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

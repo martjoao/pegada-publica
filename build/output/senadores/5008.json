@@ -70,5 +70,47 @@
   "birth_state": "SP",
   "birth_city": "Campinas",
   "sex": "M",
-  "email": "sen.humbertocosta@senado.leg.br"
+  "email": "sen.humbertocosta@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1850000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WILSON DOS SANTOS MOTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JEFFERSON DE MIRANDA PORDEUS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA PAULA DO REGO MENEZES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 27.42,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

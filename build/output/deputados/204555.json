@@ -47,5 +47,217 @@
   "birth_city": "Montenegro",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2198500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE RICARDO WENDLING",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "individual",
+      "total_amount": 40678.130000000005,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO DOS TRABALHADORES DO AMAZONAS - PT AM",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 10693.32,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSEANE CAMPOS GOMES DE MATOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5479.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCA BARBOSA FEITOZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JANE RODRIGUES COELHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2782.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO NONATO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2730.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ERIC SOUSA MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2610.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CRISTIANE SILVEIRA DA SILVA PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2485.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JERSON ALVES DA SILVA QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DAS GRACAS PEREIRA DE FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LIVIA MASCARENHAS DE CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WALLACE BYLL PINTO MONTEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANA GOMES PEDROSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1869.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "WALNECY LUCAS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1869.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CARLOS VALIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1687.5,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NAYLEIDE ARAUJO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1687.5,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAIMUNDO CLERISVAN DE SOUSA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1640.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LEONARDO DE LIRA NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MOISES DA SILVEIRA ARAGAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1343.92,
+      "elections": [
+        2018,
+        2022
+      ]
+    }
+  ]
 }

@@ -146,5 +146,213 @@
     "https://www.instagram.com/carmenzanotto_lages",
     "https://www.youtube.com/c/CarmenZanottoCarmenZanotto2323"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "CIDADANIA - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3693128.11,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO POPULAR SOCIALISTA - PPS - DIRETORIO ESTADUAL - SC",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 325488.89,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CARMEN EMILIA BONFA ZANOTTO",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "individual",
+      "total_amount": 16000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LURES MARIA BONFA ZANOTTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6684.61,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARIANE TALLIS SOZI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5232.9,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MILENA ANDERSEN LOPES BECHER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3971.16,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSANE DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3750.8900000000003,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SANDRA MARA GONCALVES DEBRASSI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3166.02,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO CARLOS VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2810.7,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SILVANA APARECIDA COSTA STURCIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2799.9,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DINORA REZENDE DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2604.42,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA CECILIA DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2358.9,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO ALEXANDRE DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2319.03,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLA CRISTINA ZONATTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2210.12,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROMUALDO SOUZA BARBOZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2009.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FLAVIO LUIS AGUSTINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1976.4,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SELMA DE FATIMA LOPES DE GODOI CLAUDINO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1914.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIOMAR ANTONIO PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1894.86,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS HEITOR DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1894.86,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELISABETE FATIMA BLEICHVEHL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1852.74,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

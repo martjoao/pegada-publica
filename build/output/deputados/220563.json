@@ -62,5 +62,27 @@
     "https://twitter.com/icarodevalmir",
     "https://www.instagram.com/icarodevalmir"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "TALYSSON BARBOSA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 33100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ICARO BARBOSA COSTA",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

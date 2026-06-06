@@ -58,5 +58,6 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "sen.joseanibal@senado.leg.br"
+  "email": "sen.joseanibal@senado.leg.br",
+  "top_donors": []
 }

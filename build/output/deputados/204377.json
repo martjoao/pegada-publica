@@ -58,5 +58,27 @@
     "https://www.twitter.com/paulambelmonte",
     "https://www.youtube.com/channel/UCVw8ykZEHdvNCu0JLsvpfIA"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PAULA MORENO PARO BELMONTE",
+      "city": "#NULO",
+      "state": "DF",
+      "donor_type": "individual",
+      "total_amount": 2400000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CIDADANIA - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

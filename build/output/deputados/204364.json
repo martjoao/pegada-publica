@@ -82,5 +82,97 @@
   "birth_city": "Ipameri",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SOLIDARIEDADE - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 850000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 CESAR HANNA HALUM SENADOR",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 225000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REPUBLICANOS TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 RONALDO DIMAS NOGUEIRA PEREIRA GOVERNADOR",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 15900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "COMISSAO ESTADUAL PROVISORIA DO PARTIDO SOLIDARIEDADE NO ESTADO DO TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 12252.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MILTON GOMES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "22- PARTIDO LIBERAL",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 840.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUCIMAR GOMES GODOY DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 20.05,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

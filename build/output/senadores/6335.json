@@ -51,5 +51,77 @@
   "birth_state": "PR",
   "birth_city": "Paranaguá",
   "sex": "F",
-  "email": "sen.damaresalves@senado.leg.br"
+  "email": "sen.damaresalves@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL ORGAO REGIONAL DO DISTRITO FEDERAL",
+      "city": "BRASÍLIA",
+      "state": "DF",
+      "donor_type": "company",
+      "total_amount": 1618345.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1097180.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - DISTRITO FEDERAL - DF - REGIONAL",
+      "city": "#NULO",
+      "state": "DF",
+      "donor_type": "company",
+      "total_amount": 90000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROBERTO CORNETTE MARQUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 85000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO PICANCO DE SEIXAS LOUREIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 51000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIANA KOCH DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

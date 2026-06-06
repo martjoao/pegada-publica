@@ -159,5 +159,209 @@
   "birth_city": "Belo Horizonte",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2130000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS CARAM PATRUS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 75000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO CARAM PATRUS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 75000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELOIR DOMINGUES CAIXETA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LINCOLN DINIZ PORTELA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 25665.01,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARILDA DE CASTRO PORTELA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL AUGUSTO PEREZ FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO LACERDA RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO RIBEIRO FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABRICIO NORONHA DE BARCELOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LEONARDO MORREALE DINIZ PORTELA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 7250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "P2W MIDIA LTDA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 5979.43,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO VILA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL D ASSIS RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS RIBEIRO FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAQUELINE SOARES DE LIMA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO LEAO DO AMARAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3750.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SEBASTIAO ALBINO MIGUEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON DA SILVA LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRUNA VALERIA ARAUJO CESARIO MENDONCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3200.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

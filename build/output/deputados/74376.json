@@ -120,5 +120,208 @@
     "https://twitter.com/vanderloubet",
     "https://www.instagram.com/vanderloubet"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2529848.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO CELSO CORTEZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 GISELLE MARQUES DE ARAUJO GOVERNADOR",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 39600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO ROCHA SCISLEWSKI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOSE ORCIRIO MIRANDA DOS SANTOS SENADOR",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 8500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VICTOR DO PRADO GREGORIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCO AURELIO FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEISE JULIANA VIERA JACQUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTOLIN MARIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SIMONE LEITE BULHOES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3333.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA CLAUDIA HABERLAND",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3333.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE VICTOR RODRIGUES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOYCE CARDOSO DE MELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALFREDO PEREIRA DUAILIBI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2666.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELTON TEIXEIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LOISE KAROLINE DE OLIVEIRA GOMES FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO CARLOS FERREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NATALINO NANTES DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CDRP-PARTIDO DOS TRABALHADORES MS",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEILA LOPES DE REZENDE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

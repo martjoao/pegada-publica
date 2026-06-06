@@ -91,5 +91,209 @@
     "https://www.facebook.com/orlandosilvasp",
     "https://www.instagram.com/orlandosilvasp"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO COMUNISTA DO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2644801.15,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "COMITE ESTADUAL DE SAO PAULO DO PARTIDO COMUNISTA DO BRASIL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 318943.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO NEVES CAMPOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS JOAQUIM GONCALVES ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "Direção Municipal/Comissão Provisória",
+      "city": "SÃO PAULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 97400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUIZ MARINHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 91892.44,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO COMUNISTA DO BRASIL - GUARULHOS - SP - MUNICIPAL",
+      "city": "GUARULHOS",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 89450.12000000001,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WALTHER MOREIRA SALLES JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 75000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO CARLOS DI GENIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELISA SAWAYA BOTELHO BRACHER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BEATRIZ SAWAYA BOTELHO BRACHER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAURO LUIS LAPA E SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCEL FERRAZ CAMILO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROBSON MAIA LINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO LEYSER GONCALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO TOMAS DO CANTO BENEDETTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AIRTON NOGUEIRA PEREIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OSWALDO NAPOLEAO ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7001.15,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO DE CAMPOS PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

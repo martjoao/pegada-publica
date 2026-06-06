@@ -62,5 +62,138 @@
     "https://www.facebook.com/heliocostasc",
     "https://www.instagram.com/heliocostasc"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1400000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 617666.66,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - SANTA CATARINA - SC - ESTADUAL",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 76500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 SERGIO MOTTA RIBEIRO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 34880.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - SANTA CATARINA - SC - ESTADUAL",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 32000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HELIO FRANCISCO DA COSTA",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "individual",
+      "total_amount": 10913.2,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JACKSON LESSA MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GERSON TOKAREWICZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NELSON GODOFREDO MORAES NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARGARETE TERESINHA PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GABRIEL FRANCOISE DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ADONES DE JESUS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULA KARINA PAES LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

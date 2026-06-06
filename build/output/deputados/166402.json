@@ -145,5 +145,216 @@
     "https://www.facebook.com/MagdaMofatto.Goias",
     "https://www.instagram.com/magdamofatto.goias"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4700000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MAGDA MOFATTO HON",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 326750.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARCO ANTONIO BARBOSA DE FARIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "APARECIDO SPARAPANI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 28900.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOAQUIM SERGIO TELES DA SILVA ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AMANDA MARTINS AQUINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "IGOR COTIAN SERPA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSANIA APARECIDA CARRIJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FLAVIO DE PAULA CANEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ANTONIO DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10915.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JASOM VIEIRA LUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10910.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LIZLEANDRA MARTINS PERES MARIANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ ANTONIO DE OLIVEIRA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDMILSON MARQUES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GESMAR AMADOR CARRIJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SHIRLEY MARQUES SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO MARCEL GARCIA GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VILSON CORDEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODOLFO MARTINS DE SOUZA MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3780.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AMARILDO MARTINS MARIANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3600.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

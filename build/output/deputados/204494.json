@@ -96,5 +96,210 @@
     "https://www.facebook.com/FredCostaDEP",
     "https://www.instagram.com/FredCostaDEP"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PATRIOTA - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2660000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "51 - PATRIOTA MINAS GERAIS - MG - ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 873000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO DEMOCRATAS DE MINAS GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 126230.40000000001,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIANO RODRIGUES ABRAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 114520.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FREDERICO BORGES DA COSTA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 107203.95999999999,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOEL AYRES DA MOTTA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AMERICO ANDRE JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ALFREDO BERG FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 28000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "OTONIEL ALVES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "Direção Municipal/Comissão Provisória",
+      "city": "BELO HORIZONTE",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 7500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRENO SALOMAO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RONALDO BATISTA DE MORAIS DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 6545.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIANE CRISTINA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE SOUZA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THIAGO NOGUEIRA CAMARGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEONARDO MARTINS RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CARLOS CARDOSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIELLE CHRISTINA VIEIRA CONTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AILTON PEREIRA DA SILVA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO PATTINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

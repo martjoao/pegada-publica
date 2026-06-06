@@ -57,5 +57,207 @@
     "https://www.facebook.com/dudaramos.rr",
     "https://www.instagram.com/dudaramos.rr"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - RORAIMA-RR-ESTADUAL",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "company",
+      "total_amount": 302500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIO NOGUEIRA VIGNOLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 205000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE VIANA DE CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 164000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DUDA BRITO RAMOS",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DE FATIMA CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 95000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SHERIDAN ESTERFANY OLIVEIRA RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 40000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ARTHUR DA COSTA PONTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 31940.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALYSON DE LIMA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLEBER DA COSTA GONCALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SHERISSON BRUNO OLIVEIRA PINHEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIONATA SOUZA LEAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON WESLEY FREIRE CHAVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8225.51,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO LIMA DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELZA VIANA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SIMONE KEILA SILVA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ESTER MARIA SAUL MACHADO PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO GREGORIO LOPES FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO LUCIO DE LIRA MENDONCA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6199.23,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOCIELMA DE SOUZA BRASIL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA FLAVIA MACIEL DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -103,5 +103,137 @@
     "http://www.facebook.com/DepMarcoMaia",
     "http://www.twitter.com/DepMarcoMaia"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 719758.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ISAAC PERES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CEZAR MOREIRA PIMENTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8975.83,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VERNO VILIBALDO DREHMER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3326.49,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILMAR ZOLET VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3043.26,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA EUNICE DIAS WOLF",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO CESAR SALVAMOURA PIRES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2898.13,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JONATHAN EDUARDO LIMA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARTA ROMANA VALMORBIDA RUFATTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALGACIR MENEGAT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO RICARDO RENZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLEUCIR FATIMA VIECELLI BARONI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO SERGIO GARAY CARDOSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

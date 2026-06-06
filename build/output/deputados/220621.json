@@ -51,5 +51,57 @@
     "https://www.facebook.com/sargentogoncalves22",
     "https://www.instagram.com/sargentogoncalves22"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "ELEICAO 2022 JOAO DA SILVA MAIA DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVANDRO GONCALVES DA SILVA JUNIOR",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEBORA NASCIMENTO DE OLIVEIRA DIAS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL RIO GRANDE DO NORTE RN ESTADUAL",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "company",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO MARIA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -93,5 +93,99 @@
     "https://www.instagram.com/juniormanodep",
     "https://youtube.com/deputadojuniormano"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "ANTONIO LUIZ RODRIGUES MANO JUNIOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 572854.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO AMERICO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "GIORDANNA SILVA BRAGA MANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "YVENS WATILA OLIVEIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALCELIO ABREU RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO REGIS ARAUJO BEZERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO ALEX LINHARES DO VALE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VICENTE MARQUES DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

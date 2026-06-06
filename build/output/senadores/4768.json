@@ -63,5 +63,77 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": [
+    {
+      "name": "AVANTE DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 308000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO BELTRAO DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOAO PAULO DA COSTA CAVALCANTI DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 27000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE PAULO CAVALCANTI FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO ROSSI NOBRE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAILSON COELHO BENJAMIN DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SYNESIO BATISTA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

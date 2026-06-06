@@ -47,5 +47,97 @@
   "birth_city": "Malhador",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 610000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 LAERCIO JOSE DE OLIVEIRA SENADOR",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "company",
+      "total_amount": 30375.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SAMUEL ALVES BARRETO",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "individual",
+      "total_amount": 20423.83,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THIAGO DE SANTANA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUDIVAN PEREIRA DE FIGUEIREDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GENECI MATOS CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEONARDO QUEIROZ OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALDINEI CELESTINO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE LUIZ LOPES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

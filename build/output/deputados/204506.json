@@ -75,5 +75,208 @@
     "https://www.instagram.com/marcospereira1010",
     "https://youtube.com/marcospereira0404"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3668890.1,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1476544.4400000002,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS FERNANDO GARMS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA PAULA SANTOS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEIDA CERLI DE LIMA ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TALITA RODRIGUES ZUCCARO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MICHEL BELCHIOR FRANCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4085.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALDECI LEANDRO DA CRUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JANNYZE DANTAS BATISTA FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADRIANE AUGUSTA ALVES MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IANARA CRISTINA QUEIROZ COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3040.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO DONIZETE PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3040.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO JESUS DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3040.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GISELE DA SILVA NOVAIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS FERREIRA DE MENEZES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVANDRO BUENO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSANGELA PERECINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILSON ROBERTO BOSCHETTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GRAZIELLE GALAN TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO FRANCISCO DE MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2553.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

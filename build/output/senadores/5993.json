@@ -37,5 +37,6 @@
   "birth_state": "SE",
   "birth_city": "Boquim",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

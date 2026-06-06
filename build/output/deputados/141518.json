@@ -139,5 +139,48 @@
   "birth_city": "Porecatu",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "SOLIDARIEDADE REGIONAL SAO PAULO",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 2868050.6699999995,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FRANCISCO DE FATIMA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 42000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO PELLACANI GAMBINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAURA DA SILVA BUENO SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3700.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

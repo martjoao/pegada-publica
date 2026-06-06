@@ -79,5 +79,214 @@
     "https://twitter.com/filipebarrost",
     "https://www.instagram.com/filipebarrosoficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2700000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 129000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PRISCILA ROMEIRO DA SILVA TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 93583.42,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "WESLEY TOLEDO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 57927.79,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RUBENS BENEDITO AUGUSTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 55000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RANIERI ALBERTON MARCHIORO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 32400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIEGO FRANCO NORONHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 27000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "WILSON ROBERTO MUNHOZ JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 27000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GABRIEL FERNANDO DO AMARAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 26000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CAROLINE FELIZ SARRAF FERRI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CLAYTON DE PAULA SANTOS OLIVEIRA MATOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21411.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRUNO CESAR DE OLIVEIRA MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FABRICIO PETINELLI VIEIRA COUTINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11040.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ENEIAS DOS SANTOS COELHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ CARLOS ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIAN VALONE GORINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIRIAN ROSE AUGUSTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DANIELE MICHALOWSKI COSECHEN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIA DE MIRANDA MENEGHETTI PALUMBO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FLAVIO ANTONIO MENEGHETTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

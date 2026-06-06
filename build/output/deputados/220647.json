@@ -52,5 +52,77 @@
     "https://www.instagram.com/mauricioneves_oficial",
     "https://youtube.com/mauricioneves9642"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIO DAHRUJ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 250000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO HENRIQUE GONCALVES DE VILHENA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CAMILA CHRISTIANE BOCALAO CANDEIAS NEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL SORIANO RODAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO BISCARO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AUGUSTO MACHADO DINIZ JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

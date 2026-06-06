@@ -53,5 +53,67 @@
   "birth_city": "Rio de Janeiro",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "WLADIMIR BARROS ASSED MATHEUS DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 109307.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FREDERICO DE MATTOS RANGEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO JOSE RANGEL MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ CARLOS COUTO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIA DE OLIVEIRA CADETE FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 590.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIS MAURICIO SOUZA AGUIAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 590.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

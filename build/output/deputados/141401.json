@@ -142,5 +142,210 @@
   "birth_city": "Chapada dos Guimarães",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4000000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO DE MATO GROSSO",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 398250.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO DEMOCRATAS DE MATO GROSSO",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 220000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVO LUIZ RUARO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 170000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS GOMES BEZERRA",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "individual",
+      "total_amount": 110000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - MATO GROSSO - MT - ESTADUAL",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 65374.52,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VINICIUS MARTINS ALVES ASSUNCAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35825.15,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD - DIRETORIO ESTADUAL DE MATO GROSSO",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 28500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "APARECIDA MARIA BORGES BEZERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAFAEL BELLO BASTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUSANA MORAES DE LIMA E SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CARLOS DE MUSIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6044.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALEX RAMOS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SINGLAIR CIEKALSKI DE MUSIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5928.35,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NATACHA GABRIELLE DIAS DE CARVALHO LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO RONI DE LIZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAIME ULISSES PETERLINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALAN BENEDITO DE OLIVEIRA OJEDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELIANE LUISA DIAS DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 MAURO MENDES FERREIRA GOVERNADOR",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 4128.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

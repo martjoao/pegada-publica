@@ -51,5 +51,6 @@
   "birth_state": "RJ",
   "birth_city": "Rio de Janeiro",
   "sex": "M",
-  "email": "sen.jeanpaulprates@senado.leg.br"
+  "email": "sen.jeanpaulprates@senado.leg.br",
+  "top_donors": []
 }

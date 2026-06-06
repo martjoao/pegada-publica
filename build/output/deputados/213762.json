@@ -79,5 +79,67 @@
     "https://www.facebook.com/carladicksonoficial",
     "https://www.instagram.com/carladicksonoficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2490829.69,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "company",
+      "total_amount": 705000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 680000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "company",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AMILTON DE ALMEIDA SAMPAIO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCO ANTONIO REY DE FARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

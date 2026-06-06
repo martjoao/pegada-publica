@@ -50,5 +50,27 @@
     "https://www.instagram.com/rafaelbrito15",
     "https://youtube.com/channel/UCq3xwtJvyjdU-ceUhWg-lPg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "FLAVIO LUCIO UCHOA DORIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LIVIA RUSSO DUARTE CAMERINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

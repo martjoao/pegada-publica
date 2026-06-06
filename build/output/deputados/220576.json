@@ -58,5 +58,27 @@
     "https://www.instagram.com/alfredogaspar",
     "https://youtube.com/AlfredoGasparOficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL - ALAGOAS - AL - ESTADUAL",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "company",
+      "total_amount": 8549.720000000001,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE LUIZ CHAVES TEIXEIRA CAVALCANTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

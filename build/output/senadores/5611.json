@@ -43,5 +43,6 @@
   "birth_state": "PE",
   "birth_city": "Limoeiro",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

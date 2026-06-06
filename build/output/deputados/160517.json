@@ -108,5 +108,79 @@
     "https://www.facebook.com/foletto.paulo",
     "https://www.instagram.com/paulo.folletto"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3800000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PAULO ROBERTO FOLETTO",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "individual",
+      "total_amount": 55211.47,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RICARDO DE REZENDE FERRACO SENADOR",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 45000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SILVIO ROBERTO FOLETTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7635.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ESTEVAO MORAES DORNA FOLETTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PATRICK ANACLETO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARCOS ANTONIO FERNANDES GARCIA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

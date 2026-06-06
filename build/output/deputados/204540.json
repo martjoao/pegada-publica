@@ -81,5 +81,39 @@
     "https://www.instagram.com/mariarosas.oficial",
     "https://youtube.com/channel/UCWIJ_PIc4AsfR_LlBxSILSA"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3865000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1223442.3599999999,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MAURICELIO JOVENTINO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

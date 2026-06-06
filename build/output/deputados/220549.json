@@ -53,5 +53,77 @@
   "birth_city": "Canoas",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "CIDADANIA - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2280000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIANO TESTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JESSE SANGALLI DE MELLO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 26950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO POPULAR SOCIALISTA",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 7409.38,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO AFONSO GIRARDI FEIJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO CARLOS DA COSTA FURTADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LARISSA REGINA LIBERATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 250.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

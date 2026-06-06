@@ -130,5 +130,147 @@
   "birth_city": "Erechim",
   "education": "Mestrado",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1835182.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIO CEZAR BUSATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 140000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO MASSAYOSHI MIZOTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 73000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO CARLOS DI GENIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO COMPARSI DE MELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVONETE PRIMMAZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ESTELITA MOREIRA BORGES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IZAIAS DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE CAMARGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO ROBERTO SEQUINEL FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIZEU BUSCH",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ODARCI ANTONIO SERRAGLIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDREA VELOSO BONFIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1097.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA JOSE CAVILHA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

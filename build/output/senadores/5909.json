@@ -37,5 +37,6 @@
   "birth_state": "AC",
   "birth_city": "Rio Branco",
   "sex": "F",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

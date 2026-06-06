@@ -47,5 +47,87 @@
   "birth_city": "Tauá",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NEURAMI GOMES DE AMORIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 41000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NAUMI GOMES DE AMORIM",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 21000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERIKA GONCALVES AMORIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20885.82,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO ALVES DE SOUSA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA APARECIDA DE SOUSA ESMERALDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCONY ESMERALDO DE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ROBERTO CLAUDIO RODRIGUES BEZERRA GOVERNADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

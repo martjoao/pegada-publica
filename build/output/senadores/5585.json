@@ -56,5 +56,6 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "sen.luizcarlosdocarmo@senado.leg.br"
+  "email": "sen.luizcarlosdocarmo@senado.leg.br",
+  "top_donors": []
 }

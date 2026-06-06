@@ -82,5 +82,6 @@
   "birth_state": "SE",
   "birth_city": "Aracaju",
   "sex": "M",
-  "email": "virginio.carvalho@senador.leg.br"
+  "email": "virginio.carvalho@senador.leg.br",
+  "top_donors": []
 }

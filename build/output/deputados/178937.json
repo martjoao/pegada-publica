@@ -115,5 +115,38 @@
     "https://www.facebook.com/altineucortesrj",
     "https://www.instagram.com/altineucortesrj"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1845925.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 MARCOS TEIXEIRA BRAZ DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO PARTIDO LIBERAL NO ESTADO DO RIO DE JANEIRO",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 8410.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

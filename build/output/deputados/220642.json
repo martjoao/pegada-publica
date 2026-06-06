@@ -81,5 +81,27 @@
     "https://www.facebook.com/profile.php",
     "https://www.instagram.com/del.brunolima"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "BRUNO MARCELLO DE OLIVEIRA LIMA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THIAGO VASCONCELLOS DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

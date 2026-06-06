@@ -79,5 +79,28 @@
     "https://www.facebook.com/doutorluizinho",
     "https://www.instagram.com/doutorluizinho"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1962040.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PROGRESSISTAS-RIO DE JANEIRO-RJ-ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 17961.54,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

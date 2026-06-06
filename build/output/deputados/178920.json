@@ -82,5 +82,57 @@
   "birth_city": "Limoeiro",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "COMISSAO PROVISORIA REGIONAL DO PARTIDO PODEMOS NO ESTADO DE PERNAMBUCO",
+      "city": "RECIFE",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 2364562.85,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PODEMOS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO TEOBALDO CAVALCANTI",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "individual",
+      "total_amount": 6400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 GUSTAVO FUCHS CAMPOS GOUVEIA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 752.5,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ROMERO ANTONIO RAPOSO SALES FILHO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 617.5,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

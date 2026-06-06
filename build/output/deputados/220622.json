@@ -57,5 +57,27 @@
     "https://www.instagram.com/nelyaquinooficial",
     "https://youtube.com/NelyAquino"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PODEMOS MINAS GERAIS - MG - ESTADUAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1960305.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PODEMOS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1040100.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

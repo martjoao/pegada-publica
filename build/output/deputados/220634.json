@@ -59,5 +59,208 @@
   "birth_city": "São Bernardo do Campo",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "SOLIDARIEDADE REGIONAL SAO PAULO",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1726024.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO ESTADUAL DE SAO PAULO",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 550000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOAO AGRIPINO DA COSTA DORIA JUNIOR GOVERNADOR",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIO MANOEL DOS SANTOS SARAIVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 170000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "VALTER PATRIANI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAURO CUNHA SILVESTRI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO DE LIMA FERNANDES",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO ROBERTO EL KADRE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO FERNANDES FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SERGIO PASIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15170.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DANILO LIMA DE RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ MARCO MOGNON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14660.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANO EBER NUNES PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13680.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADHEMAR MOURA FLORES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13380.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO ANTONIO AGUIAR PINHEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12650.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12190.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE LUIZ GAVINELLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9830.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS GALANTE VIAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9650.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO IRAN PAULINO COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CARLOS VINTURINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7760.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

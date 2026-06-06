@@ -121,5 +121,213 @@
     "https://www.facebook.com/merlongsolano",
     "https://www.instagram.com/merlongsolano"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2198500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MERLONG SOLANO NOGUEIRA",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 16139.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ARIANE SIDIA BENIGNO SILVA FELIPE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA LIZETE PALMEIRA DIAS NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5570.12,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ORLANDEIA DA CRUZ E SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO RODRIGUES NOGUEIRA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JANAINA DIAS NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4410.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAFAEL MARREIROS SOLANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3329.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ALESSANDRA BENIGNO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3129.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ACACIO SALVADOR VERAS E SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2800.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO ANGELO VERAS E SILVA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ENEDINA VERAS DE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MATEUS DIAS NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1550.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO NONATO FARIAS TRIGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO JORGE ALVES FELIPE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 995.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARTHA REJANE BASTOS RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 929.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MICHELLE FERNANDA BARRADAS CADENA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO DE ALCANTARA DOS SANTOS NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LARA BEATRIZ PEREIRA FRANCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

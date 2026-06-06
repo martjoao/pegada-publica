@@ -128,5 +128,190 @@
     "https://www.instagram.com/domingosneto",
     "https://youtube.com/channel/UCenz2PqXTJKnPGRVNTs0AAg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 1985000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO DE ARAUJO CARNEIRO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO RENNYS AGUIAR FROTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 45000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ODILON SILVEIRA AGUIAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO PAULO TEIXEIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DOMINGOS GOMES DE AGUIAR NETO",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 23000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "IVO NOVAIS DIAS MONTENEGRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14800.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "VANJA SUELY MORENO PRACIANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 EUNICIO LOPES DE OLIVEIRA SENADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 12500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO DE SA CAVALCANTE NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PERBOYRE GOMES CASTELO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PATRICIA PEQUENO COSTA GOMES DE AGUIAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8720.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO AUGUSTO DE SOUZA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EUCLIDES PINTO DA FROTA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEVI AGUIAR CAMURCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILSON LEITAO AGUIAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EUGENIO AGUIAR CAMURCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ROBERTO CLAUDIO RODRIGUES BEZERRA GOVERNADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

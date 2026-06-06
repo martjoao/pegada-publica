@@ -66,5 +66,67 @@
   "birth_state": "TO",
   "birth_city": "Araguacema",
   "sex": "M",
-  "email": "sen.zequinhamarinho@senado.leg.br"
+  "email": "sen.zequinhamarinho@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "DIRETORIO NACIONAL DO PARTIDO SOCIAL CRISTAO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 450000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE DA CRUZ MARINHO",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "individual",
+      "total_amount": 40100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "COMISSAO DIRETORA REGIONAL PROVISORIA DO PARTIDO SOCIAL CRISTAO",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 9800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAMES MANFIO UITDEWILLIGEN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OLAIR REIS DA CONCEICAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAQUES DA SILVA NEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2600.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

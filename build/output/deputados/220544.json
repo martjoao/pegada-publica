@@ -57,5 +57,77 @@
     "https://www.facebook.com/toinhoandradetocantins",
     "https://www.instagram.com/toinhoandradeto"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 700000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO POINCARE ANDRADE FILHO",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "individual",
+      "total_amount": 136360.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILSON SOUSA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TEREZINHA POINCARE ANDRADE COSTA AGUIAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HISLEY MORAIS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 WANDERLEI BARBOSA CASTRO GOVERNADOR",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 7600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 4531.25,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

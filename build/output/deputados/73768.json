@@ -148,5 +148,57 @@
   "birth_city": "Santa Rosa",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DILCEU JOAO SPERAFICO",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 303000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NATAN SPERAFICO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 152105.72,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSANGELA RECHE DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "OSVINO RICARDI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

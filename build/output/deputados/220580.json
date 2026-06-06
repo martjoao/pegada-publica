@@ -47,5 +47,27 @@
   "birth_city": "Macapá",
   "education": "Doutorado Incompleto",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 190980.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIMISON DA SILVA VALES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

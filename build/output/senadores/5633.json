@@ -43,5 +43,6 @@
   "birth_state": "SP",
   "birth_city": "São Caetano do Sul",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

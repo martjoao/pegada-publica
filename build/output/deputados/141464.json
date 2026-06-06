@@ -124,5 +124,78 @@
     "https://www.facebook.com/Joseairtoncirilo",
     "https://www.instagram.com/Joseairtoncirilo"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2700000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE AIRTON FELIX CIRILO DA SILVA",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 119915.72,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCA MARIA MAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 CAMILO SOBREIRA DE SANTANA SENADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 4562.85,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LOURIVAL BORGES DOS REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ CARLOS BRASILIENSE CANUTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SUELI RIBEIRO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10.15,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

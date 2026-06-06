@@ -52,5 +52,207 @@
     "https://www.instagram.com/amaliabarros",
     "https://youtube.com/amaliabarros"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CAROLINA MOGNON SCHEFFER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIZEU ZULMAR MAGGI SCHEFFER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CELSO JOSE MINOZZO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 78152.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO MAGNANI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 55000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - MATO GROSSO - MT - ESTADUAL",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 53129.52,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO HENRIQUE PIAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 38596.12,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS WEBLER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADELAR MATEUS JACOBOWSKI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 22500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEX NOBUYOSHI UTIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 22500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THIAGO DOS SANTOS BOAVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17160.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IEDA WEBLER SCHAEDLER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE MILTON FALAVINHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDILSON ANTONIO PIAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARLON FEDRIZZI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ERNESTO MARTELLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAURICIO CARDOSO TONHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AMAURI CARRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6212.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO CUIABANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIO ALBERTO HERMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

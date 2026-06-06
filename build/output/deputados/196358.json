@@ -88,5 +88,28 @@
   "birth_city": "Rio de Janeiro",
   "education": "Ensino Fundamental",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LOURIVAL GOMES DE ALMEIDA",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 304791.49,
+      "elections": [
+        2018,
+        2022
+      ]
+    }
+  ]
 }

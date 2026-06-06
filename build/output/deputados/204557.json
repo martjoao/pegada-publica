@@ -64,5 +64,98 @@
   "birth_city": "Manaus",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2400000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 840000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SIDNEY RICARDO DE OLIVEIRA LEITE",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 OMAR JOSE ABDEL AZIZ GOVERNADOR",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 7650.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SAULO GABRIEL RODRIGUES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5150.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS FABIO DE SOUZA MARQUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIELLE VASCONCELOS CORREA LIMA LEITE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MONICA BENTES MONTEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOICIMAR LEAO GAMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6.8,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

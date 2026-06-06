@@ -61,5 +61,6 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "sen.lasiermartins@senado.leg.br"
+  "email": "sen.lasiermartins@senado.leg.br",
+  "top_donors": []
 }

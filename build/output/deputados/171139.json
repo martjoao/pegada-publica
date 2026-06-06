@@ -47,5 +47,27 @@
   "birth_city": "Taubaté",
   "education": null,
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "SOLIDARIEDADE REGIONAL SAO PAULO",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1673458.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME PEIRAO LEAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

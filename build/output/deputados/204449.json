@@ -86,5 +86,209 @@
     "https://www.instagram.com/nelsonbarbudo",
     "https://youtube.com/channel/UC2wzaVfyw_DJ7Dw8vMqNoCw"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELBIO DALMOLIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 120000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NORBERTO NOEL PREVIDENTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 88000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NELSON NED PREVIDENTE",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "individual",
+      "total_amount": 72100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LAURA FERNANDES PROCOPIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 55000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AMILTON JOSE DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MICHELLI DE SOUZA NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NAIR ALONSO PREVIDENTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BENEDITO BRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO ANDRE LOPES GUERREIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL LIBERAL - COMISSAO PROVISORIA",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - MATO GROSSO - MT - ESTADUAL",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "company",
+      "total_amount": 19009.52,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE MILTON FALAVINHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NARA NELMA PREVIDENTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SARA PRADO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DARCI BRISOT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NATALIA NADIA PREVIDENTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ROSELI DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANIZIO FELICIO GARCIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS LOURENCO MITSUOSHI DALTRO HAYASHIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

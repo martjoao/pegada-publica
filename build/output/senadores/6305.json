@@ -58,5 +58,6 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "sen.joselacerda@senado.leg.br"
+  "email": "sen.joselacerda@senado.leg.br",
+  "top_donors": []
 }

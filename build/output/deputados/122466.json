@@ -82,5 +82,129 @@
   "birth_city": "São Paulo",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1260000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - CEARA - CE - ESTADUAL",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 480459.62,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RONALDO MANCHADO MARTINS",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 40475.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 EUNICIO LOPES DE OLIVEIRA SENADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 12500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO AZEVEDO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO ANTONIO DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DAS GRACAS RAMOS DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ITALO RONEI DE OLIVEIRA TORRES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO GONCALVES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1399.99,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO RODRIGUES DE PAULA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1399.99,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE DANIEL RIBEIRO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1399.99,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

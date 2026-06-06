@@ -52,5 +52,47 @@
     "https://www.instagram.com/reginetebispo",
     "https://youtube.com/reginetebispo5856"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1407364.93,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JOAO EDEGAR PRETTO GOVERNADOR",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 65686.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WALTHER MOREIRA SALLES JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ANA INES AFFONSO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 28000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

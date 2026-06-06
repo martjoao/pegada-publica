@@ -92,5 +92,200 @@
     "https://www.facebook.com/deputadoricardoguidi",
     "https://www.instagram.com/ricardozguidi"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2300000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - SANTA CATARINA - SC - ESTADUAL",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 300000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JULIO CESAR GARCIA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 150000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO ZANATTA GUIDI",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "individual",
+      "total_amount": 72783.44,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SANDRA ZANATTA GUIDI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 51000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDREA ZANATTA GUIDI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDSON DOS SANTOS FAGUNDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3770.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALTER JOSE DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3380.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME SILVA ROMAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEILANE KLEMANN GRUNDMANN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2860.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RENATO VALVASSORI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2860.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIO LAVEZZO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2730.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DORIVAL ROQUE ANTONIO GONCALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BRUNO HENRIQUE DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUSTAVO MIOTELLI CASAGRANDE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIZABET FELIZARDO DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "KAREN LAISLA CASAGRANDE DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DARLAN COUTINHO DE AGUIAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICHARD GUINZANI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 119.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

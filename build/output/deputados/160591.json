@@ -129,5 +129,18 @@
   "birth_city": "Macapá",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2650000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    }
+  ]
 }

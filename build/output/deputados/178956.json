@@ -80,5 +80,207 @@
     "https://www.facebook.com/marianacarvalho4545",
     "https://www.instagram.com/marianacarvalho4545"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ERIVALDO ALCANTARA LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2230.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DENISE MUNIZ MIRANDA DE LUCENA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2230.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO LIMA DE SIQUEIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ITAMAR DE CASTRO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1980.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GABRIEL DE SOUSA BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1950.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ITABORAHI DE SOUZA ESTEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1950.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO ROSA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1950.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANA ALBINO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1870.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANO JHONATA LOPES DO AMARAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1870.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AIRTON LUIZ RAZIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1870.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANA FERREIRA DA SILVA E LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1870.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NATECIA DE OLIVEIRA FREIRE RAMALHAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DANIEL MARQUES FRANCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1570.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE EDUARDO PIRES ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1570.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MIGUEL PINTO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1350.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NISSELI CRISTINY VILAFORTE DE MEDEIROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1327.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DAS MERCES DE SOUSA FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VITOR EUGENIO LOPES BEZERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1190.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TANIA UELEN CALIXTO DE AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1158.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

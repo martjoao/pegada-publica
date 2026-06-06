@@ -72,5 +72,137 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "sen.camilosantana@senado.leg.br"
+  "email": "sen.camilosantana@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "ALEXANDRE GRENDENE BARTELLE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO GRENDENE BARTELLE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE ALBERTO VIEIRA STUDART GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 490000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE ADAUTO BEZERRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS FRANCISCO RIBEIRO JEREISSATI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIS FRANCA CAVALCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 120000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VICENTE DE PAULA REGO DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO DE ARAUJO CARNEIRO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL GASPARELLO LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 65000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GERALDO LUCIANO MATTOS JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CANDIDO DA SILVEIRA QUINDERE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 45000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE QUINTAO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

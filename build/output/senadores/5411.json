@@ -58,5 +58,117 @@
   "birth_state": "MA",
   "birth_city": "Imperatriz",
   "sex": "M",
-  "email": "sen.wevertonrocha@senado.leg.br"
+  "email": "sen.wevertonrocha@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEMOCRATAS - MARANHAO - MA - ESTADUAL",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE JUSCELINO DOS SANTOS REZENDE FILHO",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA DIRETORIO MUN DE S LUIS",
+      "city": "SÃO LUÍS",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 45500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ERLANIO FURTADO LUNA XAVIER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EVILSON PINTO DE ALMEIDA SOBRINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLOVIS LUIS PAZ OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9550.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EWALDO CALISTO DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO PAZ SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MURILO CORDEIRO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

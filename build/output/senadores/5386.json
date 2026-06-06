@@ -56,5 +56,27 @@
   "birth_state": "GO",
   "birth_city": "Goiânia",
   "sex": "F",
-  "email": "sen.professoradorinhaseabra@senado.leg.br"
+  "email": "sen.professoradorinhaseabra@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3008915.27,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "44 - UNIAO BRASIL TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 366466.83,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

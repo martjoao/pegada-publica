@@ -111,5 +111,6 @@
   "birth_state": "RJ",
   "birth_city": "Rio de Janeiro",
   "sex": "M",
-  "email": "sen.fernandocollor@senado.leg.br"
+  "email": "sen.fernandocollor@senado.leg.br",
+  "top_donors": []
 }

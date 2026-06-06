@@ -85,5 +85,69 @@
     "https://www.facebook.com/deputadojosivaldojp/",
     "https://www.instagram.com/jpdeputado/"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1300000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSIVALDO DOS SANTOS MELO",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "individual",
+      "total_amount": 250799.99999999997,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "COMISSAO EXECUTIVA REGIONAL DO PARTIDO HUMANISTA DA SOLIDARIEDADE - PHS DO MARANHAO",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 70000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PRISCYLLA MARTINS ALENCAR MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON SOUSA ALENCAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - MARANHAO - MA - ESTADUAL",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

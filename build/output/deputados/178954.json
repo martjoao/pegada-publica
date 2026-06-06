@@ -97,5 +97,168 @@
     "https://www.instagram.com/luciomosquini",
     "https://youtube.com/lucioantoniomosquinimosqui7885"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4000000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO BOTELHO TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIO ANTONIO MOSQUINI",
+      "city": "#NULO",
+      "state": "RO",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SIGMAR RODRIGUES NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS ANTONIO SILOCCHI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANGELA DA COSTA ESTRAL MOSQUINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JURACI MARIA POSSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIO ROGERIO MILHOMENS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO ALAMBARY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO SILVA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DHIEICE DA SILVA ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROZANGELA ALVES DE FREITAS MARQUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CRISTIANO REVEILLEAU",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IDINEI CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO ADELSON DO CARMO TRAGINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MAURO DE CARVALHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "RO",
+      "donor_type": "company",
+      "total_amount": 988.5,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

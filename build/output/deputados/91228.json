@@ -51,5 +51,27 @@
     "https://www.facebook.com/waldemaroliveiraoficial",
     "https://www.instagram.com/waldemaroliveiraoficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "AVANTE DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2191742.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WALDEMAR DE ANDRADA IGNACIO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "individual",
+      "total_amount": 78541.83,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

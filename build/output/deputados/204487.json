@@ -70,5 +70,147 @@
     "https://www.instagram.com/capitaowagnersousa?igshid=1tdf0417b3cp3",
     "https://youtube.com/DEPCAPWAGNER"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 157000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL DIRETORIO ESTADUAL CE",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 100350.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUIS EDUARDO GRANGEIRO GIRAO SENADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 42956.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MIRELLA LOPES MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7280.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAFAELA ARRUDA SAMPAIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6760.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALEXANDRA ARAUJO DE BRITO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3380.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS ROBERTO GUIMARAES DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2444.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDA ESTELA CAULA DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2444.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSILAINE DOS SANTOS GARCEZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2236.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DILIO MOTA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO CLEITON BANDEIRA DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE DAVID VAZ SANT ANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLOVIS MACHADO DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1560.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO FABRICIO LUCAS CRISOSTOMO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 935.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

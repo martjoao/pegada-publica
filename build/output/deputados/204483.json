@@ -51,5 +51,210 @@
     "https://www.facebook.com/VilsondaFetaemg",
     "https://www.instagram.com/vilsondafetaemg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3000000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE LACERDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FREDERICO AUGUSTO VENTURA PATARO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7818.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ERNANDES DA SILVA GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6700.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JACKSOM BUENO VASCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KATIA GOMES GAIVOTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VANDIM AMANCIO RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AFONSO CORREA DIANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3127.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEO FERREIRA CHAGAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3127.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDO VICTOR DE RESENDE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3127.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VILSON LUIZ DA SILVA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 2200.72,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "DIMAR MOREIRA DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "THAMYRIS CRISTINE CARDOZO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEVI RIOS DE RESENDE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS VINICIUS DIAS NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILIAR DE JESUS SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARMEN VERONICA LIRA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JARBAS PEREIRA DE CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE LUIZ DA ANUNCIACAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARIA ALVES DE SOUZA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 1587.5,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

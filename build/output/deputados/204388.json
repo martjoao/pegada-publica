@@ -76,5 +76,207 @@
   "birth_city": "Cruz Alta",
   "education": "Superior Incompleto",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1450000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALCIBIO MESQUITA BIBO NUNES",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "individual",
+      "total_amount": 207216.9,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JUAN ANTONIO BRUNO PERRONI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ONYX DORNELLES LORENZONI GOVERNADOR",
+      "city": "#NULO",
+      "state": "RS",
+      "donor_type": "company",
+      "total_amount": 4289.56,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO ROBERTO GOULART MIRALES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAQUELINE PENA TICHY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IVO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIEL ANTONIO ALVES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA NATASHA CABELLEIRA NEJAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIANA TANURI DUSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDIARA SGANZERLA CAROSSI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EMIR OLIVEIRA DORNELES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REGIS FERNANDO FERREIRA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANA DE PAULA ALVARO SILVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VENILSE BOAVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIZ EDUARDO RANZOLIN IRIGARAY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDSON SILVA GUEDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAIRO FABIANO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADAO PACHECO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CRISTIANO BUENO FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2950.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

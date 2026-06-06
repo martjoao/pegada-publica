@@ -43,5 +43,6 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "dep.rodolfonogueira@camara.leg.br"
+  "email": "dep.rodolfonogueira@camara.leg.br",
+  "top_donors": []
 }

@@ -53,5 +53,27 @@
   "birth_city": "Salvador",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "CIDADANIA - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "Direção Estadual/Distrital",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 495.92,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -110,5 +110,187 @@
     "https://www.instagram.com/diegogarciaparana",
     "https://youtube.com/diegogarciapr"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 965000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PODEMOS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 504760.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CANDIDO BOTELHO BRACHER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAYME BRASIL GARFINKEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PATRICE PHILIPPE NOGUEIRA BAPTISTA ETLIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 63333.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO JOSE PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 43736.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - PARANA - PR - ESTADUAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 3183.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARPEGIANI DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIEGO ALEXSANDER GONCALO PAULA GARCIA",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 1750.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDO PASCHOAL LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO BERNARDINO DA SILVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROGERIO BUENO ELIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE SOARES BELTRAO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROBERTO SPADARI RESQUETTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VILMAR DE JESUS BISCAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUANA FATIMA SGUISSARDI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LANDERSON TANISIO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCUS TADEU DELCOLLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

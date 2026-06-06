@@ -112,5 +112,67 @@
   "birth_city": "Recife",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1702040.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "COMISSAO PROVISORIA ESTADUAL DO PARTIDO PROGRESSISTA EM SERGIPE",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "company",
+      "total_amount": 29055.16,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIO CEZAR SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1538.14,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE AILTON ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1538.14,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO SOUZA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1003.14,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADEMILSON DA CRUZ SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

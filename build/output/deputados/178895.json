@@ -90,5 +90,119 @@
     "https://www.facebook.com/deputadomisaelvarella",
     "https://www.instagram.com/misaelvarella"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1600000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MISAEL ARTUR FERREIRA VARELLA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 1252040.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 1056168.97,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DA GLORIA DORNELAS FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 356000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 SERGIO DIAS HENRIQUES DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 25264.38,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAEL VIEIRA VARELLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11175.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO FERREIRA VARELLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO DIAS HENRIQUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOZELIA CARDOZO DE MELO VARELLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 THIAGO FELLIPE MOTTA COTA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 135.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ROBERTO DIAS DE ANDRADE DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 32.5,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -99,5 +99,187 @@
     "https://www.instagram.com/depraimundosantos/",
     "https://youtube.com/channel/UCDl2RREU083fkW3AR1PC3OQ"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 900000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO JOSE PEREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "individual",
+      "total_amount": 34000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDREA PINHEIRO DOS SANTOS ABREU",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15087.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 HELDER ZAHLUTH BARBALHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 13700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KEISE PINHEIRO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12774.61,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE LUIS DE FIGUEIREDO LUCAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5922.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BELEMITA PINHEIRO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5103.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RUTH LEIA DA SILVA BEZERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "COMISSAO PROVISORIA/ PA PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSUE PINTO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3591.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALMIR LIMA BORGES JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3424.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIVALDA BARROS DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3424.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO ALVES DE AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3424.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IVONE PINHEIRO DA SILVA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3424.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ISRAEL MACIEL DA CRUZ FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2247.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MELQUESEDEQUE DA SILVA SODRE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON LUIZ NAZARETH SANTIAGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1696.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDREA LEAL DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1596.8,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

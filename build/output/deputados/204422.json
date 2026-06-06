@@ -86,5 +86,208 @@
     "https://www.facebook.com/ossesio.silva",
     "https://www.instagram.com/ossesio.silva"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1929299.58,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - PERNAMBUCO - PE - ESTADUAL",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 430000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "OSSESIO JOSE DA SILVA",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "individual",
+      "total_amount": 9780.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANO VITORINO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5430.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DENISE ALMEIDA DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4740.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDRE SANTOS E SILVA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3450.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VINICIUS DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AMIL ROMUALDO DA SILVA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PATRICIA JULIANA HONORATO DA SILVA GOUVEIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2850.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VANDELEUZA JOSE DE LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2850.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HENRIQUE DAYVSON SACRAMENTO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2850.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DE LOURDES DE MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1890.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIONIZIO ALMEIDA DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1890.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CATARINE FERNANDES NERY SALES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1890.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA LUCIA DO REGO FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1890.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSINETE CORREIA DE SOUZA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1890.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAIR LUIZ DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1890.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELENILSON JOSE DE BRITO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1890.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALESSANDRA SATURNINO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1890.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVONEIDE MARIA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1890.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

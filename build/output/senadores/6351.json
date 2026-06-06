@@ -51,5 +51,6 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "F",
-  "email": "sen.janainafarias@senado.leg.br"
+  "email": "sen.janainafarias@senado.leg.br",
+  "top_donors": []
 }

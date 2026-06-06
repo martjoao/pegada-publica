@@ -37,5 +37,6 @@
   "birth_state": "GO",
   "birth_city": "Anápolis",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

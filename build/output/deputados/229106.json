@@ -47,5 +47,27 @@
   "birth_city": "Jales",
   "education": "Doutorado",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 350000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 DECIO NERY DE LIMA GOVERNADOR",
+      "city": "FLORIANÓPOLIS",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

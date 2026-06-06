@@ -143,5 +143,28 @@
   "social_media": [
     "https://www.instagram.com/wellingtonroberto.pb"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2760000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL - PARAIBA - PB - ESTADUAL",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "company",
+      "total_amount": 7400.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -70,5 +70,17 @@
   "birth_city": "Conceição da Barra",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "ELEICAO 2018 JEAN FABRICIO FALCAO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 82.8,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

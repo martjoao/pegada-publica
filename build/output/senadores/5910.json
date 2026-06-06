@@ -37,5 +37,6 @@
   "birth_state": "PI",
   "birth_city": "Parnaíba",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

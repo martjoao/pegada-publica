@@ -75,5 +75,37 @@
   "birth_state": "RR",
   "birth_city": "Normandia",
   "sex": "M",
-  "email": "sen.telmariomota@senado.leg.br"
+  "email": "sen.telmariomota@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CIDIAMARA DO CARMO FEITOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SUZETE DE MACEDO OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

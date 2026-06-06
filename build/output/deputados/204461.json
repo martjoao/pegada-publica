@@ -52,5 +52,47 @@
     "https://www.instagram.com/pauloganime",
     "https://youtube.com/paulogganime"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "JEAN MARC ROBERT NOGUEIRA BAPTISTA ETLIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ARMANDO KLABIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WOLFF KLABIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO NOVO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1099.1599999999999,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

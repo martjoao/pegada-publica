@@ -53,5 +53,109 @@
   "birth_city": "São Paulo",
   "education": "Doutorado",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1565000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - PARANA - PR - ESTADUAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 58494.5,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LIGIA FRANCO DE BRITO DE LARA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE AROLDO SOUZA MARTINS",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "THAMARA TRINDADE TOLENTINO MONTEIRO DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 631.62,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CARLOS CARVALHO SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 624.8,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JONATHAN BRUNO FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 395.78,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLEBER LUCIANO SALANDIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JEFERSON ERIK FUSARO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 174.13,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "#NULO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "unknown",
+      "total_amount": 20.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

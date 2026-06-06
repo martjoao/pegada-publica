@@ -50,5 +50,17 @@
     "https://www.facebook.com/TotonhoLopesOficial",
     "https://www.instagram.com/totonho.lopes"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "FRANCISCO ANTONIO LOPES DE PAULA BEZERRA",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 227124.16,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

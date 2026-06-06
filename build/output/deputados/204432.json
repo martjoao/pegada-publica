@@ -65,5 +65,209 @@
   "birth_city": "Picos",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO TRABALHISTA CRISTAO - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 560000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ERYCK JAMES RODRIGUES MENEZES DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5153.6,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ISAIAS PINTO DE AGUIAR NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5153.6,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARINA SANTOS BATISTA DIAS",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAYARA DE SOUSA SANTOS DOUDEMENT MOUSINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIS FELIPE LOPES DA SILVA SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABRICIO SANTOS LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO REPUBLICANO BRASILEIRO",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 3225.8,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO BATISTA FERNANDES LEAL FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA LAURENY ARAUJO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA ALICE PEREIRA CAMPOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO ROQUE BORGES DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADALYA FONSECA SANTOS RODRIGUES GAIOSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "THIAGO ARAUJO MACIEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GERMANO COELHO SILVA BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAUFLIM DE SOUSA COUTINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CASSIO SOBREIRA RUFINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JARDEL CARVALHO ENNES FONSECA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROMENYGUE SOARES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1653.6,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

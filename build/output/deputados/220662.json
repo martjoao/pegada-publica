@@ -51,5 +51,17 @@
     "https://www.facebook.com/lucasramosoficial",
     "https://www.instagram.com/lucasramospe"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIALISTA BRASILEIRO - PSB",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 8209.56,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

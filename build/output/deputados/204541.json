@@ -93,5 +93,137 @@
     "https://www.instagram.com/eduardobismarckce",
     "https://youtube.com/EduardoBismarckCE"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO HENRIQUE MAIA BISMARCK",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 450000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GIOVANA DE PAULA CEDRAZ OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NADIA MARIA GONCALVES MAIA BISMARCK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALCEU ANTIMO VEZOZZO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ABELARDO GURGEL COSTA LIMA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14550.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LENARDO JOSE SARAIVA DE CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8012.14,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALAIR COSTA LIMA PINHEIRO MAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4999.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BISMARCK COSTA LIMA PINHEIRO MAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4998.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 CAMILO SOBREIRA DE SANTANA GOVERNADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 1390.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUILHERME BISMARCK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ROBERTO CLAUDIO RODRIGUES BEZERRA GOVERNADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUSTAVO PINTO ZARDI FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

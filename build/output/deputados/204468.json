@@ -51,5 +51,209 @@
     "https://www.facebook.com/Dep.Joeniawapichana/",
     "https://www.instagram.com/joeniawapichana/"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REDE SUSTENTABILIDADE",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2150000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SIMEAO MAGALHAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18427.5,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANGELA MARIA APOLINARIO VIRIATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17472.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO SILVEIRA MUFAREJ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA BETANIA MOTA DE JESUS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12902.64,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "VALDENIA CADETE DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10585.75,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ZELANDES ALBERTO OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10091.25,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CELINO PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10091.25,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NAZARIO SILVERIO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10091.25,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MEIRE LUCIA FERREIRA LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7920.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAMASCENO DE SOUZA SEGUNDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7140.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ARLISSON TOBIAS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6961.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUCIANE DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6060.15,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EMERSON PINHO CADETE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5246.22,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLARA DE OLIVEIRA CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4025.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO GABRIEL SIERBERTH SOUSA SAMPAIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3450.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA LETICIA FERREIRA ANSELMO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3450.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GIHARONE ARAUJO DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3450.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE LUIS FURTADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3450.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO DE SOUZA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3450.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

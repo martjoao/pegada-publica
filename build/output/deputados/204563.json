@@ -88,5 +88,189 @@
   "birth_city": "Várzea Alegre",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2750000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSIMAR CUNHA RODRIGUES",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "individual",
+      "total_amount": 31500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "HAMILTON MARTINS DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANIEL GUERREIRO BONFIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 MARIA DEUSDETE LIMA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 5900.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ALMEIDA DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VICENTE BRAZ CONCEICAO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDRE SANTOS DOURADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 HELIO OLIVEIRA SOARES DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DO SOCORRO ARAUJO MATOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DEUZIMAR PEREIRA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANNE CLEIDE REGES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DA LUZ FREIRE SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RONILDE FIGUEREDO BRITO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSIEL ALMEIDA CARDOSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA FERREIRA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO MARQUES DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 WEVERTON ROCHA MARQUES DE SOUSA GOVERNADOR",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 650.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -81,5 +81,208 @@
     "https://www.instagram.com/deputadodavitoria",
     "https://youtube.com/channel/UC4YSDb1Hfh-DtR1Wj0WQNWg?view_as=subscriber"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1705000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CIDADANIA - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 584064.05,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSIAS MARIO DA VITORIA",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "individual",
+      "total_amount": 223769.96000000002,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "AMARILDO STEFENONI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WANDERSON LAMOIA NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIVANDER PEREIRA FLORINDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 90000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAVID STEFENONI NETTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO BARCELLOS BELIZARIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO SPADETTO RAMLOW",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GERALDO LUDOVICO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GIULIO MALENZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSIMERI SILVA ALVES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TIAGO SPEROTTO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO REIS CYRINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIGUEL FRANCISCO DE ALMEIDA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5823.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HELIO MERCON VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WADY JOSE JARJURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2253.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE DEJANIR DO VALE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MIGUELLAINI DE ALMEIDA WOTKOSKI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1950.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WERLANE BRAGUNCE MAULAZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1695.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

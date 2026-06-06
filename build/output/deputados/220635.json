@@ -50,5 +50,17 @@
     "https://www.facebook.com/BrunoGanemSP",
     "https://www.instagram.com/brunoganemsp"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PODEMOS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 800000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

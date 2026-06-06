@@ -50,5 +50,137 @@
     "https://twitter.com/DanielBarbosaAL",
     "https://www.instagram.com/daniel.barbosa.al"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 300000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCAS BARBOSA DE ALMEIDA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO BARBOSA DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7124.77,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BEATRIZ OLIVEIRA MAURICIO LIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MICHELLYNE PATRICIA BARBOSA AQUINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6715.24,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO TENORIO SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5231.25,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FABIO MAURICIO LIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "YALE BARBOSA FERNANDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WASHINGTANIA KARLLA RODRIGUES VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCUS VINICIUS PEIXOTO DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4660.32,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE VALTER GOMES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEOPOLDINA MOURA DE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDNEY GOMES CARNEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3360.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

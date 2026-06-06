@@ -52,5 +52,47 @@
     "https://www.instagram.com/dalbarretodeputado",
     "https://youtube.com/channel/UCFUsJuJCkySxlbxeZjrpKgQ"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2800000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADALBERTO ROSA BARRETO",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "individual",
+      "total_amount": 132000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - BAHIA - BA - ESTADUAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 11764.7,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NAYAN ROSA BARRETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

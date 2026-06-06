@@ -97,5 +97,128 @@
     "https://instagram.com/elicorreafilho",
     "https://www.facebook.com.br/elicorreafilho"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 529715.73,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEMOCRATAS - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 138000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO ASSIS DE ALMEIDA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 87278.12000000001,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIANO GALHARDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 80000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO ELI CORREA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 79162.5,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANO ELI CORREA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 62200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALEXANDRE DE SOUZA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE LUIS DE PAULA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18300.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE PEDRO DA SILVA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16537.22,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDERSON ORIVALDO ERCOLIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "Direção Municipal/Comissão Provisória",
+      "city": "GUARULHOS",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1400.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

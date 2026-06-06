@@ -53,5 +53,77 @@
   "birth_city": "Conquista",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA - JANDAIA DO SUL - PR - MUNICIPAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2350000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS ERMIRIO DE MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 420000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SERGIO NEUMANN CUPOLILO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEDA BORGES DE MOURA",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 7260.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO SILVA DOS REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCAS FERNANDES COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CATIA CIRLENE CARVALHO NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

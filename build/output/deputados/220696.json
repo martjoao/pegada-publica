@@ -52,5 +52,207 @@
     "https://www.instagram.com/ivoneidecaetanooficial",
     "https://youtube.com/channel/UCG1OT1V0SGnvBIf_RRicnpg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1575000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 167131.34,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS JOSE DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12881.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FRANCISCO DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDES SANTOS DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CHARLES DE OLIVEIRA NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TIAGO GARCIA SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE DEMETRIUS SILVA MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIRIAM BITENCOURT DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6850.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NAIARA SANTOS FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6150.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JEANE GLEIDE PINHEIRO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6150.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARLIETE ALVES SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO CONCEICAO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5850.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANA DOS SANTOS DE SOUZA SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5850.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIRALVA COSTA CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5850.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCINEZ OLIVEIRA MORAES SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5850.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GENIVALDA DA SILVA DO MONTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5850.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VERA SILVA DOS ANJOS FRANCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5850.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALTIMAR RABELO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5850.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIO CESAR PINHEIRO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5850.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

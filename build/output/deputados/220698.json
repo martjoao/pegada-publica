@@ -82,5 +82,197 @@
     "https://www.instagram.com/betopretoparana",
     "https://youtube.com/channel/UCBdkUghXHjx9cOc-RAm0cUg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 1766557.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO GEBRIM PRETO",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 8550.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA ELISABETH STOBERL DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3150.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLEVERSON DAMIAO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VANILDA DOS SANTOS MORAIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AUGUSTO DEMETRIO KOSX",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO DA LUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIA CRISTINA DE PAULA PRETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO ROSSI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUCENIR LEANDRO STENTZLER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELLO AUGUSTO MACHADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDMUNDO CEZAR ALEXANDRE VERONA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAFAEL CARLOS BELARMINO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADRIANA PATRICIA DALPIAZ KRELING",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADRIANO DE PAULA MARQUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NALCIO ANTONIO PIACENTINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELZA DE FATIMA LEIROZ DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDNEI ROBERTO ROSINA MANSANO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIO CESAR DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

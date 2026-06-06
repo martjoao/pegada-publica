@@ -51,5 +51,147 @@
   "birth_state": "PE",
   "birth_city": "Recife",
   "sex": "F",
-  "email": "sen.teresaleitao@senado.leg.br"
+  "email": "sen.teresaleitao@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4447200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO FERREIRA ALEXANDRE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO CORREA NERY DA FONSECA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REJANE MARIA DE MELO MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MANOEL MESSIAS NASCIMENTO MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1063.99,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA NAYDE DOS SANTOS LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RONALDO FIGUEREDO DE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDECIO RODRIGUES DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA ELIETE SANTIAGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIO FERNANDO SOUZA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 365.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEONARDO VIGOLVINO DE MEDEIROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOBSON PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REGINALDO LIMA PEREIRA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA BEATRIZ HIPOLITO DA SILVA BEZERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 0.01,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

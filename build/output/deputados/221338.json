@@ -47,5 +47,37 @@
   "birth_city": "São Paulo",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 416167.73,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 CARLOS ALBERTO GIANNAZI DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 86032.52,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CELSO LUIS GIANNASI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2200.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

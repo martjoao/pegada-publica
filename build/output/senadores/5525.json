@@ -70,5 +70,207 @@
   "birth_state": "SP",
   "birth_city": "Garça",
   "sex": "M",
-  "email": "sen.omaraziz@senado.leg.br"
+  "email": "sen.omaraziz@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2900000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 656974.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AUXILIADORA ABRANTES PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE PAULO RADIN SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO OLIVEIRA DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2566.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KELLY CHRISTY SOLANO MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE SIDNEY REZENDE DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TAYSE CRISTINE XENOFONTE KERST",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIZABETH ALMEIDA JUCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SONIA DO SOCORRO BRITO DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DO CARMO CHAGAS DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JUCILENE PEREIRA GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DE FATIMA ABRANTES PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO PINHEIRO GUEDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVERTON FERREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALEXSANDRO MENDES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SEMIRAMES DO AMARAL SALES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NINDBERG BARBOSA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IRACILDA FERNANDES DA LUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AUGUSTO CESAR DA SILVA BRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1833.33,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

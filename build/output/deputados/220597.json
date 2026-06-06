@@ -64,5 +64,207 @@
     "https://www.instagram.com/deputadothiagoflores",
     "https://www.youtube.com/channel/UCF6Ks4RTqfjqxPMqUTotKkg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - RONDONIA - RO - ESTADUAL",
+      "city": "#NULO",
+      "state": "RO",
+      "donor_type": "company",
+      "total_amount": 1220000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAIME MAXIMINO BAGATTOLI",
+      "city": "#NULO",
+      "state": "RO",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARILZA PEDROZA MARTINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8461.83,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ESMAEL FRANCISCO MELGAREIJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8461.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FLAVIO DOS SANTOS SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5775.12,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CESAR VECCHI DE CARVALHO FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5775.12,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEILANE SOUZA DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5775.12,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABRICIO SMAHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5775.12,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULA LUANA DIAS VOLKERS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5775.12,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IVA MACHADO DE MIRANDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5410.83,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA JACINTA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4770.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ENIVALDO LOPES DONATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4770.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDSON DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4770.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSANGELA ELISANDRA DIAS DE CAMPOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4770.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORCIMAR BRAU",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4770.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAXSUEL ROSA QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4770.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIANE PURIFICACAO APARECIDA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4770.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO SANTOS RIGOLON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4593.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GISELE VENDRAMEL MERLIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4593.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROBERTO SOUZA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4593.6,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

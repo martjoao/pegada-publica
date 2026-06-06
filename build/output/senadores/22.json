@@ -97,5 +97,37 @@
   "birth_state": "SC",
   "birth_city": "Florianópolis",
   "sex": "M",
-  "email": "sen.esperidiaoamin@senado.leg.br"
+  "email": "sen.esperidiaoamin@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2383916.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDSON CAPORAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 46.2,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PROGRESSISTAS - SANTA CATARINA - SC - ESTADUAL",
+      "city": "#NULO",
+      "state": "SC",
+      "donor_type": "company",
+      "total_amount": 46.2,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

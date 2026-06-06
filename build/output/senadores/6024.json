@@ -37,5 +37,6 @@
   "birth_state": "RR",
   "birth_city": "Boa Vista",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

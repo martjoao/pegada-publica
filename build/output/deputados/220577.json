@@ -57,5 +57,37 @@
     "https://www.instagram.com/augustopupio",
     "https://youtube.com/augustopupio7945"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 450000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BENEDITO CHARLES DOS SANTOS FLEXA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE AUGUSTO PUPIO REIS JUNIOR",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

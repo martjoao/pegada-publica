@@ -52,5 +52,127 @@
     "https://www.facebook.com/rodolfonogueiraoficial",
     "https://youtube.com/RodolfoNogueirams"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO FERNANDES DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODOLFO OLIVEIRA NOGUEIRA",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILMAR AGUILLAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS EDUARDO RIBEIRO DO VALLE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CARLOS FERNANDES CASULA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WELLINGTON DE ALMEIDA GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KIMBERLLYN APARECIDA VALENTE PRIMO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUBER JOSE DE SOUZA NECKEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4200.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO ALEXANDRO PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL - DIRETORIO REGIONAL DE MATO GROSSO DO SUL",
+      "city": "#NULO",
+      "state": "MS",
+      "donor_type": "company",
+      "total_amount": 1413.54,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WALTER ROMERO BELOTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

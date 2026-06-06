@@ -59,5 +59,37 @@
   "birth_city": "Arenópolis",
   "education": "Secundário Incompleto",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 750000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL PARTIDO UNIAO BRASIL - UNIAO PARA",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "company",
+      "total_amount": 2853.5299999999997,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIO MARIANO SILVA",
+      "city": "#NULO",
+      "state": "PA",
+      "donor_type": "individual",
+      "total_amount": 597.89,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

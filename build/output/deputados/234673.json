@@ -61,5 +61,37 @@
   "social_media": [
     "https://www.instagram.com/vanderlan__alves"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1130631.3900000001,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALDERLAN ALVES DE SOUZA",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 WAGNER SOUSA GOMES GOVERNADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 6162.9,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

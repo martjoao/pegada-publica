@@ -120,5 +120,68 @@
     "https://www.facebook.com/dep.lazaro/?locale=pt_BR",
     "https://www.instagram.com/dep.lazaro/"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4304080.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO PROGRESSISTA - PP",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 89304.85,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "COMISSAO ESTADUAL PROVISORIA DO PARTIDO SOLIDARIEDADE NO ESTADO DO TOCANTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "company",
+      "total_amount": 22917.5,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAZARO BOTELHO MARTINS",
+      "city": "#NULO",
+      "state": "TO",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ISMAR DE REZENDE JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EISENHOWER MILHOMENS COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1200.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

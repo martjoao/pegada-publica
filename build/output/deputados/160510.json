@@ -109,5 +109,99 @@
     "https://www.instagram.com/deputadoluistibe/",
     "https://www.youtube.com/watch?v=BuVmJsuVjuY"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "AVANTE DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1354471.9399999997,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "AVANTE - DIRETORIO MUNICIPAL - BELO HORIZONTE",
+      "city": "BELO HORIZONTE",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 7982.7,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "AVANTE - DIRETORIO ESTADUAL - MINAS GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUIS HENRIQUE DE OLIVEIRA RESENDE",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DANIEL ANDRADE RESENDE MAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CAMILA SOARES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA LUIZA GUIMARAES PINHEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VANIA MARIA ASSIS CARNEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ROGERIO APARECIDO SILVA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 295.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

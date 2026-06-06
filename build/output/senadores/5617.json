@@ -63,5 +63,6 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "pastor.valadares@senador.leg.br"
+  "email": "pastor.valadares@senador.leg.br",
+  "top_donors": []
 }

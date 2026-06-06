@@ -37,5 +37,6 @@
   "birth_state": "TO",
   "birth_city": "Araguaína",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

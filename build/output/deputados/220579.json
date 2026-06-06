@@ -50,5 +50,27 @@
     "https://twitter.com/silviawaiapi",
     "https://www.instagram.com/silviawaiapi"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 126000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLEYTON SERRAO VALENTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1100.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

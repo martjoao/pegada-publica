@@ -52,5 +52,47 @@
     "https://www.instagram.com/tiagomitraud",
     "https://youtube.com/tiagomitraud30"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "JOSE SALIM MATTAR JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EUGENIO PACELLI MATTAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 60000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO ERMIRIO DE MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO NOVO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1099.1599999999999,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

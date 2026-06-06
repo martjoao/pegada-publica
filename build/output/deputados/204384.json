@@ -65,5 +65,207 @@
   "birth_city": "Curitiba",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 1050000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABRICIO MAGGI SCHMIDT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 182000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WILSON PICLER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GUILHERME MAGGI SCHMIDT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 130000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ORIOVISTO GUIMARAES",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD - COMISSAO PROVISORIA MUNICIPAL - CURITIBA/PR",
+      "city": "CURITIBA",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 49000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FAISSAL ASSAD RAAD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 31000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO SEGUNDO SELEME",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ ANTONIO LEPREVOST",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 28000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANO DUTRA EMERICK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO GARCIA SANT ANNA BEVILAQUA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSE MARY BUFFARA DE CAMARGO VIANNA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 22000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OSMARIO MARTINS RIBAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WILMAR SCHWARZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17975.55,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANSELMO EDUARDO ROIKA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15805.5,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCIO JULIANO RIBEIRO KEKIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULA DE CASTRO TAVARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12781.43,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO DEVECHI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11621.73,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLEMILDA JESUS RODRIGUES DE PAULA THOME",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PATRICIA PIOVEZAN LEPREVOST",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

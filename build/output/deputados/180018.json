@@ -47,5 +47,207 @@
   "birth_city": "Natal",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO PROGRESSISTA - COMISSAO PROVISORIA ESTADUAL",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "company",
+      "total_amount": 60000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEMOCRATAS - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 60000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - NATAL - RN - ESTADUAL",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "company",
+      "total_amount": 60000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PODEMOS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 60000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 CARLOS EDUARDO NUNES ALVES GOVERNADOR",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "company",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIENAI DANTAS CARTAXO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3605.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIO FERREIRA DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALYANA OLIVEIRA DE FRANCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WIRNYA LEXIA AMORIM BEZERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EGUIBERTO LIRA DO VALE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 750.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARA TATYANE GERMANO CAMARA FONSECA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 450.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCONDES RODRIGUES PINHEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSELITO XAVIER DE PAIVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MATHEUS CAVALCANTI CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO LUIZ DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MICARLA TEREZA FERREIRA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "KALINE CANDIDO GUEDES DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDIMA PAIVA DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WOLNEY FREITAS DE AZEVEDO FRANCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AHIRA DANTAS CARTAXO DE CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 150.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

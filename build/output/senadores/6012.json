@@ -37,5 +37,6 @@
   "birth_state": "SC",
   "birth_city": "Lages",
   "sex": "F",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

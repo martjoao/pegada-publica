@@ -51,5 +51,187 @@
     "https://www.facebook.com/SilvyeeAlves",
     "https://www.instagram.com/silvyealves"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2940000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL GOIAS GO ESTADUAL",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 121951.22,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NEY RIBEIRO CAVALCANTE BRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5488.43,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VANUSA LUZIA MIRANDA AMORIM OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2632.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DAS GRACAS GOMES CAVALCANTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2350.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDA CASSIANO BATISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1719.2,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CRISTIANO RODRIGUES QUINTAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1394.7,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WILMARA ROSA CUNHA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1290.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS ROBERTO DA SILVA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1044.81,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SAMARONE DE OLIVEIRA LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1044.81,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KARITA HONORIO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 931.54,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIEL BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 762.19,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WELLINGTON MARQUES DO CARMO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 755.55,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO PAULO DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 729.54,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VANUZA DE JESUS DUARTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 671.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO DO NASCIMENTO SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 642.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ISADORA LETICIA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 594.6,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALDIR NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 554.07,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

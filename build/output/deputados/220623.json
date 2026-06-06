@@ -57,5 +57,207 @@
     "https://www.facebook.com/DudaSalabert",
     "https://www.instagram.com/duda_salabert"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IGOR MARCHESINI FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VITOR FERNANDES COLARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5910.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CAROLINA JAUED CARVALHO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 750.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CAROLINA SALES DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 750.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA CONSUELITA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 740.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO GILBERTO VERSIANI DOS ANJOS LARA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 725.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARTA CRISTINA FELICISSIMO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 650.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NICOLE GONDIM PORCARO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 570.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA FLAVIA QUINTAO FONSECA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 570.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA APARECIDA COSTA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVANDRO ALVES CAIXETA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 430.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIO DE OLIVEIRA PASSOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 355.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GABRIEL DE ANDRADE CARVALHO MULLER LEAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 340.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VANESSA BARROS LATINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 340.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MYRIANE MARA FREITAS GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BARBARA JUNQUEIRA DE LIMA SIQUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCAS DUPIN MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS EDUARDO PASSOS GONZAGA ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 245.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

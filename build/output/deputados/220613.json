@@ -52,5 +52,17 @@
   "birth_city": "Rio de Janeiro",
   "education": "Superior Incompleto",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 14385.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

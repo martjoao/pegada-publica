@@ -74,5 +74,57 @@
     "https://www.facebook.com/jhc",
     "https://www.instagram.com/jhc4040"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1300000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO HENRIQUE HOLANDA CALDAS",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "individual",
+      "total_amount": 36600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO ANTONIO HOLANDA CALDAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO ALAGOAS - AL - ESTADUAL",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "company",
+      "total_amount": 8000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VANDERLEI VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2800.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

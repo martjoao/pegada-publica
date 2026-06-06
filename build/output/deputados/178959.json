@@ -93,5 +93,207 @@
     "https://www.instagram.com/dr.hiran",
     "https://youtube.com/channel/UCfUhURQXWoyyK384VXxMNSw"
   ],
-  "website": "http://deputadohirangoncalves.com.br/"
+  "website": "http://deputadohirangoncalves.com.br/",
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1726284.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ENDRIA KAREN CAMPOS SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18866.25,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CICERO DE SOUZA HERMOGENS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10091.25,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RONIVALDO LIMA DE AMORIM SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10091.25,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA CONCEBIDA ARAUJO SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9396.2,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE ALBERTO CAVALCANTI MEDEIROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8775.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO DOS SANTOS FREIRE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8775.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GLEIDE DE ALMEIDA RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8775.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDSON DE SOUSA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7891.56,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SHEILA DA SILVA ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5806.68,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HALINE BATISTA REIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5278.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADNOEL CIRQUEIRA ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5030.14,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIA JANINE COSTA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4505.54,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO ARTUR DE LIMA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4252.01,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DENISMAR HORTA THOME",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4211.28,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSENEY MAIA DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4086.64,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALDENIZIO MAGALHAES SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3865.7,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GERSON FRANCISCO DE SOUZA HERMOGENS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3865.7,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WENDEL DA SILVA NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3473.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MILTON JOSE PIOVESAN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3240.01,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

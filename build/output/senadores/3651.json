@@ -63,5 +63,6 @@
   "birth_state": "SP",
   "birth_city": "São Paulo",
   "sex": "M",
-  "email": "alfredo.cotait@senador.leg.br"
+  "email": "alfredo.cotait@senador.leg.br",
+  "top_donors": []
 }

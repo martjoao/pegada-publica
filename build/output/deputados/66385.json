@@ -58,5 +58,207 @@
     "https://www.instagram.com/julioarcoverde",
     "https://youtube.com/julioarcoverde"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO PROGRESSISTA - PP -PI",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 116250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DARSI FRITZEN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SEGISNANDO FERREIRA DE ALENCAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 22183.8,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS ANTONIO BATISTA RODRIGUES DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21655.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIRCEU MENDES ARCOVERDE FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SEBASTIAO ROCHA LEAL JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JEOVANNA RIBEIRO MOURA ALENCAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13299.9,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEMARQUES DE OLIVEIRA LOIOLA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10855.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NEYDE MARIA COUTO BEZERRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9104.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEUZITO DE SOUSA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA CRISTINA PEREIRA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8902.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WALTER DE DEUS RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7345.05,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELLA FERREIRA DE ALENCAR ARCOVERDE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6702.75,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIO FERRAZ ARCOVERDE FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6702.75,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO DIAS DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6502.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA ZILMAR MENDES DA CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIA CRISTINA FREIRE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 SILVIO MENDES DE OLIVEIRA FILHO GOVERNADOR",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 3581.25,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA REGINA ALENCAR ARCOVERDE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO DA SILVA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2400.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

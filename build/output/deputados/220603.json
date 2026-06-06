@@ -53,5 +53,17 @@
   "birth_city": "Rio de Janeiro",
   "education": "Pós-Graduação",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - RIO DE JANEIRO - RJ - ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 2032965.12,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

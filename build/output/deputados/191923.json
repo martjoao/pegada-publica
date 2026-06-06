@@ -115,5 +115,210 @@
     "https://www.instagram.com/flavionogueirapi",
     "https://youtube.com/channel/UCK5EmojEtDuJnbOAGHcWhiA"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1650000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 250000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO PROGRESSISTA - PP -PI",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 185000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PIAUI DO PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 166500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FLAVIO RODRIGUES NOGUEIRA",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 114115.65,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DAS GRACAS CAVALCANTE NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 27086.23,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "POLYANY BATISTA DE MOURA LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17575.65,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "OLIVIA FLORIANO DA COSTA NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17289.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RAVENNA NOGUEIRA DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10801.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BENJAMIM SOARES DE CARVALHO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10801.8,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEUZUITA CONSTANCIA DE MOURA LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5220.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 FLAVIO RODRIGUES NOGUEIRA JUNIOR DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 2050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSELYNE BARROS MORAIS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1984.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THAYS PAIVA DE ALMENDRA FREITAS PIRES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FERREIRA DA SILVA NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1685.4,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GLINIA CAVALCANTE NOGUEIRA LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 922.2,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALDINA PIRES DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLEMENTE LINHARES DA SILVEIRA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DANISIO GUIMARAES E MARABUCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 909.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SAMUEL DE ALMENDRA FREITAS PIRES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 157.5,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

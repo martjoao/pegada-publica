@@ -64,5 +64,148 @@
     "https://www.instagram.com/charlles.evangelista",
     "https://youtube.com/channel/UCV7BXa77tGklAsuSx9DuZOQ"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2600000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CHARLLES THOMACELLI EVANGELISTA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 154445.57,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PAULO ROBERTO LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MATHEUS RIBEIRO ASSAD",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3945.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUZIA THOMACELLI BRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3510.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIO CESAR PINHEIRO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2652.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO VENTURA DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1650.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PATRICK ZANELLA OLIVEIRA LAGE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1650.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JESSICA FELIPE BERNARDINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MATHEUS CHIAINI LEITE LEONEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MICHILLIE THOMACELLI BRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 630.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANGELO CORREIA DE AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 630.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VITOR DE ALMEIDA NERI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCO AURELIO MULLER LOPES JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

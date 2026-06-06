@@ -47,5 +47,37 @@
   "birth_city": "Paranaguá",
   "education": null,
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 450000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA REPUBLICA - PR",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 7583.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ITAMAR PAIM PRUCH",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

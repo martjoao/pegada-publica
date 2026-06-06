@@ -57,5 +57,211 @@
     "https://www.facebook.com/TerezaNelmaAL",
     "https://www.instagram.com/terezanelmaal"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - ALAGOAS - AL - ESTADUAL",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 652250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 220000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDIO DA COSTA OLIVEIRA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19700.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUCIANE DE LIMA MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 17000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "YARA JANAINA PORTO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 16400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO CARLOS VIANNA BAPTISTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA - ALAGOAS - AL - ESTADUAL",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "company",
+      "total_amount": 14617.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TEREZA NELMA DA SILVA PORTO VIANA SOARES",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "individual",
+      "total_amount": 14285.05,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "GABRIELA SILVA MOREIRA DE SIQUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEBORA GONTIJO DE FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CICERA FABRICIA SIMPLICIO GONCALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS JOSE SOARES LESSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILMAR ANTONIO SOARES LESSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RENATO VIANA SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8440.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FRANCISCO SOARES LESSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TEREZA MARIA BARRETO DO AMARAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAIR VIANA SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "COSMO ROGERIO DA SILVA PORTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4640.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LUCIVANIA DOS SANTOS FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3040.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    }
+  ]
 }

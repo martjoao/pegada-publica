@@ -50,5 +50,17 @@
     "https://www.facebook.com/fabio.derueda",
     "https://www.instagram.com/fabioruedaoficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3025100.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

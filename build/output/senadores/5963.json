@@ -37,5 +37,6 @@
   "birth_state": "RN",
   "birth_city": "Natal",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

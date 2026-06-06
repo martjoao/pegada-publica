@@ -53,5 +53,6 @@
   "birth_state": "MA",
   "birth_city": "São Luís",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

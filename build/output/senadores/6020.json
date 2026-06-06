@@ -37,5 +37,6 @@
   "birth_state": "MS",
   "birth_city": "Coxim",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

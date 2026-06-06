@@ -164,5 +164,214 @@
     "https://www.instagram.com/depjefferson",
     "https://youtube.com/DepJeffersonCampos"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 1300000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 CARLOS CEZAR DA SILVA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 182000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 CARLOS CEZAR DA SILVA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 8600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVALDO COSTA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7237.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JHONIZ ERBISON GAZITO RABELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7237.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "EDILAINE CRISTINA MAZUCHI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5714.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL SAO PAULO SP ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 5240.63,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MOACIR BRAGA NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5137.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS CEZAR DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4750.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JEFFERSON ALVES DE CAMPOS",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DOUGLAS CASTELLUCCI DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4214.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CRISTIANE GONCALVES LEITE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3758.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MOACIR RODRIGUES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3290.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS RODRIGO BARALHAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3164.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LUAN DE OLIVEIRA DIONIZIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2760.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WALDIR PEREIRA BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCO AURELIO DOS SANTOS NEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2303.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAURO TEIXEIRA LEAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2156.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CARLOS CUERVO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1877.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

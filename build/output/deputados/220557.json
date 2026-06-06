@@ -51,5 +51,37 @@
     "https://www.facebook.com/danielareinehr.sc",
     "https://www.instagram.com/danielareinehr"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2526000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SAULO JOSE ELIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAMES WERNER HEESCH",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 476.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

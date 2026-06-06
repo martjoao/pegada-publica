@@ -67,5 +67,48 @@
   "social_media": [
     "https://twitter.com/marciolabre"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 503408.75,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIO DA SILVEIRA LABRE",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 44035.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SANDRA EULALIA LINS NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEBORA BRAZ SALAMONI VALLEJOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

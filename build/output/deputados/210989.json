@@ -56,5 +56,37 @@
     "https://www.facebook.com/brunofariasmg",
     "https://www.instagram.com/brunofariasmg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "AVANTE DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1092788.15,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AVANTE - DIRETORIO ESTADUAL - MINAS GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 253028.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IGOR FRANCA GUEDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -65,5 +65,67 @@
   "birth_city": "Rio de Janeiro",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "FERNANDO JOAO PREZZOTTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLEBER DOS SANTOS TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6388.2,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO RENOVADOR TRABALHISTA BRASILEIRO - SAO PAULO - SP - ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 5300.32,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VINICIUS CARVALHO AQUINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1117.77,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DO CARMO DE CARVALHO AQUINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1064.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO RIGAT",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 888.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

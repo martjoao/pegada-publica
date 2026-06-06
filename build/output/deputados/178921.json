@@ -109,5 +109,27 @@
     "https://www.facebook.com/deputadosebastiaooliveira",
     "https://www.instagram.com/deputadosebastiaooliveira"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1400000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CELIA MARIA DE ARAUJO ANDRADA OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

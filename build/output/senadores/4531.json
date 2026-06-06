@@ -101,5 +101,27 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "sen.jaymecampos@senado.leg.br"
+  "email": "sen.jaymecampos@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "JAYME VERISSIMO DE CAMPOS",
+      "city": "#NULO",
+      "state": "MT",
+      "donor_type": "individual",
+      "total_amount": 1379025.32,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE TEIJE CORREA DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4650.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

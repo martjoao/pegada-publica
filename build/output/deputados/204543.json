@@ -57,5 +57,57 @@
     "https://www.instagram.com/professorlfg",
     "https://youtube.com/ProfessorLFG"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "LUIZ FLAVIO GOMES",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 1590000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RAFAEL FERNANDO ZIMBALDI DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 4572.05,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DAVI NASCIMENTO PAIVA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2650.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALICE BIANCHINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2650.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO STANICH NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2650.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

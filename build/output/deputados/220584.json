@@ -50,5 +50,37 @@
     "https://twitter.com/Murilogaldinopb",
     "https://www.facebook.com/murilogaldinopb"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1787503.12,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - PARAIBA - PB - ESTADUAL",
+      "city": "#NULO",
+      "state": "PB",
+      "donor_type": "company",
+      "total_amount": 235927.88,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADRIANO CEZAR GALDINO DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23846.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

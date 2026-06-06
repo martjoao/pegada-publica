@@ -53,5 +53,207 @@
   "birth_city": "Teresina",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1800000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARJORY RODRIGUES CAVALCANTE MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 27000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO COSTA E CASTRO",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 19393.65,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCRECIA SOARES RIBEIRO DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11947.87,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HELENA SOARES RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10710.04,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SIDNEY ANTUNES ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8331.22,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAURICIO TEIXEIRA NEGREIROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7412.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUANA SOARES RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6415.07,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PAULO HENRIQUE RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6188.53,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "HELENA KATIA COSTA PAULO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4373.53,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "INDIRA MARCIELLE RIBEIRO DE MACEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4370.53,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IVON LENDL BESERRA SALES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANGELA FERNANDES DIAS DE CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO NEY RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GENILSON AMERICO RIBEIRO JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "POLYANA MARIA BARRETO DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SALMO CAVALCANTE PINDAIBA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE ALISON OLIVEIRA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1656.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON DIAS BRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1616.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CLAUDEMIR REZENDE BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 969.6,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -66,5 +66,207 @@
   "birth_state": "RO",
   "birth_city": "Porto Velho",
   "sex": "M",
-  "email": "sen.rodrigopacheco@senado.leg.br"
+  "email": "sen.rodrigopacheco@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "DEMOCRATAS - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1430000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RODRIGO OTAVIO SOARES PACHECO",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 777176.55,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DA GLORIA FROES MUSCHIONI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAFAEL NAZARETH MENIN TEIXEIRA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EUGENIO PACELLI MATTAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RUBENS MENIN TEIXEIRA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIANO DE OLIVEIRA BRASILEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MAURICIO DE OLIVEIRA CAMPOS JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA FERNANDA NAZARETH MENIN TEIXEIRA DE SOUZA MAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO PROGRESSISTA - PP",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 92720.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE MURILO PROCOPIO DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CAETANO DE VASCONCELLOS NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO DEMOCRATAS DE MINAS GERAIS",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 20250.44,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 EUCLYDES MARCOS PETTERSEN NETO DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 11000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO CARNEIRO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4999.99,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 DIMAS FABIANO TOLEDO JUNIOR DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 3180.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ARNALDO SILVA JUNIOR DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 1336.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AVANTE DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1050.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO MEDINA RODRIGUES ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 RENATO BARBOSA DE ANDRADE DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 680.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

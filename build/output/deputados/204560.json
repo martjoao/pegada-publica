@@ -64,5 +64,79 @@
   "birth_city": "Salvador",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3100000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 260700.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "KARINE DE ALMEIDA QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JUTAHY MAGALHAES JUNIOR SENADOR",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 27400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADOLFO VIANA DE CASTRO NETO",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "individual",
+      "total_amount": 7145.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 JUSMARI TEREZINHA DE SOUZA OLIVEIRA DEPUTADO ESTADUAL",
+      "city": "BARREIRAS",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 3100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 AUGUSTO NARCISO CASTRO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "BA",
+      "donor_type": "company",
+      "total_amount": 1112.63,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

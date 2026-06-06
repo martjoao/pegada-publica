@@ -49,5 +49,77 @@
   "social_media": [
     "https://www.instagram.com/josenildoap_"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 514680.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO CORREA TAVARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO ANTONIO DE OLIVEIRA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AURILENE MONTEIRO MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "POLIANA TAVARES SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2250.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO DE CARVALHO BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 750.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JONH LENNON MONTEIRO MONTEIRO DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 750.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

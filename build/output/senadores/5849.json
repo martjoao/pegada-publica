@@ -79,5 +79,6 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "sen.joseamauri@senado.leg.br"
+  "email": "sen.joseamauri@senado.leg.br",
+  "top_donors": []
 }

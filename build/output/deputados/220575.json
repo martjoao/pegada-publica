@@ -50,5 +50,47 @@
     "https://twitter.com/depsonizesantos",
     "https://www.facebook.com/DeputadaSonize"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SONIZE PIMENTEL DOS SANTOS",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "individual",
+      "total_amount": 13000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARMEN RAIMUNDA DA SILVA ROSAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS EDUARDO PIMENTEL BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3431.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

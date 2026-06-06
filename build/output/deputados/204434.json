@@ -53,5 +53,17 @@
   "birth_city": "Cedral",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "SOLIDARIEDADE - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1450000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

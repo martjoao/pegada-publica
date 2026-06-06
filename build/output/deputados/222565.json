@@ -51,5 +51,207 @@
     "https://www.facebook.com/SoldadoNoelio",
     "https://www.instagram.com/soldadonoelio"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1661577.27,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WHYNGRYSTHON WAGNER MENEZES DE CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 WAGNER SOUSA GOMES GOVERNADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 6162.9,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WHAMYSTHON WAGNER MENEZES CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VINICIUS SILVA TORRES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE VANDERLEI MARQUES VERAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAVID SUCUPIRA BARRETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVANDO TAVARES DE LIMA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA CRISTINA DE LIMA MOREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TERESA NEUMA CARVALHO COSTA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALDA DE OLIVEIRA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NOELIO DA ROCHA OLIVEIRA",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "individual",
+      "total_amount": 3760.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LILIA MARIA HORACIO FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MIKAELE HORACIO FERREIRA VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PABLO CRISTIAN CAVALCANTE DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2100.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SARA SILVESTRE FARIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JANIO MORAIS DA CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SHERLLES LIMA NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1950.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FELIPE PEREIRA SILVA DA PENHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO EVANDRO QUITERIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1750.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

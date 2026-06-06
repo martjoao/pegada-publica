@@ -47,5 +47,207 @@
   "birth_city": "Brasília",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "FERNANDO DE CASTRO MARQUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 786600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO PSD - REGIONAL DF",
+      "city": "#NULO",
+      "state": "DF",
+      "donor_type": "company",
+      "total_amount": 436278.51999999996,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 FERNANDO DE CASTRO MARQUES SENADOR",
+      "city": "#NULO",
+      "state": "DF",
+      "donor_type": "company",
+      "total_amount": 100375.59,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ROGERIO SCHUMANN ROSSO GOVERNADOR",
+      "city": "#NULO",
+      "state": "DF",
+      "donor_type": "company",
+      "total_amount": 10311.69,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SIDNEY FREIRE DO AMARAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2340.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO HENRIQUES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2340.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NAPOLEAO JOSE GUIMARAES DE MIRANDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO DA CRUZ ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCA CLEIA SOUZA CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARINALVA ALMEIDA DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1845.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOELMA RODRIGUES LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1845.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROBERTO PEREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1845.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO CESAR SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1710.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO HENRIQUE SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1710.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ VANDERLEI SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1710.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LIDIA SILVA CURADO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1260.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "OSMAR VIEIRA DA SILVA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1260.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SIMONE ALVES DA SILVA ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1260.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCO AURELIO FLEURY DE SANTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1260.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MAURO FERREIRA PONTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1260.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

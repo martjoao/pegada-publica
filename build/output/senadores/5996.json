@@ -51,5 +51,6 @@
   "birth_state": "PB",
   "birth_city": "João Pessoa",
   "sex": "M",
-  "email": "sen.diegotavares@senado.leg.br"
+  "email": "sen.diegotavares@senado.leg.br",
+  "top_donors": []
 }

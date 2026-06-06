@@ -43,5 +43,6 @@
   "birth_state": "GO",
   "birth_city": "Goiânia",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

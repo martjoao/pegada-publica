@@ -75,5 +75,57 @@
     "https://www.instagram.com/rosanavalleoficial",
     "https://youtube.com/channel/UCoiIg7-jlQtJX3CCgOceQbA"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 3000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "COMISSAO PROVISORIA MUNICIPAL DO PSB - PARTIDO SOCIALISTA BRASILEIRO DE ARAMINA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 139982.5,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL SAO PAULO SP ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 9022.19,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 CAIO FRANCA DE GOUVEA GOMES DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 4965.75,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

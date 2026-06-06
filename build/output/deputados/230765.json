@@ -47,5 +47,27 @@
   "birth_city": "Rio de Janeiro",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO COMUNISTA DO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1896000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REJANE DE ALMEIDA",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 29289.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

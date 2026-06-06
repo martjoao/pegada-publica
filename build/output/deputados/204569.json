@@ -57,5 +57,197 @@
     "https://www.facebook.com/delegadopablo",
     "https://www.instagram.com/delegadopablo"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2561000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PABLO OLIVA SOUZA",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "individual",
+      "total_amount": 24000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MIGUEL MARTINS DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO BOSCO DA SILVA BARROS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3050.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SIMAO DE ALBUQUERQUE DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3050.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ROSIANE RAMALHO GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3050.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANECIA MARIA MOURA DO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3050.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AMILSON FIGUEIREDO DA TRINDADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3050.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANGELO ROBERTO DO NASCIMENTO CECILIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3050.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADRIANA DO CARMO OLIVEIRA MONTEIRO PENALBER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3050.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIAS PAULO DE MOURA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2338.41,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CICERO GOMES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ARONALDO DE AMORIM CELESTINO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1610.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PSL-PARTIDO SOCIAL LIBERAL",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 1519.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 REBECCA MARTINS GARCIA VICE-GOVERNADOR",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 1515.15,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIANNE CRISTINE SILVA DE VASCONCELOS DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROSELINA SOARES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VICTOR RENAN LOBATO BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANO SILVA DA CUNHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

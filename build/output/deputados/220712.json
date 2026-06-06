@@ -58,5 +58,207 @@
   "birth_city": "Manaus",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2561000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "YARA AMAZONIA LINS RODRIGUES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TERESA RAQUEL RODRIGUES BAIMA RABELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL - AMAZONAS - AM - ESTADUAL",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 4285.71,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SABRINA GOMES FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AURILENE DA SILVA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADRIELE AMARAL AMORIM",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAIMUNDO CUNHA DE AGUIAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IAN CARLOS REIS SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ABIGAIL DA PAZ CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEONE FELIPE CRESCENCIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KLEBER JUNIOR SOUZA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARLENE DOS SANTOS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE VALENTE COUTINHO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LAISA GONCALVES DE FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NIANDRO SAVIO E SILVA DE AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SIDINEI DE SOUZA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NAIANDRA ALMEIDA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEONE MARQUES GOMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO HENRIQUE DE OLIVEIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 343.4,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

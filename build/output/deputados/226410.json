@@ -47,5 +47,17 @@
   "birth_city": "Anápolis",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "MDB - MOVIMENTO DEMOCRATICO BRASILEIRO",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 8027.72,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

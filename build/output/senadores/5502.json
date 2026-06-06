@@ -56,5 +56,207 @@
   "birth_state": "AM",
   "birth_city": "Eirunepé",
   "sex": "M",
-  "email": "sen.pliniovalerio@senado.leg.br"
+  "email": "sen.pliniovalerio@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 650000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 OMAR JOSE ABDEL AZIZ GOVERNADOR",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "company",
+      "total_amount": 17750.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FRANCISCO PLINIO VALERIO TOMAZ",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "individual",
+      "total_amount": 12736.6,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS ALBERTO DE CASTRO ALMEIDA",
+      "city": "#NULO",
+      "state": "AM",
+      "donor_type": "individual",
+      "total_amount": 6344.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA LUCIA SILVA DE ALENCAR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6180.2,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ALANA BARBOSA VALERIO TOMAZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5856.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CAMILA VALERIO TOMAZ SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5337.4400000000005,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SARKISS CAVALCANTE TOMAZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4008.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS RICARDO HERSZON CAVALCANTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JUDITE DA SILVA PINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2249.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAIMUNDO BRAZAO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2249.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO GOMES DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2072.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VIVIANE BORGES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2072.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEUSMAR DE OLIVEIRA TOMAZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2072.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAFAEL ALBUQUERQUE GOMES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PAULO JUVENCIO DE MELO ISRAEL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RITA ANTONIA FALCAO SARAIVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA RITA SOUZA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JULIANA ROBERTO SIMONETTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DAS MERCES DE SOUZA LOPES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 954.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -61,5 +61,127 @@
   "social_media": [
     "https://www.instagram.com/ribeironeto.ma"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "AIRES DO ESPIRITO SANTO RIBEIRO NETO",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "individual",
+      "total_amount": 180000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "AIRES DO ESPIRITO SANTO RIBEIRO FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7876.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIZETH ARAUJO SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7076.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LAESLY SIMOES LINDOSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GLEDSON SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO REGO RABELO OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO PEREIRA DA SILVA DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2422.24,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIEGO BEZERRA DE SOUSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADIMAEL MELONIO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VIRGILIO DE MORAES FREITAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1818.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FREDERICK OSCAR LAGO NASCIMENTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LAON RIRLEN SIMOES LINDOSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 395.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

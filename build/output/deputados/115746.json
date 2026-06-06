@@ -59,5 +59,47 @@
   "birth_city": "Campos dos Goytacazes",
   "education": "Ensino Médio Incompleto",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 700000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GELSON DE AZEVEDO ALMEIDA",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 376800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA LUCIA ALVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO HUMANISTA DA SOLIDARIEDADE - COMISSAO PROVISORIA REGIONAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 300.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

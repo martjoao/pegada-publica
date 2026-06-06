@@ -80,5 +80,200 @@
     "https://www.facebook.com/joseneltopodemos",
     "https://www.instagram.com/joseneltooficial"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "JOSE NELTO LAGARES DAS MERCEZ",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 2305409.54,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2174937.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PODEMOS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 245000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEMOCRATAS - DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 75000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ROMILTON RODRIGUES DE MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 67400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GIOVANI ANTONIO BARBOSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANTONIA MARIA DE LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 29356.8,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO RIBEIRO DE MENDONCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13333.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSIMARA RIBEIRO DE MENDONCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13333.33,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO PIZA DE QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11087.78,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HENRIQUE PIZA DE QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11087.78,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FERNANDO PIZA DE QUEIROZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11087.78,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA LUISA RIBEIRO DE MENDONCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6666.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GRASIELA TEODORO BUENO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6666.67,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO PROGRESSISTA",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 4568.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIO HENRIQUE NOVAIS LEMES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GILDEMAR SILVA BARBALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4471.2,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GEAN PATRIK FERREIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEMOCRATAS - DIRETORIO REGIONAL DE GOIAS",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "company",
+      "total_amount": 1320.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

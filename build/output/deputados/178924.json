@@ -126,5 +126,210 @@
   "social_media": [
     "https://www.instagram.com/fabioabreu.oficial/"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2500000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1150000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO PROGRESSISTA - PP -PI",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIO ABREU COSTA",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 98331.78,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO OSMAR BATISTA DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 34209.380000000005,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FRANCISCO ABREU DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 18545.25,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO ROBERIO BATISTA ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12027.1,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARIA DAS GRACAS BATISTA ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9615.73,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DAURIANY DOS REIS NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7018.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARIANA DE JESUS ROCHA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5513.280000000001,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE LUCIANO FREITAS HENRIQUES ACIOLI LINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAIMUNDA NONATA LOPES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANTONIO DOMINGUES DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSINEIDE MARY DE CARVALHO VERAS ACIOLI LINS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELIANE ABREU COSTA ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAYS DE SOUSA ALMEIDA ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4491.360000000001,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GIOVANNA LOUISE ARAUJO ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4370.53,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WANESSA DE JESUS SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4163.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELANNE NUNES DE CARVALHO LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3336.24,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WELDEL CESAR LEAL DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2231.76,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

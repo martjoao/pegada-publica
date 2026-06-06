@@ -48,5 +48,6 @@
   "birth_state": "RS",
   "birth_city": "Cachoeira do Sul",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

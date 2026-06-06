@@ -66,5 +66,6 @@
   "birth_state": "SP",
   "birth_city": "São Paulo",
   "sex": "M",
-  "email": "sen.giordano@senado.leg.br"
+  "email": "sen.giordano@senado.leg.br",
+  "top_donors": []
 }

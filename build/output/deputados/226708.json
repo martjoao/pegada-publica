@@ -82,5 +82,38 @@
     "https://www.instagram.com/allan.garces",
     "https://youtube.com/channel/UCarcImE3nnhmisi8RRbdm-w"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 680000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALLAN QUADROS GARCES",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "#NULO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "unknown",
+      "total_amount": 0.24,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

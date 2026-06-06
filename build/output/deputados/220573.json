@@ -50,5 +50,27 @@
     "https://twitter.com/malafaia_d",
     "https://www.instagram.com/malafaiadorinaldo"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DEMOCRATICO TRABALHISTA",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 257880.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIO WILLIS DA COSTA LEITE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

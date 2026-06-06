@@ -64,5 +64,207 @@
   "birth_city": "Belém",
   "education": "Doutorado",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "RICARDO AUGUSTO DIAS DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 25000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDILENE BRITO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24968.4,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SELMA LENI BRITO RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 23300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS SANDRO DE SENA E SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 21252.4,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "GIOVANE DA SILVA MOTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "IVETE SERRA SALES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9600.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA DA CONCEICAO OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JURANDIR SANTOS DE NOVAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ARACELI MARIA PEREIRA LEMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOAO MARCIO PALHETA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "BRUNO CHAGAS DA SILVA RODRIGUES FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARINA FERREIRA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALDOMIRO TOLOSA GALVAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANA ROSA SANTANA FIDELIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PRISCILA DE SOUZA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PATRICKSANDRE OLIVEIRA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA DE JESUS TOLOSA GALVAO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSUE RICARDO MACEDO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "KELLY ALVES MORAES DE MATOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3300.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MONICA DE SOUZA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3300.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

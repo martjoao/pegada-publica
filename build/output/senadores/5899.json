@@ -63,5 +63,27 @@
   "birth_state": "GO",
   "birth_city": "Iporá",
   "sex": "M",
-  "email": "sen.vanderlancardoso@senado.leg.br"
+  "email": "sen.vanderlancardoso@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1922040.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VANDERLAN VIEIRA CARDOSO",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

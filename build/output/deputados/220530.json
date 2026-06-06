@@ -58,5 +58,37 @@
     "https://www.instagram.com/messiasdonato",
     "https://youtube.com/channel/UCzw1O2NLEynTs9dm3X2AILA"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 900000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VITORIA COMUNICACAO, AUDIOVISUAL, MARKETING E GRAFICA LTDA",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 1216.21,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ERICK CABRAL MUSSO SENADOR",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "company",
+      "total_amount": 1184.21,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

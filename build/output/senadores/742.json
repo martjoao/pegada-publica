@@ -56,5 +56,137 @@
   "birth_state": "PI",
   "birth_city": "São Raimundo Nonato",
   "sex": "M",
-  "email": "sen.marcelocastro@senado.leg.br"
+  "email": "sen.marcelocastro@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1500000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MOVIMENTO DEMOCRATICO BRASILEIRO",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 70650.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA JOSE COSTA E CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADRIANA CASTELLO BRANCO LAGES REBELLO E CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO COSTA E CASTRO",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HUMBERTO COSTA E CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9180.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCELO VAZ DA COSTA E CASTRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7920.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDERSON OLIVEIRA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3960.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "SAVINA AMALIA MARINHO MAGALHAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3313.84,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE DIAS DE CASTRO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2880.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOSE FRANCISCO PAES LANDIM DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 151.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 JOSE RIBAMAR NOLETO DE SANTANA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 70.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MULTICAIXAS LTDA",
+      "city": "#NULO",
+      "state": "PI",
+      "donor_type": "company",
+      "total_amount": 56.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -52,5 +52,27 @@
     "https://www.instagram.com/pastorhenriquevieira",
     "https://youtube.com/PastorHenriqueVieira"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE - RIO DE JANEIRO (PSOL-RJ)",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 1200048.6700000002,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE (P-SOL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 210653.37,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

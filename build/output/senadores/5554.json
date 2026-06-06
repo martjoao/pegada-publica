@@ -43,5 +43,6 @@
   "birth_state": "BA",
   "birth_city": "Uruçuca",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

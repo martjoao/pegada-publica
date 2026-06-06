@@ -139,5 +139,27 @@
     "https://www.facebook.com/danielsoranz",
     "https://www.instagram.com/danielsoranz"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIAL DEMOCRATICO - RIO DE JANEIRO / RJ.",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 814030.95,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EMILENE DOS SANTOS GUIMARAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

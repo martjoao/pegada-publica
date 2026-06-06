@@ -71,5 +71,37 @@
   "birth_state": "SP",
   "birth_city": "Cajuru",
   "sex": "M",
-  "email": "sen.jorgekajuru@senado.leg.br"
+  "email": "sen.jorgekajuru@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "MILTON JOSE DAS MERCEZ",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 7040.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CARLOS HENRIQUE MARTINS VIEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JORGE KAJURU REIS DA COSTA NASSER",
+      "city": "#NULO",
+      "state": "GO",
+      "donor_type": "individual",
+      "total_amount": 307.62,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

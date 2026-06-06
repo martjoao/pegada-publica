@@ -43,5 +43,87 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": [
+    {
+      "name": "VALMIR ROSA DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1250.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "TIAGO FERNANDO DE SOUZA DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1062.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLAUDEMIO SOUSA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1062.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS VINICIUS DE SOUSA DIAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1062.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WESDRAS PEREIRA NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1062.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VALDECY RAMOS TAVARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARIA JOSE COSTA TAVARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ESTEFANIA REGINA AGUIAR VIEIRA TEIXEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -66,5 +66,57 @@
   "birth_state": "PB",
   "birth_city": "Brejo do Cruz",
   "sex": "F",
-  "email": "sen.zenaidemaia@senado.leg.br"
+  "email": "sen.zenaidemaia@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO HUMANISTA DA SOLIDARIEDADE - COMISSAO EXECUTIVA NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 900000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ZENAIDE MAIA CALADO PEREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "individual",
+      "total_amount": 150000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JAIME CALADO PEREIRA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "VILMA ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PATRICIA FIORE CABRAL",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

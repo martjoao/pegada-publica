@@ -111,5 +111,219 @@
   "birth_city": "Pato Branco",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL PARTIDO SOCIAL DEMOCRATICO - PSD",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 2046557.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO VERDE",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1000000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO VERDE - PARANA - PR - ESTADUAL",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CLEOMAR DEL GASPERIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20729.45,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "DAGOBERTO WAYDZIK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15313.07,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRE DAL PONTE",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 14236.17,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA REGINA VIERO DEL GASPERIN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11752.72,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "TATIANE EDICLEIA REIMANN",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11035.619999999999,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ADALGISA LOUREIRO DE MELLO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10270.73,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOVELINA CHAVES DA SILVA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7999.25,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSEMIR RODRIGUES DA ROSA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7615.45,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "FRANCELI DE FATIMA DAVI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7357.4,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JOAO PAULO PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7265.9,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILSON LAROCA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7147.16,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "MARILENE APARECIDA SANTANA DE LARA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6714.15,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIANO BOICO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JAIR SMOLEK",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6232.73,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO ESPINOLA ARAUJO ABECASSIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6117.96,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "SEBASTIAO FREITAS DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5229.719999999999,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "EDER PETKOVICZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5180.049999999999,
+      "elections": [
+        2018,
+        2022
+      ]
+    }
+  ]
 }

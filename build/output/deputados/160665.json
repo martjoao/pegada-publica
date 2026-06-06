@@ -122,5 +122,208 @@
     "https://www.instagram.com/augustocoutinhope",
     "https://youtube.com/featured"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1683000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SOLIDARIEDADE - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 900000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "INACIO DE BARROS MELO NETO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - PERNAMBUCO - PE - ESTADUAL",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 97500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GERSON DE AQUINO LUCENA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LUIZ OTAVIO GOMES KOBLITZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 35000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "RAILSON COELHO BENJAMIN DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 20000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCELO JOSE HERACLIO DO REGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7607.7,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SOLIDARIEDADE - SD",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 5400.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ADMALDO MATOS DE ASSIS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE EMERSON CUNHA DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4050.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO HENRIQUE ALVES DE LIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3946.8,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "OZEAS AVELINO DE AZEVEDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3432.9,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ARTHUR VINICIUS XAVIER NUNES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2700.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "THIAGO POGGI DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2030.7,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RONALDO SANTANA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2022.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIOGO FELIX DA SILVA FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2022.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALERIO SILVEIRA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GLADSTONE FERNANDO ALMEIDA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1360.8,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDERSON CAVALCANTI SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1353.9,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

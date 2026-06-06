@@ -51,5 +51,6 @@
   "birth_state": null,
   "birth_city": null,
   "sex": "M",
-  "email": "Sen.PauloAlbuquerque@senado.leg.br"
+  "email": "Sen.PauloAlbuquerque@senado.leg.br",
+  "top_donors": []
 }

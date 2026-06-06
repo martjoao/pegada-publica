@@ -48,5 +48,6 @@
   "birth_state": "MG",
   "birth_city": "Manhumirim",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

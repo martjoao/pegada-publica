@@ -50,5 +50,27 @@
     "https://twitter.com/sargentoportuga",
     "https://www.facebook.com/DeputadoFederalSargentoPortugal"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PODEMOS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 MARCELO FERREIRA RIBEIRO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 5920.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

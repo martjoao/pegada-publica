@@ -37,5 +37,6 @@
   "birth_state": "RS",
   "birth_city": "Santa Cruz do Sul",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

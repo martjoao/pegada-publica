@@ -53,5 +53,208 @@
   "birth_city": "Itapecerica",
   "education": null,
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "FABIANO LOPES FERREIRA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 1412761.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME LAMOUNIER NOGUEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO LOPES FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 38508.14,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCOS MARCELINO DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAGNUM LAMOUNIER FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MATHEUS CAZECA OLIVEIRA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO BATISTA FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 29239.63,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FLAVIO AUGUSTO SAMPAIO MENEZES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GIOVANI JOSE CANDIDO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FERNANDO LAMOUNIER FERREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 19000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "APARECIDA LOPES OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14920.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LEANDRO LOPES OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14920.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ADRIANA DRUMOND DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13576.91,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA APARECIDA RODRIGUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 13000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GISMAR ANTONIO NOGUEIRA MENDES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12400.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "VALDIR LOPES DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA MARIA TOLEDO DE SOUZA ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELISANGELA MARIA DOS SANTOS SALOMON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FRANCISCO APARECIDO DE CAMARGOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FATIMA LOPES FERREIRA MELO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

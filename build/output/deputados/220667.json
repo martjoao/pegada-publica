@@ -50,5 +50,27 @@
     "https://www.facebook.com/pedrocampospe",
     "https://www.instagram.com/pedrocampospe"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "JOAO HENRIQUE DE ANDRADE LIMA CAMPOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCUS VINICIUS ALENCAR SAMPAIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7500.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

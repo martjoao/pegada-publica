@@ -99,5 +99,209 @@
   "birth_city": "Fernandópolis",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4390692.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "CARLOS EDUARDO GOMES CALLADO MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12132.31,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RENATO DOS SANTOS CARENO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO CHIACCHIO ORTUNHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "CASSIO JOSE CONSTANCIO DE ARAUJO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELIZABETE PEREIRA MARTINS DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA MARIA DE ALMEIDA SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JESSICA GUIMARAES DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUSTAVO RUY PINATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "WAGNER RAFAEL DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "WELLINGTON ADINAN DE MAGALHAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HELOISA VICTORIA DA COSTA MOURA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "INGRID GIOVANA DREGOTTI CORREA BRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IUANI RANI DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIOLA CRISTINA DE CAMPOS DA COSTA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ARIANE FRANCO MARQUES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "KARINA FELIS DA SILVA RUSSO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JENIFER CORDEIRO BENTO RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DEBORA MIRANDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TAIS DAMARIS RODRIGUES DONATO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 70.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

@@ -83,5 +83,47 @@
   "birth_state": "PE",
   "birth_city": "Recife",
   "sex": "M",
-  "email": "sen.chicorodrigues@senado.leg.br"
+  "email": "sen.chicorodrigues@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "FRANCISCO DE ASSIS RODRIGUES",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "individual",
+      "total_amount": 23653.33,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ABEL SALVADOR MESQUITA JUNIOR VICE-GOVERNADOR",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "company",
+      "total_amount": 9974.93,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOSE RIBAMAR GALDENCO DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3946.67,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JOZIANHA ALBUQUERQUE DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3733.33,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

@@ -53,5 +53,27 @@
   "birth_city": "São Luís",
   "education": "Superior",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA MOBILIZACAO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 400000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EDUARDO SALIM BRAIDE",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "individual",
+      "total_amount": 45000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

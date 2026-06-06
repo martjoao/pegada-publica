@@ -55,5 +55,37 @@
   "social_media": [
     "https://www.instagram.com/GUILHERMEUCHOAJR"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIALISTA BRASILEIRO - PSB",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 1012059.5599999999,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GUILHERME ARISTOTELES UCHOA CAVALCANTI PESSOA DE MELO JUNIOR",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "individual",
+      "total_amount": 125000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVA GOES UCHOA CAVALCANTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 15000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

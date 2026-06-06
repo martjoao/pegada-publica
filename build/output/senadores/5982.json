@@ -61,5 +61,27 @@
   "birth_state": "RS",
   "birth_city": "Passo Fundo",
   "sex": "M",
-  "email": "sen.alessandrovieira@senado.leg.br"
+  "email": "sen.alessandrovieira@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "RAYANE DE SANTANA SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1064.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO ESTADUAL REDE SUSTENTABILIDADE",
+      "city": "#NULO",
+      "state": "SE",
+      "donor_type": "company",
+      "total_amount": 465.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

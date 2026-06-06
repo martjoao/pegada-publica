@@ -56,5 +56,6 @@
   "birth_state": "GO",
   "birth_city": "Anápolis",
   "sex": "M",
-  "email": "ronaldo.caiado@senador.leg.br"
+  "email": "ronaldo.caiado@senador.leg.br",
+  "top_donors": []
 }

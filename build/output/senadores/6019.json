@@ -51,5 +51,6 @@
   "birth_state": "PR",
   "birth_city": "Arapongas",
   "sex": "F",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

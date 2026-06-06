@@ -50,5 +50,27 @@
     "https://www.facebook.com/rodrigogambaleoficial",
     "https://www.instagram.com/rodrigogambale"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PODEMOS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1700000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PODEMOS - SAO PAULO - SP- ESTADUAL",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

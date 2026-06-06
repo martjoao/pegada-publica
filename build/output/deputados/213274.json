@@ -78,5 +78,209 @@
   "social_media": [
     "https://www.facebook.com/ricardosilvarp"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1414000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 350000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "JARRIER BELMONTE SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 200000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO AUGUSTO MACHADO DA SILVA",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "individual",
+      "total_amount": 140762.93000000002,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "WAGNER WELLINGTON RIPPER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 100000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SEBASTIAO EDSON SAVEGNAGO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 30000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO - PSD DIRETORIO ESTADUAL DE SAO PAULO",
+      "city": "#NULO",
+      "state": "SP",
+      "donor_type": "company",
+      "total_amount": 10256.41,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ODAIR COUTINHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RICARDO VASCONCELOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3910.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ANDERSON DIAS CAMPOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1950.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "RAFAEL ANTONIO DA SILVA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SANDRA MARA RODRIGUES CATA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NELZIRA WEFFORT DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1575.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "HIGOR PEDRASSI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "NIVALDO CHAVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1025.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "SELMA APARECIDA TREBI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1025.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RODRIGO JOSE DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1025.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DENIS DONIZETI DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1025.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO ORNELLAS RAMOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1025.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIANA TREBI PENATTI LEMES DE MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1025.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

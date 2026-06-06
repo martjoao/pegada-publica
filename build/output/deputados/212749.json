@@ -56,5 +56,58 @@
     "https://www.facebook.com/sigamarcaogomes",
     "https://www.instagram.com/dep.marcaogomes"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2000000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE LUIZ GOMES DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO PARTIDO LIBERAL NO ESTADO DO RIO DE JANEIRO",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 3292.5,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCUS WELBER GOMES DA SILVA",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 LUIZ LINDBERGH FARIAS FILHO SENADOR",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 611.25,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

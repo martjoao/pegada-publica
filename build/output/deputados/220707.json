@@ -56,5 +56,27 @@
     "https://twitter.com/amandagentiI",
     "https://www.instagram.com/amandagentill"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "GIL RICARDO COSTA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1212.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 CARLOS WELLINGTON DE CASTRO BEZERRA DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MA",
+      "donor_type": "company",
+      "total_amount": 50.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

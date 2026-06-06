@@ -67,5 +67,47 @@
     "https://twitter.com/pedrobvilela",
     "https://www.instagram.com/pvilelat"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1300000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "EMERSON DE MELO TENORIO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 50000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PEDRO TORRES BRANDAO VILELA",
+      "city": "#NULO",
+      "state": "AL",
+      "donor_type": "individual",
+      "total_amount": 3815.09,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "MARCOS FERNANDO GARMS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

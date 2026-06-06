@@ -56,5 +56,67 @@
     "https://www.facebook.com/lucasabrahaoap",
     "https://www.instagram.com/lucasabrahao_"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REDE SUSTENTABILIDADE",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1138936.1400000001,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EDUARDO SILVEIRA MUFAREJ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELUANY CRISTINY AUZIER PESTANA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8992.7,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "EVERTON FERNANDO SILVA DE DEUS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCAS ABRAHAO ROSA CEZARIO DE ALMEIDA",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "individual",
+      "total_amount": 2315.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REDE SUSTENTABILIDADE",
+      "city": "#NULO",
+      "state": "AP",
+      "donor_type": "company",
+      "total_amount": 750.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

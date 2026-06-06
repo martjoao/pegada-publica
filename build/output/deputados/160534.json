@@ -76,5 +76,58 @@
   "birth_city": "Vila Velha",
   "education": "Ensino Médio",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "DIRETORIO NACIONAL DO PARTIDO SOCIAL CRISTAO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2700000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2300000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LAURIETE RODRIGUES DE JESUS MALTA",
+      "city": "#NULO",
+      "state": "ES",
+      "donor_type": "individual",
+      "total_amount": 19500.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "JORDILTON MENDES BRAGA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3070.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEVY RODRIGUES PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2150.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

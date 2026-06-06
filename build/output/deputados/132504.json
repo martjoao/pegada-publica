@@ -91,5 +91,210 @@
     "https://www.instagram.com/enioverri",
     "https://youtube.com/enioverri"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO DOS TRABALHADORES",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2694418.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ENIO JOSE VERRI",
+      "city": "#NULO",
+      "state": "PR",
+      "donor_type": "individual",
+      "total_amount": 64905.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ALEX CANZIANI SILVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 59500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PATRICK ROBERTO GASPARETTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 14000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MAURO JOAO MATTE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 12178.63,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANGELO POLONI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10823.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GILMAR OTAVIANO LEAL SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ONORINO MARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9453.5,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE EDUARDO DE MORAES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 9000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "NEWTON RICARDO DE ALMEIDA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 8656.29,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "IBELMAR SELEME",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 7000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "IEDA MARIA ESTEVES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6858.22,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ARLEI COSTA JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 6800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "TEREZINHA VIANA PEREIRA FRASSON",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5489.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARIA AMELIA BECKER",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5300.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RICARDO JOSE RIBEIRO BERZOINI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE CORTEZ FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "MARCIUS FERNANDO KOENEMANN FRANCO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 4000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JULIANA MEZZAROBA TOMAZONI DE ALMEIDA PINTO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3872.34,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDREI PAGNONCELLI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3816.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

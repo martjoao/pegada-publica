@@ -47,5 +47,37 @@
   "birth_city": "Recife",
   "education": "Superior Incompleto",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PROGRESSISTAS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2722000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO PARTIDO PROGRESSISTA NO ESTADO DE PERNAMBUCO",
+      "city": "#NULO",
+      "state": "PE",
+      "donor_type": "company",
+      "total_amount": 49080.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELIAS MANOEL DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 11.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

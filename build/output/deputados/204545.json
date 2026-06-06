@@ -64,5 +64,88 @@
     "https://www.instagram.com/alesilva.oficial",
     "https://youtube.com/channel/UCWGscB8R2ecnNrdr_UCmaRA"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "REPUBLICANOS - BRASIL - BR - NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2180731.74,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REPUBLICANOS - COMISSAO PROVISORIA REGIONAL MG",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 235568.26,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ALESSANDRA DA SILVA",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 58600.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "WAGNER JOSE EUSTAQUIO RIBEIRO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 24100.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "LEONCIO GUIMARAES FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 10000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "FABIANE CRISTINA LAGE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3600.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JORGE ARANTES JUNIOR",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1064.1,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "#NULO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "unknown",
+      "total_amount": 146.64,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

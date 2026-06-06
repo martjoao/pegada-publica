@@ -71,5 +71,27 @@
   "birth_state": "RS",
   "birth_city": "São Luiz Gonzaga",
   "sex": "M",
-  "email": "sen.aroldedeoliveira@senado.leg.br"
+  "email": "sen.aroldedeoliveira@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "DIRETORIO ESTADUAL DO PARTIDO SOCIAL DEMOCRATICO - RIO DE JANEIRO / RJ.",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 950000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "AROLDE DE OLIVEIRA",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "individual",
+      "total_amount": 104000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

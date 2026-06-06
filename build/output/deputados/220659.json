@@ -57,5 +57,27 @@
     "https://www.instagram.com/dayanybittencourt",
     "https://youtube.com/dayanydocapitao9613"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 2900000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 WAGNER SOUSA GOMES GOVERNADOR",
+      "city": "#NULO",
+      "state": "CE",
+      "donor_type": "company",
+      "total_amount": 6162.9,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

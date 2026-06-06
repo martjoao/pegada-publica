@@ -81,5 +81,27 @@
     "https://www.instagram.com/rafaelmottarn",
     "https://youtube.com/Jqh7jhN66-Xa9fqWL2gSIg"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1400000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DIRETORIO REGIONAL DO PARTIDO SOCIALISTA BRASILEIRO",
+      "city": "#NULO",
+      "state": "RN",
+      "donor_type": "company",
+      "total_amount": 110000.0,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

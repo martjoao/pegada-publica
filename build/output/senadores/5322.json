@@ -97,5 +97,207 @@
   "birth_state": "RJ",
   "birth_city": "Rio de Janeiro",
   "sex": "M",
-  "email": "sen.romario@senado.leg.br"
+  "email": "sen.romario@senado.leg.br",
+  "top_donors": [
+    {
+      "name": "PARTIDO LIBERAL (PL)",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 5000000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RAPHAEL GONCALVES BRANDAO DA SILVEIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 5000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ZORAIDI DE SOUZA FARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO AUGUSTO SIQUEIRA PEDROZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "FABIO LUIS DE JESUS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 2500.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOANA DARC SILVA LIMA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1800.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PEDRO HENRIQUE ALVES DE ALMEIDA DA ROCHA COELHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "YAGO MORAIS SOARES DE ANDRADE",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 900.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ISABELA DA SILVA MORETTI",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOSE FERNANDO DE CARVALHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JENIFFER LOUISE PALES DA LUZ",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "REBECA BAPTISTA DA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "CAMILLE FONSECA SOARES",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANA CLARA REZENDE KNAPP",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOAO ARTHUR MARINHO DOS SANTOS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "GABRIELLE DA SILVA MAIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "BIA HELLEN BARBALHO PEREIRA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LUCIANO RUSCHEL VALENCY",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "RONALDO CESAR DOS SANTOS SOUZA FARIA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ANDRE LUIZ DE LIMA SILVA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 606.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

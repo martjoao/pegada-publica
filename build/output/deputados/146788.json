@@ -70,5 +70,27 @@
   "birth_city": "Belo Horizonte",
   "education": "Mestrado",
   "social_media": [],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO HUMANISTA DA SOLIDARIEDADE - COMISSAO EXECUTIVA NACIONAL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 1002000.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO HUMANISTA DA SOLIDARIEDADE",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 122674.32000000002,
+      "elections": [
+        2018
+      ]
+    }
+  ]
 }

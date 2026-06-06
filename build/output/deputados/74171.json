@@ -110,5 +110,27 @@
     "https://www.facebook.com/chicoalencar",
     "https://www.instagram.com/chico.alencar"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO SOCIALISMO E LIBERDADE - RIO DE JANEIRO (PSOL-RJ)",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 1033031.7699999999,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 TARCISIO MOTTA DE CARVALHO DEPUTADO FEDERAL",
+      "city": "#NULO",
+      "state": "RJ",
+      "donor_type": "company",
+      "total_amount": 50000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

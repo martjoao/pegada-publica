@@ -50,5 +50,27 @@
     "https://www.facebook.com/pr.diniz.rr",
     "https://www.instagram.com/pastordiniz.ad"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "UNIAO BRASIL - RORAIMA - RR - ESTADUAL",
+      "city": "#NULO",
+      "state": "RR",
+      "donor_type": "company",
+      "total_amount": 622407.41,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "UNIAO BRASIL",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 400000.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

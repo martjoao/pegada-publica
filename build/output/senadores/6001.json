@@ -37,5 +37,6 @@
   "birth_state": "RJ",
   "birth_city": "Rio de Janeiro",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

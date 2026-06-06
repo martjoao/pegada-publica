@@ -119,5 +119,109 @@
   "social_media": [
     "https://www.instagram.com/weliton.prado"
   ],
-  "website": null
+  "website": null,
+  "top_donors": [
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - PROS",
+      "city": "#NULO",
+      "state": "BR",
+      "donor_type": "company",
+      "total_amount": 4362400.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "WELITON FERNANDES PRADO",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "individual",
+      "total_amount": 78241.36,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "Direção Municipal/Comissão Provisória",
+      "city": "UBERLÂNDIA",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 15504.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "JOANA PAULA SEIXAS",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 3000.0,
+      "elections": [
+        2018,
+        2022
+      ]
+    },
+    {
+      "name": "ELEICAO 2018 ELISMAR FERNANDES PRADO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 2475.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "ELEICAO 2022 ELISMAR FERNANDES PRADO DEPUTADO ESTADUAL",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 1750.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "LOURIVAL BERGER FILHO",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 1500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "DEYVIANE LOPES PEREIRA DE SOUZA",
+      "city": "#NULO",
+      "state": "#NULO#",
+      "donor_type": "individual",
+      "total_amount": 500.0,
+      "elections": [
+        2018
+      ]
+    },
+    {
+      "name": "PARTIDO SOCIAL DEMOCRATICO",
+      "city": "#NULO",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 485.0,
+      "elections": [
+        2022
+      ]
+    },
+    {
+      "name": "PARTIDO REPUBLICANO DA ORDEM SOCIAL - COMISSAO PROVISORIA - PROS MUNICIPAL CONTAGEM/MG",
+      "city": "CONTAGEM",
+      "state": "MG",
+      "donor_type": "company",
+      "total_amount": 250.0,
+      "elections": [
+        2022
+      ]
+    }
+  ]
 }

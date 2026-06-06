@@ -37,5 +37,6 @@
   "birth_state": "SP",
   "birth_city": "São Paulo",
   "sex": "F",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

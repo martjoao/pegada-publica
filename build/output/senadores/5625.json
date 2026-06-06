@@ -43,5 +43,6 @@
   "birth_state": "RS",
   "birth_city": "Porto Alegre",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }

@@ -51,5 +51,6 @@
   "birth_state": "CE",
   "birth_city": "Crato",
   "sex": "M",
-  "email": null
+  "email": null,
+  "top_donors": []
 }
