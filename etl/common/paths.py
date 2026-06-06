@@ -50,3 +50,27 @@ def db_path(base: Optional[Path] = None) -> Path:
     """Return the canonical SQLite DB path (the transform/load system-of-record)."""
     base = base if base is not None else DATA
     return base / "pegada.db"
+
+
+def tse_receitas_zip_path(year: int, base: Optional[Path] = None) -> Path:
+    """Return the raw landing file path for a given year's receitas_candidatos ZIP."""
+    base = base if base is not None else DATA_RAW
+    return base / "tse" / "receitas" / f"{year}.zip"
+
+
+def tse_receitas_manifest_path(year: int, base: Optional[Path] = None) -> Path:
+    """Return the manifest JSON path for a given year's receitas ZIP."""
+    base = base if base is not None else DATA_RAW
+    return base / "tse" / "receitas" / f"{year}_manifest.json"
+
+
+def tse_candidatos_zip_path(year: int, base: Optional[Path] = None) -> Path:
+    """Return the raw landing file path for a given year's consulta_cand ZIP."""
+    base = base if base is not None else DATA_RAW
+    return base / "tse" / "candidatos" / f"{year}.zip"
+
+
+def tse_candidatos_manifest_path(year: int, base: Optional[Path] = None) -> Path:
+    """Return the manifest JSON path for a given year's candidatos ZIP."""
+    base = base if base is not None else DATA_RAW
+    return base / "tse" / "candidatos" / f"{year}_manifest.json"

@@ -59,3 +59,28 @@ def test_db_path_defaults_under_data():
 def test_db_path_accepts_base_override():
     p = paths.db_path(base=Path("/tmp/x"))
     assert p == Path("/tmp/x/pegada.db")
+
+
+def test_tse_receitas_zip_path_uses_year_filename():
+    p = paths.tse_receitas_zip_path(2022, base=Path("/tmp/raw"))
+    assert p == Path("/tmp/raw/tse/receitas/2022.zip")
+
+
+def test_tse_receitas_zip_path_defaults_under_data_raw():
+    p = paths.tse_receitas_zip_path(2018)
+    assert p.parts[-4:] == ("raw", "tse", "receitas", "2018.zip")
+
+
+def test_tse_receitas_manifest_path_uses_year_filename():
+    p = paths.tse_receitas_manifest_path(2022, base=Path("/tmp/raw"))
+    assert p == Path("/tmp/raw/tse/receitas/2022_manifest.json")
+
+
+def test_tse_candidatos_zip_path_uses_year_filename():
+    p = paths.tse_candidatos_zip_path(2022, base=Path("/tmp/raw"))
+    assert p == Path("/tmp/raw/tse/candidatos/2022.zip")
+
+
+def test_tse_candidatos_manifest_path_uses_year_filename():
+    p = paths.tse_candidatos_manifest_path(2022, base=Path("/tmp/raw"))
+    assert p == Path("/tmp/raw/tse/candidatos/2022_manifest.json")
