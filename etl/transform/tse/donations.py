@@ -222,3 +222,125 @@ def resolve_candidate_fks(conn: sqlite3.Connection) -> None:
     )
     conn.commit()
     log.info("resolve_candidate_fks: done")
+
+
+def _get_or_create_donor(
+    conn: sqlite3.Connection,
+    cpf_cnpj: Optional[str],
+    name: str,
+    city: Optional[str],
+    state: Optional[str],
+    donor_type: str,
+) -> int:
+    """Return existing donor id or insert and return new id."""
+    if cpf_cnpj:
+        row = conn.execute(
+            "SELECT id FROM donor WHERE cpf_cnpj = ?", (cpf_cnpj,)
+        ).fetchone()
+    else:
+        row = conn.execute(
+            "SELECT id FROM donor WHERE cpf_cnpj IS NULL AND name = ?", (name,)
+        ).fetchone()
+    if row:
+        return row["id"]
+    conn.execute(
+        "INSERT INTO donor (cpf_cnpj, name, city, state, donor_type) VALUES (?, ?, ?, ?, ?)",
+        (cpf_cnpj, name, city, state, donor_type),
+    )
+    return conn.execute("SELECT last_insert_rowid()").fetchone()[0]
+
+
+def load_donations(
+    conn: sqlite3.Connection,
+    years: Sequence[int] = ELECTIONS,
+    base: Optional[Path] = None,
+) -> None:
+    """Load donor + tse_donation rows from receitas_candidatos ZIPs.
+
+    Reads only the BRASIL.csv from each year's ZIP (the per-state CSVs contain
+    the same records partitioned by UF — reading both would double-count).
+    Raises ValueError if BRASIL.csv is not found.
+    """
+    for year in years:
+        zip_path = paths.tse_receitas_zip_path(year, base=base)
+        with zipfile.ZipFile(zip_path) as zf:
+            brasil_files = [n for n in zf.namelist() if _BRASIL_RE.match(n)]
+            if not brasil_files:
+                raise ValueError(
+                    f"BRASIL.csv not found in {zip_path}. "
+                    f"Found: {zf.namelist()[:5]}"
+                )
+
+            with zf.open(brasil_files[0]) as raw:
+                text = io.TextIOWrapper(raw, encoding=ENCODING)
+                reader = csv.DictReader(text, delimiter=";")
+                for row in reader:
+                    if row["DS_CARGO"].strip().upper() not in FEDERAL_CARGOS:
+                        continue
+
+                    cpf_cnpj = row["NR_CPF_CNPJ_DOADOR"].strip() or None
+                    name = (
+                        row["NM_DOADOR_RFB"].strip()
+                        or row["NM_DOADOR"].strip()
+                        or "Doador não identificado"
+                    )
+                    city = row["NM_MUNICIPIO_DOADOR"].strip() or None
+                    state = row["SG_UF_DOADOR"].strip() or None
+
+                    donor_id = _get_or_create_donor(
+                        conn, cpf_cnpj, name, city, state, infer_donor_type(cpf_cnpj)
+                    )
+
+                    seq = int(row["SQ_CANDIDATO"])
+                    cand = conn.execute(
+                        "SELECT id FROM tse_candidate "
+                        "WHERE election_year = ? AND tse_seq = ?",
+                        (year, seq),
+                    ).fetchone()
+                    if cand is None:
+                        log.warning(
+                            "load_donations: no tse_candidate for SQ=%d year=%d", seq, year
+                        )
+                        continue
+
+                    receipt = row["NR_RECIBO_DOACAO"].strip() or None
+                    conn.execute(
+                        """INSERT OR IGNORE INTO tse_donation
+                           (election_year, tse_candidate_id, donor_id, amount,
+                            date, funding_source, receipt_number)
+                           VALUES (?, ?, ?, ?, ?, ?, ?)""",
+                        (
+                            year,
+                            cand["id"],
+                            donor_id,
+                            parse_br_decimal(row["VR_RECEITA"]),
+                            _parse_br_date(row["DT_RECEITA"]),
+                            canonicalize_funding_source(row["DS_FONTE_RECEITA"]),
+                            receipt,
+                        ),
+                    )
+                text.detach()
+        conn.commit()
+
+
+def run(
+    db: Optional[Path] = None,
+    years: Sequence[int] = ELECTIONS,
+    base: Optional[Path] = None,
+) -> None:
+    """Full TSE donations transform: candidates → senator CPF backfill → FKs → donations."""
+    conn = txdb.connect(db or paths.db_path())
+    print("Step 1: loading tse_candidate from consulta_cand...")
+    load_candidates(conn, years=years, base=base)
+    print("Step 2: backfilling senator.cpf from tse_candidate...")
+    backfill_senator_cpf(conn)
+    print("Step 3: resolving deputy_id/senator_id FKs...")
+    resolve_candidate_fks(conn)
+    print("Step 4: loading donor + tse_donation from receitas_candidatos...")
+    load_donations(conn, years=years, base=base)
+    print("Done.")
+
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
+    run()

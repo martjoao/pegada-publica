@@ -19,6 +19,7 @@ from transform import db as txdb
 from transform.tse.donations import load_candidates
 from transform.tse.donations import backfill_senator_cpf
 from transform.tse.donations import resolve_candidate_fks
+from transform.tse.donations import load_donations
 
 
 # ── Helper tests ──────────────────────────────────────────────────────────────
@@ -352,3 +353,161 @@ def test_resolve_candidate_fks_leaves_presidential_null(tmp_path):
     ).fetchone()
     assert row["deputy_id"] is None
     assert row["senator_id"] is None
+
+
+# ── load_donations helpers ────────────────────────────────────────────────────
+
+_RECEITA_COLUMNS = [
+    "DT_GERACAO", "HH_GERACAO", "AA_ELEICAO", "CD_TIPO_ELEICAO",
+    "NM_TIPO_ELEICAO", "CD_ELEICAO", "DS_ELEICAO", "DT_ELEICAO",
+    "ST_TURNO", "TP_PRESTACAO_CONTAS", "DT_PRESTACAO_CONTAS",
+    "SQ_PRESTADOR_CONTAS", "SG_UF", "SG_UE", "NM_UE",
+    "NR_CNPJ_PRESTADOR_CONTA", "CD_CARGO", "DS_CARGO",
+    "SQ_CANDIDATO", "NR_CANDIDATO", "NM_CANDIDATO",
+    "NR_CPF_CANDIDATO", "NR_CPF_VICE_CANDIDATO",
+    "NR_PARTIDO", "SG_PARTIDO", "NM_PARTIDO",
+    "CD_FONTE_RECEITA", "DS_FONTE_RECEITA",
+    "CD_ORIGEM_RECEITA", "DS_ORIGEM_RECEITA",
+    "CD_NATUREZA_RECEITA", "DS_NATUREZA_RECEITA",
+    "CD_ESPECIE_RECEITA", "DS_ESPECIE_RECEITA",
+    "CD_CNAE_DOADOR", "DS_CNAE_DOADOR",
+    "NR_CPF_CNPJ_DOADOR", "NM_DOADOR", "NM_DOADOR_RFB",
+    "CD_ESFERA_PARTIDARIA_DOADOR", "DS_ESFERA_PARTIDARIA_DOADOR",
+    "SG_UF_DOADOR", "CD_MUNICIPIO_DOADOR", "NM_MUNICIPIO_DOADOR",
+    "SQ_CANDIDATO_DOADOR", "NR_CANDIDATO_DOADOR",
+    "CD_CARGO_CANDIDATO_DOADOR", "DS_CARGO_CANDIDATO_DOADOR",
+    "NR_PARTIDO_DOADOR", "SG_PARTIDO_DOADOR", "NM_PARTIDO_DOADOR",
+    "NR_RECIBO_DOACAO", "NR_DOCUMENTO_DOACAO", "SQ_RECEITA",
+    "DT_RECEITA", "DS_RECEITA", "VR_RECEITA",
+    "DS_NATUREZA_RECURSO_ESTIMAVEL", "DS_GENERO", "DS_COR_RACA",
+]
+
+
+def _receita_row(**kwargs) -> List[str]:
+    defaults = {c: "" for c in _RECEITA_COLUMNS}
+    defaults.update({
+        "AA_ELEICAO": "2022",
+        "DS_CARGO": "DEPUTADO FEDERAL",
+        "SQ_CANDIDATO": "100",
+        "NM_CANDIDATO": "ANA SILVA",
+        "SG_PARTIDO": "PT",
+        "NR_CPF_CNPJ_DOADOR": "12345678901",
+        "NM_DOADOR": "JOAO SILVA",
+        "NM_DOADOR_RFB": "JOAO SILVA SANTOS",
+        "SG_UF_DOADOR": "SP",
+        "NM_MUNICIPIO_DOADOR": "São Paulo",
+        "DS_FONTE_RECEITA": "Doações de pessoas físicas",
+        "NR_RECIBO_DOACAO": "R001",
+        "DT_RECEITA": "10/09/2022",
+        "VR_RECEITA": "50000,00",
+    })
+    defaults.update(kwargs)
+    return [defaults[c] for c in _RECEITA_COLUMNS]
+
+
+def _make_receitas_zip(rows: List[List[str]], year: int = 2022) -> bytes:
+    """Build a receitas ZIP with only the BRASIL.csv (as in real TSE data)."""
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w", compression=zipfile.ZIP_STORED) as zf:
+        csv_buf = io.StringIO()
+        writer = csv.writer(csv_buf, delimiter=";")
+        writer.writerow(_RECEITA_COLUMNS)
+        writer.writerows(rows)
+        zf.writestr(
+            f"receitas_candidatos_{year}_BRASIL.csv",
+            csv_buf.getvalue().encode("latin-1"),
+        )
+    buf.seek(0)
+    return buf.read()
+
+
+def _setup_donation_db(tmp_path) -> sqlite3.Connection:
+    """DB with one tse_candidate row ready to receive donations."""
+    conn = _db(tmp_path)
+    conn.execute(
+        "INSERT INTO tse_candidate (id, election_year, office, tse_seq, name, party, state) "
+        "VALUES (1, 2022, 'federal_deputy', 100, 'ANA SILVA', 'PT', 'SP')"
+    )
+    conn.commit()
+    return conn
+
+
+# ── load_donations tests ──────────────────────────────────────────────────────
+
+def test_load_donations_creates_donor_and_donation(tmp_path):
+    conn = _setup_donation_db(tmp_path)
+    zip_path = tmp_path / "tse" / "receitas" / "2022.zip"
+    zip_path.parent.mkdir(parents=True)
+    zip_path.write_bytes(_make_receitas_zip([_receita_row()]))
+
+    load_donations(conn, years=(2022,), base=tmp_path)
+
+    donors = conn.execute("SELECT * FROM donor").fetchall()
+    assert len(donors) == 1
+    assert donors[0]["name"] == "JOAO SILVA SANTOS"   # NM_DOADOR_RFB preferred
+    assert donors[0]["donor_type"] == "individual"
+
+    donations = conn.execute("SELECT * FROM tse_donation").fetchall()
+    assert len(donations) == 1
+    assert donations[0]["amount"] == pytest.approx(50000.0)
+
+
+def test_load_donations_deduplicates_donor_by_cpf(tmp_path):
+    conn = _setup_donation_db(tmp_path)
+    zip_path = tmp_path / "tse" / "receitas" / "2022.zip"
+    zip_path.parent.mkdir(parents=True)
+    # Same donor CPF, two separate donations
+    zip_path.write_bytes(_make_receitas_zip([
+        _receita_row(NR_RECIBO_DOACAO="R001", VR_RECEITA="10000,00"),
+        _receita_row(NR_RECIBO_DOACAO="R002", VR_RECEITA="20000,00"),
+    ]))
+
+    load_donations(conn, years=(2022,), base=tmp_path)
+
+    donor_count = conn.execute("SELECT COUNT(*) FROM donor").fetchone()[0]
+    assert donor_count == 1   # same CPF → one donor row
+
+    donation_count = conn.execute("SELECT COUNT(*) FROM tse_donation").fetchone()[0]
+    assert donation_count == 2
+
+
+def test_load_donations_idempotent_on_rerun(tmp_path):
+    conn = _setup_donation_db(tmp_path)
+    zip_path = tmp_path / "tse" / "receitas" / "2022.zip"
+    zip_path.parent.mkdir(parents=True)
+    zip_path.write_bytes(_make_receitas_zip([_receita_row(NR_RECIBO_DOACAO="R001")]))
+
+    load_donations(conn, years=(2022,), base=tmp_path)
+    load_donations(conn, years=(2022,), base=tmp_path)   # second run
+
+    count = conn.execute("SELECT COUNT(*) FROM tse_donation").fetchone()[0]
+    assert count == 1   # no duplicate
+
+
+def test_load_donations_raises_if_brasil_csv_missing(tmp_path):
+    conn = _setup_donation_db(tmp_path)
+    # ZIP with only per-state CSV (no BRASIL)
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w") as zf:
+        zf.writestr("receitas_candidatos_2022_SP.csv", "col1\nval1")
+    zip_path = tmp_path / "tse" / "receitas" / "2022.zip"
+    zip_path.parent.mkdir(parents=True)
+    zip_path.write_bytes(buf.getvalue())
+
+    with pytest.raises(ValueError, match="BRASIL.csv not found"):
+        load_donations(conn, years=(2022,), base=tmp_path)
+
+
+def test_load_donations_filters_non_federal(tmp_path):
+    conn = _setup_donation_db(tmp_path)
+    zip_path = tmp_path / "tse" / "receitas" / "2022.zip"
+    zip_path.parent.mkdir(parents=True)
+    zip_path.write_bytes(_make_receitas_zip([
+        _receita_row(DS_CARGO="DEPUTADO FEDERAL", NR_RECIBO_DOACAO="R001"),
+        _receita_row(DS_CARGO="GOVERNADOR", NR_RECIBO_DOACAO="R002"),  # filtered
+    ]))
+
+    load_donations(conn, years=(2022,), base=tmp_path)
+
+    count = conn.execute("SELECT COUNT(*) FROM tse_donation").fetchone()[0]
+    assert count == 1
