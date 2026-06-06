@@ -74,6 +74,10 @@ class CamaraClient:
         assert last_exc is not None
         raise last_exc
 
+    def get(self, path: str, params: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+        """GET a single endpoint, returning the full JSON response dict (non-paginated)."""
+        return self._get(self.base_url + path, params=params)
+
     @staticmethod
     def _next_link(payload: Dict[str, Any]) -> Optional[str]:
         for link in payload.get("links", []) or []:

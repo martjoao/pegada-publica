@@ -85,3 +85,26 @@ def test_get_all_raises_on_client_error_without_retry(client):
         client.get_all("/deputados")
 
     assert len(responses.calls) == 1
+
+
+@responses.activate
+def test_get_returns_parsed_json(client):
+    responses.add(responses.GET, f"{BASE}/deputados/123",
+                  json={"dados": {"id": 123, "nome": "Test"}}, status=200)
+
+    result = client.get("/deputados/123")
+
+    assert result == {"dados": {"id": 123, "nome": "Test"}}
+    assert len(responses.calls) == 1
+
+
+@responses.activate
+def test_get_retries_transient_error_then_succeeds(client):
+    responses.add(responses.GET, f"{BASE}/deputados/123", status=503)
+    responses.add(responses.GET, f"{BASE}/deputados/123",
+                  json={"dados": {"id": 123}}, status=200)
+
+    result = client.get("/deputados/123")
+
+    assert result["dados"]["id"] == 123
+    assert len(responses.calls) == 2
