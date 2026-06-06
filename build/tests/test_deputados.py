@@ -6,6 +6,8 @@ inline SQL (no etl import). Canonical English throughout. Covers every branch.
 import json
 import sqlite3
 
+import pytest
+
 import deputados
 
 SCHEMA = """
@@ -18,6 +20,14 @@ CREATE TABLE party_affiliation (deputy_id INT, party TEXT, start_at TEXT,
 CREATE TABLE office_period (deputy_id INT, legislature INT, condition TEXT,
   start_at TEXT, end_at TEXT);
 CREATE TABLE name_history (deputy_id INT, name TEXT, start_at TEXT, end_at TEXT);
+CREATE TABLE tse_candidate (id INTEGER PRIMARY KEY, election_year INTEGER,
+  office TEXT, tse_seq INTEGER, name TEXT, party TEXT, state TEXT,
+  election_result TEXT, deputy_id INTEGER, senator_id INTEGER);
+CREATE TABLE donor (id INTEGER PRIMARY KEY, cpf_cnpj TEXT, name TEXT,
+  city TEXT, state TEXT, donor_type TEXT);
+CREATE TABLE tse_donation (id INTEGER PRIMARY KEY, election_year INTEGER,
+  tse_candidate_id INTEGER, donor_id INTEGER, amount REAL,
+  date TEXT, funding_source TEXT, receipt_number TEXT);
 """
 
 
@@ -151,3 +161,35 @@ def test_detail_bio_fields(tmp_path):
     assert d4["civil_name"] is None
     assert d4["social_media"] == []
     assert "cpf" not in d4
+
+
+def test_top_donors_in_deputy_detail(tmp_path):
+    db = tmp_path / "p.db"
+    c = sqlite3.connect(str(db))
+    c.executescript(SCHEMA)
+    c.execute(
+        "INSERT INTO deputy (id,name,photo_url,current_status) VALUES (1,'Ana Silva','http://f/1.jpg','in_office')"
+    )
+    c.execute("INSERT INTO mandate VALUES (1,57,'SP')")
+    c.execute("INSERT INTO party_affiliation VALUES (1,'PT','2023-02-01',NULL,57,NULL)")
+    c.execute("INSERT INTO office_period VALUES (1,57,'titular','2023-02-01',NULL)")
+    c.execute("INSERT INTO name_history VALUES (1,'Ana Silva','2023-02-01',NULL)")
+    # TSE data: two donors donated to deputy 1
+    c.execute("INSERT INTO tse_candidate VALUES (1,2022,'federal_deputy',100,'ANA SILVA','PT','SP','elected',1,NULL)")
+    c.execute("INSERT INTO donor VALUES (1,'12345678901','João Silva','São Paulo','SP','individual')")
+    c.execute("INSERT INTO donor VALUES (2,'98765432100','Maria Souza','Campinas','SP','individual')")
+    c.execute("INSERT INTO tse_donation VALUES (1,2022,1,1,50000.0,'2022-09-01','individual_donation','R001')")
+    c.execute("INSERT INTO tse_donation VALUES (2,2022,1,2,30000.0,'2022-09-02','individual_donation','R002')")
+    c.commit(); c.close()
+
+    out = tmp_path / "out"
+    deputados.run(db_path=db, out_dir=out)
+
+    d = _load(out, "1.json")
+    assert "top_donors" in d
+    assert len(d["top_donors"]) == 2
+    # João Silva donated most — should be first
+    assert d["top_donors"][0]["name"] == "João Silva"
+    assert d["top_donors"][0]["total_amount"] == pytest.approx(50000.0)
+    assert d["top_donors"][0]["elections"] == [2022]
+    assert "cpf" not in str(d["top_donors"])

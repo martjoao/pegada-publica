@@ -48,12 +48,48 @@ def _current(intervals: List[Dict[str, Any]], field: str) -> Optional[Any]:
     return intervals[-1][field] if intervals else None
 
 
+def _fetch_top_donors(conn: sqlite3.Connection, deputy_id: int) -> List[Dict[str, Any]]:
+    """Return top 20 donors for this deputy, ordered by total amount descending."""
+    try:
+        rows = conn.execute(
+            """
+            SELECT d.name, d.city, d.state, d.donor_type,
+                   SUM(td.amount) AS total_amount,
+                   GROUP_CONCAT(DISTINCT CAST(td.election_year AS TEXT)) AS years_str
+            FROM tse_donation td
+            JOIN tse_candidate tc ON tc.id = td.tse_candidate_id
+            JOIN donor d ON d.id = td.donor_id
+            WHERE tc.deputy_id = ?
+            GROUP BY d.id
+            ORDER BY total_amount DESC
+            LIMIT 20
+            """,
+            (deputy_id,),
+        ).fetchall()
+    except sqlite3.OperationalError:
+        return []   # TSE tables not yet created — graceful degradation
+
+    result = []
+    for r in rows:
+        years = sorted(int(y) for y in r["years_str"].split(",")) if r["years_str"] else []
+        result.append({
+            "name": r["name"],
+            "city": r["city"],
+            "state": r["state"],
+            "donor_type": r["donor_type"],
+            "total_amount": r["total_amount"],
+            "elections": years,
+        })
+    return result
+
+
 def build_deputy(
     dep: sqlite3.Row,
     mandates: List[sqlite3.Row],
     parties: List[sqlite3.Row],
     office_periods: List[sqlite3.Row],
     names: List[sqlite3.Row],
+    top_donors: List[Dict[str, Any]],
 ) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """Assemble one deputy's (detail dict, index-card dict) from their rows."""
     parties_out = [
@@ -103,6 +139,7 @@ def build_deputy(
         "education": dep["education"],
         "social_media": social_media,
         "website": dep["website"],
+        "top_donors": top_donors,
     }
     card = {
         "id": dep["id"],
@@ -148,7 +185,8 @@ def run(db_path: Path = DEFAULT_DB, out_dir: Path = DEFAULT_OUT) -> Dict[str, in
                 "SELECT name, start_at, end_at FROM name_history "
                 "WHERE deputy_id=? ORDER BY start_at", (dep_id,)).fetchall()
 
-            detail, card = build_deputy(dep, mandates, parties, office_periods, names)
+            top_donors = _fetch_top_donors(conn, dep_id)
+            detail, card = build_deputy(dep, mandates, parties, office_periods, names, top_donors)
             _write_json(detail, dep_dir / f"{dep_id}.json")
             cards.append(card)
     finally:
